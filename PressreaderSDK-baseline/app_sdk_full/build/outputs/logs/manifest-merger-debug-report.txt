@@ -1,0 +1,1257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+MERGED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:2:1-23:12
+MERGED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:2:1-24:12
+MERGED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:2:1-25:12
+MERGED from [com.newspaperdirect.pressreader.android:accounts:6.6] C:\Users\victr\.gradle\caches\transforms-3\2fb863c9c83c6d46557b7de97fed14de\transformed\jetified-accounts-6.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.newspaperdirect.pressreader.android:paymentflow:6.6] C:\Users\victr\.gradle\caches\transforms-3\e509656ee93e98c80edaae6bebcac9b3\transformed\jetified-paymentflow-6.6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:2:1-18:12
+MERGED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:2:1-46:12
+MERGED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:2:1-14:12
+MERGED from [com.newspaperdirect.pressreader.android:flow:6.6] C:\Users\victr\.gradle\caches\transforms-3\eee6c0d2c1f8334c4927a0fba20b501d\transformed\jetified-flow-6.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.newspaperdirect.pressreader.android:analytics-sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\715d7ca4f25c493b0fdbc8ea7c463aec\transformed\jetified-analytics-sdk-6.6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:2:1-68:12
+MERGED from [com.newspaperdirect.pressreader.android:network:6.6] C:\Users\victr\.gradle\caches\transforms-3\92fc4aa57183eb51cfadddeb002f873e\transformed\jetified-network-6.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.newspaperdirect.pressreader.android:utils:6.6] C:\Users\victr\.gradle\caches\transforms-3\8cae5ec714d91f2f47665f870138a38d\transformed\jetified-utils-6.6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.newspaperdirect.pressreader.android:rx:6.6] C:\Users\victr\.gradle\caches\transforms-3\41f8c2862309cbdecc763d3dc59903a8\transformed\jetified-rx-6.6\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\912a742fc76c356d4d5e27f21a2e8829\transformed\jetified-preference-ktx-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\8eab4e6cd78b5bc1aad6e3cd6272d143\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\77f7def8f2043ae2e73e37afa324e2a9\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] C:\Users\victr\.gradle\caches\transforms-3\c03915bc78aeb0cfcdd6807efb3acd60\transformed\jetified-fragment-ktx-1.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\10f305b2ac566309476cb38d7ad69c1c\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\4aa2e4d998974462c5ec81fad93a1e8b\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\015c49818b49361d2fa07c6f61d0afc5\transformed\navigation-ui-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\5e9d6d1491f215da21e2183afd3f2674\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\febdffcf38cf250099f44411434e0e65\transformed\jetified-glide-4.14.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\3a8ded3a7e4e2cddce7ee0156473533a\transformed\material-1.4.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\victr\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\victr\.gradle\caches\transforms-3\51ffc532e8a8eb98b3dd6cd2e644df3a\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\87243159de6a0475356097668aaca580\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\victr\.gradle\caches\transforms-3\c869ce37853b3c192c2b76997518da68\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\fefb2f09bc1ce98e538e16145be74c51\transformed\jetified-play-services-tagmanager-v4-impl-18.0.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\5d1e57efa882679b37a57a7588d05832\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.play:app-update-ktx:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\5c51663050062e5e2a7350f855ad1393\transformed\jetified-app-update-ktx-2.1.0\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\47ff8bd9aa3d88bda06b65a740157b16\transformed\jetified-viewpager2-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\17aa11010670386db663fd5f07d73034\transformed\jetified-review-2.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.play:app-update:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\0a8866e68651a58d782a3c2cf0f48fd2\transformed\jetified-app-update-2.1.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\victr\.gradle\caches\transforms-3\7de061ab30a5ac2d114ca9735d3d4278\transformed\jetified-play-services-stats-17.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\e8b38853d5a1189f807facd45747fccd\transformed\jetified-firebase-measurement-connector-18.0.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\0d6067eff3a1002d1c8d83a0cc589ab3\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\73a51401064235d41dafafb7220afc20\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\victr\.gradle\caches\transforms-3\d8c2bc5b45e9e79b50d598d54f9a661c\transformed\fragment-1.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\7ef5cc90201adc7edf65f64322a57609\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\6b53c98c7dbcf8080bd91f5609fc1a2e\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\854a5ddeb53ff5eb05bdc04a38aeab54\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\419547d4e45916f55e95b769ae1b160a\transformed\navigation-common-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\c0485f4c9e24d95cc38679db2e6fc789\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\03d287157dbd99387559a35530be7330\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f909bd0f8422dc046ea7cfada04b3f8c\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette-ktx:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\2d4ff3e8e98d1245cba0ffbb54b7218e\transformed\jetified-palette-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\a38f607edd285f43f29f0633f6130a3a\transformed\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\62de5fc86dda27c383351ef5a6fa96db\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\70ee2e38f65fb6e0e2aecfefccf74c89\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\7bbde58e9d4b691422b80d91a9c3d2c1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\d2fa4fa7dd5d23f1b6533487decb4472\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\7efdae7f8b684d6747678774459b12fb\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\2c825f2998be2fb578daf74f7ec34469\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\310a642c8085883d5a784e3776c6a319\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\victr\.gradle\caches\transforms-3\75412b127dfdc072f56ebf50daa4fca3\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\0e6296f5c1126cb6fa823873bb0ee40e\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\f170ea7ac768637aecf9c05bf3b5b989\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\d98a1e4062d5c4bc3570f11708994aa0\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\64f8fe689b8f074c748f70fd7ac3bc0f\transformed\browser-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\victr\.gradle\caches\transforms-3\5b854ef65ece450161b7f7c07abb646d\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\7b2d1690da0d7d5bc8de64c2b460a133\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\d5aa997a64105d6db7c67365427199c3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\48bb273621ee567194706dc26164f9b2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\d063536707146b3bc827f1955ef59cbb\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\d87ef627e1a6e809f17a99e7d4d6421e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\6a145ea5143078555c6f8c99d029c550\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\761d85994276a3ccb8b7c5c65d2181f5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\90f6ee2d87b092bef1eea484887a3c65\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\victr\.gradle\caches\transforms-3\eda9cefc62e46a0a21c5a89107231c67\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\fb774ecdfc1b97b4635da589934829a2\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\victr\.gradle\caches\transforms-3\bc2e4386e5ba959bae6ea725b08e11dd\transformed\jetified-timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\victr\.gradle\caches\transforms-3\9bec58cdbf847dcd3c349cc59c9b9388\transformed\jetified-core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\2c1dfd930c93f857dd47cd27ce642632\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\f597801e3a9c0bb08bfd012093e50ff2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\victr\.gradle\caches\transforms-3\42b382bf1ede9ce6f59bc2600f274fc8\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\82c123120b58a1343a9b5f9fa5405ebb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\victr\.gradle\caches\transforms-3\bb27ca76c5d130a37bbbf031a8f74e03\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\a94d2734993c64402f05a6d35bdc5517\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\2334c75f1928ae33271152b2d43bd661\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\f2a4cd0956aaa5b7893ecaa0a08556ca\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\1aa3806536c18d19027aea564ecc920a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\b77da98edaa9b16f3a26706f3d048480\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\9da3d08e563decf19960a667779e0946\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\9b1fba44312734e0e5d13d89589bc221\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\c945623f599bf271897ad08ceab46da1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\victr\.gradle\caches\transforms-3\c3940e7323228925961372430e8622d9\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\fc96b01560a6da4ea42900cf45c9cc52\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\victr\.gradle\caches\transforms-3\b1bfaf3121facbef58b02ec6a65fb3d0\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\daa567ef6e4d3c081743025233d9a16a\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\30b5f28b63a3712172ef7d015ff22b94\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\9bb6a8f422c5102745cfab72153c0bfd\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\ffc9b894df96bf25759e32d813f0ba88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\1f373f25dcc1cf53600ce34538ac7cf9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\victr\.gradle\caches\transforms-3\110c2bd9802bc50087fc1725a705c261\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.4.0] C:\Users\victr\.gradle\caches\transforms-3\4ff328acd912c3370021a408de1a914d\transformed\espresso-idling-resource-3.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\victr\.gradle\caches\transforms-3\386783fce19354cd2d5c9328a6469d60\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [org.apmem.tools:layouts:1.10] C:\Users\victr\.gradle\caches\transforms-3\4a6b9e984ea7f98c9de1eccde23486b9\transformed\jetified-layouts-1.10\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:3:1-19:12
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:5:5-78
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:7:5-26:19
+MERGED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:9:5-21:19
+MERGED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:9:5-21:19
+MERGED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:9:5-22:19
+MERGED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:9:5-22:19
+MERGED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:12:5-23:19
+MERGED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:12:5-23:19
+MERGED from [com.newspaperdirect.pressreader.android:accounts:6.6] C:\Users\victr\.gradle\caches\transforms-3\2fb863c9c83c6d46557b7de97fed14de\transformed\jetified-accounts-6.6\AndroidManifest.xml:9:5-20
+MERGED from [com.newspaperdirect.pressreader.android:accounts:6.6] C:\Users\victr\.gradle\caches\transforms-3\2fb863c9c83c6d46557b7de97fed14de\transformed\jetified-accounts-6.6\AndroidManifest.xml:9:5-20
+MERGED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:9:5-16:19
+MERGED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:9:5-16:19
+MERGED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:11:5-44:19
+MERGED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:11:5-44:19
+MERGED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:11:5-12:19
+MERGED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:11:5-12:19
+MERGED from [com.newspaperdirect.pressreader.android:flow:6.6] C:\Users\victr\.gradle\caches\transforms-3\eee6c0d2c1f8334c4927a0fba20b501d\transformed\jetified-flow-6.6\AndroidManifest.xml:9:5-20
+MERGED from [com.newspaperdirect.pressreader.android:flow:6.6] C:\Users\victr\.gradle\caches\transforms-3\eee6c0d2c1f8334c4927a0fba20b501d\transformed\jetified-flow-6.6\AndroidManifest.xml:9:5-20
+MERGED from [com.newspaperdirect.pressreader.android:analytics-sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\715d7ca4f25c493b0fdbc8ea7c463aec\transformed\jetified-analytics-sdk-6.6\AndroidManifest.xml:9:5-10:19
+MERGED from [com.newspaperdirect.pressreader.android:analytics-sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\715d7ca4f25c493b0fdbc8ea7c463aec\transformed\jetified-analytics-sdk-6.6\AndroidManifest.xml:9:5-10:19
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:25:5-66:19
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:25:5-66:19
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\febdffcf38cf250099f44411434e0e65\transformed\jetified-glide-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\febdffcf38cf250099f44411434e0e65\transformed\jetified-glide-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:9:5-28:19
+MERGED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:9:5-28:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\3a8ded3a7e4e2cddce7ee0156473533a\transformed\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\3a8ded3a7e4e2cddce7ee0156473533a\transformed\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\victr\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\victr\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\fefb2f09bc1ce98e538e16145be74c51\transformed\jetified-play-services-tagmanager-v4-impl-18.0.4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\fefb2f09bc1ce98e538e16145be74c51\transformed\jetified-play-services-tagmanager-v4-impl-18.0.4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\5d1e57efa882679b37a57a7588d05832\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\5d1e57efa882679b37a57a7588d05832\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:app-update-ktx:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\5c51663050062e5e2a7350f855ad1393\transformed\jetified-app-update-ktx-2.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:app-update-ktx:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\5c51663050062e5e2a7350f855ad1393\transformed\jetified-app-update-ktx-2.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\17aa11010670386db663fd5f07d73034\transformed\jetified-review-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\17aa11010670386db663fd5f07d73034\transformed\jetified-review-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:app-update:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\0a8866e68651a58d782a3c2cf0f48fd2\transformed\jetified-app-update-2.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:app-update:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\0a8866e68651a58d782a3c2cf0f48fd2\transformed\jetified-app-update-2.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\victr\.gradle\caches\transforms-3\7de061ab30a5ac2d114ca9735d3d4278\transformed\jetified-play-services-stats-17.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\victr\.gradle\caches\transforms-3\7de061ab30a5ac2d114ca9735d3d4278\transformed\jetified-play-services-stats-17.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\e8b38853d5a1189f807facd45747fccd\transformed\jetified-firebase-measurement-connector-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\e8b38853d5a1189f807facd45747fccd\transformed\jetified-firebase-measurement-connector-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\73a51401064235d41dafafb7220afc20\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\73a51401064235d41dafafb7220afc20\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\victr\.gradle\caches\transforms-3\bc2e4386e5ba959bae6ea725b08e11dd\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\victr\.gradle\caches\transforms-3\bc2e4386e5ba959bae6ea725b08e11dd\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\f597801e3a9c0bb08bfd012093e50ff2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\f597801e3a9c0bb08bfd012093e50ff2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:10:5-20:19
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:25:5-39:19
+MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:12:5-17:19
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:12:5-17:19
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:13:5-18:19
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:13:5-18:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:9:9-43
+	android:largeHeap
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:13:9-33
+	android:icon
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:12:9-36
+	android:usesCleartextTraffic
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:25:18-53
+	android:name
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:8:9-31
+activity#com.newspaperdirect.example.samplesdk.MainActivity
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:17:13-51
+	android:name
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+MERGED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:accounts:6.6] C:\Users\victr\.gradle\caches\transforms-3\2fb863c9c83c6d46557b7de97fed14de\transformed\jetified-accounts-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:accounts:6.6] C:\Users\victr\.gradle\caches\transforms-3\2fb863c9c83c6d46557b7de97fed14de\transformed\jetified-accounts-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:paymentflow:6.6] C:\Users\victr\.gradle\caches\transforms-3\e509656ee93e98c80edaae6bebcac9b3\transformed\jetified-paymentflow-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:paymentflow:6.6] C:\Users\victr\.gradle\caches\transforms-3\e509656ee93e98c80edaae6bebcac9b3\transformed\jetified-paymentflow-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:flow:6.6] C:\Users\victr\.gradle\caches\transforms-3\eee6c0d2c1f8334c4927a0fba20b501d\transformed\jetified-flow-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:flow:6.6] C:\Users\victr\.gradle\caches\transforms-3\eee6c0d2c1f8334c4927a0fba20b501d\transformed\jetified-flow-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:analytics-sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\715d7ca4f25c493b0fdbc8ea7c463aec\transformed\jetified-analytics-sdk-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:analytics-sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\715d7ca4f25c493b0fdbc8ea7c463aec\transformed\jetified-analytics-sdk-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.newspaperdirect.pressreader.android:network:6.6] C:\Users\victr\.gradle\caches\transforms-3\92fc4aa57183eb51cfadddeb002f873e\transformed\jetified-network-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:network:6.6] C:\Users\victr\.gradle\caches\transforms-3\92fc4aa57183eb51cfadddeb002f873e\transformed\jetified-network-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:utils:6.6] C:\Users\victr\.gradle\caches\transforms-3\8cae5ec714d91f2f47665f870138a38d\transformed\jetified-utils-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:utils:6.6] C:\Users\victr\.gradle\caches\transforms-3\8cae5ec714d91f2f47665f870138a38d\transformed\jetified-utils-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:rx:6.6] C:\Users\victr\.gradle\caches\transforms-3\41f8c2862309cbdecc763d3dc59903a8\transformed\jetified-rx-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.newspaperdirect.pressreader.android:rx:6.6] C:\Users\victr\.gradle\caches\transforms-3\41f8c2862309cbdecc763d3dc59903a8\transformed\jetified-rx-6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\912a742fc76c356d4d5e27f21a2e8829\transformed\jetified-preference-ktx-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\912a742fc76c356d4d5e27f21a2e8829\transformed\jetified-preference-ktx-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\8eab4e6cd78b5bc1aad6e3cd6272d143\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\8eab4e6cd78b5bc1aad6e3cd6272d143\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\77f7def8f2043ae2e73e37afa324e2a9\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\77f7def8f2043ae2e73e37afa324e2a9\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] C:\Users\victr\.gradle\caches\transforms-3\c03915bc78aeb0cfcdd6807efb3acd60\transformed\jetified-fragment-ktx-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] C:\Users\victr\.gradle\caches\transforms-3\c03915bc78aeb0cfcdd6807efb3acd60\transformed\jetified-fragment-ktx-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\10f305b2ac566309476cb38d7ad69c1c\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\10f305b2ac566309476cb38d7ad69c1c\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\4aa2e4d998974462c5ec81fad93a1e8b\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\4aa2e4d998974462c5ec81fad93a1e8b\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\015c49818b49361d2fa07c6f61d0afc5\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\015c49818b49361d2fa07c6f61d0afc5\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\5e9d6d1491f215da21e2183afd3f2674\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\5e9d6d1491f215da21e2183afd3f2674\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\febdffcf38cf250099f44411434e0e65\transformed\jetified-glide-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\febdffcf38cf250099f44411434e0e65\transformed\jetified-glide-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\3a8ded3a7e4e2cddce7ee0156473533a\transformed\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\3a8ded3a7e4e2cddce7ee0156473533a\transformed\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\victr\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\victr\.gradle\caches\transforms-3\ceb6438529db60182331ebc7c32ac479\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\victr\.gradle\caches\transforms-3\51ffc532e8a8eb98b3dd6cd2e644df3a\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\victr\.gradle\caches\transforms-3\51ffc532e8a8eb98b3dd6cd2e644df3a\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\87243159de6a0475356097668aaca580\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\87243159de6a0475356097668aaca580\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\victr\.gradle\caches\transforms-3\c869ce37853b3c192c2b76997518da68\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\victr\.gradle\caches\transforms-3\c869ce37853b3c192c2b76997518da68\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\fefb2f09bc1ce98e538e16145be74c51\transformed\jetified-play-services-tagmanager-v4-impl-18.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\fefb2f09bc1ce98e538e16145be74c51\transformed\jetified-play-services-tagmanager-v4-impl-18.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\5d1e57efa882679b37a57a7588d05832\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review-ktx:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\5d1e57efa882679b37a57a7588d05832\transformed\jetified-review-ktx-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:app-update-ktx:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\5c51663050062e5e2a7350f855ad1393\transformed\jetified-app-update-ktx-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:app-update-ktx:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\5c51663050062e5e2a7350f855ad1393\transformed\jetified-app-update-ktx-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\47ff8bd9aa3d88bda06b65a740157b16\transformed\jetified-viewpager2-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta01] C:\Users\victr\.gradle\caches\transforms-3\47ff8bd9aa3d88bda06b65a740157b16\transformed\jetified-viewpager2-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\17aa11010670386db663fd5f07d73034\transformed\jetified-review-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:review:2.0.1] C:\Users\victr\.gradle\caches\transforms-3\17aa11010670386db663fd5f07d73034\transformed\jetified-review-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:app-update:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\0a8866e68651a58d782a3c2cf0f48fd2\transformed\jetified-app-update-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:app-update:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\0a8866e68651a58d782a3c2cf0f48fd2\transformed\jetified-app-update-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\7878fed50e9caa0f581e3fad878d9d56\transformed\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\victr\.gradle\caches\transforms-3\7de061ab30a5ac2d114ca9735d3d4278\transformed\jetified-play-services-stats-17.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\victr\.gradle\caches\transforms-3\7de061ab30a5ac2d114ca9735d3d4278\transformed\jetified-play-services-stats-17.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\e8b38853d5a1189f807facd45747fccd\transformed\jetified-firebase-measurement-connector-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\e8b38853d5a1189f807facd45747fccd\transformed\jetified-firebase-measurement-connector-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\0d6067eff3a1002d1c8d83a0cc589ab3\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\0d6067eff3a1002d1c8d83a0cc589ab3\transformed\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\73a51401064235d41dafafb7220afc20\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\victr\.gradle\caches\transforms-3\73a51401064235d41dafafb7220afc20\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\victr\.gradle\caches\transforms-3\d8c2bc5b45e9e79b50d598d54f9a661c\transformed\fragment-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\victr\.gradle\caches\transforms-3\d8c2bc5b45e9e79b50d598d54f9a661c\transformed\fragment-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\7ef5cc90201adc7edf65f64322a57609\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\7ef5cc90201adc7edf65f64322a57609\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\6b53c98c7dbcf8080bd91f5609fc1a2e\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\6b53c98c7dbcf8080bd91f5609fc1a2e\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\854a5ddeb53ff5eb05bdc04a38aeab54\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\854a5ddeb53ff5eb05bdc04a38aeab54\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\419547d4e45916f55e95b769ae1b160a\transformed\navigation-common-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\victr\.gradle\caches\transforms-3\419547d4e45916f55e95b769ae1b160a\transformed\navigation-common-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\c0485f4c9e24d95cc38679db2e6fc789\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\c0485f4c9e24d95cc38679db2e6fc789\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\03d287157dbd99387559a35530be7330\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\03d287157dbd99387559a35530be7330\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f909bd0f8422dc046ea7cfada04b3f8c\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f909bd0f8422dc046ea7cfada04b3f8c\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette-ktx:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\2d4ff3e8e98d1245cba0ffbb54b7218e\transformed\jetified-palette-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette-ktx:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\2d4ff3e8e98d1245cba0ffbb54b7218e\transformed\jetified-palette-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\a38f607edd285f43f29f0633f6130a3a\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\a38f607edd285f43f29f0633f6130a3a\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\62de5fc86dda27c383351ef5a6fa96db\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\62de5fc86dda27c383351ef5a6fa96db\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\70ee2e38f65fb6e0e2aecfefccf74c89\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\70ee2e38f65fb6e0e2aecfefccf74c89\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\7bbde58e9d4b691422b80d91a9c3d2c1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\7bbde58e9d4b691422b80d91a9c3d2c1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\d2fa4fa7dd5d23f1b6533487decb4472\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\d2fa4fa7dd5d23f1b6533487decb4472\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\7efdae7f8b684d6747678774459b12fb\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\7efdae7f8b684d6747678774459b12fb\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\2c825f2998be2fb578daf74f7ec34469\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\2c825f2998be2fb578daf74f7ec34469\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\310a642c8085883d5a784e3776c6a319\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\310a642c8085883d5a784e3776c6a319\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\victr\.gradle\caches\transforms-3\75412b127dfdc072f56ebf50daa4fca3\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\victr\.gradle\caches\transforms-3\75412b127dfdc072f56ebf50daa4fca3\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\0e6296f5c1126cb6fa823873bb0ee40e\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\0e6296f5c1126cb6fa823873bb0ee40e\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\f170ea7ac768637aecf9c05bf3b5b989\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\f170ea7ac768637aecf9c05bf3b5b989\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\d98a1e4062d5c4bc3570f11708994aa0\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\victr\.gradle\caches\transforms-3\d98a1e4062d5c4bc3570f11708994aa0\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\64f8fe689b8f074c748f70fd7ac3bc0f\transformed\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\64f8fe689b8f074c748f70fd7ac3bc0f\transformed\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\victr\.gradle\caches\transforms-3\5b854ef65ece450161b7f7c07abb646d\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\victr\.gradle\caches\transforms-3\5b854ef65ece450161b7f7c07abb646d\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\7b2d1690da0d7d5bc8de64c2b460a133\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\7b2d1690da0d7d5bc8de64c2b460a133\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\d5aa997a64105d6db7c67365427199c3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\d5aa997a64105d6db7c67365427199c3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\48bb273621ee567194706dc26164f9b2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\48bb273621ee567194706dc26164f9b2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\d063536707146b3bc827f1955ef59cbb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\d063536707146b3bc827f1955ef59cbb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\d87ef627e1a6e809f17a99e7d4d6421e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\d87ef627e1a6e809f17a99e7d4d6421e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\6a145ea5143078555c6f8c99d029c550\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\6a145ea5143078555c6f8c99d029c550\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\761d85994276a3ccb8b7c5c65d2181f5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\761d85994276a3ccb8b7c5c65d2181f5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\90f6ee2d87b092bef1eea484887a3c65\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\90f6ee2d87b092bef1eea484887a3c65\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\victr\.gradle\caches\transforms-3\eda9cefc62e46a0a21c5a89107231c67\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\victr\.gradle\caches\transforms-3\eda9cefc62e46a0a21c5a89107231c67\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\fb774ecdfc1b97b4635da589934829a2\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\fb774ecdfc1b97b4635da589934829a2\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\victr\.gradle\caches\transforms-3\bc2e4386e5ba959bae6ea725b08e11dd\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\victr\.gradle\caches\transforms-3\bc2e4386e5ba959bae6ea725b08e11dd\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\victr\.gradle\caches\transforms-3\9bec58cdbf847dcd3c349cc59c9b9388\transformed\jetified-core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\victr\.gradle\caches\transforms-3\9bec58cdbf847dcd3c349cc59c9b9388\transformed\jetified-core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\2c1dfd930c93f857dd47cd27ce642632\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\2c1dfd930c93f857dd47cd27ce642632\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\f597801e3a9c0bb08bfd012093e50ff2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\victr\.gradle\caches\transforms-3\f597801e3a9c0bb08bfd012093e50ff2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\victr\.gradle\caches\transforms-3\42b382bf1ede9ce6f59bc2600f274fc8\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\victr\.gradle\caches\transforms-3\42b382bf1ede9ce6f59bc2600f274fc8\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\82c123120b58a1343a9b5f9fa5405ebb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\82c123120b58a1343a9b5f9fa5405ebb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\victr\.gradle\caches\transforms-3\bb27ca76c5d130a37bbbf031a8f74e03\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\victr\.gradle\caches\transforms-3\bb27ca76c5d130a37bbbf031a8f74e03\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\a94d2734993c64402f05a6d35bdc5517\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\a94d2734993c64402f05a6d35bdc5517\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\d9def8246dd1f66f49ab3cdbd13bae67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\2334c75f1928ae33271152b2d43bd661\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\2334c75f1928ae33271152b2d43bd661\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\f2a4cd0956aaa5b7893ecaa0a08556ca\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\f2a4cd0956aaa5b7893ecaa0a08556ca\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\1aa3806536c18d19027aea564ecc920a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\1aa3806536c18d19027aea564ecc920a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\b77da98edaa9b16f3a26706f3d048480\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\b77da98edaa9b16f3a26706f3d048480\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\9da3d08e563decf19960a667779e0946\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\victr\.gradle\caches\transforms-3\9da3d08e563decf19960a667779e0946\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\9b1fba44312734e0e5d13d89589bc221\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\9b1fba44312734e0e5d13d89589bc221\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\c945623f599bf271897ad08ceab46da1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\c945623f599bf271897ad08ceab46da1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\victr\.gradle\caches\transforms-3\c3940e7323228925961372430e8622d9\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\victr\.gradle\caches\transforms-3\c3940e7323228925961372430e8622d9\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\fc96b01560a6da4ea42900cf45c9cc52\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\fc96b01560a6da4ea42900cf45c9cc52\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\victr\.gradle\caches\transforms-3\b1bfaf3121facbef58b02ec6a65fb3d0\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\victr\.gradle\caches\transforms-3\b1bfaf3121facbef58b02ec6a65fb3d0\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\daa567ef6e4d3c081743025233d9a16a\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\daa567ef6e4d3c081743025233d9a16a\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\30b5f28b63a3712172ef7d015ff22b94\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\victr\.gradle\caches\transforms-3\30b5f28b63a3712172ef7d015ff22b94\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\9bb6a8f422c5102745cfab72153c0bfd\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\9bb6a8f422c5102745cfab72153c0bfd\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\ffc9b894df96bf25759e32d813f0ba88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\ffc9b894df96bf25759e32d813f0ba88\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\1f373f25dcc1cf53600ce34538ac7cf9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\1f373f25dcc1cf53600ce34538ac7cf9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\victr\.gradle\caches\transforms-3\110c2bd9802bc50087fc1725a705c261\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\victr\.gradle\caches\transforms-3\110c2bd9802bc50087fc1725a705c261\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.4.0] C:\Users\victr\.gradle\caches\transforms-3\4ff328acd912c3370021a408de1a914d\transformed\espresso-idling-resource-3.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.4.0] C:\Users\victr\.gradle\caches\transforms-3\4ff328acd912c3370021a408de1a914d\transformed\espresso-idling-resource-3.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\victr\.gradle\caches\transforms-3\386783fce19354cd2d5c9328a6469d60\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\victr\.gradle\caches\transforms-3\386783fce19354cd2d5c9328a6469d60\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [org.apmem.tools:layouts:1.10] C:\Users\victr\.gradle\caches\transforms-3\4a6b9e984ea7f98c9de1eccde23486b9\transformed\jetified-layouts-1.10\AndroidManifest.xml:7:5-9:41
+MERGED from [org.apmem.tools:layouts:1.10] C:\Users\victr\.gradle\caches\transforms-3\4a6b9e984ea7f98c9de1eccde23486b9\transformed\jetified-layouts-1.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		ADDED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+		INJECTED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml
+activity#com.newspaperdirect.sdk.MainActivity
+ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:10:9-16:59
+	android:label
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:13:13-45
+	android:launchMode
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:14:13-44
+	android:windowSoftInputMode
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:16:13-56
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:12:13-36
+	android:theme
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:11:13-64
+provider#com.newspaperdirect.pressreader.android.core.catalog.CatalogContentProvider
+ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:18:9-20:70
+	android:authorities
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:20:13-67
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:sdk:6.6] C:\Users\victr\.gradle\caches\transforms-3\523bfc15999e723b92bed4dcf66c3351\transformed\jetified-sdk-6.6\AndroidManifest.xml:19:13-103
+activity#com.newspaperdirect.pressreader.android.NewspaperView
+ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:12:9-21:20
+	android:windowSoftInputMode
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:17:13-56
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:14:13-74
+	android:theme
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:16:13-61
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:13:13-81
+meta-data#android.notch_support
+ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:18:13-20:40
+	android:value
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:20:17-37
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:newspaperview:6.6] C:\Users\victr\.gradle\caches\transforms-3\9d23be313704aa32989d440b7e92b4b0\transformed\jetified-newspaperview-6.6\AndroidManifest.xml:19:17-53
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:10:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:10:22-78
+service#com.newspaperdirect.pressreader.android.core.downloading.DownloadService
+ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:14:13-100
+service#com.newspaperdirect.pressreader.android.core.autodelivery.manager.DQSyncIntentService
+ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:16:9-18:39
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:17:13-113
+service#com.newspaperdirect.pressreader.android.core.autodelivery.manager.DQSyncJobService
+ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:19:9-22:72
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:21:13-36
+	android:permission
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:publications:6.6] C:\Users\victr\.gradle\caches\transforms-3\63f14c68488e8dea1848a302466f2ca0\transformed\jetified-publications-6.6\AndroidManifest.xml:20:13-110
+activity#com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+ADDED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:10:9-12:79
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:23:9-25:57
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:23:9-25:57
+	android:label
+		ADDED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:25:13-54
+	android:theme
+		ADDED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:12:13-76
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:11:13-87
+activity#com.google.android.gms.oss.licenses.OssLicensesActivity
+ADDED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:13:9-15:79
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:26:9-92
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.1] C:\Users\victr\.gradle\caches\transforms-3\7ccdec7107bcf7150268ad25373732b0\transformed\jetified-play-services-oss-licenses-17.0.1\AndroidManifest.xml:26:9-92
+	android:theme
+		ADDED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:15:13-76
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:settings:6.6] C:\Users\victr\.gradle\caches\transforms-3\685b6a2f39469b652713b194a8526647\transformed\jetified-settings-6.6\AndroidManifest.xml:14:13-83
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:9:22-74
+service#com.newspaperdirect.pressreader.android.radio.v2.service.RadioService
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:12:9-27:19
+	android:enabled
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:15:13-36
+	android:foregroundServiceType
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:16:13-58
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:13:13-97
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:24:13-26:29
+action#android.media.browse.MediaBrowserService
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:25:17-83
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:25:25-80
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:37:9-43:20
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:38:13-70
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:40:13-42:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:radio:6.6] C:\Users\victr\.gradle\caches\transforms-3\1ee65b9cd5235c033e7a63770098813c\transformed\jetified-radio-6.6\AndroidManifest.xml:41:25-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:9:5-67
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:14:5-67
+MERGED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:26:5-67
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:10:5-67
+MERGED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:10:5-67
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:10:5-67
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:analytics-flurry:6.6] C:\Users\victr\.gradle\caches\transforms-3\14b6ea37675652820029af57e955bade\transformed\jetified-analytics-flurry-6.6\AndroidManifest.xml:9:22-64
+supports-screens
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:10:5-54
+	android:xlargeScreens
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:10:23-51
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:15:5-79
+MERGED from [com.newspaperdirect.pressreader.android:network:6.6] C:\Users\victr\.gradle\caches\transforms-3\92fc4aa57183eb51cfadddeb002f873e\transformed\jetified-network-6.6\AndroidManifest.xml:9:5-79
+MERGED from [com.newspaperdirect.pressreader.android:network:6.6] C:\Users\victr\.gradle\caches\transforms-3\92fc4aa57183eb51cfadddeb002f873e\transformed\jetified-network-6.6\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:22:5-79
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:11:5-79
+MERGED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:16:5-77
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:16:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:27:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:23:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:26:9-28:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\victr\.gradle\caches\transforms-3\15a03019b43dd79926855513befe47fe\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:27:13-58
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:33:9-39:20
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:30:9-34:20
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:34:13-78
+intent-filter#action:name:com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:37:17-94
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:37:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:41:9-44:40
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:36:9-39:40
+MERGED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:42:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:49:9-55:20
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:51:13-36
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:50:13-85
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:52:13-54:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:53:25-76
+provider#com.newspaperdirect.pressreader.android.providers.PressReaderFileProvider
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:57:9-65:20
+	android:grantUriPermissions
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:61:13-47
+	android:authorities
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:59:13-51
+	android:exported
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:58:13-101
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:62:13-64:63
+	android:resource
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:64:17-60
+	android:name
+		ADDED from [com.newspaperdirect.pressreader.android:core:6.6] C:\Users\victr\.gradle\caches\transforms-3\7c6277bfb4969fdaed1441e14d559ce8\transformed\jetified-core-6.6\AndroidManifest.xml:63:17-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\victr\Desktop\PressreaderSDK-6.6.1-baseline (1)\PressreaderSDK-6.6.1-baseline\app_sdk_full\AndroidManifest.xml:2:1-28:12 reason: com.newspaperdirect.pressreader.android requested WRITE_EXTERNAL_STORAGE
+activity#com.appboy.ui.AppboyWebViewActivity
+ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:11:13-63
+activity#com.appboy.ui.activities.AppboyFeedActivity
+ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:14:13-71
+activity#com.appboy.ui.activities.AppboyContentCardsActivity
+ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:17:13-79
+activity#com.appboy.push.NotificationTrampolineActivity
+ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:19:9-23:71
+	android:launchMode
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:22:13-48
+	android:exported
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:21:13-37
+	android:theme
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:23:13-68
+	android:name
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:20:13-74
+receiver#com.appboy.BrazePushReceiver
+ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.appboy:android-sdk-ui:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\3ccbc2faf724ca20095d8c824aa72579\transformed\jetified-android-sdk-ui-13.1.2\AndroidManifest.xml:26:13-56
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\5a4e50c2db9ec9eff17de6a54959e182\transformed\jetified-play-services-analytics-18.0.4\AndroidManifest.xml:41:13-80
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:28:5-97
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:28:22-94
+uses-permission#com.newspaperdirect.example.samplesdk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:28:5-97
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+MERGED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics-impl:18.0.4] C:\Users\victr\.gradle\caches\transforms-3\881c71eec4edd92680fd8caa8c4a9cae\transformed\jetified-play-services-analytics-impl-18.0.4\AndroidManifest.xml:28:22-94
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\victr\.gradle\caches\transforms-3\11c2c9e7bce0bb6eda56eacd549d50da\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.8] C:\Users\victr\.gradle\caches\transforms-3\0b8da66ad20dd4849375046674459cac\transformed\jetified-firebase-crashlytics-18.2.8\AndroidManifest.xml:19:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\victr\.gradle\caches\transforms-3\c15250d16de100279c029d2209b944da\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\victr\.gradle\caches\transforms-3\f81505dd57161f2738d3a4821361a991\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\victr\.gradle\caches\transforms-3\29bf33e859771f99111df8e293fd52ca\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:11:9-19:20
+MERGED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:11:9-19:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\victr\.gradle\caches\transforms-3\e03399bcca81d5735418d1bcb05a879d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\victr\.gradle\caches\transforms-3\89bc50c2f2811d4bd10ec5a7267d450e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\victr\.gradle\caches\transforms-3\f07634881a55cbd47614b2edfcb8e40f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.newspaperdirect.example.samplesdk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\victr\.gradle\caches\transforms-3\a95afa26f328281bbfa4f3c39ce0f562\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+meta-data#net.danlew.android.joda.JodaTimeInitializer
+ADDED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:16:13-18:52
+	android:value
+		ADDED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:18:17-49
+	android:name
+		ADDED from [net.danlew:android.joda:2.12.0] C:\Users\victr\.gradle\caches\transforms-3\d08fee578c1fcaff2edeb16287aacefe\transformed\jetified-android.joda-2.12.0\AndroidManifest.xml:17:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\victr\.gradle\caches\transforms-3\e5d5299dca4153f049c59f4c5847e2c4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\victr\.gradle\caches\transforms-3\946950a8117fe958f69fa29b7c1974b9\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\a928264fddb457ef78f397c71f7a7443\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\victr\.gradle\caches\transforms-3\43b1e7105d423551eaea1b1992b5a65a\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:33:13-132
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:5.0.0] C:\Users\victr\.gradle\caches\transforms-3\5319b33f51e0689d33e12cfaa836bb4a\transformed\jetified-billing-5.0.0\AndroidManifest.xml:18:13-78
+meta-data#aia-compat-api-min-version
+ADDED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:10:9-12:33
+	android:value
+		ADDED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:12:13-30
+	android:name
+		ADDED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\victr\.gradle\caches\transforms-3\db5cca0530a6c053caf371a756b439bb\transformed\jetified-instantapps-1.1.0\AndroidManifest.xml:11:13-54
+provider#com.flurry.android.agent.FlurryContentProvider
+ADDED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:13:9-16:40
+	android:authorities
+		ADDED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:15:13-73
+	android:exported
+		ADDED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.flurry.android:analytics:14.0.0] C:\Users\victr\.gradle\caches\transforms-3\65ea6252fbcd64234e377301f16640f2\transformed\jetified-analytics-14.0.0\AndroidManifest.xml:14:13-74
+receiver#com.appboy.receivers.AppboyActionReceiver
+ADDED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:14:9-17:20
+	android:exported
+		ADDED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.appboy:android-sdk-base:13.1.2] C:\Users\victr\.gradle\caches\transforms-3\b775a59405816eef5caf1560b3f16719\transformed\jetified-android-sdk-base-13.1.2\AndroidManifest.xml:15:13-69
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\victr\.gradle\caches\transforms-3\c103f86bc07a32d076aa70fb50dee8cd\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:15:13-93

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"i morgen"</item>
+        <item msgid="2973062968038355991" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> dage"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"om 1 time"</item>
+        <item msgid="3705373766798013406" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> timer"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"om 1 min."</item>
+        <item msgid="4216113292706568726" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> min."</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"om 1 sek."</item>
+        <item msgid="5495880108825805108" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> sekunder"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"i går"</item>
+        <item msgid="3453342639616481191" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> dage siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"for 1 time siden"</item>
+        <item msgid="6889970745748538901" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> timer siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"for 1 min. siden"</item>
+        <item msgid="851164968597150710" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> min. siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"for 1 sek. siden"</item>
+        <item msgid="3699169366650930415" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> sek. siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"Én time"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> timer"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"Ét minut"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutter"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"Ét sekund"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> sekunder"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"i morgen"</item>
+        <item msgid="5109449375100953247" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> dage"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"om 1 time"</item>
+        <item msgid="547290677353727389" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> timer"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"om 1 minut"</item>
+        <item msgid="3330713936399448749" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> minutter"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"om 1 sekund"</item>
+        <item msgid="1241926116443974687" quantity="other">"om <ns1:g id="COUNT">%d</ns1:g> sekunder"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"i går"</item>
+        <item msgid="2479586466153314633" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> dage siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"for 1 time siden"</item>
+        <item msgid="2467273239587587569" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> timer siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"for 1 minut siden"</item>
+        <item msgid="2176942008915455116" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> minutter siden"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"for 1 sekund siden"</item>
+        <item msgid="3903706804349556379" quantity="other">"for <ns1:g id="COUNT">%d</ns1:g> sekunder siden"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ny notifikation</item>
+    <item quantity="other">%d nye notifikationer</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Find hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå op"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere valgmuligheder"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Udfør"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"FRA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"TIL"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slet"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ryd forespørgsel"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Indsend forespørgsel"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="account_created"><![CDATA[Din konto blev oprettet.]]></string>
+    <string name="account_status"><![CDATA[Kontostatus]]></string>
+    <string name="add_account"><![CDATA[Tilføj konto]]></string>
+    <string name="advanced_search"><![CDATA[Avanceret søgning]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Vælg venligst service]]></string>
+    <string name="authorization_text"><![CDATA[Brug konto %s til at downloade aviser]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Levér alle nye numre automatisk]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Ubegrænset]]></string>
+    <string name="balance"><![CDATA[Saldo]]></string>
+    <string name="balance_description"><![CDATA[%1$s af %2$s]]></string>
+    <string name="billing_information"><![CDATA[Information om regningen]]></string>
+    <string name="blog"><![CDATA[Blog]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Bøger købt fra PressReader-webstedet bliver tilgængelige til læsning i denne app, forudsat at du bruger de samme kontoinformationer.]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Mere nyligt læste side]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Vi er glade for, at du nyder bogen! For at fortsætte din eventyr, gå nu til \'Bogdetaljer\'.]]></string>
+    <string name="bookmarks"><![CDATA[Bogmærker]]></string>
+    <string name="books_banner_action"><![CDATA[Gennemse Bøger]]></string>
+    <string name="books_banner_description"><![CDATA[Et univers af kvalitetsaviser, magasiner og bøger, alt på én platform.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Vi beklager, men denne bog er ikke længere tilgængelig]]></string>
+    <string name="books_license_expired_message"><![CDATA[For at fortsætte med at læse kan du besøge en rejse- og turisme HotSpot for at forlænge din adgang eller købe din e-bog (afhængigt af tilgængelighed) på pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Find en HotSpot]]></string>
+    <string name="books_paid_title"><![CDATA[Vi beklager, denne titel er ikke tilgængelig.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Udvid halvdelen</string>
+    <string name="btn_back"><![CDATA[Tilbage]]></string>
+    <string name="btn_cancel"><![CDATA[Annullér]]></string>
+    <string name="btn_confirm"><![CDATA[Bekræft]]></string>
+    <string name="btn_delete"><![CDATA[Slet]]></string>
+    <string name="btn_download"><![CDATA[Download]]></string>
+    <string name="btn_font_size"><![CDATA[Fontstørrelse]]></string>
+    <string name="btn_listen"><![CDATA[Lyt]]></string>
+    <string name="btn_next"><![CDATA[Næste]]></string>
+    <string name="btn_no"><![CDATA[Nej]]></string>
+    <string name="btn_ok"><![CDATA[OK]]></string>
+    <string name="btn_page"><![CDATA[Side]]></string>
+    <string name="btn_retry"><![CDATA[Forsøg igen]]></string>
+    <string name="btn_send"><![CDATA[Send]]></string>
+    <string name="btn_share"><![CDATA[Del]]></string>
+    <string name="btn_text_smart"><![CDATA[SmartFlow]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Opsig abonnement]]></string>
+    <string name="btn_yes"><![CDATA[Ja]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Køb %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Prøv gratis i %1$s dage \nDerefter %2$s]]></string>
+    <string name="character_counter_content_description">Du har brugt %1$d ud af %2$d tegn</string>
+    <string name="character_counter_overflowed_content_description">Du har brugt %1$d tegn og dermed overskredet tegnbegrænsningen på %2$d.</string>
+    <string name="choose_publications"><![CDATA[Vælg publikationer]]></string>
+    <string name="city"><![CDATA[By]]></string>
+    <string name="cleanup_never"><![CDATA[Aldrig]]></string>
+    <string name="clear_text_end_icon_content_description">Ryd tekst</string>
+    <string name="client_name_hint"><![CDATA[Enhedsnavn]]></string>
+    <string name="close"><![CDATA[Luk]]></string>
+    <string name="com_appboy_feed_connection_error_body">Kan ikke etablere netværksforbindelse. Prøv venligst senere.</string>
+    <string name="com_appboy_feed_connection_error_title">Netværksfejl</string>
+    <string name="com_appboy_feed_empty">Vi har ingen updates. Prøv venligst senere.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivér</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Opdater</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="company_hint"><![CDATA[Firmanavn (valgfri)]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Bekræft adgangskode]]></string>
+    <string name="confirmation"><![CDATA[Bekræftelse]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Artikel tekst blev kopieret til udklipsholderen]]></string>
+    <string msgid="3209159573327985035" name="copy">"Kopiér"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Linket er kopieret til udklipsholderen"</string>
+    <string name="countries"><![CDATA[Lande]]></string>
+    <string name="country"><![CDATA[Land]]></string>
+    <string name="create"><![CDATA[Skab]]></string>
+    <string name="credit_billing_address"><![CDATA[Faktureringsadresse]]></string>
+    <string name="credit_card_cvv"><![CDATA[CVV-kode]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Udløbsmåned]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Udløbsår]]></string>
+    <string name="credit_card_holder"><![CDATA[Kortholders navn]]></string>
+    <string name="credit_card_number"><![CDATA[Kreditkortnummer]]></string>
+    <string name="credit_card_type"><![CDATA[Kreditkort]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Vælg kreditkort]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ups! Vi kunne ikke finde det, du leder efter.]]></string>
+    <string name="default_device_name"><![CDATA[Min enhed]]></string>
+    <string name="description"><![CDATA[Beskrivelse]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Audio-streaming kan ikke anvendes for den valgte artikel.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Der indtraf fejl under visning af artikel.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[PressReader skal aktiveres inden første brug. Aktiver internetforbindelse og genstart PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Begrænset eller ingen forbindelse til serveren.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Bekræft venligst købet af gamle numre for %s mere.]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[Der vil blive trukket %s på din konto]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Vil du overføre alle downloadede aviser til dit SD-kort?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[Intet SD-kort fundet. Ønsker du at bruge intern hukommelse til lagring af aviser?\n\nLedig hukommelse: %sMb, en avis fylder 5-50Mb.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Dit abonnement er ikke aktivt. Opdatér venligst dit abonnement eller kontakt vores kundesupport.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Du bedes installere og konfigurere en e-mail-klient for at få denne handling til at lykkes.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Der er ikke mere plads på enheden. Fjern venligst noget af SD-kortets indhold.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Zoom kan anvendes, når nummeret er helt downloadet.]]></string>
+    <string name="dlg_opening"><![CDATA[Behandler…]]></string>
+    <string name="dlg_processing"><![CDATA[Behandler…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Vis en gang mere?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Tip]]></string>
+    <string name="downloading_new_issue"><![CDATA[Downloader nye udgaver]]></string>
+    <string name="edit"><![CDATA[Redigér]]></string>
+    <string name="email"><![CDATA[E-mail]]></string>
+    <string name="email_communication_title"><![CDATA[E-mail-kommunikation]]></string>
+    <string name="email_hint"><![CDATA[E-mail-adresse]]></string>
+    <string name="error_access_not_available"><![CDATA[Du kan ikke logge ind på denne enhed.]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Kunne ikke afslutte køb.]]></string>
+    <string name="error_connection"><![CDATA[Kunne ikke etablere netværksforbindelse.]]></string>
+    <string name="error_contacting_server"><![CDATA[Kunne ikke etablere forbindelse til serveren.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Kunne ikke etablere forbindelse til serveren. Prøv venligst igen.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Kreditkorttype matcher ikke med kreditkortnummer]]></string>
+    <string name="error_device_authorization"><![CDATA[Det lykkedes ikke at aktivere enheden.]]></string>
+    <string name="error_dialog_title"><![CDATA[Fejl]]></string>
+    <string name="error_empty_city"><![CDATA[By skal udfyldes]]></string>
+    <string name="error_empty_clientname"><![CDATA[Der skal indtastes et navn for enheden.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Bekræft adgangskode er et obligatorisk felt]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[CVV-koden skal indtastes]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Kortholders navn skal indtastes]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Kreditkortnummeret skal indtastes]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Gadenavn skal indtastes]]></string>
+    <string name="error_empty_email"><![CDATA[E-mail er et obligatorisk felt]]></string>
+    <string name="error_empty_first_name"><![CDATA[Fornavn er et obligatorisk felt]]></string>
+    <string name="error_empty_last_name"><![CDATA[Efternavn er et obligatorisk felt]]></string>
+    <string name="error_empty_password"><![CDATA[Der skal indtastes en adgangskode.]]></string>
+    <string name="error_empty_password2"><![CDATA[Adgangskode er et obligatorisk felt]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Telefonnummer skal udfyldes]]></string>
+    <string name="error_empty_required"><![CDATA[Felt skal udfyldes]]></string>
+    <string name="error_empty_state"><![CDATA[Stat skal udfyldes]]></string>
+    <string name="error_empty_username"><![CDATA[Der skal indtastes et brugernavn.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Postnummer skal udfyldes]]></string>
+    <string name="error_icon_content_description">Fejl</string>
+    <string name="error_invalid_email"><![CDATA[Du skal bruge en gyldig e-mailadresse]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Filerne til denne publikation er ikke komplette. Prøv venligst at downloade denne publikation igen.]]></string>
+    <string name="error_network_error"><![CDATA[Netværksfejl]]></string>
+    <string name="error_ordering_issue"><![CDATA[Kunne ikke bestille nummeret. Kontakt venligst teknisk support.]]></string>
+    <string name="error_password_required"><![CDATA[Adgangskode er påkrævet]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Adgangskode og bekræftelse matcher ikke]]></string>
+    <string name="error_request_access_result_102"><![CDATA[For at købe denne udgave bedes du angive et gyldigt kreditkortnummer på www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[For at købe denne udgave bedes du angive et gyldigt kreditkortnummer på www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Arkiverede numre kan kun downloades]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Efter udgiverens ønske kan den valgte titel ikke downloades lige nu]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Efter udgiverens ønske kan den valgte titel ikke downloades lige nu]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Aktuelt indhold må ikke downloades fra denne website]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Aktuelt indhold må ikke læses/downloades fra din nuværende placering]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Aktuelt indhold må ikke læses/downloades fra din nuværende placering]]></string>
+    <string name="error_response_200"><![CDATA[For denne konto er der allerede aktiveret en anden enhed med dette navn. Vælg venligst et andet enhedsnavn.]]></string>
+    <string name="error_response_201"><![CDATA[Du har overskredet antallet af enheder, du kan bruge med denne konto. Fjern godkendelse af en af dine aktive enheder.]]></string>
+    <string name="error_storage_not_available"><![CDATA[SD-lageret er ikke tilgængeligt.]]></string>
+    <string name="error_try_again"><![CDATA[Prøv igen]]></string>
+    <string name="error_user_authorization"><![CDATA[Aktivering svigtede. Tjek venligst dit brugernavn og adgangskode.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Denne enhed er allerede aktiveret med disse brugeroplysninger.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Den indtastede kampagnekode er forkert]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avanceret"</string>
+    <string name="exposed_dropdown_menu_content_description">Vis rullemenuen</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Kopiér link"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Åbn i browser"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Del link"</string>
+    <string name="first_name_hint"><![CDATA[Fornavn]]></string>
+    <string name="general"><![CDATA[Generelt]]></string>
+    <string name="general_information"><![CDATA[Generel information]]></string>
+    <string name="get_latest_news_updates_and_new_issue_alerts"><![CDATA[Få de seneste nyhedsopdateringer og advarsler samt eksklusive kampagner]]></string>
+    <string name="home_choose_publications_text"><![CDATA[De seneste udgaver af de publikationer, du følger, vises her.]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Gratis læsning]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Enhedsindstillinger]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Aktivér placeringstjenester og indstil dem til \"Mens du bruger appen\" for at opdage gaveindhold.]]></string>
+    <string name="hotspot_off"><![CDATA[Fra]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="icon_content_description">Ikon for dialogboks</string>
+    <string name="international"><![CDATA[International]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Vil du gerne købe dette nummer?]]></string>
+    <string name="item_view_role_description">Fane</string>
+    <string name="joda_time_android_date_time">%2$s, %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"den <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"kl. <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="languages"><![CDATA[Sprog]]></string>
+    <string name="last_name_hint"><![CDATA[Efternavn]]></string>
+    <string name="local_store_title"><![CDATA[Aviser]]></string>
+    <string name="main_search"><![CDATA[Søg]]></string>
+    <string name="main_settings"><![CDATA[Indstillinger]]></string>
+    <string name="manage_devices"><![CDATA[Administrer enheder]]></string>
+    <string name="material_clock_toggle_content_description">Vælg AM eller PM</string>
+    <string name="material_hour_selection">Vælg time</string>
+    <string name="material_hour_suffix">klokken %1$s</string>
+    <string name="material_minute_selection">Vælg minutter</string>
+    <string name="material_minute_suffix">%1$s minutter</string>
+    <string name="material_timepicker_am">f.m.</string>
+    <string name="material_timepicker_clock_mode_description">Skift til urtilstand for at angive klokkeslæt.</string>
+    <string name="material_timepicker_hour">Time</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">e.m.</string>
+    <string name="material_timepicker_select_time">Vælg tidspunkt</string>
+    <string name="material_timepicker_text_input_mode_description">Skift til teksttilstand for at angive klokkeslæt.</string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Kopier]]></string>
+    <string name="menu_issue_open"><![CDATA[Åbn]]></string>
+    <string name="more"><![CDATA[Mere]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="most_current"><![CDATA[Mest aktuelle]]></string>
+    <string name="mtrl_badge_numberless_content_description">Ny notifikation</string>
+    <string name="mtrl_chip_close_icon_content_description">Fjern %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Flere end %1$d nye notifikationer</string>
+    <string name="mtrl_picker_a11y_next_month">Skift til næste måned</string>
+    <string name="mtrl_picker_a11y_prev_month">Skift til forrige måned</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelt valg: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vælg dato</string>
+    <string name="mtrl_picker_date_header_unselected">Valgt dato</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolonne med dage: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ugyldigt format.</string>
+    <string name="mtrl_picker_invalid_format_example">Eksempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Brug: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ugyldigt interval.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Gå til år %1$s</string>
+    <string name="mtrl_picker_out_of_range">Uden for interval: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdato – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – slutdato</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vælg interval</string>
+    <string name="mtrl_picker_range_header_unselected">Startdato – slutdato</string>
+    <string name="mtrl_picker_save">Gem</string>
+    <string name="mtrl_picker_text_input_date_hint">Dato</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Slutdato</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdato</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Skift til input-tilstand for kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tryk for at gå til valg af dag</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Skift til input-tilstand for tekst</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tryk for at gå til valg af år</string>
+    <string name="my_library_noitems"><![CDATA[Der er ingen emner i biblioteket.]]></string>
+    <string name="my_profile"><![CDATA[Min profil]]></string>
+    <string name="my_publications"><![CDATA[Mine aviser]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Naviger op"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Åbn sidemenuen"</string>
+    <string name="navigation_more"><![CDATA[Mere]]></string>
+    <string name="new_article_view"><![CDATA[Text i SmartFlow]]></string>
+    <string name="news_digest"><![CDATA[Nyhedsstrøm]]></string>
+    <string name="news_digest_description"><![CDATA[En strøm av nyheder og anbefalet indhold, der holder dig opdateret]]></string>
+    <string name="newsfeed_recommended_card_empty"><![CDATA[Du har ikke valgt nogen interesser]]></string>
+    <string name="newsfeed_recommended_card_empty_description"><![CDATA[Tilføj interesser for at personalisere din læseoplevelse og få mere relevante anbefalinger]]></string>
+    <string name="newsfeed_recommended_card_halfempty"><![CDATA[Vi kunne ikke finde nogen historier]]></string>
+    <string name="newsfeed_recommended_card_halfempty_action"><![CDATA[Følg flere interesser]]></string>
+    <string name="newsfeed_recommended_card_halfempty_description"><![CDATA[Tilføj flere interesser for at tilpasse din læseoplevelse og få mere relevante anbefalinger]]></string>
+    <string name="newsfeed_recommended_card_subtitle"><![CDATA[De bedste historier fra dine yndlingsinteresser og publikationer.]]></string>
+    <string name="newspaper_details_label"><![CDATA[Dine seneste udgaver]]></string>
+    <string name="no_radio"><![CDATA[Radio er ikke tilgængelig for udstedelsen]]></string>
+    <string msgid="478774118347071097" name="not_set">"Ikke angivet"</string>
+    <string name="oem_empty_feed"><![CDATA[Ingen online historier tilgængelige fra \ ndine publikationer]]></string>
+    <string name="oem_onboarding_header"><![CDATA[Følg publikationer, du gerne vil læse]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[Flere publikationer]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[I dit abonnement]]></string>
+    <string name="off"><![CDATA[Fra]]></string>
+    <string name="offers_and_promotions"><![CDATA[Tilbud og kampagner]]></string>
+    <string name="offers_and_promotions_description"><![CDATA[Særlige tilbud og kampagner fra %s]]></string>
+    <string name="onboarding_add_interests"><![CDATA[Tilføj flere interesser]]></string>
+    <string name="onboarding_authorization_library"><![CDATA[Biblioteker og grupper]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[Eller]]></string>
+    <string name="onboarding_authorization_sign_in_or_create"><![CDATA[Log ind eller opret en konto for at gemme historier og interesser på din profil]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_humanised"><![CDATA[Er der næsten! Opret din konto eller log ind for at gemme dine interesser]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_short"><![CDATA[Log ind eller opret konto]]></string>
+    <string name="onboarding_authorization_skip"><![CDATA[Spring over]]></string>
+    <string name="onboarding_choose_interests"><![CDATA[Vælg dine interesser]]></string>
+    <string name="onboarding_choose_publications"><![CDATA[Følg publikationer]]></string>
+    <string name="onboarding_continue"><![CDATA[Fortsæt]]></string>
+    <string name="onboarding_done"><![CDATA[Færdig]]></string>
+    <string name="onboarding_edit_interests"><![CDATA[Rediger interesser]]></string>
+    <string name="onboarding_error_searching_interests"><![CDATA[Vi kunne desværre ikke finde nogen interesser for \\"%1$s\\".]]></string>
+    <string name="onboarding_error_searching_publications"><![CDATA[Vi kunne desværre ikke finde nogen publikationer for \\"%1$s\\".]]></string>
+    <string name="onboarding_error_text"><![CDATA[Der opstod en fejl ved indlæsning af indhold.\nUndskyld, prøv igen.]]></string>
+    <string name="onboarding_finished_banner_action"><![CDATA[Forstået]]></string>
+    <string name="onboarding_finished_banner_text"><![CDATA[Når du læser, fortsætter PressReader med at lære og tilpasse sig din personlige smag]]></string>
+    <string name="onboarding_finished_banner_title"><![CDATA[Du er klar]]></string>
+    <string name="onboarding_get_started"><![CDATA[Kom igang]]></string>
+    <string name="onboarding_have_an"><![CDATA[Har du en konto?]]></string>
+    <string name="onboarding_have_an_account_sign_in"><![CDATA[Har du en konto? <a href=\\"pressreader_authorize://authorize\\">Log in</a>]]></string>
+    <string name="onboarding_interest_search_placeholder_1"><![CDATA[Rejse]]></string>
+    <string name="onboarding_interest_search_placeholder_2"><![CDATA[Design]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_interests_header"><![CDATA[Vælg de interesser, du gerne vil følge for at få mere relevante nyheder og artikler.]]></string>
+    <string name="onboarding_intro_text"><![CDATA[%s giver dig nu mulighed for\nat nvælge dine interesser for at få flere \nrelevante nyheder og artikler.]]></string>
+    <string name="onboarding_intro_title"><![CDATA[Nyt i denne opdatering]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Tilpas dine interesser]]></string>
+    <string name="onboarding_open_banner_text"><![CDATA[Få endu mere relevante aviser og magasiner ved at vælge dine interesser]]></string>
+    <string name="onboarding_open_banner_text_humanised"><![CDATA[Del dine interesser, og vi vil anbefale de bedste historier og publikationer til dig]]></string>
+    <string name="onboarding_open_banner_title_humanised"><![CDATA[Hvilke historier betyder noget for dig?]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="onboarding_publications_header"><![CDATA[Her er nogle aviser og magasiner, som vi tror, ​​du kan lide. Tryk på omslagene for at følge.]]></string>
+    <string name="onboarding_search_for_interests"><![CDATA[Søg efter interesser]]></string>
+    <string name="onboarding_search_for_publications"><![CDATA[Søg efter publikationer]]></string>
+    <string name="onboarding_searching_interests"><![CDATA[Søgning efter interesser]]></string>
+    <string name="onboarding_searching_publications"><![CDATA[Søgning efter publikationer]]></string>
+    <string name="onboarding_splash_text"><![CDATA[Oplev verdens bedste aviser og magasiner]]></string>
+    <string name="onboarding_you_can_search_for_things"><![CDATA[Du kan søge på ting som]]></string>
+    <string name="opinion_activity"><![CDATA[Aktivitet]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Inkludér alle supplementer]]></string>
+    <string name="order_subscribe"><![CDATA[Levér alle nye numre automatisk]]></string>
+    <string name="password_hint"><![CDATA[Adgangskode]]></string>
+    <string name="password_recovery"><![CDATA[Genskabe adgangskode]]></string>
+    <string name="password_toggle_content_description">Vis adgangskode</string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_purchase_details"><![CDATA[Købs-specifikationer]]></string>
+    <string name="payment_receipt"><![CDATA[Kvittering]]></string>
+    <string name="phone_hint"><![CDATA[Telefonnummer (valgfri)]]></string>
+    <string name="podcasts"><![CDATA[Podcasts]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_autodelivery"><![CDATA[Automatisk levering]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Tillad opdateringer i baggrund]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Administrér abonnementer]]></string>
+    <string name="pref_cleanup"><![CDATA[Fjern emner]]></string>
+    <string name="pref_dataaccess"><![CDATA[Dataadgang]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Tillad indholdsdownload kun med Wi-Fi]]></string>
+    <string name="pref_feedback"><![CDATA[Feedback]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Feedback om %1$s v%2$s fra bruger %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Send os feedback]]></string>
+    <string name="pref_license"><![CDATA[Licenser for åben kildekode]]></string>
+    <string name="pref_license_summary"><![CDATA[Licensoplysninger for åben kildekode-software]]></string>
+    <string name="pref_storage"><![CDATA[Datalagring]]></string>
+    <string name="pref_storage_summary"><![CDATA[Konfigurer tilgængelighed for intern lagerplads]]></string>
+    <string name="pref_tips"><![CDATA[PressReader Tips]]></string>
+    <string name="pref_tips_summary"><![CDATA[Gentag grænseflade forklaringer]]></string>
+    <string name="pref_version"><![CDATA[Version]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s version: \t%2$s]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" blev kopieret til udklipsholderen."</string>
+    <string name="premium_confirmation_warning"><![CDATA[Sørg for at afbestille dit nuværende abonnement i dine Play Store-indstillinger, under afsnittet Betalinger og abonnementer på din konto.]]></string>
+    <string name="product_single_issue"><![CDATA[enkelt udgave]]></string>
+    <string name="promo_code_hint"><![CDATA[Kampagnekode (valgfri)]]></string>
+    <string name="publications"><![CDATA[Aviser]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Tillad notifikationer]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Vid, hvornår de seneste udgaver er tilgængelige, og hold dig opdateret om nyheder relateret til dine interesser.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Få besked]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Underretninger]]></string>
+    <string name="radio_next_article"><![CDATA[Næste historie]]></string>
+    <string name="radio_next_section"><![CDATA[Næste\nafsnit]]></string>
+    <string name="radio_prev_article"><![CDATA[Forrige historie]]></string>
+    <string name="radio_prev_section"><![CDATA[Forrige\nafsnit]]></string>
+    <string name="rate"><![CDATA[Rate]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Betalingsbeløb:]]></string>
+    <string name="registration_agree_text"><![CDATA[Ved at klikke på knappen \"Næste\" accepterer du <a href=\\"pressreader://terms-of-use\\">Vilkår for brug</a> og <a href=\\"pressreader://privacy\\">Fortrolighedspolitik</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Adgang til gamle numre:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s dage]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Pris pr. nummer:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Adgang til AdValue-rapport:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Maks. antal overvågningsadvarsler:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Maks. antal automatiske downloads:]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Månedlig betaling]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s (pris med rabat for den 1. måned; %1$s %3$s fra og med den 2. måned)]]></string>
+    <string name="remaining_credits"><![CDATA[Resterende point:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d numre]]></string>
+    <string name="remaining_issues_title"><![CDATA[Du har %d resterende problemer]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Log ind eller opret en konto for at få adgang til din købshistorik og bruge abonnementer på flere enheder. Dine nuværende køb vil blive tilføjet til denne konto.]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Sponsorerede]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søg"</string>
+    <string name="search_results"><![CDATA[Søgeresultater]]></string>
+    <string name="select_all"><![CDATA[Vælg alt]]></string>
+    <string name="sign_out"><![CDATA[Log af]]></string>
+    <string name="sing_in"><![CDATA[Log på]]></string>
+    <string name="smart_zoom"><![CDATA[SmartZoom]]></string>
+    <string name="sort_alphabet"><![CDATA[Efter alfabetet]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Start din %s prøve]]></string>
+    <string name="state"><![CDATA[Region]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stay_up_to_date"><![CDATA[Bliv opdateret]]></string>
+    <string name="street"><![CDATA[Gadenavn]]></string>
+    <string name="subscribe"><![CDATA[Abonner]]></string>
+    <string name="subscription_plan"><![CDATA[Abonnementsform:]]></string>
+    <string name="subscription_plans"><![CDATA[Abonnementsplaner]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Ingen tidsplan leverancer]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Du kan planlægge levering på spørgsmål for skærmen]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="table_of_contents"><![CDATA[Oversigt over indhold]]></string>
+    <string name="terms_of_use"><![CDATA[Bestemmelser for brug]]></string>
+    <string name="theme"><![CDATA[Læsetema]]></string>
+    <string name="theme_dark"><![CDATA[Mørk]]></string>
+    <string name="theme_light"><![CDATA[Lys]]></string>
+    <string name="theme_system"><![CDATA[Tilpas enhed]]></string>
+    <string name="translate"><![CDATA[Oversæt]]></string>
+    <string name="trial_action"><![CDATA[Start gratis prøveperiode]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Du har allerede dette produkt på PressReader.]]></string>
+    <string name="trial_subscription"><![CDATA[gratis prøve]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Lås op for 7.000 aviser og magasiner med ubegrænset læsning. Prøv gratis i 7 dage.]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"FRA"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"TIL"</string>
+    <string name="view"><![CDATA[Visning]]></string>
+    <string name="zip"><![CDATA[Postnummer]]></string>
+</resources>

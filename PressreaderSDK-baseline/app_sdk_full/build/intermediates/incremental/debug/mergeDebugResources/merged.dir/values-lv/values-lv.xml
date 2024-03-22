@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"rītdien"</item>
+        <item msgid="2973062968038355991" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> dienas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"pēc 1 stundas"</item>
+        <item msgid="3705373766798013406" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> stundas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"pēc 1 min"</item>
+        <item msgid="4216113292706568726" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> minūtes(-ēm)"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"pēc 1 s"</item>
+        <item msgid="5495880108825805108" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"vakar"</item>
+        <item msgid="3453342639616481191" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> dienas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"Pirms 1 stundas"</item>
+        <item msgid="6889970745748538901" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> stundas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"Pirms 1 min"</item>
+        <item msgid="851164968597150710" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"Pirms 1 sekundes"</item>
+        <item msgid="3699169366650930415" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 stunda"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> h"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 min"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 s"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"rītdien"</item>
+        <item msgid="5109449375100953247" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> dienas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"pēc 1 stundas"</item>
+        <item msgid="547290677353727389" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> stundas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"pēc 1 minūtes"</item>
+        <item msgid="3330713936399448749" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> minūtes(-ēm)"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"pēc 1 sekundes"</item>
+        <item msgid="1241926116443974687" quantity="other">"pēc <ns1:g id="COUNT">%d</ns1:g> sekundes(-ēm)"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"vakar"</item>
+        <item msgid="2479586466153314633" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> dienas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"Pirms 1 stundas"</item>
+        <item msgid="2467273239587587569" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> stundas(-ām)"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"Pirms 1 minūtes"</item>
+        <item msgid="2176942008915455116" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> minūtes(-ēm)"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"Pirms 1 sekundes"</item>
+        <item msgid="3903706804349556379" quantity="other">"Pirms <ns1:g id="COUNT">%d</ns1:g> sekundes(-ēm)"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d jaunu paziņojumu</item>
+    <item quantity="one">%d jauns paziņojums</item>
+    <item quantity="other">%d jauni paziņojumi</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pārvietoties uz augšu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Citas opcijas"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZSLĒGT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IESLĒGT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Meklēt ar balsi"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="account_created"><![CDATA[Konts izveidots sekmīgi.]]></string>
+    <string name="account_service_name"><![CDATA[Pakalpojuma nosaukums]]></string>
+    <string name="account_status"><![CDATA[Konta statuss]]></string>
+    <string name="add_account"><![CDATA[Pievienot kontu]]></string>
+    <string name="add_my_publications"><![CDATA[Pievienot manām publikācijām]]></string>
+    <string name="advanced_search"><![CDATA[Paplašinātā meklēšana]]></string>
+    <string name="all"><![CDATA[Visi]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Lūdzu, izvēlieties pakalpojumu]]></string>
+    <string name="authorization_text"><![CDATA[Laikrakstu lejupielādei izmantot kontu %s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Automātiski piegādāt visus jaunos izdevumus]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Neierobežots]]></string>
+    <string name="balance"><![CDATA[Atlikums]]></string>
+    <string name="balance_description"><![CDATA[%1$s no %2$s]]></string>
+    <string name="billing_information"><![CDATA[Informācija par norēķinu]]></string>
+    <string name="blog"><![CDATA[Emuārs]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Grāmatas, iegādātas no PressReader mājas lapas, kļūst pieejamas lasīšanai šajā lietotnē, ja izmantojat tādas pašas konta dati.]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Nesenāk lasītā lapa]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Mēs priecājamies, ka jums patīk šī grāmata! Lai turpinātu savas piedzīvojumu, dodieties uz \'Grāmatas detaļas\' tagad.]]></string>
+    <string name="bookmarks"><![CDATA[Grāmatzīmes]]></string>
+    <string name="books_banner_action"><![CDATA[Pārlūkojiet Grāmatas]]></string>
+    <string name="books_banner_description"><![CDATA[Visaugstas kvalitātes laikraksti, žurnāli un grāmatas - viss vienā platformā.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Atvainojiet, bet šī grāmata vairs nav pieejama]]></string>
+    <string name="books_license_expired_message"><![CDATA[Lai turpinātu lasīt, apmeklējiet ceļojumu un tūrisma HotSpot, lai pagarinātu savu piekļuvi, vai iegādājieties savu e-grāmatu (atkarībā no pieejamības) vietnē pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Atrast HotSpot]]></string>
+    <string name="books_paid_title"><![CDATA[Mēs atvainojamies, šis nosaukums nav pieejams.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Izvērst līdz pusei</string>
+    <string name="btn_back"><![CDATA[Atpakaļ]]></string>
+    <string name="btn_cancel"><![CDATA[Atcelt]]></string>
+    <string name="btn_confirm"><![CDATA[Apstiprināt]]></string>
+    <string name="btn_delete"><![CDATA[Dzēst]]></string>
+    <string name="btn_download"><![CDATA[Lejupielādēt]]></string>
+    <string name="btn_font_size"><![CDATA[Fonta lielums]]></string>
+    <string name="btn_listen"><![CDATA[Klausīties]]></string>
+    <string name="btn_next"><![CDATA[Tālāk]]></string>
+    <string name="btn_no"><![CDATA[Nē]]></string>
+    <string name="btn_ok"><![CDATA[Labi]]></string>
+    <string name="btn_page"><![CDATA[Lappuse]]></string>
+    <string name="btn_retry"><![CDATA[Atkārtot mēģinājumu]]></string>
+    <string name="btn_send"><![CDATA[Sūtīt]]></string>
+    <string name="btn_share"><![CDATA[Dalīties]]></string>
+    <string name="btn_text_smart"><![CDATA[SmartFlow]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Anulēt abonementu]]></string>
+    <string name="btn_yes"><![CDATA[Jā]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Legādāties %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Izmēģiniet bezmaksas %1$s dienas \nPēc tam %2$s]]></string>
+    <string name="categories"><![CDATA[Kategorijas]]></string>
+    <string name="character_counter_content_description">Ievadītās rakstzīmes: %1$d no %2$d</string>
+    <string name="character_counter_overflowed_content_description">Pārsniegts rakstzīmju skaita ierobežojums (%1$d no %2$d)</string>
+    <string name="city"><![CDATA[Pilsēta]]></string>
+    <string name="cleanup_never"><![CDATA[Nekad]]></string>
+    <string name="clear_history"><![CDATA[Notīrīt vēsturi]]></string>
+    <string name="clear_text_end_icon_content_description">Notīrīt tekstu</string>
+    <string name="client_name_hint"><![CDATA[Ierīces nosaukums]]></string>
+    <string name="close"><![CDATA[Aizvērt]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Iespējot</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalēt</string>
+    <string name="common_google_play_services_install_text">Lai lietotne %1$s darbotos, ierīcē ir jāinstalē Google Play pakalpojumi.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play pakalpojumu pieejamība</string>
+    <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
+    <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Atjaunināt</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, jums ir jāatjaunina Google Play pakalpojumi.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
+    <string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
+    <string name="common_google_play_services_wear_update_text">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
+    <string name="common_open_on_phone">Atvērt tālrunī</string>
+    <string name="common_signin_button_text">Pierakstīties</string>
+    <string name="common_signin_button_text_long">Pierakstīties ar Google kontu</string>
+    <string name="company_hint"><![CDATA[Uzņēmuma nosaukums (neobligāti)]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Paroles apstiprinājums]]></string>
+    <string name="confirmation"><![CDATA[Apstiprinājums]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Panta teksts tika iekopēts starpliktuvē]]></string>
+    <string msgid="3209159573327985035" name="copy">"Kopēt"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Saite ir kopēta starpliktuvē."</string>
+    <string name="countries"><![CDATA[Valstis]]></string>
+    <string name="country"><![CDATA[Valsts]]></string>
+    <string name="create"><![CDATA[Izveidot]]></string>
+    <string name="credit_billing_address"><![CDATA[Rēķina saņemšanas adrese]]></string>
+    <string name="credit_card_cvv"><![CDATA[CVV kods]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Derīguma termiņa beigu mēnesis]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Derīguma termiņa beigu gads]]></string>
+    <string name="credit_card_holder"><![CDATA[Kartes īpašnieka vārds]]></string>
+    <string name="credit_card_number"><![CDATA[Kredītkartes numurs]]></string>
+    <string name="credit_card_type"><![CDATA[Kredītkarte]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Izvēlieties kredītkarti]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ups! Mēs nevarējām atrast to, ko jūs meklējat.]]></string>
+    <string name="default_device_name"><![CDATA[Mana ierīce]]></string>
+    <string name="description"><![CDATA[Apraksts]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Izvēlētā raksta audiostraumēšana nav iespējama.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Raksta atskaņošanas laikā radās kļūda.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Startējot pakalpojumu PressReader pirmo reizi, tas ir jāaktivizē. Lūdzu, aktivizējiet interneta savienojumu un pārstartējiet PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Ierobežots savienojums ar serveri vai nav savienojuma.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Lūdzu, apstipriniet veca izdevuma pirkumu par vēl %s.]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[Jūsu kontam tiks aprēķināta maksa par: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Vai vēlaties pārsūtīt visus lejupielādētos laikrakstus uz SD karti?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[Nav atrasta SD karte. Vai vēlaties laikrakstus saglabāt iekšējā atmiņā?\n\nPieejamā atmiņa: %sMb; viena laikraksta saglabāšanai nepieciešami aptuveni 5–50 Mb.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Jūsu abonements ir neaktīvs. Lūdzu, atjaunojiet abonementu vai sazinieties ar mūsu klientu atbalsta dienestu.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Lai veiktu šo operāciju, lūdzu, instalējiet un konfigurējiet e-pasta klientu.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Ierīcē vairs nav vietas. Lūdzu, dzēsiet no SD kartes saturu.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Tālummaiņas funkcija būs pieejama, kad būs pabeigta izdevuma lejupielāde.]]></string>
+    <string name="dlg_opening"><![CDATA[Notiek apstrāde…]]></string>
+    <string name="dlg_processing"><![CDATA[Notiek apstrāde…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Parādīt vēlreiz?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Padoms]]></string>
+    <string name="downloaded"><![CDATA[Lejupielādēts]]></string>
+    <string name="downloading_new_issue"><![CDATA[Notiek jauno izdevumu lejupielāde]]></string>
+    <string name="edit"><![CDATA[Mainīt]]></string>
+    <string name="email"><![CDATA[E-pasts]]></string>
+    <string name="email_hint"><![CDATA[E-pasta adrese]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Nevarēja pabeigt pirkumu.]]></string>
+    <string name="error_connection"><![CDATA[Nevarēja izveidot savienojumu ar tīklu.]]></string>
+    <string name="error_contacting_server"><![CDATA[Nevarēja izveidot savienojumu ar serveri.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Nevarēja izveidot savienojumu ar serveri. Lūdzu, mēģiniet vēlreiz.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Kredītkartes veids neatbilst kredītkartes numuram]]></string>
+    <string name="error_device_authorization"><![CDATA[Ierīci neizdevās autorizēt.]]></string>
+    <string name="error_dialog_title"><![CDATA[Kļūda]]></string>
+    <string name="error_empty_city"><![CDATA[Jānorāda pilsēta]]></string>
+    <string name="error_empty_clientname"><![CDATA[Ierīces nosaukuma lauks nevar būt tukšs.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Paroles apstiprinājuma lauks jāaizpilda obligāti]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[Jānorāda CVV kods]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Jānorāda kartes īpašnieks]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Jānorāda kredītkartes numurs]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Jānorāda adrese]]></string>
+    <string name="error_empty_email"><![CDATA[E-pasta adreses lauks jāaizpilda obligāti]]></string>
+    <string name="error_empty_first_name"><![CDATA[Vārda lauks jāaizpilda obligāti]]></string>
+    <string name="error_empty_last_name"><![CDATA[Uzvārda lauks jāaizpilda obligāti]]></string>
+    <string name="error_empty_password"><![CDATA[Paroles lauks nevar būt tukšs.]]></string>
+    <string name="error_empty_password2"><![CDATA[Paroles lauks jāaizpilda obligāti]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Jānorāda tālruņa numurs]]></string>
+    <string name="error_empty_required"><![CDATA[Jānorāda nozare]]></string>
+    <string name="error_empty_state"><![CDATA[Jānorāda štats]]></string>
+    <string name="error_empty_username"><![CDATA[Lietotājvārda lauks nevar būt tukšs.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Jānorāda pasta indekss]]></string>
+    <string name="error_icon_content_description">Kļūda</string>
+    <string name="error_invalid_email"><![CDATA[Jānorāda derīga e-pasta adrese]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Šai publikācijai nav pieejami visi faili. Lūdzu, mēģiniet lejupielādēt šo publikāciju vēlreiz.]]></string>
+    <string name="error_network_error"><![CDATA[Tīkla kļūda]]></string>
+    <string name="error_ordering_issue"><![CDATA[Nevarēja pasūtīt izdevumu. Lūdzu, sazinieties ar tehniskā atbalsta dienestu.]]></string>
+    <string name="error_password_required"><![CDATA[Lauks “Parole” ir jāaizpilda obligāti]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Paroles nesakrīt]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Lai pirktu šo izdevumu, lūdzu, norādiet derīgu kredītkartes numuru vietnē www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Lai pirktu šo izdevumu, lūdzu, norādiet derīgu kredītkartes numuru vietnē www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Arhivētu izdevumu lejupielāde ir ierobežota]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Izvēlētais raksts pašreiz pēc izdevēja pieprasījuma nav pieejams lejupielādei]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Izvēlētais raksts pašreiz pēc izdevēja pieprasījuma nav pieejams lejupielādei]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Šo saturu ir aizliegts lejupielādēt no šīs tīmekļa vietnes]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Šo saturu ir aizliegts lasīt/lejupielādēt no jūsu pašreizējās atrašanās vietas]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Šo saturu ir aizliegts lasīt/lejupielādēt no jūsu pašreizējās atrašanās vietas]]></string>
+    <string name="error_response_200"><![CDATA[Šim kontam jau ir aktivizēta cita ierīce ar šādu nosaukumu. Lūdzu, izvēlieties citu ierīces nosaukumu.]]></string>
+    <string name="error_response_201"><![CDATA[Pārāk daudz aktivizāciju. Pirms turpināt šīs ierīces aktivizāciju, lūdzu, atceliet kādas esošas ierīces autorizāciju.]]></string>
+    <string name="error_storage_not_available"><![CDATA[SD krātuve nav pieejama.]]></string>
+    <string name="error_user_authorization"><![CDATA[Autorizācija neizdevās. Lūdzu, pārbaudiet savu lietotājvārdu un paroli.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Ierīce jau ir autorizēta ar šādiem akreditācijas datiem.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Jūsu ievadītais reklāmas kods ir nepareizs]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Papildu iestatījumi"</string>
+    <string name="expiration_date"><![CDATA[Beigu datums]]></string>
+    <string name="exposed_dropdown_menu_content_description">Rādīt nolaižamo izvēlni</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Kopēt saiti"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Atvērt pārlūkprogrammā"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Kopīgot saiti"</string>
+    <string name="first_name_hint"><![CDATA[Vārds]]></string>
+    <string name="for_publishers"><![CDATA[Izdevējiem]]></string>
+    <string name="general"><![CDATA[Pamatinformācija]]></string>
+    <string name="general_information"><![CDATA[Vispārīga informācija]]></string>
+    <string name="grid"><![CDATA[Režģis]]></string>
+    <string name="help_center"><![CDATA[Palīdzības centrs]]></string>
+    <string name="history"><![CDATA[Vēsture]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Bezmaksas Lasīšana]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Ierīces Iestatījumi]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Iespējojiet atrašanās vietas pakalpojumus un iestatiet tos uz \"Lietojot lietotni\", lai atrastu dāvināto saturu.]]></string>
+    <string name="hotspot_off"><![CDATA[Izslēgts]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="icon_content_description">Dialoglodziņa ikona</string>
+    <string name="international"><![CDATA[Starptautisks]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Vai jūs vēlētos iegādāties šo izdevumu?]]></string>
+    <string name="item_view_role_description">Cilne</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"šādā datumā: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"plkst. <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="languages"><![CDATA[Valodas]]></string>
+    <string name="last_name_hint"><![CDATA[Uzvārds]]></string>
+    <string name="list"><![CDATA[Saraksts]]></string>
+    <string name="local_store_title"><![CDATA[Laikraksti]]></string>
+    <string name="lock"><![CDATA[Bloķēt]]></string>
+    <string name="magazines"><![CDATA[Žurnāli]]></string>
+    <string name="main_search"><![CDATA[Meklēt]]></string>
+    <string name="main_settings"><![CDATA[Iestatījumi]]></string>
+    <string name="material_clock_toggle_content_description">Atlasiet “AM” (priekšpusdienā) vai “PM” (pēcpusdienā).</string>
+    <string name="material_hour_selection">Atlasiet stundu</string>
+    <string name="material_hour_suffix">plkst. %1$s</string>
+    <string name="material_minute_selection">Atlasiet minūtes.</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Lai ievadītu laiku, ieslēdziet pulksteņa režīmu.</string>
+    <string name="material_timepicker_hour">Stunda</string>
+    <string name="material_timepicker_minute">Minūte</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Laika atlasīšana</string>
+    <string name="material_timepicker_text_input_mode_description">Lai ievadītu laiku, ieslēdziet teksta ievades režīmu.</string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Kopēt]]></string>
+    <string name="menu_issue_open"><![CDATA[Atvērt]]></string>
+    <string name="monitors"><![CDATA[Manas tēmas]]></string>
+    <string name="more"><![CDATA[Vēl]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="most_current"><![CDATA[Aktuālākais]]></string>
+    <string name="most_popular"><![CDATA[Vispopulārākie]]></string>
+    <string name="mtrl_badge_numberless_content_description">Jauns paziņojums</string>
+    <string name="mtrl_chip_close_icon_content_description">Noņemt: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Vairāk nekā %1$d jauni paziņojumi</string>
+    <string name="mtrl_picker_a11y_next_month">Pāriet uz nākamo mēnesi</string>
+    <string name="mtrl_picker_a11y_prev_month">Pāriet uz iepriekšējo mēnesi</string>
+    <string name="mtrl_picker_announce_current_selection">Pašreizējā atlase: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Atlasiet datumu</string>
+    <string name="mtrl_picker_date_header_unselected">Atlasītais datums</string>
+    <string name="mtrl_picker_day_of_week_column_header">Dienu sleja: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nederīgs formāts.</string>
+    <string name="mtrl_picker_invalid_format_example">Piemērs: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Izmantojiet: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nederīgs diapazons.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pāriet uz šo gadu: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Ārpus diapazona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Sākuma datums–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–beigu datums</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Atlasiet diapazonu</string>
+    <string name="mtrl_picker_range_header_unselected">Sākuma datums–beigu datums</string>
+    <string name="mtrl_picker_save">Saglabāt</string>
+    <string name="mtrl_picker_text_input_date_hint">Datums</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Beigu datums</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Sākuma datums</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Pārslēgties uz kalendāra ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pieskarties, lai pārslēgtos uz dienas atlasīšanu</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Pārslēgties uz teksta ievades režīmu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pieskarties, lai pārslēgtos uz gada atlasīšanu</string>
+    <string name="my_account"><![CDATA[Konti]]></string>
+    <string name="my_library_noitems"><![CDATA[Bibliotēkā nav vienumu.]]></string>
+    <string name="my_profile"><![CDATA[Mans profils]]></string>
+    <string name="my_publication"><![CDATA[Mana publikācija]]></string>
+    <string name="my_publications"><![CDATA[Mani laikraksti]]></string>
+    <string name="name"><![CDATA[Nosaukums]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Pārvietoties augšup"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Atvērt navigācijas atvilktni"</string>
+    <string name="navigation_more"><![CDATA[Vairāk]]></string>
+    <string name="new_article_view"><![CDATA[Teksta SmartFlow]]></string>
+    <string name="newspapers"><![CDATA[Laikraksti]]></string>
+    <string name="newsstand"><![CDATA[Avīžu kiosks]]></string>
+    <string name="no_radio"><![CDATA[Radio nav pieejams jautājumu]]></string>
+    <string msgid="478774118347071097" name="not_set">"Nav iestatīts"</string>
+    <string name="off"><![CDATA[Izslēgts]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Pielāgojiet savas Intereses]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="opinion_activity"><![CDATA[Aktivitāte]]></string>
+    <string name="opinions"><![CDATA[Viedokļi]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Iekļaut visus papildinājumus]]></string>
+    <string name="order_subscribe"><![CDATA[Automātiski piegādāt visus jaunos izdevumus]]></string>
+    <string name="other_issues"><![CDATA[Pēdējie izdevumi]]></string>
+    <string name="password_hint"><![CDATA[Parole]]></string>
+    <string name="password_recovery"><![CDATA[Paroles Atjaunošana]]></string>
+    <string name="password_toggle_content_description">Rādīt paroli</string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_purchase_details"><![CDATA[Informācija par pirkumu]]></string>
+    <string name="payment_receipt"><![CDATA[Čeks]]></string>
+    <string name="phone_hint"><![CDATA[Tālruņa numurs (neobligāti)]]></string>
+    <string name="podcasts"><![CDATA[Podkāsts]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_autodelivery"><![CDATA[Automātiskā piegāde]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Atļaut atjaunināšanu fonā]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Abonementu pārvaldība]]></string>
+    <string name="pref_cleanup"><![CDATA[Noņemt jautājumi]]></string>
+    <string name="pref_dataaccess"><![CDATA[Piekļuve datiem]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Atļaut tikai Wi-Fi satura lejupielādi]]></string>
+    <string name="pref_feedback"><![CDATA[Atsauksmes]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Atsauksme par %1$s v%2$s no lietotāja %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Sūtīt mums atsauksmes]]></string>
+    <string name="pref_license"><![CDATA[Atvērtā koda licences]]></string>
+    <string name="pref_license_summary"><![CDATA[Licences detaļas atvērtā koda programmēm]]></string>
+    <string name="pref_storage"><![CDATA[Datu glabāšana]]></string>
+    <string name="pref_storage_summary"><![CDATA[Iestatīt iekšējās krātuves pieejamību]]></string>
+    <string name="pref_subscriptions"><![CDATA[Abonements]]></string>
+    <string name="pref_tips"><![CDATA[PressReader Tips]]></string>
+    <string name="pref_tips_summary"><![CDATA[Atkārtot interfeiss paskaidrojumus]]></string>
+    <string name="pref_version"><![CDATA[Versija]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s versija: \t%2$s]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"Preference “<ns1:g id="SUMMARY">%1$s</ns1:g>” ir kopēta starpliktuvē."</string>
+    <string name="premium_confirmation_warning"><![CDATA[Noteikti atceliet savu pašreizējo abonementu Play veikalā, sadaļā Jūsu konta maksājumi un abonementi.]]></string>
+    <string name="product_single_issue"><![CDATA[Viens izdevums]]></string>
+    <string name="promo_code_hint"><![CDATA[Reklāmas kods (neobligāti)]]></string>
+    <string name="publication_types"><![CDATA[Veidi]]></string>
+    <string name="publications"><![CDATA[Laikraksti]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Atļaut paziņojumus]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Ziniet, kad ir pēdējie numuri ir pieejami un palieciet aktuālā informācijā par jūsu interesēm saistītajām ziņām.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Saņemiet paziņojumus]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Paziņojumus]]></string>
+    <string name="radio_next_article"><![CDATA[Nākamais raksts]]></string>
+    <string name="radio_next_section"><![CDATA[Nākamais\nSadaļa]]></string>
+    <string name="radio_prev_article"><![CDATA[Iepriekšējais raksts]]></string>
+    <string name="radio_prev_section"><![CDATA[Iepriekšējais\nSadaļa]]></string>
+    <string name="rate"><![CDATA[Vērtība]]></string>
+    <string name="reading"><![CDATA[Lasīšana]]></string>
+    <string name="recently_read"><![CDATA[Nesen lasītais]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Maksājuma summa]]></string>
+    <string name="registration_agree_text"><![CDATA[Noklikšķinot uz pogas \"Tālāk\", jūs pieņemat <a href=\\"pressreader://terms-of-use\\">lietošanas nosacījumus</a> un <a href=\\"pressreader://privacy\\">konfidencialitātes politiku</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Piekļuve veciem izdevumiem:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s dienas]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Izdevuma cena:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Piekļuve AdValue pārskatam:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Pārraudzības brīdinājumu maksimālais skaits:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Maksimālais automātiskās lejupielādes skaits:]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Mēneša maksa]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (cena ar atlaidi par pirmo mēnesi; %1$s %3$s par otro un turpmākajiem mēnešiem)]]></string>
+    <string name="remaining_credits"><![CDATA[Atlikušais kredītu skaits:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d izdevumi]]></string>
+    <string name="remaining_issues_title"><![CDATA[Jums ir %d atlikušas problēmas]]></string>
+    <string name="reset_activation"><![CDATA[Atiestatīt aktivizāciju]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Pieteikties vai izveidot kontu, lai piekļūtu pirkumu vēsturei un izmantotu abonementus vairākās ierīcēs. Jūsu pašreizējie pirkumi tiks pievienoti šai kontai.]]></string>
+    <string name="ribbon_free"><![CDATA[BEZ MAKSAS]]></string>
+    <string name="ribbon_new"><![CDATA[JAUNS]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Sponsēts]]></string>
+    <string name="search_local_store"><![CDATA[Meklēt publikācijas]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Meklēt"</string>
+    <string name="search_results"><![CDATA[Meklēšanas rezultāti]]></string>
+    <string name="see_all"><![CDATA[Skatīt visu]]></string>
+    <string name="select_all"><![CDATA[Izvēlēties visus]]></string>
+    <string name="select_product"><![CDATA[Atlasīt produktu]]></string>
+    <string name="sign_out"><![CDATA[Iziet]]></string>
+    <string name="sign_up"><![CDATA[Reģistrēties]]></string>
+    <string name="sing_in"><![CDATA[Pieslēgties]]></string>
+    <string name="small_grid"><![CDATA[Mazs režģis]]></string>
+    <string name="smart_zoom"><![CDATA[SmartZoom]]></string>
+    <string name="sort_alphabet"><![CDATA[Pēc alfabēta]]></string>
+    <string name="sorting"><![CDATA[Kārtošana]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Sāciet savu %s mēģināt]]></string>
+    <string name="state"><![CDATA[Štats]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="street"><![CDATA[Adrese]]></string>
+    <string name="subscribe"><![CDATA[Abonēt]]></string>
+    <string name="subscription_plan"><![CDATA[Abonementa plāns:]]></string>
+    <string name="subscription_plans"><![CDATA[Abonēšanas plāni]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Nav grafiks piegādes]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Jūs varat ieplānot piegādi, izsniedzot pasūtījuma ekrāna]]></string>
+    <string name="suggestions"><![CDATA[Ieteikumi]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[Papildinājumi]]></string>
+    <string name="table_of_contents"><![CDATA[Saturs]]></string>
+    <string name="terms_of_use"><![CDATA[Lietošanas nosacījumi]]></string>
+    <string name="theme"><![CDATA[Lasīšanas tēma]]></string>
+    <string name="theme_dark"><![CDATA[Tumša]]></string>
+    <string name="theme_light"><![CDATA[Gaiša]]></string>
+    <string name="theme_system"><![CDATA[Pielāgot ierīcei]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[Skart, lai apgrieztu]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[Bultiņas norāda izdevumus, kas ir gatavi lejupielādei]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[Lejupielādēt jaunu izdevumu]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[Skart, lai atvērtu teksta skatu. Nospiest un turēt nospiestu, lai atvērtu izvēlni]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[Nospiest un turēt nospiestu, lai veiktu darbības ar rakstu]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[Skart, lai atvērtu īpašās funkcijas]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[Skart virsrakstu vai zaļo bultiņu, lai izlasītu visu ziņu]]></string>
+    <string name="top_free"><![CDATA[Populārākie bezmaksas]]></string>
+    <string name="top_free_magazines"><![CDATA[Populārākie bezmaksas žurnāli]]></string>
+    <string name="top_free_newspapers"><![CDATA[Populārākie bezmaksas laikraksti]]></string>
+    <string name="translate"><![CDATA[Tulkot]]></string>
+    <string name="trial_action"><![CDATA[Sāciet bezmaksas izmēģinājuma periodu]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Jums jau ir šis produkts PressReader.]]></string>
+    <string name="trial_subscription"><![CDATA[bezmaksas izmēģinājums]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Atbloķējiet 7 000 laikrakstus un žurnālus ar neierobežotu lasīšanu. Izpētiet bez maksas 7 dienas.]]></string>
+    <string name="types"><![CDATA[Veidi]]></string>
+    <string name="unlock"><![CDATA[Atbloķēt]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IZSLĒGTS"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"IESLĒGTS"</string>
+    <string name="view"><![CDATA[Skats]]></string>
+    <string name="zip"><![CDATA[Pasta indekss]]></string>
+</resources>

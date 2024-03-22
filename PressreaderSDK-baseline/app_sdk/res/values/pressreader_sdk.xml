@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_name">PressDisplay.com</string>
+    <string name="is_free_app">false</string>
+    <!--    <string name="service_name">Kiosco\u0020Perfil\u0020Beta\u0020</string> -->
+    <string name="newsfeed_enabled">true</string>
+
+    <string name="sdk_exit_button_text">Exit to Sample</string>
+    <bool name="sdk_exit_button">true</bool>
+    <bool name="sdk_homefeed_button">true</bool>
+    <bool name="sdk_catalog_button">true</bool>
+    <bool name="sdk_mylibrary_button">true</bool>
+    <bool name="sdk_accounts_button">true</bool>
+    <bool name="sdk_settings_button">true</bool>
+    <bool name="sdk_bookmarks_button">true</bool>
+
+    <!--    <string name="local_server_url">http://192.168.0.1</string>-->
+
+    <string name="enable_social_signin">false</string>
+
+    <!-- fill out for Facebook login -->
+    <string name="facebook_app_id" />
+    <string name="facebook_app_secret" />
+
+    <!-- fill out for Twitter login -->
+    <string name="twitter_app_id" />
+    <string name="twitter_app_secret" />
+
+    <bool name="catalog_books_section">false</bool>
+
+    <color name="color_brand">#2bc48c</color>
+    <color name="color_brand_dark">#207a63</color>
+    <color name="color_background_dark">#232425</color>
+    <color name="brand_gradient_start_color">#1f836a</color>
+    <color name="brand_gradient_end_color">#022639</color>
+
+    <string name="pr_downloading_notification_text">Downloading</string>
+
+</resources>

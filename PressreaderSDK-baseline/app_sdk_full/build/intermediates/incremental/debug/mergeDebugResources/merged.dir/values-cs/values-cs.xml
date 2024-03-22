@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"zítra"</item>
+        <item msgid="2973062968038355991" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> dny"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"za 1 hodinu"</item>
+        <item msgid="3705373766798013406" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> hod."</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"za 1 min"</item>
+        <item msgid="4216113292706568726" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"za 1 s"</item>
+        <item msgid="5495880108825805108" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"včera"</item>
+        <item msgid="3453342639616481191" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> dny"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"před 1 h"</item>
+        <item msgid="6889970745748538901" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> h"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"před 1 min"</item>
+        <item msgid="851164968597150710" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"před 1 s"</item>
+        <item msgid="3699169366650930415" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 hodina"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> h"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 minuta"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 sekunda"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"zítra"</item>
+        <item msgid="5109449375100953247" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> dny"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"za 1 hodinu"</item>
+        <item msgid="547290677353727389" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> hod."</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"za 1 minutu"</item>
+        <item msgid="3330713936399448749" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"za 1 sekundu"</item>
+        <item msgid="1241926116443974687" quantity="other">"za <ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"včera"</item>
+        <item msgid="2479586466153314633" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> dny"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"před 1 h"</item>
+        <item msgid="2467273239587587569" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> h"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"před 1 min"</item>
+        <item msgid="2176942008915455116" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"před 1 sekundou"</item>
+        <item msgid="3903706804349556379" quantity="other">"před <ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nové oznámení</item>
+    <item quantity="few">%d nová oznámení</item>
+    <item quantity="many">%d nového oznámení</item>
+    <item quantity="other">%d nových oznámení</item>
+  </plurals>
+    <string name="Browse"><![CDATA[Gennemse]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Další možnosti"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VYP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ZAP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mezerník"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Dotaz pro vyhledávání"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Sdílet s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="about_hotspots"><![CDATA[Om HotSpots]]></string>
+    <string name="about_trends"><![CDATA[Om tendenser]]></string>
+    <string name="account_created"><![CDATA[Din konto blev oprettet med succes.]]></string>
+    <string name="account_name"><![CDATA[Kontonavn]]></string>
+    <string name="account_owner"><![CDATA[Kontohaver]]></string>
+    <string name="account_service_name"><![CDATA[Tjenestenavn]]></string>
+    <string name="account_status"><![CDATA[Kontostatus]]></string>
+    <string name="account_updated"><![CDATA[Kontoinformationer opdateret]]></string>
+    <string name="add_account"><![CDATA[Přidejte účet]]></string>
+    <string name="add_my_publications"><![CDATA[Tilføj til mine publikationer]]></string>
+    <string name="add_opinion"><![CDATA[Tilføj udtalelse]]></string>
+    <string name="add_opinion_text_sample"><![CDATA[Skab kærlighed og ikke penge]]></string>
+    <string name="add_to_collection"><![CDATA[Tilføj til samling]]></string>
+    <string name="add_video"><![CDATA[Tilføj video]]></string>
+    <string name="advanced_search"><![CDATA[Avanceret søgning]]></string>
+    <string name="all"><![CDATA[Alt]]></string>
+    <string name="all_downloads"><![CDATA[Všechna stahování]]></string>
+    <string name="article_comments"><![CDATA[% Kommentarer]]></string>
+    <string name="article_flow_bookmarks_page_set_page_amount"><![CDATA[%s Stránka]]></string>
+    <string name="article_flow_bookmarks_page_set_pages_amount"><![CDATA[%s Stránky]]></string>
+    <string name="article_homefeed_section_continue_more"><![CDATA[Více %s]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_library"><![CDATA[Bibliotek og gruppe]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Vælg venligst tjeneste]]></string>
+    <string name="authorization_social_signin"><![CDATA[Log ind med]]></string>
+    <string name="authorization_text"><![CDATA[Du skal være abonnent på %s for at have adgang til dette indhold.]]></string>
+    <string name="authorized_at"><![CDATA[Godkendt med succes på %s]]></string>
+    <string name="auto"><![CDATA[Auto]]></string>
+    <string name="auto_download"><![CDATA[Automatické stahování]]></string>
+    <string name="auto_download_issue_available"><![CDATA[Ny udgave er tilgængelig: %s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Automaticky doručovat všechna nová vydání]]></string>
+    <string name="auto_download_new_issues_question"><![CDATA[Automaticky stahovat nová vydání?]]></string>
+    <string name="auto_renewed"><![CDATA[Automatisk fornyet]]></string>
+    <string name="auto_translate_prompt_button_general_negative"><![CDATA[Ne]]></string>
+    <string name="auto_translate_prompt_button_general_positive"><![CDATA[Ano]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_negative"><![CDATA[Zavřít]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_positive"><![CDATA[Nastavení]]></string>
+    <string name="auto_translate_prompt_do_not_show_again"><![CDATA[Zobrazovat toto znovu]]></string>
+    <string name="auto_translate_prompt_message_general"><![CDATA[%1$s [šipka] %2$s
+
+Můžete to kdykoli vypnout.]]></string>
+    <string name="auto_translate_prompt_message_limit_reached"><![CDATA[Dosáhli jste maximálního počtu uložených jazykových dvojic. Otevřete nastavení, abyste spravovali své vybrané jazyky.]]></string>
+    <string name="auto_translate_prompt_title_general"><![CDATA[Povolit automatický překlad pro tyto jazyky?]]></string>
+    <string name="auto_translate_prompt_title_limit_reached"><![CDATA[Předvolby překladu]]></string>
+    <string name="back_issue_archive"><![CDATA[Archiv Starých Vydání]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Neomezený]]></string>
+    <string name="balance"><![CDATA[Zůstatek]]></string>
+    <string name="balance_description"><![CDATA[%1$s z %2$s]]></string>
+    <string name="be_the_first_one_to_comment"><![CDATA[Vær den første til at kommentere]]></string>
+    <string name="billing_information"><![CDATA[Faktureringsoplysninger]]></string>
+    <string name="blog"><![CDATA[Blog]]></string>
+    <string name="book_reader_bookmarks"><![CDATA[Záložky]]></string>
+    <string name="book_reader_bookmarks_empty_state"><![CDATA[Zatím žádné záložky]]></string>
+    <string name="book_reader_font_popup_alignment"><![CDATA[Zarovnání]]></string>
+    <string name="book_reader_font_popup_spacing"><![CDATA[Mezery]]></string>
+    <string name="book_reader_font_popup_theme_color"><![CDATA[Barva Motivu]]></string>
+    <string name="book_reader_font_popup_title"><![CDATA[Písma]]></string>
+    <string name="book_reader_get_book"><![CDATA[Získat Bnihu]]></string>
+    <string name="book_reader_highlights"><![CDATA[Zvýraznění]]></string>
+    <string name="book_reader_highlights_empty_state"><![CDATA[Zatím žádná zvýraznění]]></string>
+    <string name="book_reader_highlights_popup_search"><![CDATA[Hledej]]></string>
+    <string name="book_reader_no_content_error_message"><![CDATA[Neexistuje žádný obsah ke stažení]]></string>
+    <string name="book_reader_page_format"><![CDATA[Stránka %1$d z %2$d]]></string>
+    <string name="book_reader_purchase_popup_button"><![CDATA[Okay]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Knihy zakoupené na webu PressReader se stávají dostupnými k četbě v této aplikaci, pokud používáte stejné údaje o účtu.]]></string>
+    <string name="book_reader_purchase_popup_title"><![CDATA[Získat tuto knihu]]></string>
+    <string name="book_reader_reading_position_message"><![CDATA[Momentálně jste na stránce %1$s. Naposledy přečtená stránka je %2$s z %3$s ze dne %4$s v %5$s. Chcete přejít na stránku %6$s?]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Nejnovější přečtená stránka]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Jsme potěšeni, že si knihu užíváte! Pokud chcete pokračovat ve svém dobrodružství, přejděte nyní na \'Podrobnosti o knize\'.]]></string>
+    <string name="book_reader_search_hint"><![CDATA[Hledat slovo nebo frázi]]></string>
+    <string name="book_reader_table_of_content"><![CDATA[Obsah]]></string>
+    <string name="bookmark"><![CDATA[Bogmærke]]></string>
+    <string name="bookmarked"><![CDATA[Bogmærket]]></string>
+    <string name="bookmarks"><![CDATA[Bogmærker]]></string>
+    <string name="bookmarks_view_all_bookmarks"><![CDATA[Všechny Záložky]]></string>
+    <string name="bookmarks_view_empty"><![CDATA[Záložky se zde zobrazí]]></string>
+    <string name="books"><![CDATA[Knihy]]></string>
+    <string name="books_banner_action"><![CDATA[Procházet Knihy]]></string>
+    <string name="books_banner_description"><![CDATA[Svět vysokokvalitních novin, časopisů a knih, vše na jedné platformě.]]></string>
+    <string name="books_banner_title"><![CDATA[Čtěte knihy na PressReader]]></string>
+    <string name="books_catalog_category_error_message"><![CDATA[Nepodařilo se načíst knihy podle kategorie]]></string>
+    <string name="books_catalog_featured_error_message"><![CDATA[Nepodařilo se načíst doporučované knihy]]></string>
+    <string name="books_catalog_global_error_message"><![CDATA[Nepodařilo se načíst katalog knih]]></string>
+    <string name="books_catalog_just_added_error_message"><![CDATA[Nepodařilo se načíst právě přidané knihy]]></string>
+    <string name="books_catalog_new_releases_error_message"><![CDATA[Nepodařilo se načíst nově vydané knihy]]></string>
+    <string name="books_description_show_less"><![CDATA[zobrazit méně]]></string>
+    <string name="books_description_show_more"><![CDATA[zobrazit více]]></string>
+    <string name="books_details_brought_by"><![CDATA[Přináší vám]]></string>
+    <string name="books_details_button_get_book"><![CDATA[Získat Knihu]]></string>
+    <string name="books_details_button_read"><![CDATA[Číst]]></string>
+    <string name="books_details_get_more_error_message"><![CDATA[Nepodařilo se načíst další knihy]]></string>
+    <string name="books_details_isbn"><![CDATA[Isbn]]></string>
+    <string name="books_details_language"><![CDATA[Jazyk]]></string>
+    <string name="books_details_pages"><![CDATA[Stránky]]></string>
+    <string name="books_details_publisher"><![CDATA[Vydavatel]]></string>
+    <string name="books_details_released"><![CDATA[Vydáno]]></string>
+    <string name="books_details_sample"><![CDATA[Ukázka]]></string>
+    <string name="books_details_seller"><![CDATA[Prodejce]]></string>
+    <string name="books_details_series_format"><![CDATA[%1$s: Kniha %2$s]]></string>
+    <string name="books_downloading_limit_message"><![CDATA[Dosáhli jste limitu po sobě jdoucích stahování pro tuto dobu. Zkuste to prosím později znovu.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Najít místo s HotSpot]]></string>
+    <string name="books_license_expired_message"><![CDATA[Pokud chcete pokračovat v čtení, navštivte místo s cestovním a turistickým HotSpotem a prodlužte si svůj přístup, nebo si zakupte svou e-knihu (v závislosti na dostupnosti) na pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Omlouváme se, ale tato kniha již není k dispozici]]></string>
+    <string name="books_paid_message"><![CDATA[Prosím, vyberte jiný název.]]></string>
+    <string name="books_paid_title"><![CDATA[Omlouváme se, tento titul není k dispozici.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Rozbalit napůl</string>
+    <string name="breaking_news"><![CDATA[Sidste nyt]]></string>
+    <string name="brought_to_you_by"><![CDATA[Přináší vám]]></string>
+    <string name="browse_catalog"><![CDATA[Udforsk]]></string>
+    <string name="btn_allow"><![CDATA[Tillad]]></string>
+    <string name="btn_back"><![CDATA[Tilbage]]></string>
+    <string name="btn_cancel"><![CDATA[Annuller]]></string>
+    <string name="btn_confirm"><![CDATA[Bekræft]]></string>
+    <string name="btn_delete"><![CDATA[Slet]]></string>
+    <string name="btn_download"><![CDATA[Download]]></string>
+    <string name="btn_downloading"><![CDATA[Downloader]]></string>
+    <string name="btn_font_size"><![CDATA[Skriftstørrelse]]></string>
+    <string name="btn_listen"><![CDATA[Lyt]]></string>
+    <string name="btn_next"><![CDATA[Næste]]></string>
+    <string name="btn_no"><![CDATA[Nej]]></string>
+    <string name="btn_ok"><![CDATA[Okay]]></string>
+    <string name="btn_page"><![CDATA[Side]]></string>
+    <string name="btn_retry"><![CDATA[Prøv igen]]></string>
+    <string name="btn_send"><![CDATA[Send]]></string>
+    <string name="btn_share"><![CDATA[Del]]></string>
+    <string name="btn_text_smart"><![CDATA[SmartFlow]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Afmeld]]></string>
+    <string name="btn_yes"><![CDATA[Ja]]></string>
+    <string name="bump_it"><![CDATA[Opstemme]]></string>
+    <string name="bump_it_counter"><![CDATA[Opstemme (%d)]]></string>
+    <string name="bumped"><![CDATA[Opstemt]]></string>
+    <string name="buncle_purchase_error_already_applied"><![CDATA[Balíček již byl použit]]></string>
+    <string name="bundle_all_you_can_read_title"><![CDATA[Vše, co můžete číst]]></string>
+    <string name="bundle_cell_footer"><![CDATA[Obnovuje se automaticky. Kdykoliv můžete zrušit.]]></string>
+    <string name="bundle_cell_subtitle"><![CDATA[Přihlaste se a čtěte všechny dostupné publikace]]></string>
+    <string name="bundle_empty_result"><![CDATA[Nebyly nalezeny žádné předplatné]]></string>
+    <string name="bundle_footer_text"><![CDATA[Ceny plánů jsou uváděny na základě opakovaného měsíčního fakturování. Můžete kdykoli zrušit. <br>Platíme vydavatelům za všechna čtená vydání prostřednictvím měsíčních předplatných plánů. <a href=\"pressreader://fair-usage\">Platí pravidla spravedlivého použití</a>. Všechny plány jsou určeny pro osobní použití jednotlivců. Obchodní sazby se stanovují na základě počtu zaměstnanců ve vaší organizaci.]]></string>
+    <string name="bundle_price_per_amount_months"><![CDATA[%1$s / %2$s měsíce]]></string>
+    <string name="bundle_price_per_bi_week"><![CDATA[%s / dva týdně]]></string>
+    <string name="bundle_price_per_bi_year"><![CDATA[%s / pololetní]]></string>
+    <string name="bundle_price_per_half_year"><![CDATA[%s / půlrok]]></string>
+    <string name="bundle_price_per_month"><![CDATA[%s /  měsíc]]></string>
+    <string name="bundle_price_per_quarter"><![CDATA[%s / čtvrtletí]]></string>
+    <string name="bundle_price_per_week"><![CDATA[%s / týden]]></string>
+    <string name="bundle_price_per_year"><![CDATA[%s / rok]]></string>
+    <string name="bundle_price_save"><![CDATA[(uložit %s)]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Koupit %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Vyzkoušejte zdarma na %1$s dní \nPotom %2$s]]></string>
+    <string name="bundle_product_cancel"><![CDATA[Annullere produktabonnement?]]></string>
+    <string name="bundle_purchase_error_registration_required"><![CDATA[Je vyžadována Registrace]]></string>
+    <string name="bundle_purchase_error_unknown"><![CDATA[Při nákupu produktu došlo k neočekávané chybě. Prosím, zkuste to znovu.]]></string>
+    <string name="bundle_title_subscription_subtitle"><![CDATA[Nová vydání %s]]></string>
+    <string name="bundle_title_subscription_title"><![CDATA[%s Předplatného]]></string>
+    <string name="business"><![CDATA[Virksomhed]]></string>
+    <string name="calendar_year_chunk_title"><![CDATA[%1$s - %2$s]]></string>
+    <string name="campaign_all_issues_claimed"><![CDATA[Alle spørgsmål, som er blevet rejst]]></string>
+    <string name="campaign_all_issues_claimed_description"><![CDATA[Åh nej! Alle disse spørgsmål er allerede blevet taget op. Du kan stadig få et gratis nummer, når du besøger en af vores HotSpots.]]></string>
+    <string name="categories"><![CDATA[Kategorier]]></string>
+    <string name="channel"><![CDATA[Kanal]]></string>
+    <string name="channel_feed"><![CDATA[Kanalfeed]]></string>
+    <string name="channel_full_title"><![CDATA[%1$s på %2$s]]></string>
+    <string name="channels"><![CDATA[Kanaler]]></string>
+    <string name="channels_empty_result"><![CDATA[Nebyly nalezeny žádné kanály]]></string>
+    <string name="channels_other_sources"><![CDATA[Ostatní zdroje]]></string>
+    <string name="channels_sources"><![CDATA[Zdroje]]></string>
+    <string name="character_counter_content_description">Zadané znaky: %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Byl překročen povolený počet znaků (%1$d z %2$d)</string>
+    <string name="choose_publications"><![CDATA[Vyberte publikace]]></string>
+    <string name="choose_your_plan"><![CDATA[Vælg din plan]]></string>
+    <string name="city"><![CDATA[By]]></string>
+    <string name="cleanup_never"><![CDATA[Aldrig]]></string>
+    <string name="clear"><![CDATA[Vyčistit]]></string>
+    <string name="clear_history"><![CDATA[Ryd historik]]></string>
+    <string name="clear_text_end_icon_content_description">Vymazat text</string>
+    <string name="client_name_hint"><![CDATA[Enhedsnavn]]></string>
+    <string name="close"><![CDATA[Zavřít]]></string>
+    <string name="collection_options"><![CDATA[Indsamlingsmuligheder]]></string>
+    <string name="collection_save"><![CDATA[Gem]]></string>
+    <string name="collections"><![CDATA[Indsamlinger]]></string>
+    <string name="collections_empty_result"><![CDATA[Nebyly nalezeny žádné kolekce]]></string>
+    <string name="com_appboy_feed_connection_error_body">Nelze navázat síťové připojení. Prosím zkuste to znovu později.</string>
+    <string name="com_appboy_feed_connection_error_title">Chyba připojení</string>
+    <string name="com_appboy_feed_empty">Nemáme žádné aktualizace. Zkontrolujte prosím znovu později.</string>
+    <string name="comment_post"><![CDATA[Indlæg]]></string>
+    <string name="comment_post_tip"><![CDATA[Sig noget...]]></string>
+    <string name="comment_url_copied_to_clipboard"><![CDATA[Kommentartekst kopieret til udklipsholderen]]></string>
+    <string name="commented"><![CDATA[Kommenteret]]></string>
+    <string name="comments"><![CDATA[Kommentarer]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Povolit</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivace služeb Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalovat</string>
+    <string name="common_google_play_services_install_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Instalace služeb Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost služeb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="common_google_play_services_unsupported_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Aktualizovat</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se k účtu Google</string>
+    <string name="company_address"><![CDATA[PressReader.com
+200-13111 Vanier Place
+Richmond BC V6V 2J1
+Canada]]></string>
+    <string name="company_hint"><![CDATA[Virksomhedsnavn (valgfrit)]]></string>
+    <string name="complete_action_faild"><![CDATA[Kan ikke afslutte handling]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Bekræft adgangskode]]></string>
+    <string name="confirmation"><![CDATA[Bekræftelse]]></string>
+    <string name="contact_us"><![CDATA[Kontakt os]]></string>
+    <string name="continue_reading"><![CDATA[Fortsæt læsning]]></string>
+    <string name="continue_with"><![CDATA[Pokračovat s]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Artikeltekst kopieret til udklipsholderen]]></string>
+    <string name="copies_left"><![CDATA[%s kopier tilbage]]></string>
+    <string msgid="3209159573327985035" name="copy">"Kopírovat"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Odkaz zkopírován do schránky"</string>
+    <string name="couldnt_find_any_stories"><![CDATA[Nepodařilo se nám najít žádné
+nedávné příběhy k tomuto zájmu.]]></string>
+    <string name="count_pages"><![CDATA[%d stránky]]></string>
+    <string name="countries"><![CDATA[Lande]]></string>
+    <string name="country"><![CDATA[Land]]></string>
+    <string name="crashreport_message"><![CDATA[Applikationens afbrydelse er blevet opdaget.\nVil du give udvikleren de tekniske data i forbindelse med afbrydelsen, så de kan forsøge at løse problemet?\nIngen brugerfølsomme data bliver sendt.]]></string>
+    <string name="create"><![CDATA[Opret]]></string>
+    <string name="create_new_collection"><![CDATA[Opret ny samling]]></string>
+    <string name="creating_bookmark"><![CDATA[Opretter bogmærke]]></string>
+    <string name="credit_billing_address"><![CDATA[Faktureringsadresse]]></string>
+    <string name="credit_card_cvv"><![CDATA[CVV]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Udløber måned]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Udløber år]]></string>
+    <string name="credit_card_holder"><![CDATA[Kortholders navn]]></string>
+    <string name="credit_card_info"><![CDATA[%1$s (Platnost do %2$d/%3$d)]]></string>
+    <string name="credit_card_number"><![CDATA[Kortnummer]]></string>
+    <string name="credit_card_type"><![CDATA[Kreditkort]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Vælg kreditkort]]></string>
+    <string name="current_location"><![CDATA[Nuværende placering]]></string>
+    <string name="current_password"><![CDATA[Nuværende adgangskode]]></string>
+    <string name="customer_service"><![CDATA[Zákaznická podpora]]></string>
+    <string name="data_storage_path"><![CDATA[Datalagringssti]]></string>
+    <string name="decrease_font"><![CDATA[Reducerer skrifttype]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ups! Nenašli jsme to, co hledáte.]]></string>
+    <string name="default_device_name"><![CDATA[Min enhed]]></string>
+    <string name="default_storage"><![CDATA[Standardopbevaring]]></string>
+    <string name="delete_account"><![CDATA[Smazat Účet]]></string>
+    <string name="delete_account_confirmation_body"><![CDATA[Vezměte prosím na vědomí, že úplné odstranění vašich osobních údajů bude trvat několik dní. Pokud jste zakoupili jakékoli předplatné pomocí účtu ve vašem obchodě s aplikacemi, prosím zrušte je v obchodě s aplikacemi.]]></string>
+    <string name="delete_account_confirmation_title"><![CDATA[Jste si jistý/á, že chcete smazat svůj účet?]]></string>
+    <string name="delete_comment"><![CDATA[Slet kommentar]]></string>
+    <string name="delete_post_confirmation"><![CDATA[Er du sikker på, at du vil slette denne artikel?]]></string>
+    <string name="deleted_comment"><![CDATA[Slettet kommentar]]></string>
+    <string name="description"><![CDATA[Beskrivelse]]></string>
+    <string name="deselect_all"><![CDATA[Fravælg alle]]></string>
+    <string name="device_management_date"><![CDATA[Poslední aktivita: %s]]></string>
+    <string name="device_management_deauthorize"><![CDATA[Zrušit autorizaci]]></string>
+    <string name="device_management_dialog_message"><![CDATA[Oprávnění pro tento zařízení bude zrušeno. Pro pokračování v čtení na tomto zařízení se budete muset znovu přihlásit.]]></string>
+    <string name="device_management_dialog_title"><![CDATA[Zrušit autorizaci %s?]]></string>
+    <string name="device_management_this_device"><![CDATA[Toto zařízení]]></string>
+    <string name="dialogs_dlg_confirm_delete_collection"><![CDATA[Er du sikker på, at du vil slette indsamlingen?]]></string>
+    <string name="dialogs_dlg_confirm_delete_comment"><![CDATA[Er du sikker på, at du vil slette kommentaren?]]></string>
+    <string name="dialogs_dlg_discard_changes"><![CDATA[Er du sikker på, at du vil slette ændringerne?]]></string>
+    <string name="discover_gift"><![CDATA[Se gaver]]></string>
+    <string name="dismiss"><![CDATA[Zavřít]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Lydstreaming for den valgte artikel er ikke tilgængelig.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Der opstod en fejl under afspilning af artiklen.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Aplikace PressReader musí být aktivována při prvním spuštění. Umožněte, prosím, připojení k internetu a restartujte aplikaci PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Omezené nebo žádné připojení k serveru.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Potvrďte, prosím, nákup starého vydání za dalších %s.]]></string>
+    <string name="dlg_confirm_delete_my_library_selected_items"><![CDATA[Smazat všechny vybrané položky z knihovny?]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[Váš účet bude zpoplatněn: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Chcete přenést všechny stažené noviny na vaši kartu SD?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[Nebyla rozpoznána žádná karta SD, chcete použít vnitřní paměť jako úložiště novin?\n\nDostupná paměť: %sMb, jedny noviny vyžadují pro uložení 5 – 50 Mb.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Váš odběr je neaktivní. Aktualizujte, prosím, svůj odběr nebo kontaktujte naši zákaznickou podporu.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Nainstalujte a nakonfigurujte e-mailového klienta, aby bylo možné úspěšně dokončit operaci.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Na přístroji už nezbývá místo. Odeberte, prosím, obsah ze své karty SD.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Funkce přiblížení je k dispozici po dokončení stahování vydání.]]></string>
+    <string name="dlg_opening"><![CDATA[Probíhá zpracování…]]></string>
+    <string name="dlg_processing"><![CDATA[Probíhá zpracování…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Ukaž ještě jednou?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Tip]]></string>
+    <string name="do_you_want_move_files"><![CDATA[Chcete přesunout všechny soubory na nové umístění?]]></string>
+    <string name="documents"><![CDATA[Dokumenty]]></string>
+    <string name="dont_ask"><![CDATA[Neptejte se mě znovu]]></string>
+    <string name="dont_show_this_again"><![CDATA[Nezobrazovat toto znovu]]></string>
+    <string name="download_wifi_only"><![CDATA[Stahovat pouze přes Wi-Fi]]></string>
+    <string name="downloaded"><![CDATA[Staženo]]></string>
+    <string name="downloading_large_file"><![CDATA[Stažení Souboru]]></string>
+    <string name="downloading_new_issue"><![CDATA[Stahování nových vydání]]></string>
+    <string name="dump_it"><![CDATA[Nelíbí se mi]]></string>
+    <string name="dump_it_counter"><![CDATA[Nelíbí se mi (%d)]]></string>
+    <string name="edit"><![CDATA[Upravit]]></string>
+    <string name="editions"><![CDATA[Vydání]]></string>
+    <string name="editorial"><![CDATA[Editoriál]]></string>
+    <string name="email"><![CDATA[E-mail]]></string>
+    <string name="email_address"><![CDATA[Emailovou Adresu]]></string>
+    <string name="email_communication"><![CDATA[Povolit komunikaci prostřednictvím e-mailu:]]></string>
+    <string name="email_communication_account"><![CDATA[Upozornění na služby]]></string>
+    <string name="email_communication_account_description"><![CDATA[Oblíbená vydání, témata a informace o účtu.]]></string>
+    <string name="email_communication_promo"><![CDATA[Aktualizace produktu]]></string>
+    <string name="email_communication_promo_description"><![CDATA[Nové tituly, aktualizace funkcí a další informace.]]></string>
+    <string name="email_communication_title"><![CDATA[Komunikace prostřednictvím e-mailu]]></string>
+    <string name="email_hint"><![CDATA[E-mailová adresa]]></string>
+    <string name="enter_billing_info"><![CDATA[Zadejte své fakturační údaje...]]></string>
+    <string name="enter_or_paste_url"><![CDATA[Zadejte nebo vložte URL]]></string>
+    <string name="entertainment"><![CDATA[Zábava]]></string>
+    <string name="error_access_account"><![CDATA[Vyskytl se problém při přístupu k vašemu účtu na PressReader]]></string>
+    <string name="error_access_not_available"><![CDATA[Na tomto zařízení se nemůžete přihlásit]]></string>
+    <string name="error_access_token_expired"><![CDATA[Nepodařilo se získat přístupový token. Prosím, proveďte opětovné autorizování pomocí externího autorizačního systému.]]></string>
+    <string name="error_access_token_from_diff_account"><![CDATA[Externí uživatelské ID, které je spojeno s uživatelským účtem na PressReader, se neshoduje s externím ID, se kterým je uživatel aktuálně přihlášen v externím systému.]]></string>
+    <string name="error_account_is_used_for_singin"><![CDATA[Externí profil pro přihlášení již existuje.]]></string>
+    <string name="error_auhtorize_one_more_time"><![CDATA[Prosím, přihlaste se do svého účtu ještě jednou.]]></string>
+    <string name="error_bookmark_limit_exceeded"><![CDATA[Omlouvám se, překročili jste počet povolených záložek.]]></string>
+    <string name="error_bookmark_limit_per_issue_exceeded"><![CDATA[Je nám líto, ale překročil jste počet záložek přípustných pro toto vydání.]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Nelze dokončit nákup.]]></string>
+    <string name="error_collection_name_not_empty"><![CDATA[Název kolekce nemůže být prázdný]]></string>
+    <string name="error_connection"><![CDATA[Nelze navázat připojení k síti.]]></string>
+    <string name="error_contacting_server"><![CDATA[Nelze se připojit k serveru.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Nelze se připojit k serveru. Opakujte akci.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Typ kreditní karty se neshoduje s číslem kreditní karty]]></string>
+    <string name="error_device_authorization"><![CDATA[Autorizace přístroje se nezdařila.]]></string>
+    <string name="error_device_authorization_signin"><![CDATA[Oops, anonymní přístup selhal. Prosím, přihlaste se svým osobním účtem místo toho]]></string>
+    <string name="error_dialog_title"><![CDATA[Chyba]]></string>
+    <string name="error_email_exists"><![CDATA[Jejda. Vypadá to, že účet s touto e-mailovou adresou již existuje.]]></string>
+    <string name="error_email_exists_restore_password"><![CDATA[Vypadá to, že už máte účet.]]></string>
+    <string name="error_email_in_use"><![CDATA[Tato e-mailová adresa je již používána]]></string>
+    <string name="error_empty_city"><![CDATA[Je vyžadováno město]]></string>
+    <string name="error_empty_clientname"><![CDATA[Název přístroje nesmí být prázdný.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Potvrzení hesla je povinné pole]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[Je vyžadován kód CVV]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Je vyžadováno jméno držitele karty]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Je vyžadována kreditní karta]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Je vyžadována adresa, ulice]]></string>
+    <string name="error_empty_email"><![CDATA[E-mail je povinné pole]]></string>
+    <string name="error_empty_field"><![CDATA[Toto pole by nemělo být prázdné]]></string>
+    <string name="error_empty_first_name"><![CDATA[Křestní jméno je povinné pole]]></string>
+    <string name="error_empty_last_name"><![CDATA[Příjmení je povinné pole]]></string>
+    <string name="error_empty_password"><![CDATA[Heslo nesmí být prázdné.]]></string>
+    <string name="error_empty_password2"><![CDATA[Heslo je povinné pole]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Je vyžadováno telefonní číslo]]></string>
+    <string name="error_empty_required"><![CDATA[Povinné pole]]></string>
+    <string name="error_empty_state"><![CDATA[Je vyžadován stát]]></string>
+    <string name="error_empty_username"><![CDATA[Uživatelské jméno nesmí být prázdné.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Je vyžadováno PSČ]]></string>
+    <string name="error_expiration_date"><![CDATA[Neplatné datum expirace kreditní karty]]></string>
+    <string name="error_externalauth_500"><![CDATA[Došlo k chybě. Zkuste to prosím znovu.]]></string>
+    <string name="error_icon_content_description">Chyba</string>
+    <string name="error_invalid_email"><![CDATA[Musíte použít platnou e-mailovou adresu]]></string>
+    <string name="error_issue_is_archive"><![CDATA[Archivovaná vydání lze stahovat omezeně]]></string>
+    <string name="error_linked_to_another_account"><![CDATA[Tento účet je již používán.]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Soubory pro tuto publikaci nejsou kompletní. Zkuste, prosím, stáhnout tuto publikaci znovu.]]></string>
+    <string name="error_network_error"><![CDATA[Chyba sítě]]></string>
+    <string name="error_nickname_exists"><![CDATA[Účet s tímto přezdívkou již existuje]]></string>
+    <string name="error_no_internet_connection"><![CDATA[Žádné připojení k internetu]]></string>
+    <string name="error_no_internet_connection_description"><![CDATA[Připojte se k Wi-Fi nebo zapněte mobilní data pro aplikaci PressReader.]]></string>
+    <string name="error_ordering_issue"><![CDATA[Nelze objednat toto vydání. Kontaktujte, prosím, technickou podporu.]]></string>
+    <string name="error_password_required"><![CDATA[Pole hesla je povinné]]></string>
+    <string name="error_password_short"><![CDATA[Ujistěte se, prosím, že heslo obsahuje minimálně 6 znaků.]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Hesla se neshodují]]></string>
+    <string name="error_please_reset_activation"><![CDATA[Prosím, resetujte aktivaci]]></string>
+    <string name="error_post_empty"><![CDATA[Nelze publikovat prázdný příspěvek]]></string>
+    <string name="error_problem_internet_connection"><![CDATA[Vypadá to, že je problém s připojením k internetu]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Chcete-li zakoupit toto vydání, zadejte číslo platné kreditní karty na www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Chcete-li zakoupit toto vydání, zadejte číslo platné kreditní karty na www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Archivovaná vydání lze stahovat omezeně]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Vybraný titul není na žádost vydavatele aktuálně k dispozici ke stažení]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Vybraný titul není na žádost vydavatele aktuálně k dispozici ke stažení]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Stahování aktuálního obsahu je na tomto webu zakázáno]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Čtení/stahování aktuálního obsahu je z tohoto místa zakázáno]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Čtení/stahování aktuálního obsahu je z tohoto místa zakázáno]]></string>
+    <string name="error_response_200"><![CDATA[U tohoto účtu je již aktivován jiný přístroj s tímto názvem. Vyberte, prosím, jiný název přístroje.]]></string>
+    <string name="error_response_201"><![CDATA[Příliš mnoho aktivací. Zrušte, prosím, autorizaci jednoho ze stávajících přístrojů předtím, než budete pokračovat s tímto přístrojem.]]></string>
+    <string name="error_searching"><![CDATA[Omlouváme se, ale nebyly nalezeny žádné výsledky pro \"%1$s\".]]></string>
+    <string name="error_storage_not_available"><![CDATA[Úložiště SD není k dispozici.]]></string>
+    <string name="error_try_again"><![CDATA[Zkuste to znovu]]></string>
+    <string name="error_tts_not_supported"><![CDATA[Android text-to-speech není podporován. Prosím, přepněte na online streamování rádia.]]></string>
+    <string name="error_unexpected_error"><![CDATA[Došlo k neočekávané chybě]]></string>
+    <string name="error_update_subscription_change_billing_info"><![CDATA[Fakturační údaje jsou zastaralé nebo neúplné]]></string>
+    <string name="error_user_authorization"><![CDATA[Autorizace se nezdařila. Zkontrolujte, prosím, své uživatelské jméno a heslo.]]></string>
+    <string name="error_user_name_in_use"><![CDATA[Existuje sdílený profil se stejným externím ID]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Tento přístroj je již autorizován s těmito pověřeními.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Zadaný reklamní kód není správný]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Rozšířená nastavení"</string>
+    <string name="expiration_date"><![CDATA[Datum expirace]]></string>
+    <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Kopírovat odkaz"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Otevřít v prohlížeči"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Sdílet odkaz"</string>
+    <string name="featured"><![CDATA[Ukázka]]></string>
+    <string name="featured_articles"><![CDATA[Oblíbené Články]]></string>
+    <string name="featured_by"><![CDATA[Představeno od]]></string>
+    <string name="financial"><![CDATA[Finanční]]></string>
+    <string name="first_name_hint"><![CDATA[Křestní jméno]]></string>
+    <string name="follow"><![CDATA[Sledovat]]></string>
+    <string name="followers"><![CDATA[Sledující]]></string>
+    <string name="following"><![CDATA[Sledování]]></string>
+    <string name="for_hotspot_sponsors_body"><![CDATA[Vítáme nové partnery, kteří se chtějí zapojit do vzrušujících příležitostí vystavení svých značek prostřednictvím tisíců míst s přístupem k internetu HotSpot. Pro více informací nás prosím kontaktujte.]]></string>
+    <string name="for_hotspotsponsors"><![CDATA[Pro sponzory HotSpot]]></string>
+    <string name="for_publishers"><![CDATA[Pro Vydavatele]]></string>
+    <string name="for_publishers_body"><![CDATA[Přidejte se dnes k %1$s!
+Kontaktujte nás na adrese %2$s a rozšiřte svůj dosah, zvyšte svou čtenářskou základnu a rozmanitěte příležitosti k získávání příjmů s unikátním multiplatformním řešením od PressReader!]]></string>
+    <string name="for_you"><![CDATA[Pro vás]]></string>
+    <string name="for_you_as_start_screen"><![CDATA[Chcete nastavit \"Pro vás\" jako vaší výchozí obrazovku?]]></string>
+    <string name="forgot_password"><![CDATA[Zapomněli jste heslo?]]></string>
+    <string name="free_magazines"><![CDATA[Bezplatné Časopisy]]></string>
+    <string name="free_newspapers"><![CDATA[Bezplatné Noviny]]></string>
+    <string name="free_of_total"><![CDATA[%1$s zdarma z %2$s]]></string>
+    <string name="free_titles_20char_max"><![CDATA[Bezplatné Tituly]]></string>
+    <string name="full_sreen_setting"><![CDATA[Celá obrazovka]]></string>
+    <string name="full_sreen_setting_description"><![CDATA[Single tap switches full screen mode]]></string>
+    <string name="gathering_logs"><![CDATA[Sbírání protokolů...]]></string>
+    <string name="general"><![CDATA[Hlavní]]></string>
+    <string name="general_information"><![CDATA[Obecné informace]]></string>
+    <string name="genres"><![CDATA[Žánry]]></string>
+    <string name="get_latest_news_updates_and_new_issue_alerts"><![CDATA[Získejte nejnovější aktualizace zpráv a upozornění na nová vydání a také exkluzivní nabídky a akce.]]></string>
+    <string name="get_your_free_copy"><![CDATA[Získejte Svou Bezplatnou Kopii]]></string>
+    <string name="gift_campaign_disclaimer"><![CDATA[Přijetím tohoto dárku souhlasíte s podmínkami a ujednáními PressReaderu]]></string>
+    <string name="gift_congratulation"><![CDATA[Blahopřejeme! Získali jste bezplatnou kopii %s]]></string>
+    <string name="gift_start_in"><![CDATA[Můžete začít číst za %d]]></string>
+    <string name="gift_start_reading"><![CDATA[Začít číst]]></string>
+    <string name="go_premium"><![CDATA[Přejít na Prémiovou verzi]]></string>
+    <string name="go_premium_ad1"><![CDATA[Přihlaste se k odběru a vyberte si z tisíců vydání]]></string>
+    <string name="go_premium_ad2"><![CDATA[Vyzkoušejte zdarma po dobu {duration} dnů]]></string>
+    <string name="go_premium_ad2_line2"><![CDATA[Pravidelně <a href=\"\">{price}/měsíc</a>]]></string>
+    <string name="go_premium_ad2_notrial"><![CDATA[Použití na až 5 zařízeních]]></string>
+    <string name="go_premium_ad3"><![CDATA[Zrušit kdykoliv]]></string>
+    <string name="go_premium_buy_with_pressreader"><![CDATA[Koupit s PressReaderem]]></string>
+    <string name="go_premium_get_this_issue"><![CDATA[Získat toto vydání]]></string>
+    <string name="go_premium_issue_subscription_details_format"><![CDATA[Nová vydání %1$s]]></string>
+    <string name="go_premium_issue_subscription_payment_period"><![CDATA[/měsíc]]></string>
+    <string name="go_premium_issue_subscription_payment_period_every_days"><![CDATA[/%d dny]]></string>
+    <string name="go_premium_issue_subscription_payment_period_months"><![CDATA[/%d měsíců]]></string>
+    <string name="go_premium_issue_subscription_payment_period_year"><![CDATA[/rok]]></string>
+    <string name="go_premium_price"><![CDATA[{price}/měsíc]]></string>
+    <string name="go_premium_start_free_trial"><![CDATA[Začít bezplatnou zkušební verzi]]></string>
+    <string name="grant_permission"><![CDATA[Udělit povolení]]></string>
+    <string name="grid"><![CDATA[Mřížka]]></string>
+    <string name="help_center"><![CDATA[Centrum Nápovědy]]></string>
+    <string name="history"><![CDATA[Historie]]></string>
+    <string name="holt_to_select"><![CDATA[Podržte pro výběr]]></string>
+    <string name="home_choose_publications_text"><![CDATA[Zde se zobrazí nejnovější vydání z publikací, které sledujete]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hot_zone_description"><![CDATA[Získejte bezplatný přístup k novinám a časopisům na sponzorovaných místech s přístupem k internetu HotSpot]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Bezplatné čtení]]></string>
+    <string name="hotspot_content"><![CDATA[Obsah HotSpot]]></string>
+    <string name="hotspot_enable_bluetooth"><![CDATA[Povolte Bluetooth a budete upozorněni, když se nacházíte v dosahu HotSpotu.]]></string>
+    <string name="hotspot_enable_gifts"><![CDATA[Povolit Dárky]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Nastavení Zařízení]]></string>
+    <string name="hotspot_enable_local_services"><![CDATA[Povolit Služby Určování Polohy]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Povolte služby polohy a nastavte je na \"Při používání aplikace\" pro objevování darovaného obsahu.]]></string>
+    <string name="hotspot_enable_location_application"><![CDATA[Prosím, povolte přístup k poloze v nastaveních aplikace.]]></string>
+    <string name="hotspot_learnmore_long"><![CDATA[Pokud chcete, aby vás PressReader informoval o možnosti bezplatného přístupu na HotSpot s PressReaderem, nastavte služby určování polohy na Vždy a povolte Bluetooth. Přejděte na <a href=\"pressreader://hotspot-settings\">Nastavení HotSpotu</a>, abyste se dozvěděli více informací.]]></string>
+    <string name="hotspot_nearby_offline"><![CDATA[V blízkosti se nachází PressReader HotSpot. Připojte se online, abyste jej mohli využít.]]></string>
+    <string name="hotspot_novisible"><![CDATA[V této oblasti nejsou žádné HotSpoty.]]></string>
+    <string name="hotspot_off"><![CDATA[Vypnuto]]></string>
+    <string name="hotspot_public"><![CDATA[Veřejné]]></string>
+    <string name="hotspot_restricted"><![CDATA[Omezené]]></string>
+    <string name="hotspothub_title"><![CDATA[Mapa HotSpot]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="hotspotmap_more_locations"><![CDATA[více HotSpot]]></string>
+    <string name="hotspotmap_sponsor"><![CDATA[Sponzorujte HotSpot]]></string>
+    <string name="hotspots"><![CDATA[Hotspots]]></string>
+    <string name="hotspots_general"><![CDATA[Pomocí této mapy najděte blízké Wi-Fi sítě, které nabízejí sponzorovaný přístup ke tisícům publikací, které milujete na %s.]]></string>
+    <string name="hotspots_listheader"><![CDATA[HotSpoty jsou na mapě seskupeny společně.
+Klepněte na zatínkovanou špendlíkku, abyste viděli další v okolí, nebo přiblížte mapu.]]></string>
+    <string name="hour_ago"><![CDATA[%d před hodinou]]></string>
+    <string name="hours_ago"><![CDATA[%d Před hodinou]]></string>
+    <string name="icon_content_description">Ikona dialogového okna</string>
+    <string name="image_caption_optional"><![CDATA[Popisek obrázku]]></string>
+    <string name="imei_required"><![CDATA[Dříve stažená vydání jsou zabezpečena vaším identifikačním číslem zařízení. Budeme potřebovat toto identifikační číslo zařízení, abychom je pro vás mohli otevřít. Přejete si udělit povolení?]]></string>
+    <string name="include_supplements"><![CDATA[Zahrnout bezplatná vydání]]></string>
+    <string name="increase_font"><![CDATA[Zvětšit písmo]]></string>
+    <string name="information"><![CDATA[Informace]]></string>
+    <string name="instagram"><![CDATA[Instagram]]></string>
+    <string name="install_fullversion"><![CDATA[Nainstalovat PressReader]]></string>
+    <string name="international"><![CDATA[Mezinárodní]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Chcete si zakoupit tento výtisk?]]></string>
+    <string name="issues"><![CDATA[vydání]]></string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"dne <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"v <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="join_the_discussion"><![CDATA[Připojte se k Diskusi]]></string>
+    <string name="just_added"><![CDATA[Just Added]]></string>
+    <string name="keep_back_issues"><![CDATA[Uchovat %d starých vydání]]></string>
+    <string name="label_pause"><![CDATA[Pauza]]></string>
+    <string name="label_play"><![CDATA[Přehrát]]></string>
+    <string name="language_not_supported"><![CDATA[Tento jazyk není podporován]]></string>
+    <string name="languages"><![CDATA[Jazyky]]></string>
+    <string name="languages_zt"><![CDATA[Čínština (Tradiční)]]></string>
+    <string name="last_account_for_signin"><![CDATA[Nelze odpojit účet, který používáte k přihlášení do PressReader.]]></string>
+    <string name="last_name_hint"><![CDATA[Příjmení]]></string>
+    <string name="latest_news"><![CDATA[Poslední zprávy]]></string>
+    <string name="learn_more"><![CDATA[Zjistit více]]></string>
+    <string name="legal"><![CDATA[Právní]]></string>
+    <string name="limited_publications_dialog_message"><![CDATA[Toto vydání bude k dispozici do %s]]></string>
+    <string name="list"><![CDATA[Seznam]]></string>
+    <string name="load_stories"><![CDATA[Načíst příběhy]]></string>
+    <string name="loading_books"><![CDATA[Načítání knih]]></string>
+    <string name="loading_comments"><![CDATA[Načítání komentářů]]></string>
+    <string name="loading_labels"><![CDATA[Načítání štítků]]></string>
+    <string name="loading_publications"><![CDATA[Načítání publikací]]></string>
+    <string name="local_store_nothing_found"><![CDATA[Nebyly nalezeny žádné publikace]]></string>
+    <string name="local_store_title"><![CDATA[Noviny]]></string>
+    <string name="location_permission_dialog_title"><![CDATA[Je to zdarma?]]></string>
+    <string name="lock"><![CDATA[Zámek]]></string>
+    <string name="login_id"><![CDATA[Přihlašovací ID]]></string>
+    <string name="magazines"><![CDATA[Časopisy]]></string>
+    <string name="main_search"><![CDATA[Vyhledávat]]></string>
+    <string name="main_settings"><![CDATA[Nastavení]]></string>
+    <string name="main_title_and_supplements"><![CDATA[Hlavní titul a přílohy]]></string>
+    <string name="main_title_only"><![CDATA[Pouze hlavní titul]]></string>
+    <string name="make_public"><![CDATA[Udělat Veřejným]]></string>
+    <string name="manage"><![CDATA[Spravovat]]></string>
+    <string name="manage_devices"><![CDATA[Spravovat zařízení]]></string>
+    <string name="material_clock_toggle_content_description">Vyberte AM nebo PM</string>
+    <string name="material_hour_selection">Vyberte hodinu</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Zvolte minuty</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Chcete-li zadat čas, přepněte na režim hodin.</string>
+    <string name="material_timepicker_hour">Hodina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Vyberte čas</string>
+    <string name="material_timepicker_text_input_mode_description">Chcete-li zadat čas, přepněte na režim textu.</string>
+    <string name="maybe_later"><![CDATA[Možná později]]></string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Zkopírujte]]></string>
+    <string name="menu_issue_open"><![CDATA[Otevřít]]></string>
+    <string name="menu_issue_open_with_premium"><![CDATA[Číst s Prémiovým Přístupem]]></string>
+    <string name="menu_issue_read"><![CDATA[Číst]]></string>
+    <string name="migration_sign_in"><![CDATA[Poslední aktualizace naší aplikace vyžaduje znovuaktivaci účtu.
+
+Přihlaste se, prosím, abyste mohli pokračovat v užívání %s.]]></string>
+    <string name="minutes"><![CDATA[%d minut]]></string>
+    <string name="minutes_ago"><![CDATA[%d před minutami]]></string>
+    <string name="minutes_one"><![CDATA[1 minuta]]></string>
+    <string name="monitors"><![CDATA[Moje Témata]]></string>
+    <string name="more"><![CDATA[Další]]></string>
+    <string name="more_about"><![CDATA[Podrobnosti]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="more_by_author_format"><![CDATA[Více od %s]]></string>
+    <string name="more_from_series"><![CDATA[Více z této série]]></string>
+    <string name="more_genre_format"><![CDATA[Více %s]]></string>
+    <string name="more_send_us_feedback"><![CDATA[Pošlete nám zpětnou vazbu]]></string>
+    <string name="more_send_us_feedback_logs"><![CDATA[Chcete přiložit technické záznamy k vašemu názoru?]]></string>
+    <string name="more_settings"><![CDATA[Nastavení]]></string>
+    <string name="most_current"><![CDATA[Nejaktuálnější]]></string>
+    <string name="most_popular"><![CDATA[Nejoblíbenější]]></string>
+    <string name="most_recently_published"><![CDATA[Nejnovější]]></string>
+    <string name="most_relevant"><![CDATA[Nejrelevantnější]]></string>
+    <string name="mtrl_badge_numberless_content_description">Nové oznámení</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranit položku %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d nových oznámení</string>
+    <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
+    <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vyberte datum</string>
+    <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Sloupec dnů: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neplatný formát.</string>
+    <string name="mtrl_picker_invalid_format_example">Příklad: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Použijte: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neplatný rozsah.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Přejít na rok %1$s</string>
+    <string name="mtrl_picker_out_of_range">Mimo rozsah: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum zahájení – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum ukončení</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vyberte rozsah</string>
+    <string name="mtrl_picker_range_header_unselected">Datum zahájení – datum ukončení</string>
+    <string name="mtrl_picker_save">Uložit</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum ukončení</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum zahájení</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Přepnout na režim zadávání do kalendáře</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Klepnutím přepnete na výběr dne</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Přepnout na režim zadávání textu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Klepnutím přepnete na výběr roku</string>
+    <string name="my_account"><![CDATA[Účty]]></string>
+    <string name="my_collections"><![CDATA[Moje záložky]]></string>
+    <string name="my_downloads"><![CDATA[Moje Stahování]]></string>
+    <string name="my_downloads_placeholder"><![CDATA[Stahování
+se zde zobrazí]]></string>
+    <string name="my_library_noitems"><![CDATA[V knihovně nejsou žádné položky.]]></string>
+    <string name="my_opinions"><![CDATA[Moje Názory]]></string>
+    <string name="my_profile"><![CDATA[Můj Kanál]]></string>
+    <string name="my_publication"><![CDATA[Moje Publikace]]></string>
+    <string name="my_publications"><![CDATA[Moje noviny]]></string>
+    <string name="name"><![CDATA[Jméno]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Přejít nahoru"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Otevřít vysouvací panel navigace"</string>
+    <string name="navigate_external_link"><![CDATA[Tento odkaz vás přesměruje na webovou stránku mimo PressReader. Otevřít v prohlížeči?
+%s]]></string>
+    <string name="navigation_home"><![CDATA[Domů]]></string>
+    <string name="navigation_more"><![CDATA[Více]]></string>
+    <string name="navigation_my_library"><![CDATA[Moje Knihovna]]></string>
+    <string name="nearby_gifts"><![CDATA[Dárky v okolí]]></string>
+    <string name="nearby_gifts_description"><![CDATA[We\'ve created a network of HotSpots where you can read and download full issues. Search for one near you.]]></string>
+    <string name="new_article_view"><![CDATA[Text v SmartFlow]]></string>
+    <string name="new_article_view_description"><![CDATA[Čtěte příběhy v nepřetržitém textovém zobrazení. Pro funkci překladu je nutné mít zapnutou funkci SmartFlow.]]></string>
+    <string name="new_collection_name"><![CDATA[Název Sbírky]]></string>
+    <string name="new_comment"><![CDATA[Nový Komentář]]></string>
+    <string name="new_issues_will_be_automatically_downloaded"><![CDATA[Nová vydání budou automaticky stahována a přidávána do vaší knihovny.]]></string>
+    <string name="new_password"><![CDATA[Nové Heslo]]></string>
+    <string name="new_post"><![CDATA[Nový Příspěvek]]></string>
+    <string name="new_post_text_hint"><![CDATA[Napsat svůj příběh zde]]></string>
+    <string name="new_post_title_hint"><![CDATA[Titul]]></string>
+    <string name="new_releases"><![CDATA[Nové Vydání]]></string>
+    <string name="new_user_header"><![CDATA[Řekněte nám něco málo o sobě. Vytvoříme veřejnou přezdívku, kterou později můžete změnit.]]></string>
+    <string name="news"><![CDATA[Zprávy]]></string>
+    <string name="news_digest"><![CDATA[Zpravodajský Souhrn]]></string>
+    <string name="news_digest_description"><![CDATA[Pravidelný souhrn novinek a doporučených obsahů, aby vás udržel(a) informovaného/informovanou.]]></string>
+    <string name="newsfeed"><![CDATA[Domovský Záznam]]></string>
+    <string name="newsfeed_as_start_screen"><![CDATA[Chcete si nastavit Domovský záznam jako vaši úvodní obrazovku?]]></string>
+    <string name="newsfeed_more_stories"><![CDATA[Zobrazit více příběhů]]></string>
+    <string name="newsfeed_recommended_card_empty"><![CDATA[Nezvolili jste žádná témata zájmu]]></string>
+    <string name="newsfeed_recommended_card_empty_description"><![CDATA[Přidejte témata zájmu a personalizujte si svůj čtecí zážitek, abyste dostávali relevantnější doporučení.]]></string>
+    <string name="newsfeed_recommended_card_halfempty"><![CDATA[Nenašli jsme žádné příběhy]]></string>
+    <string name="newsfeed_recommended_card_halfempty_action"><![CDATA[Sledujte více témat zájmu]]></string>
+    <string name="newsfeed_recommended_card_halfempty_description"><![CDATA[Přidejte více témat zájmu a personalizujte si svůj čtecí zážitek, abyste dostávali více relevantních doporučení.]]></string>
+    <string name="newsfeed_recommended_card_subtitle"><![CDATA[Nejlepší příběhy z vašich oblíbených témat a publikací.]]></string>
+    <string name="newspaper_details_label"><![CDATA[Vaše nejnovější vydání]]></string>
+    <string name="newspaper_download_progress_content_description_downloaded"><![CDATA[Stažené]]></string>
+    <string name="newspapers"><![CDATA[Noviny]]></string>
+    <string name="newsstand"><![CDATA[Stánkách]]></string>
+    <string name="nickname"><![CDATA[Přezdívka]]></string>
+    <string name="no_new_stories"><![CDATA[Žádné nové příběhy]]></string>
+    <string name="no_password_yet"><![CDATA[Zatím žádné heslo]]></string>
+    <string name="no_radio"><![CDATA[Rádio není k dispozici pro vydání]]></string>
+    <string name="no_thanks"><![CDATA[Ne, děkuji]]></string>
+    <string name="no_updates"><![CDATA[Žádné aktualizace]]></string>
+    <string name="no_updates_on_opinions"><![CDATA[Žádná aktivita na žádném z vašich názorů]]></string>
+    <string name="not_posted_yet"><![CDATA[Zatím není nic zveřejněno]]></string>
+    <string msgid="478774118347071097" name="not_set">"Nenastaveno"</string>
+    <string name="now_on"><![CDATA[Nyní zapnuté]]></string>
+    <string name="obituaries"><![CDATA[Úmrtí]]></string>
+    <string name="oem_channels_title"><![CDATA[Poslední Zprávy]]></string>
+    <string name="oem_empty_feed"><![CDATA[Nejsou k dispozici žádné online příběhy
+z vašich publikací.]]></string>
+    <string name="oem_home_choose_publications_text"><![CDATA[Zde se zobrazí nejnovější
+vydání a zprávy z
+publikací, které sledujete.]]></string>
+    <string name="oem_onboarding_header"><![CDATA[Sledujte publikace, které rádi čtete]]></string>
+    <string name="oem_payment_options_restore_purchases_restore_purchases"><![CDATA[Obnovit nákupy]]></string>
+    <string name="oem_payment_options_restore_purchases_title"><![CDATA[Máte již odběr nebo předplatné?]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[Více publikací]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[V rámci vašeho předplatného]]></string>
+    <string name="off"><![CDATA[Vypnuto]]></string>
+    <string name="offers_and_promotions"><![CDATA[Nabídky a Akční nabídky]]></string>
+    <string name="offers_and_promotions_description"><![CDATA[Speciální nabídky a Akce z %s]]></string>
+    <string name="offline_item_click_promt"><![CDATA[Aplikace se zdá být offline. Prosím, zkontrolujte své síťové a Wi-Fi připojení a zkuste to znovu.]]></string>
+    <string name="on"><![CDATA[Zapnuto]]></string>
+    <string name="onboarding_add_interests"><![CDATA[Přidejte více témat zájmu]]></string>
+    <string name="onboarding_authorization_email"><![CDATA[Emailů]]></string>
+    <string name="onboarding_authorization_email_content_description"><![CDATA[Emailů]]></string>
+    <string name="onboarding_authorization_facebook"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_facebook_content_description"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_google"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_google_content_description"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_library"><![CDATA[Knihovny a Skupiny]]></string>
+    <string name="onboarding_authorization_library_content_description"><![CDATA[Library]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[Or]]></string>
+    <string name="onboarding_authorization_sign_in_or_create"><![CDATA[Přihlaste se nebo vytvořte účet, abyste mohli ukládat příběhy a témata zájmu do svého profilu]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_humanised"><![CDATA[Jste téměř hotovi! Vytvořte si účet nebo se přihlaste, abyste mohli ukládat svá témata zájmu]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_short"><![CDATA[Přihlaste se nebo vytvořte účet]]></string>
+    <string name="onboarding_authorization_skip"><![CDATA[Přeskočit]]></string>
+    <string name="onboarding_authorization_twitter"><![CDATA[Twitter]]></string>
+    <string name="onboarding_authorization_twitter_content_description"><![CDATA[Twitter]]></string>
+    <string name="onboarding_choose_interests"><![CDATA[Vyberte svá témata zájmu]]></string>
+    <string name="onboarding_choose_publications"><![CDATA[Sledovat publikace]]></string>
+    <string name="onboarding_continue"><![CDATA[Pokračovat]]></string>
+    <string name="onboarding_done"><![CDATA[Hotovo]]></string>
+    <string name="onboarding_edit_interests"><![CDATA[Upravit témata zájmu]]></string>
+    <string name="onboarding_error_searching_interests"><![CDATA[Omlouváme se, ale nemohli jsme najít žádná témata zájmu pro \"%1$s\".]]></string>
+    <string name="onboarding_error_searching_publications"><![CDATA[Omlouváme se, ale nemohli jsme najít žádné publikace pro \"%1$s\".]]></string>
+    <string name="onboarding_error_text"><![CDATA[Došlo k chybě při načítání obsahu.
+Omlouváme se, zkuste to prosím znovu.]]></string>
+    <string name="onboarding_finished_banner_action"><![CDATA[Mám to]]></string>
+    <string name="onboarding_finished_banner_text"><![CDATA[Jak budete číst, PressReader bude nadále učit se a přizpůsobovat se vašim osobním preferencím.]]></string>
+    <string name="onboarding_finished_banner_title"><![CDATA[Jste plně nastaveni]]></string>
+    <string name="onboarding_get_started"><![CDATA[Začněte]]></string>
+    <string name="onboarding_have_an"><![CDATA[Máte účet?]]></string>
+    <string name="onboarding_have_an_account_sign_in"><![CDATA[Máte účet? <a href=\"pressreader_authorize://authorize\">Přihlásit se</a>]]></string>
+    <string name="onboarding_interest_search_placeholder_1"><![CDATA[Cestování]]></string>
+    <string name="onboarding_interest_search_placeholder_2"><![CDATA[Design]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_interests_header"><![CDATA[Vyberte témata zájmu, která chcete sledovat, abyste dostávali relevantnější zprávy a články.]]></string>
+    <string name="onboarding_intro_text"><![CDATA[%s nyní umožňuje vybrat si
+témata zájmu, abyste získali 
+íce relevantních zpráv a článků.]]></string>
+    <string name="onboarding_intro_title"><![CDATA[Novinky v této aktualizaci]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Přizpůsobte si své zájmy]]></string>
+    <string name="onboarding_open_banner_text"><![CDATA[Získejte ještě více relevantních novin a časopisů tím, že si vyberete svá témata zájmu.]]></string>
+    <string name="onboarding_open_banner_text_humanised"><![CDATA[Řekněte nám svá témata zájmu a my vám doporučíme nejlepší příběhy a publikace pro vás.]]></string>
+    <string name="onboarding_open_banner_title"><![CDATA[Vylepšete svůj zážitek]]></string>
+    <string name="onboarding_open_banner_title_humanised"><![CDATA[Na které příběhy záleží právě vám?]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="onboarding_publications_header"><![CDATA[Tady jsou některé noviny a časopisy, které si myslíme, že by vás mohli zajímat. Klepněte na obálky, abyste je začali sledovat.]]></string>
+    <string name="onboarding_search_for_interests"><![CDATA[Vyhledat témata zájmu]]></string>
+    <string name="onboarding_search_for_publications"><![CDATA[Vyhledat publikace]]></string>
+    <string name="onboarding_searching_interests"><![CDATA[Vyhledávání témat zájmu]]></string>
+    <string name="onboarding_searching_publications"><![CDATA[Vyhledávání publikací]]></string>
+    <string name="onboarding_splash_text"><![CDATA[Objevte nejlepší noviny a časopisy na světě]]></string>
+    <string name="onboarding_you_can_search_for_things"><![CDATA[Můžete hledat věci jako]]></string>
+    <string name="one_column"><![CDATA[1 sloupec]]></string>
+    <string name="online_stories"><![CDATA[Online Příběhy]]></string>
+    <string name="open_external_browser_hint"><![CDATA[Otevřít v externím prohlížeči]]></string>
+    <string name="opinion_activity"><![CDATA[Činnost]]></string>
+    <string name="opinion_contributors"><![CDATA[Autoři Názorů]]></string>
+    <string name="opinion_feed"><![CDATA[Názorový Zdroj]]></string>
+    <string name="opinion_leader"><![CDATA[Lídři Názorů]]></string>
+    <string name="opinion_leaders"><![CDATA[Lídři Názorů]]></string>
+    <string name="opinion_leaders_empty"><![CDATA[V této oblasti nejsou žádní lídři názorů]]></string>
+    <string name="opinion_list_empty"><![CDATA[V této oblasti nejsou žádné názory]]></string>
+    <string name="opinion_trends"><![CDATA[Trendy Názorů]]></string>
+    <string name="opinions"><![CDATA[Názorů]]></string>
+    <string name="option_leaders_count"><![CDATA[%d Lídři Názorů]]></string>
+    <string name="order_buy_latest_issue"><![CDATA[Koupit nejnovější vydání]]></string>
+    <string name="order_buy_this_issue"><![CDATA[Kupte si toto vydání]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Včetně všech dodatků]]></string>
+    <string name="order_latest_issue"><![CDATA[Poslední vydání]]></string>
+    <string name="order_open_payment_options"><![CDATA[Zobrazit všechny platební možnosti]]></string>
+    <string name="order_open_purchase_options"><![CDATA[Zobrazit všechny možnosti nákupu]]></string>
+    <string name="order_subscribe"><![CDATA[Automaticky doručovat všechna nová vydání]]></string>
+    <string name="order_this_issue"><![CDATA[Toto vydání]]></string>
+    <string name="other_issues"><![CDATA[Poslední vydání]]></string>
+    <string name="page_selected"><![CDATA[Vybrána 1 Stránka]]></string>
+    <string name="page_set_saved"><![CDATA[Uloženo %s]]></string>
+    <string name="page_view"><![CDATA[Zobrazení Stránky]]></string>
+    <string name="pages_selected"><![CDATA[Vybráno %s Stran]]></string>
+    <string name="password_changed"><![CDATA[Měněno %s]]></string>
+    <string name="password_hint"><![CDATA[Heslo]]></string>
+    <string name="password_recovery"><![CDATA[Obnova hesla]]></string>
+    <string name="password_recovery_description"><![CDATA[Prosím, zadejte e-mailovou adresu, kterou jste použili při registraci svého účtu. Na tuto adresu vám zašleme instrukce, jak obnovit vaše heslo.]]></string>
+    <string name="password_recovery_success"><![CDATA[Pokud <b>%1$s</b> odpovídá e-mailové adrese vašeho účtu, pošleme vám instrukce pro obnovení hesla. <br><br> Pro změnu hesla postupujte následovně: <br><br> 1. Zkontrolujte svůj e-mail na adrese <b>%1$s</b> <br><br> 2. Postupujte podle odkazu <br>]]></string>
+    <string name="password_toggle_content_description">Zobrazit heslo</string>
+    <string name="payment_billing_issue"><![CDATA[Vydání:]]></string>
+    <string name="payment_confirmation_header"><![CDATA[Prosím, ověřte informace a stiskněte tlačítko \"Potvrdit\", aby jste dokončili.]]></string>
+    <string name="payment_credit_card_city_hint"><![CDATA[Vaše město]]></string>
+    <string name="payment_credit_card_holder_hint"><![CDATA[John PressReader]]></string>
+    <string name="payment_credit_card_state_hint"><![CDATA[CA]]></string>
+    <string name="payment_credit_card_street_hint"><![CDATA[123 Main Street]]></string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_days_fee"><![CDATA[Každých %d dnů (automaticky obnovuje se):]]></string>
+    <string name="payment_half_yearly_fee"><![CDATA[Půlroční poplatek:]]></string>
+    <string name="payment_issue_price"><![CDATA[Emitovací Cena:]]></string>
+    <string name="payment_monthly_fee"><![CDATA[Měsíční poplatek:]]></string>
+    <string name="payment_months_fee"><![CDATA[Každých %d měsíců (automaticky se obnovuje):]]></string>
+    <string name="payment_purchase_details"><![CDATA[Podklady pro nákup]]></string>
+    <string name="payment_quarterly_fee"><![CDATA[Čtvrtletní poplatek:]]></string>
+    <string name="payment_receipt"><![CDATA[Účtenka]]></string>
+    <string name="payment_required"><![CDATA[Požadován]]></string>
+    <string name="payment_total_amount"><![CDATA[Celková Částka:]]></string>
+    <string name="payment_update_cc_info"><![CDATA[Aktualizovat Informace o Kreditní Kartě]]></string>
+    <string name="payment_yearly_fee"><![CDATA[Roční poplatek:]]></string>
+    <string name="paywall_text"><![CDATA[Kup si tuto publikaci pro pokračování v čtení]]></string>
+    <string name="perf_my_subscriptions"><![CDATA[Mé Předplatné]]></string>
+    <string name="period_bimonthly"><![CDATA[dvojměsíčně]]></string>
+    <string name="period_biweekly"><![CDATA[dvoutýdenně]]></string>
+    <string name="period_biyearly"><![CDATA[pololetně]]></string>
+    <string name="period_daily"><![CDATA[denně]]></string>
+    <string name="period_half_quarterly"><![CDATA[pololetně]]></string>
+    <string name="period_irregular"><![CDATA[nepříregulárně]]></string>
+    <string name="period_monthly"><![CDATA[měsíční]]></string>
+    <string name="period_once"><![CDATA[jednou]]></string>
+    <string name="period_quarterly"><![CDATA[čtvrtletně]]></string>
+    <string name="period_weekly"><![CDATA[týdně]]></string>
+    <string name="period_yearly"><![CDATA[ročně]]></string>
+    <string name="personalize_your_account"><![CDATA[Personalizujte svůj účet]]></string>
+    <string name="personalize_your_account_summary"><![CDATA[Vytvořte přihlášení pro přístup k vašemu účtu na různých zařízeních a na našem webu. Pokud chcete, později si můžete nastavit heslo pomocí odkazu \"Zapomněli jste heslo?\".]]></string>
+    <string name="phone_hint"><![CDATA[Telefonní číslo (volitelné)]]></string>
+    <string name="pick_paper"><![CDATA[Vyberte papír podle data]]></string>
+    <string name="podcasts"><![CDATA[Podcasts]]></string>
+    <string name="popular_choice"><![CDATA[OBLÍBENÝ VÝBĚR]]></string>
+    <string name="popular_opinions"><![CDATA[Oblíbené Názory]]></string>
+    <string name="popular_tags"><![CDATA[Oblíbené značky]]></string>
+    <string name="post"><![CDATA[Indlæg]]></string>
+    <string name="post_comment_footer"><![CDATA[Přidat fotografie a videa]]></string>
+    <string name="postpone_sleep"><![CDATA[Odložit spánek]]></string>
+    <string name="postpone_sleep_system"><![CDATA[Systému]]></string>
+    <string name="posts"><![CDATA[Posty]]></string>
+    <string name="pref_application_data_management"><![CDATA[Správa dat aplikace]]></string>
+    <string name="pref_application_data_management_summary"><![CDATA[Obnovit použité místo]]></string>
+    <string name="pref_auto_translate_delete_alert_negative_button"><![CDATA[Ne]]></string>
+    <string name="pref_auto_translate_delete_alert_positive_button"><![CDATA[Ano]]></string>
+    <string name="pref_auto_translate_delete_alert_title"><![CDATA[Smazat tuto překlad?]]></string>
+    <string name="pref_auto_translate_disclaimer"><![CDATA[Překlad]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_auto_translate_option"><![CDATA[Automatický překlad]]></string>
+    <string name="pref_auto_translate_prompt_option"><![CDATA[Pozvánka k uložení jazyků]]></string>
+    <string name="pref_auto_translate_summary"><![CDATA[Spravujte automatické překlady textů článků]]></string>
+    <string name="pref_auto_translate_title"><![CDATA[Předvolby překladu]]></string>
+    <string name="pref_auto_translate_translate_auto"><![CDATA[Remember language pairs selected for automatic translation.]]></string>
+    <string name="pref_autodelivery"><![CDATA[Automatické doručování]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Povolit aktualizace na pozadí]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Spravovat odběry]]></string>
+    <string name="pref_cleanup"><![CDATA[Odstranit problémy]]></string>
+    <string name="pref_clear_data_cache"><![CDATA[Smazat mezipaměťová data]]></string>
+    <string name="pref_clear_data_cache_and_downloads"><![CDATA[Smazat mezipaměťová data a stažené položky]]></string>
+    <string name="pref_clear_data_full"><![CDATA[Plné obnovení]]></string>
+    <string name="pref_dataaccess"><![CDATA[Přístup k datům]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Umožnit Wi-Fi stahovat pouze obsah]]></string>
+    <string name="pref_feedback"><![CDATA[Zpětná vazba]]></string>
+    <string name="pref_feedback_moto"><![CDATA[Prosím, popište problém, se kterým se potýkáte:]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Zpětná vazba na %1$s v%2$s od uživatele %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Pošlete nám zpětnou vazbu]]></string>
+    <string name="pref_license"><![CDATA[Licence s otevřeným zdrojovým kódem]]></string>
+    <string name="pref_license_summary"><![CDATA[Podrobnosti o licenci pro softwar s otevřeným zdrojovým kódem]]></string>
+    <string name="pref_storage"><![CDATA[Datové úložiště]]></string>
+    <string name="pref_storage_summary"><![CDATA[Nastavit dostupnost vnitřního úložiště]]></string>
+    <string name="pref_subscriptions"><![CDATA[Předplatné]]></string>
+    <string name="pref_tips"><![CDATA[PressReader tipy]]></string>
+    <string name="pref_tips_formatted"><![CDATA[%s Tipů]]></string>
+    <string name="pref_tips_summary"><![CDATA[Opakujte rozhraní vysvětlení]]></string>
+    <string name="pref_use_tts"><![CDATA[Nativní text-na-hlas pro Android]]></string>
+    <string name="pref_use_tts_summary"><![CDATA[Použijte vestavěný text-na-hlasový engine vašeho zařízení pro zvukové funkce místo online streamování.]]></string>
+    <string name="pref_version"><![CDATA[Verze]]></string>
+    <string name="pref_version_caption"><![CDATA[Verze %1$s: \t%2$s]]></string>
+    <string name="prefer_local_server"><![CDATA[Upřednostňujte Lokální Server]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"Položka <ns1:g id="SUMMARY">%1$s</ns1:g> byla zkopírována do schránky."</string>
+    <string name="premium_confirmation_continue"><![CDATA[Pokračovat]]></string>
+    <string name="premium_confirmation_issue_subscription"><![CDATA[Děkuji za přihlášení k odběru]]></string>
+    <string name="premium_confirmation_not_now"><![CDATA[Nyní ne]]></string>
+    <string name="premium_confirmation_premium"><![CDATA[Vítejte na Premium]]></string>
+    <string name="premium_confirmation_premium_subtitle"><![CDATA[Nyní si užijte plný přístup k nejlepším novinám a časopisům na světě.]]></string>
+    <string name="premium_confirmation_single_issue"><![CDATA[Děkuji za zakoupení této publikace]]></string>
+    <string name="premium_confirmation_subscribing_subtitle_format"><![CDATA[Nová vydání budou k dispozici na základě %1$s.]]></string>
+    <string name="premium_confirmation_warning"><![CDATA[Ujistěte se, že zrušíte své stávající předplatné v nastavení Obchodu Play ve části Platby a předplatné vašeho účtu.]]></string>
+    <string name="premium_content"><![CDATA[Prémiový Obsah]]></string>
+    <string name="premium_content_partnered"><![CDATA[Spolupracujeme s nejlepšími vydavateli, abychom vám přinesli příběhy, na které se opravdu zajímáte.]]></string>
+    <string name="premium_content_ways"><![CDATA[Získat tuto publikaci jedním z následujících způsobů:]]></string>
+    <string name="premium_restore_purchases"><![CDATA[Máte již předplatné?<br><font color=#2bc48c>Obnovit nákupy</font>]]></string>
+    <string name="pressreader_7day_trial_2018_BegunBody"><![CDATA[Začalo vaše bezplatné zkušební období]]></string>
+    <string name="pressreader_7day_trial_2018_BegunTitle"><![CDATA[Vše je hotovo]]></string>
+    <string name="pressreader_7day_trial_2018_BillingExplanation"><![CDATA[Pro spuštění vaší bezplatné zkušební verze PressReader zadejte údaje o fakturaci. Pokud nepřerušíte předplatné v příštích {duration} dnech, budete účtováni {price}/měsíc, když vaše předplatné začne dne {start_date}.]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationBody"><![CDATA[Vaše zkušební verze začne okamžitě. Pokud nepřerušíte předplatné v příštích {duration} dnech, budete účtováni {price}/měsíc, když vaše předplatné začne dne {start_date}.]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationCancel"><![CDATA[Zrušit]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationOK"><![CDATA[Začít Zkušební Verzi]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationTitle"><![CDATA[Začít zkušební verzi nyní?]]></string>
+    <string name="pressreader_7day_trial_2018_list_description"><![CDATA[Bezplatná zkušební verze na {duration} dní]]></string>
+    <string name="pressreader_7day_trial_2018_list_description_date_price"><![CDATA[Začátek {start_date}: {price}/měsíc]]></string>
+    <string name="pressreader_7day_trial_2018_list_subscribe"><![CDATA[Předplatit]]></string>
+    <string name="pressreader_account"><![CDATA[Účet PressReader]]></string>
+    <string name="price"><![CDATA[Cena]]></string>
+    <string name="price_duration_month_formatted"><![CDATA[%1$s / %2$s měsíc]]></string>
+    <string name="price_duration_months_formatted"><![CDATA[%1$s / %2$s měsíce]]></string>
+    <string name="price_duration_week_formatted"><![CDATA[%1$s / %2$s týden]]></string>
+    <string name="price_duration_weeks_formatted"><![CDATA[%1$s / %2$s týdny]]></string>
+    <string name="price_duration_year_formatted"><![CDATA[%1$s / %2$s rok]]></string>
+    <string name="price_duration_years_formatted"><![CDATA[%1$s / %2$s roky]]></string>
+    <string name="print_edition"><![CDATA[Tiskové Edice]]></string>
+    <string name="privacy_policy"><![CDATA[Ochrana Soukromí]]></string>
+    <string name="problem_with_subscription_payment_need_to_update_payment_details"><![CDATA[Došlo k problému s platbou za vaše předplatné. Aktualizujte své platební údaje, abyste si udrželi aktivní předplatné.]]></string>
+    <string name="proceed"><![CDATA[Stáhnout nyní]]></string>
+    <string name="product_buy_with_play"><![CDATA[Koupit přes Google Play]]></string>
+    <string name="product_compare"><![CDATA[Porovnat Plány...]]></string>
+    <string name="product_find_access"><![CDATA[Najít Sponzorovaný Přístup]]></string>
+    <string name="product_single_issue"><![CDATA[samostatné vydání]]></string>
+    <string name="product_subscribe_and_save"><![CDATA[Přihlaste se k odběru a Ušetřete!]]></string>
+    <string name="product_unlimited_access"><![CDATA[Neomezený Přístup k PressReader]]></string>
+    <string name="product_unlimited_issues"><![CDATA[Neomezený Počet vydání*]]></string>
+    <string name="products"><![CDATA[Produkty]]></string>
+    <string name="profile"><![CDATA[Kanalfeed]]></string>
+    <string name="promo_code_hint"><![CDATA[Reklamní kód (volitelný)]]></string>
+    <string name="publication_files_large"><![CDATA[Stahování této publikace přes mobilní síť může způsobit náklady na data.]]></string>
+    <string name="publication_types"><![CDATA[Typy Publikací]]></string>
+    <string name="publications"><![CDATA[Noviny]]></string>
+    <string name="publications_catalog_subtitle"><![CDATA[Více než 7 000 Novin, Časopisů a Knih z celého světa.]]></string>
+    <string name="publications_catalog_title"><![CDATA[Prozkoumat Katalog]]></string>
+    <string name="publications_menu"><![CDATA[Menu Publikací]]></string>
+    <string name="publications_stories"><![CDATA[Hledat Publikace, Příběhy]]></string>
+    <string name="publications_stories_interests"><![CDATA[Hledat Publikace, Příběhy a Zájmy]]></string>
+    <string name="purchase_advice"><![CDATA[Doporučujeme]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Povolit oznámení]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Vědět, kdy jsou dostupné nejnovější vydání a být v obraze o novinkách souvisejících s vašimi zájmy.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Dostávat oznámení]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Oznámení]]></string>
+    <string name="radio_next_article"><![CDATA[Další text]]></string>
+    <string name="radio_next_section"><![CDATA[Další\nčást]]></string>
+    <string name="radio_prev_article"><![CDATA[Předchozí část]]></string>
+    <string name="radio_prev_section"><![CDATA[Předchozí\nčást]]></string>
+    <string name="rate"><![CDATA[Sazba]]></string>
+    <string name="rate_ask_later"><![CDATA[Samozřejmě, zeptejte se mě později]]></string>
+    <string name="rate_body"><![CDATA[Nasloucháte %s dostatečně, abyste nám zanechal(a) 5hvězdičkové hodnocení?]]></string>
+    <string name="rate_do_not_ask_anymore"><![CDATA[Zde je, co lze vylepšit]]></string>
+    <string name="rate_no_thanks"><![CDATA[Není potřeba]]></string>
+    <string name="rate_not_now"><![CDATA[Nyní ne]]></string>
+    <string name="rate_us"><![CDATA[Ohodnoťte nás]]></string>
+    <string name="rate_us_later"><![CDATA[Chcete napsat recenzi později?]]></string>
+    <string name="read_expired_offline"><![CDATA[Pro pokračování v čtení této publikace se, prosím, připojte k internetu.]]></string>
+    <string name="read_newspaper_by_date"><![CDATA[Čtěte noviny podle data]]></string>
+    <string name="reading"><![CDATA[Čtení]]></string>
+    <string name="recently_read"><![CDATA[Nedávno Čtené]]></string>
+    <string name="recommended"><![CDATA[Doporučené]]></string>
+    <string name="recommended_interests"><![CDATA[Doporučené zájmy]]></string>
+    <string name="recommended_interests_description"><![CDATA[Vybráno pro vás na základě vaší historie čtení a zájmů.]]></string>
+    <string name="redownload"><![CDATA[Znovu stáhnout]]></string>
+    <string name="redownload_issue"><![CDATA[Vzhledem k nedávným změnám v operačním systému Android nemůžeme otevřít toto vydání ve vysokém rozlišení. Chcete jej znovu stáhnout?]]></string>
+    <string name="region"><![CDATA[Region]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Částka k úhradě:]]></string>
+    <string name="registration_agree_text"><![CDATA[Kliknutím na tlačítko Další souhlasíte s podmínkami užití <a href=\\"pressreader://terms-of-use\\">Podmínky používání</a> a <a href=\\"pressreader://privacy\\">Ochrana osobních </a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Přístup ke starým vydáním:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s dnů]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Cena za vydání:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Přístup ke zprávě AdValue:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Maximální počet monitorujících upozornění:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Maximální počet automatický stažení:]]></string>
+    <string name="registration_plan_print_subscriptions"><![CDATA[Tištěná Předplatná]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* měsíční poplatek]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (snížená cena platí pouze pro 1. měsíc členství, od 2. měsíce dále je účtován měsíční poplatek %1$s %3$s)]]></string>
+    <string name="related_opinions"><![CDATA[Související Názory]]></string>
+    <string name="related_stories"><![CDATA[Související Příběhy]]></string>
+    <string name="remaining_credits"><![CDATA[Zbývající kredity:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d vydání]]></string>
+    <string name="remaining_issue"><![CDATA[Máte ještě %d vydání]]></string>
+    <string name="remaining_issues"><![CDATA[Máte ještě %d vydání]]></string>
+    <string name="remaining_issues_title"><![CDATA[Máte ještě %d problémů]]></string>
+    <string name="remove_files"><![CDATA[Odebrat soubory]]></string>
+    <string name="reply"><![CDATA[Odpověď]]></string>
+    <string name="report_comment"><![CDATA[Nahlásit]]></string>
+    <string name="report_harassment"><![CDATA[Obtěžování]]></string>
+    <string name="report_indecent"><![CDATA[Nemravný]]></string>
+    <string name="report_irrelevant"><![CDATA[Nepodstatný]]></string>
+    <string name="report_reason"><![CDATA[Proč toto nahlášení provádíte?]]></string>
+    <string name="report_spam"><![CDATA[Spam]]></string>
+    <string name="report_unlawful"><![CDATA[Nezákonné]]></string>
+    <string name="reset_activation"><![CDATA[Obnovit aktivaci]]></string>
+    <string name="restart"><![CDATA[Restartovat]]></string>
+    <string name="restore_purchases_nothing_to_restore"><![CDATA[Není co obnovit]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Přihlaste se nebo vytvořte účet pro přístup ke svému historii nákupů a používání předplatného na více zařízeních. Vaše současné nákupy budou přidány k tomuto účtu.]]></string>
+    <string name="retype_new_password"><![CDATA[Potvrďte nové heslo]]></string>
+    <string name="ribbon_free"><![CDATA[Volná]]></string>
+    <string name="ribbon_new"><![CDATA[Nový]]></string>
+    <string name="ribbon_sample"><![CDATA[Ukázka]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Sponzorováno]]></string>
+    <string name="save_to_collection"><![CDATA[Uložit do Sbírky]]></string>
+    <string name="saved_articles"><![CDATA[Uložené Články]]></string>
+    <string name="saved_articles_placeholder"><![CDATA[Uložené články
+se zobrazí zde]]></string>
+    <string name="scroll_back_to_open_menu"><![CDATA[Pro otevření menu se vraťte zpět posunutím nahoru.]]></string>
+    <string name="search_discover"><![CDATA[Hledat a Objevovat]]></string>
+    <string name="search_hotspots"><![CDATA[Hledat Hotspots]]></string>
+    <string name="search_local_store"><![CDATA[Hledat Publikace]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Hledat"</string>
+    <string name="search_no_trending"><![CDATA[Žádné aktuální trendy]]></string>
+    <string name="search_nocontent_header"><![CDATA[Hmm, nic jsme nenašli]]></string>
+    <string name="search_nocontent_message"><![CDATA[Zvětšete rozsah vašeho hledání nebo se později vraťte pro nové příběhy.]]></string>
+    <string name="search_opinions"><![CDATA[Hledat Názory...]]></string>
+    <string name="search_results"><![CDATA[Výsledky vyhledávání]]></string>
+    <string name="search_trending_title"><![CDATA[Trendy]]></string>
+    <string name="searching"><![CDATA[Hledám...]]></string>
+    <string name="seconds"><![CDATA[%d sekund]]></string>
+    <string name="see_all"><![CDATA[Zobrazit vše]]></string>
+    <string name="select_all"><![CDATA[Vybrat vše]]></string>
+    <string name="select_from_gallery"><![CDATA[Vybrat z galerie]]></string>
+    <string name="select_page"><![CDATA[Vybrat Stránku]]></string>
+    <string name="select_product"><![CDATA[Vybrat Produkt]]></string>
+    <string name="select_start_screen"><![CDATA[Vybrat úvodní obrazovku]]></string>
+    <string name="selected_pages"><![CDATA[Vybrané Stránky]]></string>
+    <string name="settings_hotspot_beacon"><![CDATA[Rozšíření Beacon]]></string>
+    <string name="settings_hotspot_beacon_description"><![CDATA[Použijte nízkoenergetické sledování Bluetooth vašeho zařízení pro objevování polohových majáků. Majáky vám umožňují připojení k PressReader bez Wi-Fi přístupu a spoléhají se na nastavení pozadí polohy zařízení.]]></string>
+    <string name="settings_hotspot_location"><![CDATA[Location Add-On]]></string>
+    <string name="settings_hotspot_location_description"><![CDATA[Povolte službu polohy v pozadí pro připojení k HotSpots bez použití Wi-Fi.]]></string>
+    <string name="settings_my_account"><![CDATA[Můj Účet]]></string>
+    <string name="settings_profile"><![CDATA[Profil]]></string>
+    <string name="settings_profile_edit"><![CDATA[Upravit profil]]></string>
+    <string name="share_comment"><![CDATA[Sdílet Komentář]]></string>
+    <string name="shared"><![CDATA[Sdílený]]></string>
+    <string name="show_calendar"><![CDATA[Zobrazit Kalendář]]></string>
+    <string name="show_highlights_full_screen"><![CDATA[Zvýraznění na celou obrazovku]]></string>
+    <string name="show_highlights_full_screen_description"><![CDATA[Zapněte nebo vypněte modré zvýraznění článků během čtení stránek. Zvýraznění umožňuje klepnutím otevřít příběhy ve zobrazení textu.]]></string>
+    <string name="show_more"><![CDATA[Zobrazit Více]]></string>
+    <string name="show_original"><![CDATA[Zobrazit Původní]]></string>
+    <string name="showing_count_total"><![CDATA[Zobrazuji %1$s z %2$s]]></string>
+    <string name="sign_in"><![CDATA[Přihlásit se]]></string>
+    <string name="sign_in_now"><![CDATA[Jste stávající uživatel? <a href=\"pressreader_authorize://authorize\">Přihlaste se prosím</a>]]></string>
+    <string name="sign_in_to_continue"><![CDATA[Přihlaste se pro pokračování v čtení]]></string>
+    <string name="sign_out"><![CDATA[Odhlásit se]]></string>
+    <string name="sign_up"><![CDATA[Zaregistrovat se]]></string>
+    <string name="sign_up_caption"><![CDATA[Vytvořte si účet pro uložení vašich publikací a spuštění bezplatné zkušební verze.]]></string>
+    <string name="sign_up_now"><![CDATA[Nový uživatel? <a href=\"pressreader_register://register\">Zaregistrujte se nyní.</a>]]></string>
+    <string name="sign_up_slogan"><![CDATA[Je to rychlé, snadné a zdarma.]]></string>
+    <string name="similar"><![CDATA[Podobných Příběhů]]></string>
+    <string name="similar_stories"><![CDATA[%d Podobných příběhů]]></string>
+    <string name="sing_in"><![CDATA[Podepsat]]></string>
+    <string name="sing_in_description"><![CDATA[Čtěte své oblíbené noviny a časopisy kdykoliv a kdekoliv pomocí vašeho účtu na PressReader.]]></string>
+    <string name="small_grid"><![CDATA[Malá Mřížka]]></string>
+    <string name="smart_zoom"><![CDATA[Funkce SmartZoom]]></string>
+    <string name="smart_zoom_description"><![CDATA[Funkce SmartZoom vám umožní dvojkliknout pro automatické přiblížení na začátek článku.]]></string>
+    <string name="social_and_linked_networks"><![CDATA[Sociální a Propojené Sítě.]]></string>
+    <string name="sorry_no_more_filters"><![CDATA[Omlouvám se, žádné další filtry nejsou k dispozici. Ale našli jsme několik skvělých kanálů a názorů pro vás.]]></string>
+    <string name="sort_alphabet"><![CDATA[Podle abecedy]]></string>
+    <string name="sorting"><![CDATA[Řazení]]></string>
+    <string name="sports"><![CDATA[Sporty]]></string>
+    <string name="start_screen"><![CDATA[Úvodní Obrazovka]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Začněte %s zkuste]]></string>
+    <string name="state"><![CDATA[Kraj]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stay_up_to_date"><![CDATA[Zůstaňte v obraze]]></string>
+    <string name="stories"><![CDATA[Články]]></string>
+    <string name="street"><![CDATA[Adresa, ulice]]></string>
+    <string name="subscribe"><![CDATA[Předplatit]]></string>
+    <string name="subscribe_to_read"><![CDATA[Předplatit pro čtení]]></string>
+    <string name="subscription_auto_download_header"><![CDATA[Automaticky doručovat všechna nová vydání]]></string>
+    <string name="subscription_billing_date_header"><![CDATA[Datum fakturace]]></string>
+    <string name="subscription_cancel"><![CDATA[Zrušit předplatné]]></string>
+    <string name="subscription_details"><![CDATA[Detaily předplatného]]></string>
+    <string name="subscription_expires_header"><![CDATA[Vyprší]]></string>
+    <string name="subscription_manage"><![CDATA[Řiďte předplatné]]></string>
+    <string name="subscription_no_subscriptions"><![CDATA[Nemáte žádné předplatné.]]></string>
+    <string name="subscription_open_title"><![CDATA[Jít na noviny]]></string>
+    <string name="subscription_payment_method"><![CDATA[Způsob Platby]]></string>
+    <string name="subscription_plan"><![CDATA[Plán odběru:]]></string>
+    <string name="subscription_plan_header"><![CDATA[Plány předplatného]]></string>
+    <string name="subscription_plans"><![CDATA[Plány předplatného]]></string>
+    <string name="subscription_titles_header"><![CDATA[Tituly]]></string>
+    <string name="subscription_trial_subtitle"><![CDATA[Komplemetární přístup]]></string>
+    <string name="subscription_unlimited_subtitle"><![CDATA[Neomezené čtení]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Ne harmonogram dodávky]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Můžete si naplánovat doručení objednávky na obrazovce vydání]]></string>
+    <string name="suggestions"><![CDATA[Návrhy]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[Přílohy]]></string>
+    <string name="suppliment_count_huge"><![CDATA[%d přílohy]]></string>
+    <string name="suppliment_count_one"><![CDATA[%d supplement]]></string>
+    <string name="support_now"><![CDATA[Souhlasím]]></string>
+    <string name="supporters"><![CDATA[Podporovatelé]]></string>
+    <string name="supporting"><![CDATA[Souhlasím]]></string>
+    <string name="system_sharing"><![CDATA[Sdílet s...]]></string>
+    <string name="table_of_contents"><![CDATA[Adresář]]></string>
+    <string name="take_photo"><![CDATA[Pořídit fotografii]]></string>
+    <string name="tell_your_friends"><![CDATA[Řekněte svým přátelům]]></string>
+    <string name="terms_of_use"><![CDATA[Podmínky Použití]]></string>
+    <string name="text_view"><![CDATA[Textové Zobrazení]]></string>
+    <string name="text_view_feed_tools_more_content_description"><![CDATA[Otevřít nabídku dalších nástrojů]]></string>
+    <string name="text_view_feed_tools_more_list_view_content_description"><![CDATA[Seznam nástrojů v nabídce]]></string>
+    <string name="theme"><![CDATA[Téma čtení]]></string>
+    <string name="theme_dark"><![CDATA[Tmavá]]></string>
+    <string name="theme_light"><![CDATA[Světlá]]></string>
+    <string name="theme_system"><![CDATA[Přizpůsobit zařízení]]></string>
+    <string name="they_can_get_too"><![CDATA[aby to mohli také získat!]]></string>
+    <string name="this_channel_is_private"><![CDATA[Tento kanál je soukromý]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[Klepněte pro obrácení]]></string>
+    <string name="tips_experiance_page_view_with_free_titles"><![CDATA[Zkušebně zobrazit stránku s volnými tituly]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[Šipky ukazují vydání, která jsou připravena ke stažení]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[Stáhnout nové vydání]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[Klepněte pro otevření zobrazení textu]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[Podržte pro akce s článkem]]></string>
+    <string name="tips_order_autodelivery_download_when_available"><![CDATA[Stáhnout příští vydání ihned, jakmile bude k dispozici]]></string>
+    <string name="tips_order_favorites_appear_first"><![CDATA[Vaše oblíbené tituly se zobrazují jako první]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[Klepněte pro speciální funkce]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[Klepněte na nadpis nebo zelenou šipku pro čtení celého příběhu]]></string>
+    <string name="title_page"><![CDATA[%1$d z %2$d]]></string>
+    <string name="title_page_spread"><![CDATA[%1$d - %2$d z %3$d]]></string>
+    <string name="title_publishing_subtitle"><![CDATA[Publikováno %s]]></string>
+    <string name="toc_page_number"><![CDATA[Stránka %s]]></string>
+    <string name="today"><![CDATA[Dnes]]></string>
+    <string name="top_free"><![CDATA[Nejlepší zdarma]]></string>
+    <string name="top_free_magazines"><![CDATA[Nejlepší Zdarma Časopisy]]></string>
+    <string name="top_free_newspapers"><![CDATA[Nejlepší Zdarma Noviny]]></string>
+    <string name="top_magazines"><![CDATA[Nejlepší Časopisy]]></string>
+    <string name="top_newspapers"><![CDATA[Nejlepší Noviny]]></string>
+    <string name="topnews_important"><![CDATA[Nejlepší Příběhy]]></string>
+    <string name="topnews_important_locale"><![CDATA[Nejlepší Příběhy - %s]]></string>
+    <string name="topnews_interesting"><![CDATA[Zajímavé]]></string>
+    <string name="topnews_morenews"><![CDATA[Více Zpráv]]></string>
+    <string name="topnews_morenews_locale"><![CDATA[Více Zpráv - %s]]></string>
+    <string name="topnews_readerschoice"><![CDATA[Volba Čtenářů]]></string>
+    <string name="topnews_sections"><![CDATA[Sekce]]></string>
+    <string name="topnews_sincelastvisit"><![CDATA[Od Vaší Poslední Návštěvy]]></string>
+    <string name="topnews_subtitle"><![CDATA[Nejdůležitější zprávy z titulní strany dnes.]]></string>
+    <string name="translate"><![CDATA[Přeložit]]></string>
+    <string name="translated_into"><![CDATA[Přeloženo do %s]]></string>
+    <string name="translated_popup_auto_translate"><![CDATA[Přeložit automaticky:]]></string>
+    <string name="translated_popup_auto_translate_from_to"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="translated_popup_disclaimer"><![CDATA[Překlad]]></string>
+    <string name="translated_popup_translated_into"><![CDATA[Přeloženo]]></string>
+    <string name="translation_badge_translated"><![CDATA[Přeloženo]]></string>
+    <string name="translation_badge_translating"><![CDATA[Překládání]]></string>
+    <string name="translation_disclaimer"><![CDATA[Překládání PressReader poskytuje hlavní výklad obsahu článku, ale nepředstavuje přesný překlad. PressReader není zodpovědný za přesnost žádného překladu, protože všechny texty jsou automaticky překládány bez manuálního ověřování přesnosti.]]></string>
+    <string name="translation_disclaimer_title"><![CDATA[Vyloučení odpovědnosti]]></string>
+    <string name="translation_languages_dialog_list_view_content_description"><![CDATA[Seznam jazyků pro překlad]]></string>
+    <string name="trial_action"><![CDATA[Zahajte bezplatnou zkušební verzi]]></string>
+    <string name="trial_banner_details_description_1"><![CDATA[Neomezená stahování vašich oblíbených novin a časopisů]]></string>
+    <string name="trial_banner_details_description_2"><![CDATA[Ukládejte celá vydání pro offline čtení]]></string>
+    <string name="trial_banner_details_description_3"><![CDATA[Přidejte oblíbené tituly a nastavte automatická stahování]]></string>
+    <string name="trial_banner_premium"><![CDATA[PressReader Premium]]></string>
+    <string name="trial_banner_try_trial"><![CDATA[Vyzkoušejte 7 dní zdarma]]></string>
+    <string name="trial_error_eligibility"><![CDATA[V minulosti jste již využili úvodní nabídku.
+Přejete si nyní předplatit?]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Tento produkt již máte na PressReaderu.]]></string>
+    <string name="trial_error_eligibility_title"><![CDATA[Máte štěstí!]]></string>
+    <string name="trial_error_eligibility_unlimited"><![CDATA[Máte již průchod na PressReader se všemi funkcemi.]]></string>
+    <string name="trial_error_eligibility_unlimited_start_exploring"><![CDATA[Začněte objevovat]]></string>
+    <string name="trial_subscription"><![CDATA[zkouška zdarma]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Odblokujte 7 000 novin a časopisů s neomezeným čtením. Vyzkoušejte zdarma po dobu 7 dní.]]></string>
+    <string name="trial_try_premium_title"><![CDATA[Vyzkoušejte Premium zdarma]]></string>
+    <string name="try_for_free"><![CDATA[Vyzkoušejte zdarma]]></string>
+    <string name="try_premium"><![CDATA[Vyzkoušejte Premium]]></string>
+    <string name="try_zooming_different_place"><![CDATA[Zkuste oddálit nebo přetáhněte mapu na jiné místo]]></string>
+    <string name="tts_language_not_installed"><![CDATA[Jazyk novin není podporován hlasovým syntetizátorem. Prosím, nainstalujte jazykový balíček nebo pokračujte v angličtině.]]></string>
+    <string name="tts_not_installed"><![CDATA[Pro pokračování s lokálním hlasovým syntetizátorem je potřeba nainstalovat TTS Engine.]]></string>
+    <string name="tts_playback_rate"><![CDATA[Rychlost Řeči]]></string>
+    <string name="tts_playback_rate_summary"><![CDATA[Nastavte rychlost, jakou je text vyslovován.]]></string>
+    <string name="tts_use_english"><![CDATA[Použijte Angličtinu]]></string>
+    <string name="twitter"><![CDATA[Twitter]]></string>
+    <string name="two_columns"><![CDATA[2 sloupce]]></string>
+    <string name="types"><![CDATA[Typy]]></string>
+    <string name="unexpected_error"><![CDATA[Neočekávaná Chyba]]></string>
+    <string name="unexpected_error_description"><![CDATA[Omlouváme se! Něco se pokazilo, ale zjišťujeme to.]]></string>
+    <string name="unfollow"><![CDATA[Zrušit sledování]]></string>
+    <string name="unlink"><![CDATA[Odpojit Účet]]></string>
+    <string name="unlock"><![CDATA[Odemknout]]></string>
+    <string name="unregistered"><![CDATA[Neregistrovaný]]></string>
+    <string name="update_account"><![CDATA[Aktualizovat Účet]]></string>
+    <string name="update_downloaded"><![CDATA[Právě byla stáhnuta aktualizace.]]></string>
+    <string name="update_failed"><![CDATA[Při aktualizaci došlo k chybě.]]></string>
+    <string name="update_payment_details"><![CDATA[Aktualizovat Platební Údaje]]></string>
+    <string name="userinterests_title"><![CDATA[Zájmy]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"Vypnutí"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ZAP"</string>
+    <string name="view"><![CDATA[Prohlížet]]></string>
+    <string name="view_full_discussion"><![CDATA[Zobrazit Celou Diskusi]]></string>
+    <string name="vs"><![CDATA[vs]]></string>
+    <string name="weather"><![CDATA[Počasí]]></string>
+    <string name="welcome_to_pressreader"><![CDATA[Vítejte v PressReader]]></string>
+    <string name="what_is_opinion"><![CDATA[Jaký je Váš Názor?]]></string>
+    <string name="who_is_opinion_leader"><![CDATA[Kdo je Lídr Názoru?]]></string>
+    <string name="write_comment"><![CDATA[Napište komentář.]]></string>
+    <string name="yesterday"><![CDATA[Včera]]></string>
+    <string name="you_are_following"><![CDATA[Sledujete %1$s. Nejnovější vydání a online příběhy se zobrazí na úvodní stránce.]]></string>
+    <string name="you_are_no_longer_following"><![CDATA[Už nesledujete %1$s]]></string>
+    <string name="you_may_be_asked_to_confirm_your_purchase"><![CDATA[Možná budete požádáni, abyste potvrdili nákup odpovědí na bezpečnostní otázku, kterou jste nastavili u své finanční instituce.]]></string>
+    <string name="youtube"><![CDATA[Youtube]]></string>
+    <string name="zip"><![CDATA[PSČ]]></string>
+</resources>

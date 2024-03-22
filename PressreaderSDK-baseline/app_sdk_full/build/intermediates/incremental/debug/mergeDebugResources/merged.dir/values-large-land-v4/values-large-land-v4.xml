@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="float" name="gift_banner_text_line_spacing" type="dimen">1.0</item>
+    <dimen name="left_panel_width">275dp</dimen>
+    <dimen name="loading_status_view_padding_top">150dp</dimen>
+    <dimen name="nav_bar_bottom_fixed_size">96dp</dimen>
+    <dimen name="trial_banner_item_padding">200dp</dimen>
+    <integer name="download_expanded_view_cols">4</integer>
+    <integer name="publications_column_count">4</integer>
+</resources>

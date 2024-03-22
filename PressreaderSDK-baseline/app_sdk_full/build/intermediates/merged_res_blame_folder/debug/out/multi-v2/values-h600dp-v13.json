@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.newspaperdirect.example.samplesdk.app_sdk_full-mergeDebugResources-71:/values-h600dp-v13/values-h600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\victr\\.gradle\\caches\\transforms-3\\2fb863c9c83c6d46557b7de97fed14de\\transformed\\jetified-accounts-6.6\\res\\values-h600dp-v13\\values-h600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,126,199",
+                        "endColumns": "70,72,74",
+                        "endOffsets": "121,194,269"
+                    }
+                }
+            ]
+        }
+    ]
+}

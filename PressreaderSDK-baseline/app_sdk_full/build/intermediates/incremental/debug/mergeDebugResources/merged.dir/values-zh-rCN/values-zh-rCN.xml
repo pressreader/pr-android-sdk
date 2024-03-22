@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"明天"</item>
+        <item msgid="2973062968038355991" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 天后"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"1 小时后"</item>
+        <item msgid="3705373766798013406" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 小时后"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"1 分钟后"</item>
+        <item msgid="4216113292706568726" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 分钟后"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"1 秒后"</item>
+        <item msgid="5495880108825805108" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 秒后"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"昨天"</item>
+        <item msgid="3453342639616481191" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 天前"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"1 小时前"</item>
+        <item msgid="6889970745748538901" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 小时前"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"1 分钟前"</item>
+        <item msgid="851164968597150710" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 分钟前"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"1 秒前"</item>
+        <item msgid="3699169366650930415" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 秒前"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 小时"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 小时"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 分钟"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 分钟"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 秒"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 秒"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"明天"</item>
+        <item msgid="5109449375100953247" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 天后"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"1 小时后"</item>
+        <item msgid="547290677353727389" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 小时后"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"1 分钟后"</item>
+        <item msgid="3330713936399448749" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 分钟后"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"1 秒后"</item>
+        <item msgid="1241926116443974687" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 秒后"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"昨天"</item>
+        <item msgid="2479586466153314633" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 天前"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"1 小时前"</item>
+        <item msgid="2467273239587587569" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 小时前"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"1 分钟前"</item>
+        <item msgid="2176942008915455116" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 分钟前"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"1 秒前"</item>
+        <item msgid="3903706804349556379" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> 秒前"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 条新通知</item>
+    <item quantity="other">%d 条新通知</item>
+  </plurals>
+    <string name="Browse"><![CDATA[浏览]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"转到首页"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"关闭"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"开启"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete 键"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 键"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空格键"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享对象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"与<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about_hotspots"><![CDATA[关于热点]]></string>
+    <string name="about_trends"><![CDATA[关于趋势]]></string>
+    <string name="account_created"><![CDATA[您的帐户建立成功。]]></string>
+    <string name="account_name"><![CDATA[账户名称]]></string>
+    <string name="account_owner"><![CDATA[帐号持有人]]></string>
+    <string name="account_service_name"><![CDATA[服务名称]]></string>
+    <string name="account_status"><![CDATA[帐户状态]]></string>
+    <string name="account_updated"><![CDATA[账户 资料已更新]]></string>
+    <string name="add_account"><![CDATA[添加帐户]]></string>
+    <string name="add_my_publications"><![CDATA[添加到我的刊物列表]]></string>
+    <string name="add_opinion"><![CDATA[添加意见]]></string>
+    <string name="add_opinion_text_sample"><![CDATA[例子：相爱，不要钱]]></string>
+    <string name="add_to_collection"><![CDATA[添加至收藏]]></string>
+    <string name="add_video"><![CDATA[添加视频]]></string>
+    <string name="advanced_search"><![CDATA[高级搜索]]></string>
+    <string name="all"><![CDATA[全部]]></string>
+    <string name="all_downloads"><![CDATA[所有下载]]></string>
+    <string name="article_comments"><![CDATA[%d 的评论]]></string>
+    <string name="article_flow_bookmarks_page_set_page_amount"><![CDATA[%s 页]]></string>
+    <string name="article_flow_bookmarks_page_set_pages_amount"><![CDATA[%s 网页]]></string>
+    <string name="article_homefeed_section_continue_more"><![CDATA[更多 %s]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_library"><![CDATA[借书卡]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[请选择服务]]></string>
+    <string name="authorization_social_signin"><![CDATA[登录]]></string>
+    <string name="authorization_text"><![CDATA[使用 %s 帐户下载报纸]]></string>
+    <string name="authorized_at"><![CDATA[成功授权 %s]]></string>
+    <string name="auto"><![CDATA[自动]]></string>
+    <string name="auto_download"><![CDATA[自动下载]]></string>
+    <string name="auto_download_issue_available"><![CDATA[新的版本可用：%s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[自动递送所有新刊物]]></string>
+    <string name="auto_download_new_issues_question"><![CDATA[是否自动下载新的问题？]]></string>
+    <string name="auto_renewed"><![CDATA[自动更新]]></string>
+    <string name="auto_translate_prompt_button_general_negative"><![CDATA[不]]></string>
+    <string name="auto_translate_prompt_button_general_positive"><![CDATA[是的]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_negative"><![CDATA[关闭]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_positive"><![CDATA[设置]]></string>
+    <string name="auto_translate_prompt_do_not_show_again"><![CDATA[不再显示这个]]></string>
+    <string name="auto_translate_prompt_message_general"><![CDATA[%1$s [arrow] %2$s\n\n您可以随时关闭此功能。]]></string>
+    <string name="auto_translate_prompt_message_limit_reached"><![CDATA[您已达到已保存语言对的最大数量。打开设置以管理您选择的语言。]]></string>
+    <string name="auto_translate_prompt_title_general"><![CDATA[启用这些语言的自动翻译？]]></string>
+    <string name="auto_translate_prompt_title_limit_reached"><![CDATA[翻译偏好]]></string>
+    <string name="back_issue_archive"><![CDATA[过刊档案]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[无限的]]></string>
+    <string name="balance"><![CDATA[金额]]></string>
+    <string name="balance_description"><![CDATA[%1$s 的 %2$s]]></string>
+    <string name="be_the_first_one_to_comment"><![CDATA[成为第一个评论者]]></string>
+    <string name="billing_information"><![CDATA[帐单资料]]></string>
+    <string name="blog"><![CDATA[博客]]></string>
+    <string name="book_reader_bookmarks"><![CDATA[书签]]></string>
+    <string name="book_reader_bookmarks_empty_state"><![CDATA[还没有书签]]></string>
+    <string name="book_reader_font_popup_alignment"><![CDATA[对齐]]></string>
+    <string name="book_reader_font_popup_spacing"><![CDATA[行距]]></string>
+    <string name="book_reader_font_popup_theme_color"><![CDATA[主题色]]></string>
+    <string name="book_reader_font_popup_title"><![CDATA[字体]]></string>
+    <string name="book_reader_get_book"><![CDATA[拿书]]></string>
+    <string name="book_reader_highlights"><![CDATA[亮点]]></string>
+    <string name="book_reader_highlights_empty_state"><![CDATA[还没有亮点]]></string>
+    <string name="book_reader_highlights_popup_search"><![CDATA[搜索]]></string>
+    <string name="book_reader_no_content_error_message"><![CDATA[没有可下载的内容]]></string>
+    <string name="book_reader_page_format"><![CDATA[第 %1$d 页，共 %2$d 页]]></string>
+    <string name="book_reader_purchase_popup_button"><![CDATA[好]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[此应用不支持购买此内容。 
+从 PressReader 网站购买的书籍可以
+在此应用中使用同一个账户阅读。]]></string>
+    <string name="book_reader_purchase_popup_title"><![CDATA[得到这本书]]></string>
+    <string name="book_reader_reading_position_message"><![CDATA[您当前位于第 %1$s 页。最近阅读的页面是来自 %2$s 的 %3$s，日期为 %4$s，时间为 %5$s。是否前往第 %6$s 页？]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[更近阅读的页面]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[我们很高兴您喜欢这本书！要继续您的冒险，现在转到\'图书详情\'。]]></string>
+    <string name="book_reader_search_hint"><![CDATA[搜索字词或短语]]></string>
+    <string name="book_reader_table_of_content"><![CDATA[目录]]></string>
+    <string name="bookmark"><![CDATA[书签]]></string>
+    <string name="bookmarked"><![CDATA[已收藏为书签]]></string>
+    <string name="bookmarks"><![CDATA[收藏集]]></string>
+    <string name="bookmarks_view_all_bookmarks"><![CDATA[所有的书籤]]></string>
+    <string name="bookmarks_view_empty"><![CDATA[书签将显示在此处]]></string>
+    <string name="books"><![CDATA[书籍]]></string>
+    <string name="books_banner_action"><![CDATA[浏览图书]]></string>
+    <string name="books_banner_description"><![CDATA[高品质的报纸、杂志和书籍宇宙，尽在一个平台上。]]></string>
+    <string name="books_banner_title"><![CDATA[在 PressReader 上阅读书籍]]></string>
+    <string name="books_catalog_category_error_message"><![CDATA[无法按类别加载书籍]]></string>
+    <string name="books_catalog_featured_error_message"><![CDATA[无法加载精选书籍]]></string>
+    <string name="books_catalog_global_error_message"><![CDATA[无法加载书籍目录]]></string>
+    <string name="books_catalog_just_added_error_message"><![CDATA[无法加载刚刚添加的书籍]]></string>
+    <string name="books_catalog_new_releases_error_message"><![CDATA[无法加载新发布的书籍]]></string>
+    <string name="books_description_show_less"><![CDATA[查看更少]]></string>
+    <string name="books_description_show_more"><![CDATA[查看更多]]></string>
+    <string name="books_details_brought_by"><![CDATA[为您带来]]></string>
+    <string name="books_details_button_get_book"><![CDATA[拿书]]></string>
+    <string name="books_details_button_read"><![CDATA[阅读]]></string>
+    <string name="books_details_get_more_error_message"><![CDATA[无法加载更多书籍]]></string>
+    <string name="books_details_isbn"><![CDATA[国际标准书号]]></string>
+    <string name="books_details_language"><![CDATA[语言]]></string>
+    <string name="books_details_pages"><![CDATA[页数]]></string>
+    <string name="books_details_publisher"><![CDATA[出版商]]></string>
+    <string name="books_details_released"><![CDATA[发佈的]]></string>
+    <string name="books_details_sample"><![CDATA[样品]]></string>
+    <string name="books_details_seller"><![CDATA[卖方]]></string>
+    <string name="books_details_series_format"><![CDATA[%1$s：书 %2$s]]></string>
+    <string name="books_downloading_limit_message"><![CDATA[您已经达到了本期间的连续下载限制。请稍后再试。]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[對不起，這本書已經不再提供]]></string>
+    <string name="books_license_expired_message"><![CDATA[繼續閱讀，前往旅遊HotSpot以延長您的存取權，或在 pressreader.com 上購買您的電子書（視供應情況而定).]]></string>
+    <string name="books_license_expired_title"><![CDATA[查找HotSpot]]></string>
+    <string name="books_paid_message"><![CDATA[请选择其他刊物。]]></string>
+    <string name="books_paid_title"><![CDATA[很抱歉，这个标题目前不可用。]]></string>
+    <string name="bottomsheet_action_expand_halfway">展开到一半高度</string>
+    <string name="breaking_news"><![CDATA[突发新闻]]></string>
+    <string name="brought_to_you_by"><![CDATA[带给你]]></string>
+    <string name="browse_catalog"><![CDATA[浏览目录]]></string>
+    <string name="btn_allow"><![CDATA[允许]]></string>
+    <string name="btn_back"><![CDATA[返回]]></string>
+    <string name="btn_cancel"><![CDATA[取消]]></string>
+    <string name="btn_confirm"><![CDATA[确认]]></string>
+    <string name="btn_delete"><![CDATA[删除]]></string>
+    <string name="btn_download"><![CDATA[下载]]></string>
+    <string name="btn_downloading"><![CDATA[正在下载]]></string>
+    <string name="btn_font_size"><![CDATA[字体大小]]></string>
+    <string name="btn_listen"><![CDATA[收听]]></string>
+    <string name="btn_next"><![CDATA[下一页]]></string>
+    <string name="btn_no"><![CDATA[拒绝]]></string>
+    <string name="btn_ok"><![CDATA[确定]]></string>
+    <string name="btn_page"><![CDATA[页面]]></string>
+    <string name="btn_retry"><![CDATA[重试]]></string>
+    <string name="btn_send"><![CDATA[传送]]></string>
+    <string name="btn_share"><![CDATA[分享]]></string>
+    <string name="btn_text_smart"><![CDATA[智能文本]]></string>
+    <string name="btn_unsubscribe"><![CDATA[取消订阅]]></string>
+    <string name="btn_yes"><![CDATA[是]]></string>
+    <string name="bump_it"><![CDATA[支持]]></string>
+    <string name="bump_it_counter"><![CDATA[支持 (%d)]]></string>
+    <string name="bumped"><![CDATA[支持]]></string>
+    <string name="buncle_purchase_error_already_applied"><![CDATA[套餐已经应用过了]]></string>
+    <string name="bundle_all_you_can_read_title"><![CDATA[这是您可以阅读的内容]]></string>
+    <string name="bundle_cell_footer"><![CDATA[自动续订，随时取消。]]></string>
+    <string name="bundle_cell_subtitle"><![CDATA[订阅并阅读所有可用的出版物]]></string>
+    <string name="bundle_empty_result"><![CDATA[没有发现订阅]]></string>
+    <string name="bundle_footer_text"><![CDATA[方案价格是按月循环计费的。随时可取消。我们通过月度订阅计划支付给出版商所有阅读的问题。适用<a href=\"pressreader://fair-usage\">公平使用政策</a>。所有计划仅供个人使用。企业费率基于您组织中的员工人数确定。]]></string>
+    <string name="bundle_price_per_amount_months"><![CDATA[%1$s / %2$s 月]]></string>
+    <string name="bundle_price_per_bi_week"><![CDATA[%s / 每两周一次]]></string>
+    <string name="bundle_price_per_bi_year"><![CDATA[%s / 每半年一次]]></string>
+    <string name="bundle_price_per_half_year"><![CDATA[%s /  半年]]></string>
+    <string name="bundle_price_per_month"><![CDATA[%s / 每月一次]]></string>
+    <string name="bundle_price_per_quarter"><![CDATA[%s / 每季度一次]]></string>
+    <string name="bundle_price_per_week"><![CDATA[%s / 周]]></string>
+    <string name="bundle_price_per_year"><![CDATA[%s / 年]]></string>
+    <string name="bundle_price_save"><![CDATA[（保存%s）]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[购买 %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[免费尝试 %1$s 天 \n然后 %2$s。]]></string>
+    <string name="bundle_product_cancel"><![CDATA[取消产品订阅？]]></string>
+    <string name="bundle_purchase_error_registration_required"><![CDATA[需要注册]]></string>
+    <string name="bundle_purchase_error_unknown"><![CDATA[购买产品时出现意外错误。请再试一次。]]></string>
+    <string name="bundle_title_subscription_subtitle"><![CDATA[服务通知 %s]]></string>
+    <string name="bundle_title_subscription_title"><![CDATA[%s 订阅]]></string>
+    <string name="business"><![CDATA[商业]]></string>
+    <string name="calendar_year_chunk_title"><![CDATA[%1$s - %2$s]]></string>
+    <string name="campaign_all_issues_claimed"><![CDATA[所有问题已经认领完毕]]></string>
+    <string name="campaign_all_issues_claimed_description"><![CDATA[哦，不好！所有这些问题都已经被认领了。当您访问我们的热点之一时，您仍然可以获取一份免费问题。]]></string>
+    <string name="categories"><![CDATA[分类]]></string>
+    <string name="channel"><![CDATA[频道]]></string>
+    <string name="channel_feed"><![CDATA[频道订阅源]]></string>
+    <string name="channel_full_title"><![CDATA[%1$s 在 %2$s]]></string>
+    <string name="channels"><![CDATA[頻道]]></string>
+    <string name="channels_empty_result"><![CDATA[未找到任何频道]]></string>
+    <string name="channels_other_sources"><![CDATA[其他来源]]></string>
+    <string name="channels_sources"><![CDATA[来源]]></string>
+    <string name="character_counter_content_description">输入了 %1$d 个字符（上限为 %2$d 个）</string>
+    <string name="character_counter_overflowed_content_description">超出字符数限制（共 %1$d 个，上限为 %2$d 个）</string>
+    <string name="choose_publications"><![CDATA[选择出版物]]></string>
+    <string name="choose_your_plan"><![CDATA[选择你的计划]]></string>
+    <string name="city"><![CDATA[城市]]></string>
+    <string name="cleanup_never"><![CDATA[从来没有]]></string>
+    <string name="clear"><![CDATA[清除]]></string>
+    <string name="clear_history"><![CDATA[清除历史记录]]></string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string name="client_name_hint"><![CDATA[设备名称]]></string>
+    <string name="close"><![CDATA[关闭]]></string>
+    <string name="collection_options"><![CDATA[收藏选项]]></string>
+    <string name="collection_save"><![CDATA[保存]]></string>
+    <string name="collections"><![CDATA[收藏集]]></string>
+    <string name="collections_empty_result"><![CDATA[未找到任何集合]]></string>
+    <string name="com_appboy_feed_connection_error_body">无法建立网络连接。\n请稍候再试。</string>
+    <string name="com_appboy_feed_connection_error_title">连接错误</string>
+    <string name="com_appboy_feed_empty">暂时没有更新。\n请稍候再试。</string>
+    <string name="comment_post"><![CDATA[发布]]></string>
+    <string name="comment_post_tip"><![CDATA[说点什么...]]></string>
+    <string name="comment_url_copied_to_clipboard"><![CDATA[评论文本复制到剪贴板]]></string>
+    <string name="commented"><![CDATA[已评论]]></string>
+    <string name="comments"><![CDATA[评论]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">启用</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">您必须先启用 Google Play 服务，然后才能运行%1$s。</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">启用 Google Play 服务</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">安装</string>
+    <string name="common_google_play_services_install_text">您的设备没有安装 Google Play 服务，因此无法运行%1$s。</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">获取 Google Play 服务</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服务的适用范围</string>
+    <string name="common_google_play_services_notification_ticker">Google Play服务出错</string>
+    <string name="common_google_play_services_unknown_issue">%1$s无法访问 Google Play 服务，请重试。</string>
+    <string name="common_google_play_services_unsupported_text">您的设备不支持 Google Play 服务，因此无法运行%1$s。</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">更新</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">您必须先更新 Google Play 服务，然后才能运行%1$s。</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">更新 Google Play 服务</string>
+    <string name="common_google_play_services_updating_text">Google Play 服务当前正在更新，因此您无法运行%1$s。</string>
+    <string name="common_google_play_services_wear_update_text">必须使用新版 Google Play 服务。该服务很快就会自行更新。</string>
+    <string name="common_open_on_phone">在手机上打开</string>
+    <string name="common_signin_button_text">登录</string>
+    <string name="common_signin_button_text_long">使用 Google 帐号登录</string>
+    <string name="company_address"><![CDATA[PressReader.com\n200-13111 Vanier Place\nRichmond BC V6V 2J1\nCanada]]></string>
+    <string name="company_hint"><![CDATA[公司名称（选填）]]></string>
+    <string name="complete_action_faild"><![CDATA[不能完成操作]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[确认密码]]></string>
+    <string name="confirmation"><![CDATA[确认]]></string>
+    <string name="contact_us"><![CDATA[联系我们]]></string>
+    <string name="continue_reading"><![CDATA[继续阅读]]></string>
+    <string name="continue_with"><![CDATA[使用登录]]></string>
+    <string name="copied_to_clipboard"><![CDATA[文章全文复制到剪贴板]]></string>
+    <string name="copies_left"><![CDATA[%s 复制左边]]></string>
+    <string msgid="3209159573327985035" name="copy">"复制"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"链接已复制到剪贴板"</string>
+    <string name="couldnt_find_any_stories"><![CDATA[我们未能找到与此兴趣相
+关的最新故事]]></string>
+    <string name="count_pages"><![CDATA[%d 页数]]></string>
+    <string name="countries"><![CDATA[国家]]></string>
+    <string name="country"><![CDATA[国家]]></string>
+    <string name="crashreport_message"><![CDATA[此应用程序有损坏\n您是否愿意提供有关损坏数据给技术人员以便解决问题?\n你的个人资料不会被发送]]></string>
+    <string name="create"><![CDATA[创建]]></string>
+    <string name="create_new_collection"><![CDATA[创建新的收藏]]></string>
+    <string name="creating_bookmark"><![CDATA[创建书签]]></string>
+    <string name="credit_billing_address"><![CDATA[帐单地址]]></string>
+    <string name="credit_card_cvv"><![CDATA[CVV代码]]></string>
+    <string name="credit_card_expire_month"><![CDATA[到期月份]]></string>
+    <string name="credit_card_expire_year"><![CDATA[到期年份]]></string>
+    <string name="credit_card_holder"><![CDATA[持卡人姓名]]></string>
+    <string name="credit_card_info"><![CDATA[%1$s (有效期至 %3$d/%2$d)]]></string>
+    <string name="credit_card_number"><![CDATA[信用卡号码]]></string>
+    <string name="credit_card_type"><![CDATA[信用卡]]></string>
+    <string name="credit_card_type_hint"><![CDATA[选择信用卡]]></string>
+    <string name="current_location"><![CDATA[当前位置]]></string>
+    <string name="current_password"><![CDATA[当前密码]]></string>
+    <string name="customer_service"><![CDATA[客户服务]]></string>
+    <string name="data_storage_path"><![CDATA[数据存储路径]]></string>
+    <string name="date_format_1"><![CDATA[E, dd/MM/yyyy]]></string>
+    <string name="date_format_3"><![CDATA[dd/MM/yyyy]]></string>
+    <string name="decrease_font"><![CDATA[缩小字体]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[哎呀！我们找不到您要找的内容。]]></string>
+    <string name="default_device_name"><![CDATA[我的装置]]></string>
+    <string name="default_storage"><![CDATA[存储量]]></string>
+    <string name="delete_account"><![CDATA[删除帐户]]></string>
+    <string name="delete_account_confirmation_body"><![CDATA[请注意，完全删除您的个人数据需要几天时间。 如果您在您的应用商店帐户中购买了任何订阅，请在应用商店中取消它们。]]></string>
+    <string name="delete_account_confirmation_title"><![CDATA[您确定要删除您的帐户吗？]]></string>
+    <string name="delete_comment"><![CDATA[删除评论]]></string>
+    <string name="delete_post_confirmation"><![CDATA[您确定要删除这篇文章吗？]]></string>
+    <string name="deleted_comment"><![CDATA[默认存储]]></string>
+    <string name="description"><![CDATA[描述]]></string>
+    <string name="deselect_all"><![CDATA[取消所有选择]]></string>
+    <string name="device_management_date"><![CDATA[最后激活: %s]]></string>
+    <string name="device_management_deauthorize"><![CDATA[解除授权]]></string>
+    <string name="device_management_dialog_message"><![CDATA[此设备的授权将被撤销。 要继续在此设备上阅读，您必须重新登录。]]></string>
+    <string name="device_management_dialog_title"><![CDATA[解除授权 %s?]]></string>
+    <string name="device_management_this_device"><![CDATA[这台设备]]></string>
+    <string name="dialogs_dlg_confirm_delete_collection"><![CDATA[你确定要删除收藏吗？]]></string>
+    <string name="dialogs_dlg_confirm_delete_comment"><![CDATA[你确定要删除评论吗？]]></string>
+    <string name="dialogs_dlg_discard_changes"><![CDATA[您确定要放弃更改吗？]]></string>
+    <string name="discover_gift"><![CDATA[发现礼物]]></string>
+    <string name="dismiss"><![CDATA[忽略]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[所选文章的音频流不适用。]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[播放文章时出错。]]></string>
+    <string name="dlg_authorization_required"><![CDATA[首次使用PressReader时必须先启动应用程式。请连线网际网路并重新启动PressReader。]]></string>
+    <string name="dlg_bad_connection"><![CDATA[与服务器连线有限或无连接]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[请确认想要购买 %s 份过期刊物。]]></string>
+    <string name="dlg_confirm_delete_my_library_selected_items"><![CDATA[从您的库中删除所有选定的项目]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[您的帐户将被收取的金额︰%s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[您想要转移所有下载的报纸到SD卡吗？]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[没有检测到SD卡, 您想使用内部存储器作为储存空间吗?\n\n可用存储空间: %sMb, 一份报纸需要 5-50Mb 来储存。]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[您的订阅并未开启。请更新订阅或联络我们的客服支持团队。]]></string>
+    <string name="dlg_no_email_client"><![CDATA[请安装并配置电子邮件客户端，以便顺利完成此项操作。]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[装置内无剩余空间。请清除SD卡内容。]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[刊物下载完成后将提供放大缩小功能。]]></string>
+    <string name="dlg_opening"><![CDATA[处理中⋯]]></string>
+    <string name="dlg_processing"><![CDATA[处理中⋯]]></string>
+    <string name="dlg_show_tips"><![CDATA[再一次提示？]]></string>
+    <string name="dlg_title_tip"><![CDATA[提示]]></string>
+    <string name="do_you_want_move_files"><![CDATA[想要移动您的所有文件到新位置吗？]]></string>
+    <string name="documents"><![CDATA[文件]]></string>
+    <string name="dont_ask"><![CDATA[不要再问我]]></string>
+    <string name="dont_show_this_again"><![CDATA[不再显示这个]]></string>
+    <string name="download_wifi_only"><![CDATA[只使用Wi-Fi下载]]></string>
+    <string name="downloaded"><![CDATA[已下载]]></string>
+    <string name="downloading_large_file"><![CDATA[正在下载文件]]></string>
+    <string name="downloading_new_issue"><![CDATA[正在下载新一期刊物]]></string>
+    <string name="dump_it"><![CDATA[反对]]></string>
+    <string name="dump_it_counter"><![CDATA[反对 (%d)]]></string>
+    <string name="edit"><![CDATA[编辑]]></string>
+    <string name="editions"><![CDATA[版本]]></string>
+    <string name="editorial"><![CDATA[社论]]></string>
+    <string name="email"><![CDATA[电子邮件地址]]></string>
+    <string name="email_address"><![CDATA[电子邮件地址]]></string>
+    <string name="email_communication"><![CDATA[允许电子邮件通信:]]></string>
+    <string name="email_communication_account"><![CDATA[服务推荐]]></string>
+    <string name="email_communication_account_description"><![CDATA[喜欢的刊物，主题和帐户信息.]]></string>
+    <string name="email_communication_promo"><![CDATA[产品更新]]></string>
+    <string name="email_communication_promo_description"><![CDATA[是的，给我发送最新的关于PressReader的信息，特价，调查问卷和竞赛.]]></string>
+    <string name="email_communication_title"><![CDATA[电子邮件通讯]]></string>
+    <string name="email_hint"><![CDATA[电子邮件地址]]></string>
+    <string name="enter_billing_info"><![CDATA[输入你的计费信息]]></string>
+    <string name="enter_or_paste_url"><![CDATA[输入或粘贴 url]]></string>
+    <string name="entertainment"><![CDATA[娱乐]]></string>
+    <string name="error_access_account"><![CDATA[无法连接到你PressReader的账户]]></string>
+    <string name="error_access_not_available"><![CDATA[您无法登录此设备]]></string>
+    <string name="error_access_token_expired"><![CDATA[无法获取访问令牌。 请再次使用外部授权系统进行授权。]]></string>
+    <string name="error_access_token_from_diff_account"><![CDATA[与用户的PressReader帐户关联的外部用户ID与用户当前使用外部系统登录的外部ID不同]]></string>
+    <string name="error_account_is_used_for_singin"><![CDATA[外部登录配置文件已存在]]></string>
+    <string name="error_auhtorize_one_more_time"><![CDATA[请登录后发表评论]]></string>
+    <string name="error_bookmark_limit_exceeded"><![CDATA[对不起，您已经超出所允许的书签数量。]]></string>
+    <string name="error_bookmark_limit_per_issue_exceeded"><![CDATA[对不起，您已超出所允许的这一问题的书签的数量。]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[无法完成购买。]]></string>
+    <string name="error_collection_name_not_empty"><![CDATA[集合名称不能为空]]></string>
+    <string name="error_connection"><![CDATA[无法建立网路连线。]]></string>
+    <string name="error_contacting_server"><![CDATA[无法连接服务器。]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[无法连接服务器。请重试一次。]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[信用卡类型与信用卡号不符]]></string>
+    <string name="error_device_authorization"><![CDATA[设备授权失败。]]></string>
+    <string name="error_device_authorization_signin"><![CDATA[匿名登录失败，请使用您的个人帐户登录]]></string>
+    <string name="error_dialog_title"><![CDATA[错误]]></string>
+    <string name="error_email_exists"><![CDATA[拥有此电子邮件的帐户已存在]]></string>
+    <string name="error_email_exists_restore_password"><![CDATA[看起来你已经有了一个帐户。]]></string>
+    <string name="error_email_in_use"><![CDATA[电子邮件已被使用]]></string>
+    <string name="error_empty_city"><![CDATA[需要填写城市]]></string>
+    <string name="error_empty_clientname"><![CDATA[设备名称不能为空白。]]></string>
+    <string name="error_empty_confirm"><![CDATA[确认密码为必填栏]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[需要填写CCV代码]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[需要填写持卡人]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[需要填写信用卡号码]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[需要填写街道地址]]></string>
+    <string name="error_empty_email"><![CDATA[电子邮件为必填栏]]></string>
+    <string name="error_empty_field"><![CDATA[此字段不应为空]]></string>
+    <string name="error_empty_first_name"><![CDATA[名字为必填栏]]></string>
+    <string name="error_empty_last_name"><![CDATA[姓氏为必填栏]]></string>
+    <string name="error_empty_password"><![CDATA[密码不能为空白。]]></string>
+    <string name="error_empty_password2"><![CDATA[密码为必填栏]]></string>
+    <string name="error_empty_phone_number"><![CDATA[需要填写电话号码]]></string>
+    <string name="error_empty_required"><![CDATA[需要填写栏]]></string>
+    <string name="error_empty_state"><![CDATA[需要填写州省]]></string>
+    <string name="error_empty_username"><![CDATA[电子邮件不能为空白。]]></string>
+    <string name="error_empty_zipcode"><![CDATA[需要填写邮递区号]]></string>
+    <string name="error_expiration_date"><![CDATA[信用卡有效日期不正确]]></string>
+    <string name="error_externalauth_500"><![CDATA[发生错误，请重试。]]></string>
+    <string name="error_icon_content_description">错误</string>
+    <string name="error_invalid_email"><![CDATA[您必须使用正确的电子邮件地址]]></string>
+    <string name="error_issue_is_archive"><![CDATA[已存档的过期刊物限制下载]]></string>
+    <string name="error_linked_to_another_account"><![CDATA[此帐户已被使用]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[此出版物文件不完整。请重新尝试再次下载此出版物。]]></string>
+    <string name="error_network_error"><![CDATA[网路错误]]></string>
+    <string name="error_nickname_exists"><![CDATA[具有此昵称的帐户已存在]]></string>
+    <string name="error_no_internet_connection"><![CDATA[无互联网连接]]></string>
+    <string name="error_no_internet_connection_description"><![CDATA[连接到Wi-Fi或打开移动数据以使用PressReader]]></string>
+    <string name="error_ordering_issue"><![CDATA[无法订阅该期刊物。请与技术支援部门联络。]]></string>
+    <string name="error_password_required"><![CDATA[密碼欄位為。]]></string>
+    <string name="error_password_short"><![CDATA[请确保密码长度至少为6个字符。]]></string>
+    <string name="error_passwords_not_match"><![CDATA[密码不相符]]></string>
+    <string name="error_please_reset_activation"><![CDATA[请重设开启]]></string>
+    <string name="error_post_empty"><![CDATA[您无法发布空白的帖子]]></string>
+    <string name="error_problem_internet_connection"><![CDATA[似乎无法连接到互联网]]></string>
+    <string name="error_request_access_result_102"><![CDATA[如需购买本期刊物，请在www.pressdisplay.com网站提供正确的信用卡号]]></string>
+    <string name="error_request_access_result_103"><![CDATA[如需购买本期刊物，请在www.pressdisplay.com网站提供正确的信用卡号]]></string>
+    <string name="error_request_access_result_401"><![CDATA[已存档的过期刊物限制下载]]></string>
+    <string name="error_request_access_result_410"><![CDATA[依照出版商要求，所选的出版物目前无法提供下载]]></string>
+    <string name="error_request_access_result_411"><![CDATA[依照出版商要求，所选的出版物目前无法提供下载]]></string>
+    <string name="error_request_access_result_420"><![CDATA[禁止在目前的网站上下载目前的内容]]></string>
+    <string name="error_request_access_result_450"><![CDATA[您目前的位置禁止阅读／下载目前的内容]]></string>
+    <string name="error_request_access_result_451"><![CDATA[您目前的位置禁止阅读／下载目前的内容]]></string>
+    <string name="error_response_200"><![CDATA[很遗憾，您正在尝试注册此帐户授权的设备名称，请更改名称，然后重试。]]></string>
+    <string name="error_response_201"><![CDATA[您已超出此帐户可以使用的设备数量。 请对其中一台激活的设备取消授权。]]></string>
+    <string name="error_searching"><![CDATA[抱歉，我们未能找到与\"%1$s\"相关的任何结果]]></string>
+    <string name="error_storage_not_available"><![CDATA[存储空间不可用。]]></string>
+    <string name="error_try_again"><![CDATA[再试一次]]></string>
+    <string name="error_tts_not_supported"><![CDATA[不支持文字转语音功能。 请切换到在线广播流。]]></string>
+    <string name="error_unexpected_error"><![CDATA[发生了一个意料之外的问题]]></string>
+    <string name="error_update_subscription_change_billing_info"><![CDATA[账单信息是过时或不完整]]></string>
+    <string name="error_user_authorization"><![CDATA[授权失败。请检查您的用户名和密码。]]></string>
+    <string name="error_user_name_in_use"><![CDATA[用已有的相同外部ID共享配置文件]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[此装置已经授权。]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[您输入的促销代号错误]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"高级"</string>
+    <string name="expiration_date"><![CDATA[到期日期]]></string>
+    <string name="exposed_dropdown_menu_content_description">显示下拉菜单</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"复制链接"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"在浏览器中打开"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"分享链接"</string>
+    <string name="featured"><![CDATA[推荐]]></string>
+    <string name="featured_articles"><![CDATA[推荐文章]]></string>
+    <string name="featured_by"><![CDATA[精选]]></string>
+    <string name="financial"><![CDATA[金融]]></string>
+    <string name="first_name_hint"><![CDATA[姓]]></string>
+    <string name="follow"><![CDATA[跟随]]></string>
+    <string name="followers"><![CDATA[追随者]]></string>
+    <string name="following"><![CDATA[以下]]></string>
+    <string name="for_hotspot_sponsors_body"><![CDATA[我们欢迎新的合作伙伴经由几千个热点来展示他们的品牌。详情请与我们联系.]]></string>
+    <string name="for_hotspotsponsors"><![CDATA[致热点赞助商]]></string>
+    <string name="for_publishers"><![CDATA[致出版商]]></string>
+    <string name="for_publishers_body"><![CDATA[今天加入%1$s!\n联系我们%2$s, 用PressReader独特平台扩大你们的范围,增加你们的用户,获得多元化的收入机会]]></string>
+    <string name="for_you"><![CDATA[为您推荐]]></string>
+    <string name="for_you_as_start_screen"><![CDATA[您想将\"For You\"设置为起始屏幕吗]]></string>
+    <string name="forgot_password"><![CDATA[忘记密码？]]></string>
+    <string name="free_magazines"><![CDATA[免费杂志]]></string>
+    <string name="free_newspapers"><![CDATA[免费报纸]]></string>
+    <string name="free_of_total"><![CDATA[%1$s 免费 of %2$s]]></string>
+    <string name="free_titles_20char_max"><![CDATA[免费标题]]></string>
+    <string name="full_sreen_setting"><![CDATA[全屏]]></string>
+    <string name="full_sreen_setting_description"><![CDATA[单击屏幕转换到全屏模式]]></string>
+    <string name="gathering_logs"><![CDATA[正在收集日志...]]></string>
+    <string name="general"><![CDATA[一般的]]></string>
+    <string name="general_information"><![CDATA[一般资料]]></string>
+    <string name="genres"><![CDATA[种类]]></string>
+    <string name="get_latest_news_updates_and_new_issue_alerts"><![CDATA[获取最新的新闻更新和新刊提示以及独家促销]]></string>
+    <string name="get_your_free_copy"><![CDATA[获取您的免费拷贝]]></string>
+    <string name="gift_campaign_disclaimer"><![CDATA[接收此礼物即表示您同意PressReader的条款和条件]]></string>
+    <string name="gift_congratulation"><![CDATA[祝贺！你有一个免费的%s 副本]]></string>
+    <string name="gift_start_in"><![CDATA[您可以在%d开始阅读]]></string>
+    <string name="gift_start_reading"><![CDATA[开始阅读]]></string>
+    <string name="go_premium"><![CDATA[自助阅览]]></string>
+    <string name="go_premium_ad1"><![CDATA[从数千种刊物中选择订阅]]></string>
+    <string name="go_premium_ad2"><![CDATA[免费试用 {duration} 天]]></string>
+    <string name="go_premium_ad2_line2"><![CDATA[定期的 <a href=\"\\">{price}/month</a>]]></string>
+    <string name="go_premium_ad2_notrial"><![CDATA[最多可在5台设备上使用]]></string>
+    <string name="go_premium_ad3"><![CDATA[随时取消订阅。]]></string>
+    <string name="go_premium_buy_with_pressreader"><![CDATA[或者从Pressreader 购买]]></string>
+    <string name="go_premium_get_this_issue"><![CDATA[单期刊物]]></string>
+    <string name="go_premium_issue_subscription_details_format"><![CDATA[新期刊 %1$s]]></string>
+    <string name="go_premium_issue_subscription_payment_period"><![CDATA[/月]]></string>
+    <string name="go_premium_issue_subscription_payment_period_every_days"><![CDATA[/%d 天]]></string>
+    <string name="go_premium_issue_subscription_payment_period_months"><![CDATA[/%d 月]]></string>
+    <string name="go_premium_issue_subscription_payment_period_year"><![CDATA[/年]]></string>
+    <string name="go_premium_price"><![CDATA[{price}/月]]></string>
+    <string name="go_premium_start_free_trial"><![CDATA[開始試用]]></string>
+    <string name="grant_permission"><![CDATA[授予权限]]></string>
+    <string name="grid"><![CDATA[格子]]></string>
+    <string name="help_center"><![CDATA[帮助中心]]></string>
+    <string name="history"><![CDATA[历史]]></string>
+    <string name="holt_to_select"><![CDATA[按住选择]]></string>
+    <string name="home_choose_publications_text"><![CDATA[您关注的刊物的最新一期将在此处显示]]></string>
+    <string name="hot_zone"><![CDATA[热点]]></string>
+    <string name="hot_zone_description"><![CDATA[在此赞助的热点位置免费阅读报纸和杂志]]></string>
+    <string name="hotspot_content"><![CDATA[热点内容]]></string>
+    <string name="hotspot_enable_bluetooth"><![CDATA[启用蓝牙后 当你在一个热点区会通知您。]]></string>
+    <string name="hotspot_enable_gifts"><![CDATA[启用礼品]]></string>
+    <string name="hotspot_enable_local_services"><![CDATA[启用位置服务]]></string>
+    <string name="hotspot_enable_location"><![CDATA[开启定位服务，当你靠近一个热点区时，会通知你可以使用PressReader提供的免费服务。]]></string>
+    <string name="hotspot_enable_location_application"><![CDATA[请启用应用程序的许可位置。]]></string>
+    <string name="hotspot_learnmore_long"><![CDATA[打开位置服务和蓝牙，当你靠近一个热点区时，会通知你可以使用热点区赞助所提供的免费服务。请到热点设置了解更多]]></string>
+    <string name="hotspot_nearby_offline"><![CDATA[附近有一个PressReader热点。上网连结它。]]></string>
+    <string name="hotspot_novisible"><![CDATA[此区域没有热点]]></string>
+    <string name="hotspot_off"><![CDATA[关闭]]></string>
+    <string name="hotspot_public"><![CDATA[公开]]></string>
+    <string name="hotspot_restricted"><![CDATA[限制]]></string>
+    <string name="hotspothub_title"><![CDATA[热点地图]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="hotspotmap_more_locations"><![CDATA[%d 更多的热点]]></string>
+    <string name="hotspotmap_sponsor"><![CDATA[赞助热点]]></string>
+    <string name="hotspots"><![CDATA[热点]]></string>
+    <string name="hotspots_general"><![CDATA[用此地图寻找到附近其它提供热点赞助的Wi-Fi网络 连接后便可搜寻上千种你喜爱的刊物%s]]></string>
+    <string name="hotspots_listheader"><![CDATA[热点都在地图上组合在一起.\n点击针点可放大或看到附近地区的其他的热点，]]></string>
+    <string name="hour_ago"><![CDATA[%d 小时前]]></string>
+    <string name="hours_ago"><![CDATA[%d 小时前]]></string>
+    <string name="icon_content_description">对话框图标</string>
+    <string name="image_caption_optional"><![CDATA[图片说明]]></string>
+    <string name="imei_required"><![CDATA[以前已下载的发行，使用您的设备ID进行安全保护。我们需要你的帐号来开启。你是否同意授予开启？]]></string>
+    <string name="include_supplements"><![CDATA[包括增刊]]></string>
+    <string name="increase_font"><![CDATA[放大字体]]></string>
+    <string name="information"><![CDATA[信息]]></string>
+    <string name="instagram"><![CDATA[Instagram]]></string>
+    <string name="install_fullversion"><![CDATA[安装 PressReader]]></string>
+    <string name="international"><![CDATA[国际]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[你是否要购买这期?]]></string>
+    <string name="issues"><![CDATA[版本]]></string>
+    <string name="item_view_role_description">标签页</string>
+    <string name="joda_time_android_date_time">%1$s %2$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"日期：<ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"时间：<ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>，<ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="join_the_discussion"><![CDATA[加入讨论]]></string>
+    <string name="just_added"><![CDATA[刚刚添加]]></string>
+    <string name="keep_back_issues"><![CDATA[保留 %d 过期刊物]]></string>
+    <string name="label_pause"><![CDATA[暂停]]></string>
+    <string name="label_play"><![CDATA[播放]]></string>
+    <string name="language_not_supported"><![CDATA[不支持该语言]]></string>
+    <string name="languages"><![CDATA[语言]]></string>
+    <string name="languages_zt"><![CDATA[中文繁体]]></string>
+    <string name="last_account_for_signin"><![CDATA[无法取消链接您正在使用的帐户登录到PressReader]]></string>
+    <string name="last_name_hint"><![CDATA[姓]]></string>
+    <string name="latest_news"><![CDATA[最新消息]]></string>
+    <string name="learn_more"><![CDATA[了解更多]]></string>
+    <string name="legal"><![CDATA[法律]]></string>
+    <string name="limited_publications_dialog_message"><![CDATA[此刊可以看到%s]]></string>
+    <string name="list"><![CDATA[列表]]></string>
+    <string name="load_stories"><![CDATA[加载故事]]></string>
+    <string name="loading_books"><![CDATA[加载书籍]]></string>
+    <string name="loading_comments"><![CDATA[加载的评论]]></string>
+    <string name="loading_labels"><![CDATA[加载标签]]></string>
+    <string name="loading_publications"><![CDATA[下载刊物中]]></string>
+    <string name="local_store_nothing_found"><![CDATA[搜寻不到刊物]]></string>
+    <string name="local_store_title"><![CDATA[出版物]]></string>
+    <string name="location_permission_dialog_title"><![CDATA[是否免费？]]></string>
+    <string name="lock"><![CDATA[锁定]]></string>
+    <string name="login_id"><![CDATA[登录 ID]]></string>
+    <string name="magazines"><![CDATA[杂志]]></string>
+    <string name="main_search"><![CDATA[搜寻]]></string>
+    <string name="main_settings"><![CDATA[设定]]></string>
+    <string name="main_title_and_supplements"><![CDATA[正刊与增刊]]></string>
+    <string name="main_title_only"><![CDATA[仅有正刊]]></string>
+    <string name="make_public"><![CDATA[公开]]></string>
+    <string name="manage"><![CDATA[管理]]></string>
+    <string name="manage_devices"><![CDATA[管理设备]]></string>
+    <string name="material_clock_toggle_content_description">选择上午或下午</string>
+    <string name="material_hour_selection">选择小时</string>
+    <string name="material_hour_suffix">%1$s 点</string>
+    <string name="material_minute_selection">选择分钟</string>
+    <string name="material_minute_suffix">%1$s 分</string>
+    <string name="material_timepicker_am">上午</string>
+    <string name="material_timepicker_clock_mode_description">切换到时钟模式来输入时间。</string>
+    <string name="material_timepicker_hour">小时</string>
+    <string name="material_timepicker_minute">分钟</string>
+    <string name="material_timepicker_pm">下午</string>
+    <string name="material_timepicker_select_time">选择时间</string>
+    <string name="material_timepicker_text_input_mode_description">切换到文字输入模式来输入时间。</string>
+    <string name="maybe_later"><![CDATA[也许以后]]></string>
+    <string name="media_000"><![CDATA[0]]></string>
+    <string name="menu_copy"><![CDATA[复制]]></string>
+    <string name="menu_issue_open"><![CDATA[开启]]></string>
+    <string name="menu_issue_open_with_premium"><![CDATA[付费阅读]]></string>
+    <string name="menu_issue_read"><![CDATA[阅读]]></string>
+    <string name="migration_sign_in"><![CDATA[我们最新的应用更新要求重新激活帐户.\n\n请登录后继续使用 %s.]]></string>
+    <string name="minutes"><![CDATA[%d 分钟]]></string>
+    <string name="minutes_ago"><![CDATA[%d 分钟前]]></string>
+    <string name="minutes_one"><![CDATA[1分钟]]></string>
+    <string name="monitors"><![CDATA[我的主题]]></string>
+    <string name="more"><![CDATA[更多]]></string>
+    <string name="more_about"><![CDATA[关于]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="more_by_author_format"><![CDATA[更多由%s提供的内容]]></string>
+    <string name="more_from_series"><![CDATA[此系列更多内容]]></string>
+    <string name="more_genre_format"><![CDATA[更多由%s提供的内容]]></string>
+    <string name="more_send_us_feedback"><![CDATA[发送反馈]]></string>
+    <string name="more_send_us_feedback_logs"><![CDATA[您是否希望提交技术记录以及您的意见？]]></string>
+    <string name="more_settings"><![CDATA[设置]]></string>
+    <string name="most_current"><![CDATA[最新]]></string>
+    <string name="most_popular"><![CDATA[最受欢迎]]></string>
+    <string name="most_recently_published"><![CDATA[最近的]]></string>
+    <string name="most_relevant"><![CDATA[最相关的]]></string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_chip_close_icon_content_description">移除%1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">有 %1$d 条以上的新通知</string>
+    <string name="mtrl_picker_a11y_next_month">转到下个月</string>
+    <string name="mtrl_picker_a11y_prev_month">转到上个月</string>
+    <string name="mtrl_picker_announce_current_selection">当前的选择是：%1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">请选择日期</string>
+    <string name="mtrl_picker_date_header_unselected">选定的日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">表示周几的列：%1$s</string>
+    <string name="mtrl_picker_invalid_format">格式无效。</string>
+    <string name="mtrl_picker_invalid_format_example">示例：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用：%1$s</string>
+    <string name="mtrl_picker_invalid_range">范围无效。</string>
+    <string name="mtrl_picker_navigate_to_year_description">转到 %1$s 年</string>
+    <string name="mtrl_picker_out_of_range">不在允许的范围内：%1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">开始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 结束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">请选择范围</string>
+    <string name="mtrl_picker_range_header_unselected">开始日期 - 结束日期</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">结束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">开始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切换到日历输入模式</string>
+    <string name="mtrl_picker_toggle_to_day_selection">点按即可切换到选择某天</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切换到文本字段输入模式</string>
+    <string name="mtrl_picker_toggle_to_year_selection">点按即可切换到选择某年</string>
+    <string name="my_account"><![CDATA[帐户]]></string>
+    <string name="my_collections"><![CDATA[我的收藏]]></string>
+    <string name="my_downloads"><![CDATA[我的下载]]></string>
+    <string name="my_downloads_placeholder"><![CDATA[下载\n将显示在此]]></string>
+    <string name="my_library_noitems"><![CDATA[图书馆内无项目。]]></string>
+    <string name="my_opinions"><![CDATA[我的意见]]></string>
+    <string name="my_profile"><![CDATA[我的频道]]></string>
+    <string name="my_publication"><![CDATA[我的出版物]]></string>
+    <string name="my_publications"><![CDATA[我的出版物]]></string>
+    <string name="name"><![CDATA[名字]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"转到上一层级"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"打开抽屉式导航栏"</string>
+    <string name="navigate_external_link"><![CDATA[此链接可将您带到PressReader之外的网站。在浏览器中打开它吗?\n%s]]></string>
+    <string name="navigation_home"><![CDATA[首页]]></string>
+    <string name="navigation_more"><![CDATA[更多]]></string>
+    <string name="navigation_my_library"><![CDATA[我的图书馆]]></string>
+    <string name="nearby_gifts"><![CDATA[附近的礼物]]></string>
+    <string name="nearby_gifts_description"><![CDATA[我们创建了一个HotSpots网络，您可以阅读并下载完整的刊物。 搜索你附近的一个热点。]]></string>
+    <string name="new_article_view"><![CDATA[SmarFlow中的文字]]></string>
+    <string name="new_article_view_description"><![CDATA[在连续的文本中阅读故事。使用翻译功能必需要先开启SmartFlow功能。]]></string>
+    <string name="new_collection_name"><![CDATA[收藏集名称]]></string>
+    <string name="new_comment"><![CDATA[新评论]]></string>
+    <string name="new_issues_will_be_automatically_downloaded"><![CDATA[新问题将会自动下载并添加到您的图书馆中]]></string>
+    <string name="new_password"><![CDATA[新密码]]></string>
+    <string name="new_post"><![CDATA[新帖子]]></string>
+    <string name="new_post_text_hint"><![CDATA[在这里写下您的故事]]></string>
+    <string name="new_post_title_hint"><![CDATA[标题]]></string>
+    <string name="new_releases"><![CDATA[新发布]]></string>
+    <string name="new_user_header"><![CDATA[请完成一步注册以获得更多内容]]></string>
+    <string name="news"><![CDATA[新闻]]></string>
+    <string name="news_digest"><![CDATA[新闻摘要]]></string>
+    <string name="news_digest_description"><![CDATA[定期发布新闻和推荐内容摘要，使您跟上时代]]></string>
+    <string name="newsfeed"><![CDATA[归属刊物]]></string>
+    <string name="newsfeed_as_start_screen"><![CDATA[你想设定归属刊物为开机屏幕吗？]]></string>
+    <string name="newsfeed_more_stories"><![CDATA[查看更多故事]]></string>
+    <string name="newsfeed_recommended_card_empty"><![CDATA[您尚未选择任何兴趣]]></string>
+    <string name="newsfeed_recommended_card_empty_description"><![CDATA[增加兴趣来个性化您的阅读体验并获得更多的相关推荐]]></string>
+    <string name="newsfeed_recommended_card_halfempty"><![CDATA[我们找不到任何故事]]></string>
+    <string name="newsfeed_recommended_card_halfempty_action"><![CDATA[关注更多兴趣]]></string>
+    <string name="newsfeed_recommended_card_halfempty_description"><![CDATA[增加更多兴趣来个性化您的阅读体验并获得更多的相关推荐]]></string>
+    <string name="newsfeed_recommended_card_subtitle"><![CDATA[来自您最喜欢的兴趣和出版物的最佳故事.]]></string>
+    <string name="newspaper_details_label"><![CDATA[您的最新一期刊物]]></string>
+    <string name="newspaper_download_progress_content_description_downloaded"><![CDATA[已下载]]></string>
+    <string name="newspapers"><![CDATA[报纸]]></string>
+    <string name="newsstand"><![CDATA[报架]]></string>
+    <string name="nickname"><![CDATA[昵称]]></string>
+    <string name="no_new_stories"><![CDATA[没有新报道]]></string>
+    <string name="no_password_yet"><![CDATA[还没有密码]]></string>
+    <string name="no_radio"><![CDATA[本期刊物无法使用收听功能]]></string>
+    <string name="no_thanks"><![CDATA[不用了，谢谢]]></string>
+    <string name="no_updates"><![CDATA[无更新]]></string>
+    <string name="no_updates_on_opinions"><![CDATA[您的观点没有任何活动]]></string>
+    <string name="not_posted_yet"><![CDATA[尚未发布]]></string>
+    <string msgid="478774118347071097" name="not_set">"未设置"</string>
+    <string name="now_on"><![CDATA[现在开启]]></string>
+    <string name="obituaries"><![CDATA[讣告]]></string>
+    <string name="oem_channels_title"><![CDATA[最新消息]]></string>
+    <string name="oem_empty_feed"><![CDATA[您的出版物中没有在线故事]]></string>
+    <string name="oem_home_choose_publications_text"><![CDATA[来自您关注的出版物的
+最新问题和新闻将会
+在此显示]]></string>
+    <string name="oem_onboarding_header"><![CDATA[关注您想阅读的出版物]]></string>
+    <string name="oem_payment_options_restore_purchases_restore_purchases"><![CDATA[恢复订购]]></string>
+    <string name="oem_payment_options_restore_purchases_title"><![CDATA[已经有订阅？]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[更多出版物]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[在您的订阅中]]></string>
+    <string name="off"><![CDATA[关闭]]></string>
+    <string name="offers_and_promotions"><![CDATA[优惠与促销]]></string>
+    <string name="offers_and_promotions_description"><![CDATA[%s 的特别优惠和促销]]></string>
+    <string name="offline_item_click_promt"><![CDATA[该应用似乎处于离线状态。 请检查您的网络和Wi-Fi连接，然后重试。]]></string>
+    <string name="on"><![CDATA[打开]]></string>
+    <string name="onboarding_add_interests"><![CDATA[添加更多兴趣]]></string>
+    <string name="onboarding_authorization_email"><![CDATA[电邮]]></string>
+    <string name="onboarding_authorization_email_content_description"><![CDATA[电邮]]></string>
+    <string name="onboarding_authorization_facebook"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_facebook_content_description"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_google"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_google_content_description"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_library"><![CDATA[图书馆与团体]]></string>
+    <string name="onboarding_authorization_library_content_description"><![CDATA[图书馆]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[或]]></string>
+    <string name="onboarding_authorization_sign_in_or_create"><![CDATA[登录或创建帐户以将故事和兴趣保存到您的个人资料中]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_humanised"><![CDATA[马上就好！创建您的帐户或登录以保存您的兴趣]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_short"><![CDATA[登录或创建帐户]]></string>
+    <string name="onboarding_authorization_skip"><![CDATA[跳过]]></string>
+    <string name="onboarding_authorization_twitter"><![CDATA[Twitter]]></string>
+    <string name="onboarding_authorization_twitter_content_description"><![CDATA[Twitter]]></string>
+    <string name="onboarding_choose_interests"><![CDATA[选择你的兴趣]]></string>
+    <string name="onboarding_choose_publications"><![CDATA[关注出版物]]></string>
+    <string name="onboarding_continue"><![CDATA[继续]]></string>
+    <string name="onboarding_done"><![CDATA[完成]]></string>
+    <string name="onboarding_edit_interests"><![CDATA[编辑兴趣]]></string>
+    <string name="onboarding_error_searching_interests"><![CDATA[抱歉，我们找不到任何关于 \\"%1$s\\" 的兴趣]]></string>
+    <string name="onboarding_error_searching_publications"><![CDATA[抱歉，我们找不到任何关于 \\"%1$s\\" 的出版物]]></string>
+    <string name="onboarding_error_text"><![CDATA[加载内容时出错.\n很抱歉，请重试。]]></string>
+    <string name="onboarding_finished_banner_action"><![CDATA[了解]]></string>
+    <string name="onboarding_finished_banner_text"><![CDATA[在您阅读时，PressReader会不断学习并适应您的个人品味]]></string>
+    <string name="onboarding_finished_banner_title"><![CDATA[都为您准备好了]]></string>
+    <string name="onboarding_get_started"><![CDATA[开始]]></string>
+    <string name="onboarding_have_an"><![CDATA[拥有帐号?]]></string>
+    <string name="onboarding_have_an_account_sign_in"><![CDATA[拥有帐号? <a href=\\"pressreader_authorize://authorize\\">登入</a>]]></string>
+    <string name="onboarding_interest_search_placeholder_1"><![CDATA[旅行]]></string>
+    <string name="onboarding_interest_search_placeholder_2"><![CDATA[设计]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_interests_header"><![CDATA[选择您想关注的兴趣点以获得更多相关新闻和文章。]]></string>
+    <string name="onboarding_intro_text"><![CDATA[%s 您现在可以\n选择您的兴趣来获取更多\n的相关新闻和文章]]></string>
+    <string name="onboarding_intro_title"><![CDATA[此次更新中新加入的]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[自定义您的兴趣]]></string>
+    <string name="onboarding_open_banner_text"><![CDATA[通过选择您的兴趣来获取更多相关的报纸和杂志.]]></string>
+    <string name="onboarding_open_banner_text_humanised"><![CDATA[告诉我们您的兴趣，我们将为您推荐最佳的故事和出版物.]]></string>
+    <string name="onboarding_open_banner_title"><![CDATA[改善您的体验]]></string>
+    <string name="onboarding_open_banner_title_humanised"><![CDATA[什么故事对您重要？]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="onboarding_publications_header"><![CDATA[以下是我们认为您可能会喜欢的一些报纸和杂志。 点击封面以跟随。]]></string>
+    <string name="onboarding_search_for_interests"><![CDATA[搜索兴趣]]></string>
+    <string name="onboarding_search_for_publications"><![CDATA[搜索出版物]]></string>
+    <string name="onboarding_searching_interests"><![CDATA[正在搜索兴趣]]></string>
+    <string name="onboarding_searching_publications"><![CDATA[正在搜索刊物]]></string>
+    <string name="onboarding_splash_text"><![CDATA[发现世界上最好的报纸和杂志]]></string>
+    <string name="onboarding_you_can_search_for_things"><![CDATA[您可以搜索类似的内容]]></string>
+    <string name="one_column"><![CDATA[1 列]]></string>
+    <string name="online_stories"><![CDATA[在线故事]]></string>
+    <string name="open_external_browser_hint"><![CDATA[以浏览器开启]]></string>
+    <string name="opinion_activity"><![CDATA[活动]]></string>
+    <string name="opinion_contributors"><![CDATA[观点贡献者]]></string>
+    <string name="opinion_feed"><![CDATA[观点动态]]></string>
+    <string name="opinion_leader"><![CDATA[舆论领袖]]></string>
+    <string name="opinion_leaders"><![CDATA[舆论领袖]]></string>
+    <string name="opinion_leaders_empty"><![CDATA[没有舆论领袖在这领域]]></string>
+    <string name="opinion_list_empty"><![CDATA[没有舆论在这领域]]></string>
+    <string name="opinion_trends"><![CDATA[舆论动向]]></string>
+    <string name="opinions"><![CDATA[舆论]]></string>
+    <string name="option_leaders_count"><![CDATA[%d 多少舆论领袖]]></string>
+    <string name="order_buy_latest_issue"><![CDATA[购买最新一期]]></string>
+    <string name="order_buy_this_issue"><![CDATA[购买这期]]></string>
+    <string name="order_include_all_supplements"><![CDATA[包括所有副刊]]></string>
+    <string name="order_latest_issue"><![CDATA[最新发行]]></string>
+    <string name="order_open_payment_options"><![CDATA[查看所有付款方式]]></string>
+    <string name="order_open_purchase_options"><![CDATA[See all purchase options]]></string>
+    <string name="order_subscribe"><![CDATA[自动递送所有新刊物]]></string>
+    <string name="order_this_issue"><![CDATA[这个版本]]></string>
+    <string name="other_issues"><![CDATA[最新发行]]></string>
+    <string name="page_selected"><![CDATA[已选1个页面]]></string>
+    <string name="page_set_saved"><![CDATA[保存 %s]]></string>
+    <string name="page_view"><![CDATA[页面视图]]></string>
+    <string name="pages_selected"><![CDATA[%s 已选页]]></string>
+    <string name="password_changed"><![CDATA[已变更 %s]]></string>
+    <string name="password_hint"><![CDATA[密码]]></string>
+    <string name="password_recovery"><![CDATA[密码恢复]]></string>
+    <string name="password_recovery_description"><![CDATA[请输入您用于注册帐户的电邮地址。我们会将重设密码指示发到此电邮。]]></string>
+    <string name="password_recovery_success"><![CDATA[密码恢复链接已发送至您的邮箱，想更新你的密码：1）请检查你的电子邮件。2）点击电子邮件中的链接]]></string>
+    <string name="password_toggle_content_description">显示密码</string>
+    <string name="payment_billing_issue"><![CDATA[发行]]></string>
+    <string name="payment_confirmation_header"><![CDATA[请确认信息，然后按“确定”即可完成]]></string>
+    <string name="payment_credit_card_city_hint"><![CDATA[你的城镇]]></string>
+    <string name="payment_credit_card_holder_hint"><![CDATA[持卡人名]]></string>
+    <string name="payment_credit_card_state_hint"><![CDATA[洲]]></string>
+    <string name="payment_credit_card_street_hint"><![CDATA[123街道]]></string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_days_fee"><![CDATA[每%d天（自动续订）]]></string>
+    <string name="payment_half_yearly_fee"><![CDATA[半年费用：]]></string>
+    <string name="payment_issue_price"><![CDATA[发行价格：]]></string>
+    <string name="payment_monthly_fee"><![CDATA[月费：]]></string>
+    <string name="payment_months_fee"><![CDATA[每%d个月（自动续订）：]]></string>
+    <string name="payment_purchase_details"><![CDATA[订购细节]]></string>
+    <string name="payment_quarterly_fee"><![CDATA[季度费用：]]></string>
+    <string name="payment_receipt"><![CDATA[收据]]></string>
+    <string name="payment_required"><![CDATA[必需]]></string>
+    <string name="payment_total_amount"><![CDATA[总金额：]]></string>
+    <string name="payment_update_cc_info"><![CDATA[更新信用卡]]></string>
+    <string name="payment_yearly_fee"><![CDATA[年度费用：]]></string>
+    <string name="paywall_text"><![CDATA[购买刊物继续阅读]]></string>
+    <string name="perf_my_subscriptions"><![CDATA[我的订阅]]></string>
+    <string name="period_bimonthly"><![CDATA[每两个月一次]]></string>
+    <string name="period_biweekly"><![CDATA[每两周一次]]></string>
+    <string name="period_biyearly"><![CDATA[每半年一次]]></string>
+    <string name="period_daily"><![CDATA[每天的]]></string>
+    <string name="period_half_quarterly"><![CDATA[每半年一次]]></string>
+    <string name="period_irregular"><![CDATA[不定期地]]></string>
+    <string name="period_monthly"><![CDATA[月刊]]></string>
+    <string name="period_once"><![CDATA[一次]]></string>
+    <string name="period_quarterly"><![CDATA[每季度一次]]></string>
+    <string name="period_weekly"><![CDATA[周刊]]></string>
+    <string name="period_yearly"><![CDATA[每年一次]]></string>
+    <string name="personalize_your_account"><![CDATA[个性化您的帐户]]></string>
+    <string name="personalize_your_account_summary"><![CDATA[在多个设备和我们的网站上创建登录以访问您的帐户。如果您愿意，可以之后使用「忘记密码？」的链接，再设置密码？]]></string>
+    <string name="phone_hint"><![CDATA[电话号码（选填）]]></string>
+    <string name="pick_paper"><![CDATA[按日期选择刊物]]></string>
+    <string name="podcasts"><![CDATA[播客]]></string>
+    <string name="popular_choice"><![CDATA[热门选择]]></string>
+    <string name="popular_opinions"><![CDATA[热门意见]]></string>
+    <string name="popular_tags"><![CDATA[热门标签]]></string>
+    <string name="post"><![CDATA[发表]]></string>
+    <string name="post_comment_footer"><![CDATA[添加照片、 视频及意见]]></string>
+    <string name="postpone_sleep"><![CDATA[延迟睡眠]]></string>
+    <string name="postpone_sleep_system"><![CDATA[系统]]></string>
+    <string name="posts"><![CDATA[公告]]></string>
+    <string name="pref_application_data_management"><![CDATA[应用程序数据管理]]></string>
+    <string name="pref_application_data_management_summary"><![CDATA[恢复已使用的空间]]></string>
+    <string name="pref_auto_translate_delete_alert_negative_button"><![CDATA[不]]></string>
+    <string name="pref_auto_translate_delete_alert_positive_button"><![CDATA[是的]]></string>
+    <string name="pref_auto_translate_delete_alert_title"><![CDATA[删除这个翻译？]]></string>
+    <string name="pref_auto_translate_disclaimer"><![CDATA[翻译 <u>免责声明</u>]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_auto_translate_option"><![CDATA[自动翻译]]></string>
+    <string name="pref_auto_translate_prompt_option"><![CDATA[提示保存语言]]></string>
+    <string name="pref_auto_translate_summary"><![CDATA[管理文章的自动文本翻译。]]></string>
+    <string name="pref_auto_translate_title"><![CDATA[翻译偏好]]></string>
+    <string name="pref_auto_translate_translate_auto"><![CDATA[记住为自动翻译选择的语言对。]]></string>
+    <string name="pref_autodelivery"><![CDATA[自动递送]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[允许幕后更新]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[管理自动下载]]></string>
+    <string name="pref_cleanup"><![CDATA[删除刊物]]></string>
+    <string name="pref_clear_data_cache"><![CDATA[删除缓存数据]]></string>
+    <string name="pref_clear_data_cache_and_downloads"><![CDATA[删除缓存数据和已下载的项目]]></string>
+    <string name="pref_clear_data_full"><![CDATA[完全复位]]></string>
+    <string name="pref_dataaccess"><![CDATA[资料存取]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[仅允许Wi-Fi内容下载]]></string>
+    <string name="pref_feedback"><![CDATA[反馈意见]]></string>
+    <string name="pref_feedback_moto"><![CDATA[请描述您所遇到的问题：]]></string>
+    <string name="pref_feedback_subject"><![CDATA[使用者 %3$s 针对 %1$s v%2$s 的反馈意见]]></string>
+    <string name="pref_feedback_summary"><![CDATA[请把您的反馈意见传送给我们]]></string>
+    <string name="pref_license"><![CDATA[开源许可证]]></string>
+    <string name="pref_license_summary"><![CDATA[开源软件许可证详情]]></string>
+    <string name="pref_storage"><![CDATA[资料储存]]></string>
+    <string name="pref_storage_summary"><![CDATA[设定内部存储可用性]]></string>
+    <string name="pref_subscriptions"><![CDATA[订阅]]></string>
+    <string name="pref_tips"><![CDATA[PressReader提示]]></string>
+    <string name="pref_tips_formatted"><![CDATA[%s 提示]]></string>
+    <string name="pref_tips_summary"><![CDATA[重复界面解释]]></string>
+    <string name="pref_use_tts"><![CDATA[启用文本语音转换]]></string>
+    <string name="pref_use_tts_summary"><![CDATA[使用你设备原有的文字转换语音功能，取代在线浏览]]></string>
+    <string name="pref_version"><![CDATA[版本]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s 版︰ \t%2$s]]></string>
+    <string name="prefer_local_server"><![CDATA[首选本地服务器]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"已将“<ns1:g id="SUMMARY">%1$s</ns1:g>”复制到剪贴板。"</string>
+    <string name="premium_confirmation_continue"><![CDATA[继续]]></string>
+    <string name="premium_confirmation_issue_subscription"><![CDATA[感谢订阅]]></string>
+    <string name="premium_confirmation_not_now"><![CDATA[现在不]]></string>
+    <string name="premium_confirmation_premium"><![CDATA[欢迎使用付费版]]></string>
+    <string name="premium_confirmation_premium_subtitle"><![CDATA[可以完全访问全球最好的报纸和杂志。]]></string>
+    <string name="premium_confirmation_single_issue"><![CDATA[感谢您购买此期刊物]]></string>
+    <string name="premium_confirmation_subscribing_subtitle_format"><![CDATA[新刊物将以 %1$s的标准来提供]]></string>
+    <string name="premium_confirmation_warning"><![CDATA[请务必在Play商店设置中的付款与订阅部分取消当前的订阅。]]></string>
+    <string name="premium_content"><![CDATA[优质内容]]></string>
+    <string name="premium_content_partnered"><![CDATA[我们与顶尖的出版商合作，为您带来真正关心的报道。]]></string>
+    <string name="premium_content_ways"><![CDATA[通过以下方式之一获取此刊物：]]></string>
+    <string name="premium_restore_purchases"><![CDATA[已经有订阅了吗？<br><font color=#2bc48c>恢复购买</font> (Yǐjīng yǒu dìngyuè le ma？<br><font color=#2bc48c>Huīfù gòumǎi</font>)]]></string>
+    <string name="pressreader_7day_trial_2018_BegunBody"><![CDATA[您的免费试用已开始。]]></string>
+    <string name="pressreader_7day_trial_2018_BegunTitle"><![CDATA[这一切都完成的。]]></string>
+    <string name="pressreader_7day_trial_2018_BillingExplanation"><![CDATA[请输入您的账单信息以开始PressReader的免费试用。如果在接下来的{duration}天内未取消订阅，您将在订阅开始的{start_date}被收取{price}/月的费用。]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationBody"><![CDATA[您的试用将立即开始。如果在接下来的{duration}天内未取消订阅，您将在订阅开始的{start_date}被收取{price}/月的费用。]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationCancel"><![CDATA[取消]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationOK"><![CDATA[开始试用]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationTitle"><![CDATA[现在开始试用吗？]]></string>
+    <string name="pressreader_7day_trial_2018_list_description"><![CDATA[免费{duration}天试用]]></string>
+    <string name="pressreader_7day_trial_2018_list_description_date_price"><![CDATA[从{start_date}开始：{price}/月]]></string>
+    <string name="pressreader_7day_trial_2018_list_subscribe"><![CDATA[订阅]]></string>
+    <string name="pressreader_account"><![CDATA[PressReader账户]]></string>
+    <string name="price"><![CDATA[价格]]></string>
+    <string name="price_duration_month_formatted"><![CDATA[%1$s / %2$s 月]]></string>
+    <string name="price_duration_months_formatted"><![CDATA[%1$s / %2$s 月]]></string>
+    <string name="price_duration_week_formatted"><![CDATA[%1$s / %2$s 周]]></string>
+    <string name="price_duration_weeks_formatted"><![CDATA[%1$s / %2$s 周]]></string>
+    <string name="price_duration_year_formatted"><![CDATA[%1$s / %2$s 年]]></string>
+    <string name="price_duration_years_formatted"><![CDATA[%1$s / %2$s 年]]></string>
+    <string name="print_edition"><![CDATA[印刷版]]></string>
+    <string name="privacy_policy"><![CDATA[隐私政策]]></string>
+    <string name="problem_with_subscription_payment_need_to_update_payment_details"><![CDATA[您的订阅付款出现问题。请更新付款信息以保持订阅的有效状态。]]></string>
+    <string name="proceed"><![CDATA[现在下载]]></string>
+    <string name="product_buy_with_play"><![CDATA[或者从Google Play 购买]]></string>
+    <string name="product_compare"><![CDATA[比较计划⋯⋯]]></string>
+    <string name="product_find_access"><![CDATA[寻找赞助商访问]]></string>
+    <string name="product_footer"><![CDATA[月费的价格每月固定。可随时取消。本公司根据每月订阅计划付费予出版商。所有计划都是为个人的使用而设计的。 营业利率是根据您所在单位的员工人数。 有关详细信息，请联系business@pressreader.com。]]></string>
+    <string name="product_single_issue"><![CDATA[单期]]></string>
+    <string name="product_subscribe_and_save"><![CDATA[订阅和保存！]]></string>
+    <string name="product_unlimited_access"><![CDATA[无限访问PressReader]]></string>
+    <string name="product_unlimited_issues"><![CDATA[无限浏览出刊*]]></string>
+    <string name="products"><![CDATA[产品]]></string>
+    <string name="profile"><![CDATA[频道]]></string>
+    <string name="promo_code_hint"><![CDATA[促销代码（选填）]]></string>
+    <string name="publication_files_large"><![CDATA[通过移动网络下载此刊物可能产生额外的数据下载费用.]]></string>
+    <string name="publication_types"><![CDATA[出版物类型]]></string>
+    <string name="publications"><![CDATA[浏览]]></string>
+    <string name="publications_catalog_subtitle"><![CDATA[来自世界各地的超过7,000份报纸、杂志和书籍]]></string>
+    <string name="publications_catalog_title"><![CDATA[目录浏览]]></string>
+    <string name="publications_menu"><![CDATA[出版物菜单]]></string>
+    <string name="publications_stories"><![CDATA[搜索出版物、故事]]></string>
+    <string name="publications_stories_interests"><![CDATA[搜索出版物、故事和兴趣]]></string>
+    <string name="purchase_advice"><![CDATA[我们推荐]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[允许通知]]></string>
+    <string name="push_notifications_request_description"><![CDATA[了解最新问题何时可用，并保持与您的兴趣相关的新闻的最新状态。]]></string>
+    <string name="push_notifications_request_title"><![CDATA[接收通知]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[通知]]></string>
+    <string name="radio_next_article"><![CDATA[下一则新闻]]></string>
+    <string name="radio_next_section"><![CDATA[下\n一版]]></string>
+    <string name="radio_prev_article"><![CDATA[上一则新闻]]></string>
+    <string name="radio_prev_section"><![CDATA[上\n一版]]></string>
+    <string name="rate"><![CDATA[价格]]></string>
+    <string name="rate_ask_later"><![CDATA[以后再问]]></string>
+    <string name="rate_body"><![CDATA[如果你喜欢 %s，请在Google Play商店评价]]></string>
+    <string name="rate_do_not_ask_anymore"><![CDATA[不要再问了]]></string>
+    <string name="rate_no_thanks"><![CDATA[不用了，谢谢]]></string>
+    <string name="rate_not_now"><![CDATA[现在不]]></string>
+    <string name="rate_us"><![CDATA[评价我们]]></string>
+    <string name="rate_us_later"><![CDATA[是否稍后留下评论？]]></string>
+    <string name="read_expired_offline"><![CDATA[要继续阅读此标题，请连接到互联网 .]]></string>
+    <string name="read_newspaper_by_date"><![CDATA[按日期阅读报纸]]></string>
+    <string name="reading"><![CDATA[阅览]]></string>
+    <string name="recently_read"><![CDATA[最近阅读]]></string>
+    <string name="recommended"><![CDATA[推薦]]></string>
+    <string name="recommended_interests"><![CDATA[推荐的兴趣]]></string>
+    <string name="recommended_interests_description"><![CDATA[根据您的阅读历史和兴趣为您挑选的内容]]></string>
+    <string name="redownload"><![CDATA[重新下载]]></string>
+    <string name="redownload_issue"><![CDATA[由于安卓操作系统的近期变动，我们无法以高分辨率打开这一期刊物。 您要重新下载吗？]]></string>
+    <string name="region"><![CDATA[地区]]></string>
+    <string name="register_confirmation_rate"><![CDATA[付款金额：]]></string>
+    <string name="registration_agree_text"><![CDATA[注册即表示我接受<a href=\"pressreader://terms-of-use\">使用条款</a>和<a href=\"pressreader://privacy\">隐私政策</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[存取往期刊物︰]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s 天]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[每期价格︰]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[存取AdValue报告︰]]></string>
+    <string name="registration_plan_alerts"><![CDATA[监控提醒的最大数量]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[自动下载的最高限额：]]></string>
+    <string name="registration_plan_print_subscriptions"><![CDATA[打印订阅]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[*月费]]></string>
+    <string name="registration_summary_price_info"><![CDATA[首月折扣价，次月起每月为]]></string>
+    <string name="related_opinions"><![CDATA[相关意见]]></string>
+    <string name="related_stories"><![CDATA[相关故事]]></string>
+    <string name="remaining_credits"><![CDATA[剩余额度︰]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d 期]]></string>
+    <string name="remaining_issue"><![CDATA[您还剩余 %d 份刊物]]></string>
+    <string name="remaining_issues"><![CDATA[您还剩余 %d 份刊物]]></string>
+    <string name="remaining_issues_title"><![CDATA[您还剩余 %d 份刊物]]></string>
+    <string name="remove_files"><![CDATA[删除文件]]></string>
+    <string name="reply"><![CDATA[答复]]></string>
+    <string name="report_comment"><![CDATA[报告]]></string>
+    <string name="report_harassment"><![CDATA[骚扰]]></string>
+    <string name="report_indecent"><![CDATA[非礼]]></string>
+    <string name="report_irrelevant"><![CDATA[不相干]]></string>
+    <string name="report_reason"><![CDATA[你为什么要报告这个呢？]]></string>
+    <string name="report_spam"><![CDATA[垃圾邮件]]></string>
+    <string name="report_unlawful"><![CDATA[非法的]]></string>
+    <string name="reset_activation"><![CDATA[重新设定启动]]></string>
+    <string name="restart"><![CDATA[重新开始]]></string>
+    <string name="restore_purchases_nothing_to_restore"><![CDATA[没有需要恢复的内容]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[登录或创建帐户以访问您的购买历史记录并在多台设备上使用订阅。 您目前购买的商品将添加到此帐户中。]]></string>
+    <string name="retype_new_password"><![CDATA[重新输入新密码]]></string>
+    <string name="ribbon_free"><![CDATA[免费]]></string>
+    <string name="ribbon_new"><![CDATA[新]]></string>
+    <string name="ribbon_sample"><![CDATA[样品]]></string>
+    <string name="ribbon_sponsored"><![CDATA[赞助]]></string>
+    <string name="save_to_collection"><![CDATA[保存到集合]]></string>
+    <string name="saved_articles"><![CDATA[保存的文章]]></string>
+    <string name="saved_articles_placeholder"><![CDATA[保存的文章将显示在此\n]]></string>
+    <string name="scroll_back_to_open_menu"><![CDATA[向后滚动以打开菜单]]></string>
+    <string name="search_discover"><![CDATA[搜索和发现]]></string>
+    <string name="search_hotspots"><![CDATA[搜索热点]]></string>
+    <string name="search_local_store"><![CDATA[搜索刊物]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜索"</string>
+    <string name="search_no_trending"><![CDATA[没有趋势]]></string>
+    <string name="search_nocontent_header"><![CDATA[嗯，我们没有找到任何内容]]></string>
+    <string name="search_nocontent_message"><![CDATA[扩大搜索范围，或稍后再查看新的故事]]></string>
+    <string name="search_opinions"><![CDATA[搜索观点]]></string>
+    <string name="search_results"><![CDATA[搜寻结果]]></string>
+    <string name="search_trending_title"><![CDATA[热门趋势]]></string>
+    <string name="searching"><![CDATA[正在搜索…]]></string>
+    <string name="seconds"><![CDATA[%d 秒]]></string>
+    <string name="see_all"><![CDATA[查看全部]]></string>
+    <string name="select_all"><![CDATA[全选]]></string>
+    <string name="select_from_gallery"><![CDATA[从库中选择]]></string>
+    <string name="select_page"><![CDATA[选择页面]]></string>
+    <string name="select_product"><![CDATA[选择产品]]></string>
+    <string name="select_start_screen"><![CDATA[选择开始屏幕]]></string>
+    <string name="selected_pages"><![CDATA[已选择的页面]]></string>
+    <string name="settings_hotspot_beacon"><![CDATA[信标加载]]></string>
+    <string name="settings_hotspot_beacon_description"><![CDATA[使用设备的低能量蓝牙追踪定位信标。信标可使您连接到PressReader无须经由Wi-Fi接入，并使用设备的背景位置设置。]]></string>
+    <string name="settings_hotspot_location"><![CDATA[位置加载]]></string>
+    <string name="settings_hotspot_location_description"><![CDATA[启用设备的背景位置设置连接到热点无须经由Wi-Fi接入。]]></string>
+    <string name="settings_my_account"><![CDATA[我的帐户]]></string>
+    <string name="settings_profile"><![CDATA[个人资料]]></string>
+    <string name="settings_profile_edit"><![CDATA[編輯個人檔案]]></string>
+    <string name="share_comment"><![CDATA[分享评论]]></string>
+    <string name="shared"><![CDATA[共享]]></string>
+    <string name="show_calendar"><![CDATA[显示日历]]></string>
+    <string name="show_highlights_full_screen"><![CDATA[以全屏幕阅读摘要]]></string>
+    <string name="show_highlights_full_screen_description"><![CDATA[阅读页面时，打开或关闭蓝色文章亮点。 亮点可让您点击并以文字视图打开故事。]]></string>
+    <string name="show_more"><![CDATA[显示更多]]></string>
+    <string name="show_original"><![CDATA[显示原文]]></string>
+    <string name="showing_count_total"><![CDATA[显示的 %1$s 的 %2$s]]></string>
+    <string name="sign_in"><![CDATA[登入]]></string>
+    <string name="sign_in_now"><![CDATA[现有用户？<a href=\\"pressreader_authorize://authorize\\">请登录</a>]]></string>
+    <string name="sign_in_to_continue"><![CDATA[登录后继续阅读]]></string>
+    <string name="sign_out"><![CDATA[退出]]></string>
+    <string name="sign_up"><![CDATA[注册]]></string>
+    <string name="sign_up_caption"><![CDATA[创建一个账户以保存您的出版物并开始免费试用]]></string>
+    <string name="sign_up_now"><![CDATA[新用户？<a href=\\"pressreader_register://register\\">立即注册.</a>]]></string>
+    <string name="sign_up_slogan"><![CDATA[快速，简便和免费.]]></string>
+    <string name="similar"><![CDATA[类似故事]]></string>
+    <string name="similar_stories"><![CDATA[%d 类似报道]]></string>
+    <string name="sing_in"><![CDATA[登录]]></string>
+    <string name="sing_in_description"><![CDATA[随时随地使用您的PressReader帐号，阅读您最喜爱的报纸和杂志。]]></string>
+    <string name="small_grid"><![CDATA[小网格]]></string>
+    <string name="smart_zoom"><![CDATA[智慧缩放]]></string>
+    <string name="smart_zoom_description"><![CDATA[智能放大功能让你点击两次后自动从文章的开头阅读。]]></string>
+    <string name="social_and_linked_networks"><![CDATA[社群和链接网络]]></string>
+    <string name="sorry_no_more_filters"><![CDATA[抱歉，没有更多的过滤器。 但是我们发现了几个很好的频道和意见。]]></string>
+    <string name="sort_alphabet"><![CDATA[按照字母]]></string>
+    <string name="sorting"><![CDATA[排序]]></string>
+    <string name="sports"><![CDATA[体育]]></string>
+    <string name="start_screen"><![CDATA[开始屏幕]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[开始 %s 的试阅]]></string>
+    <string name="state"><![CDATA[州]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stay_up_to_date"><![CDATA[了解最新的发展和趋势]]></string>
+    <string name="stories"><![CDATA[报道]]></string>
+    <string name="street"><![CDATA[街道地址]]></string>
+    <string name="subscribe"><![CDATA[订阅]]></string>
+    <string name="subscribe_to_read"><![CDATA[订阅以阅读]]></string>
+    <string name="subscription_auto_download_header"><![CDATA[自动递送所有新刊物]]></string>
+    <string name="subscription_billing_date_header"><![CDATA[账单日期]]></string>
+    <string name="subscription_cancel"><![CDATA[取消订阅]]></string>
+    <string name="subscription_details"><![CDATA[订阅细节]]></string>
+    <string name="subscription_expires_header"><![CDATA[过期]]></string>
+    <string name="subscription_manage"><![CDATA[管理订阅]]></string>
+    <string name="subscription_no_subscriptions"><![CDATA[您没有订阅。]]></string>
+    <string name="subscription_open_title"><![CDATA[前往报纸]]></string>
+    <string name="subscription_payment_method"><![CDATA[付款方法]]></string>
+    <string name="subscription_plan"><![CDATA[订阅计划︰]]></string>
+    <string name="subscription_plan_header"><![CDATA[订阅计划]]></string>
+    <string name="subscription_plans"><![CDATA[订阅计划]]></string>
+    <string name="subscription_titles_header"><![CDATA[标题]]></string>
+    <string name="subscription_trial_subtitle"><![CDATA[免费访问]]></string>
+    <string name="subscription_unlimited_subtitle"><![CDATA[无限阅读]]></string>
+    <string name="subscriptions_footer"><![CDATA[报价的计划价格是每月定期报价。 随时取消。 我们通过每月订阅计划所阅读的刊物数向出版商付款.公平使用策略申请.所有计划仅供个人自己使用。 业务价格取决于您的组织中的员工人数。 详情请联系business@pressreader.com。]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[没有预设传送]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[您可以在刊物订阅屏幕上设定传送]]></string>
+    <string name="suggestions"><![CDATA[建议]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[副刊]]></string>
+    <string name="suppliment_count_huge"><![CDATA[%d 副刊]]></string>
+    <string name="suppliment_count_one"><![CDATA[%d 副刊]]></string>
+    <string name="support_now"><![CDATA[同意]]></string>
+    <string name="supporters"><![CDATA[支持者们]]></string>
+    <string name="supporting"><![CDATA[同意]]></string>
+    <string name="system_sharing"><![CDATA[与某人分享]]></string>
+    <string name="table_of_contents"><![CDATA[目录]]></string>
+    <string name="take_photo"><![CDATA[拍照]]></string>
+    <string name="tell_your_friends"><![CDATA[告诉你的朋友]]></string>
+    <string name="terms_of_use"><![CDATA[使用条款]]></string>
+    <string name="text_view"><![CDATA[文本视图]]></string>
+    <string name="text_view_feed_tools_more_content_description"><![CDATA[打开更多工具菜单]]></string>
+    <string name="text_view_feed_tools_more_list_view_content_description"><![CDATA[工具菜单列表]]></string>
+    <string name="theme"><![CDATA[阅读主题]]></string>
+    <string name="theme_dark"><![CDATA[暗]]></string>
+    <string name="theme_light"><![CDATA[明亮]]></string>
+    <string name="theme_system"><![CDATA[匹配设备]]></string>
+    <string name="they_can_get_too"><![CDATA[所以他们也能得到它！]]></string>
+    <string name="this_channel_is_private"><![CDATA[此频道是私密的]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[请点击以反转]]></string>
+    <string name="tips_experiance_page_view_with_free_titles"><![CDATA[体验页面视图来阅读免费刊物]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[箭头显示刊物准备好可下载]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[下载新发行]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[点击打开文本浏览]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[按住文章操作]]></string>
+    <string name="tips_order_autodelivery_download_when_available"><![CDATA[当下一个发行出刊时，便立即下载]]></string>
+    <string name="tips_order_favorites_appear_first"><![CDATA[你喜欢的标题会先显示]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[点击特殊功能]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[点击标题或绿色箭头阅读全文]]></string>
+    <string name="title_page"><![CDATA[%1$d / %2$d]]></string>
+    <string name="title_page_spread"><![CDATA[%1$d - %2$d 共 %3$d (Gòng %3$d)]]></string>
+    <string name="title_publishing_subtitle"><![CDATA[已发布 %s]]></string>
+    <string name="toc_page_number"><![CDATA[第%s页]]></string>
+    <string name="today"><![CDATA[今天]]></string>
+    <string name="top_free"><![CDATA[热门免费]]></string>
+    <string name="top_free_magazines"><![CDATA[热门免费杂誌]]></string>
+    <string name="top_free_newspapers"><![CDATA[热门免费报纸]]></string>
+    <string name="top_magazines"><![CDATA[热门杂誌]]></string>
+    <string name="top_newspapers"><![CDATA[热门免费报纸]]></string>
+    <string name="topnews_important"><![CDATA[热门故事]]></string>
+    <string name="topnews_important_locale"><![CDATA[热门故事 - %s]]></string>
+    <string name="topnews_interesting"><![CDATA[有趣]]></string>
+    <string name="topnews_morenews"><![CDATA[更多新闻]]></string>
+    <string name="topnews_morenews_locale"><![CDATA[更多新闻 - %s]]></string>
+    <string name="topnews_readerschoice"><![CDATA[读者选择]]></string>
+    <string name="topnews_sections"><![CDATA[章节]]></string>
+    <string name="topnews_sincelastvisit"><![CDATA[自你上次访问以来]]></string>
+    <string name="topnews_subtitle"><![CDATA[今天最重要的头版新闻.]]></string>
+    <string name="translate"><![CDATA[翻译]]></string>
+    <string name="translated_into"><![CDATA[翻译成 %s]]></string>
+    <string name="translated_popup_auto_translate"><![CDATA[自动翻译:]]></string>
+    <string name="translated_popup_auto_translate_from_to"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="translated_popup_disclaimer"><![CDATA[翻译<u>免责声明</u>]]></string>
+    <string name="translated_popup_translated_into"><![CDATA[翻译成]]></string>
+    <string name="translation_badge_translated"><![CDATA[翻译完毕]]></string>
+    <string name="translation_badge_translating"><![CDATA[翻译中]]></string>
+    <string name="translation_disclaimer"><![CDATA[PressReader的翻译功能提供了文章内容的一般解释，但不代表确切的翻译。 PressReader对任何翻译的准确性不承担任何责任，因为所有文本都是自动翻译，没有手动验证其正确性。]]></string>
+    <string name="translation_disclaimer_title"><![CDATA[免责声明]]></string>
+    <string name="translation_languages_dialog_list_view_content_description"><![CDATA[翻译语言列表]]></string>
+    <string name="trial_action"><![CDATA[开始免费试用]]></string>
+    <string name="trial_banner_details_description_1"><![CDATA[无限下载您喜爱的报刊和杂志]]></string>
+    <string name="trial_banner_details_description_2"><![CDATA[保存完整期刊，离线阅读]]></string>
+    <string name="trial_banner_details_description_3"><![CDATA[添加喜爱的刊物并设置自动下载]]></string>
+    <string name="trial_banner_premium"><![CDATA[PressReader 高级版]]></string>
+    <string name="trial_banner_try_trial"><![CDATA[免费试用7天]]></string>
+    <string name="trial_error_eligibility"><![CDATA[您之前已经享受了一项介绍优惠。
+现在是否要订阅]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[您已在PressReader上拥有此产品。]]></string>
+    <string name="trial_error_eligibility_title"><![CDATA[真幸运！]]></string>
+    <string name="trial_error_eligibility_unlimited"><![CDATA[您已经拥有PressReader的全程通行证了]]></string>
+    <string name="trial_error_eligibility_unlimited_start_exploring"><![CDATA[开始探索吧]]></string>
+    <string name="trial_subscription"><![CDATA[免费试读]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[解锁 7,000 家报纸和杂志，无限阅读。7 天免费试用。]]></string>
+    <string name="trial_try_premium_title"><![CDATA[免费试用 Premium]]></string>
+    <string name="try_for_free"><![CDATA[免费试用]]></string>
+    <string name="try_premium"><![CDATA[免費獲取內容]]></string>
+    <string name="try_zooming_different_place"><![CDATA[尝试缩小或将地图拖动到其他位置]]></string>
+    <string name="tts_language_not_installed"><![CDATA[报纸的语言不受TTS引擎支持。请安装语言或以英语继续]]></string>
+    <string name="tts_not_installed"><![CDATA[要使用本地语音进行处理，需要安装TTS Engine]]></string>
+    <string name="tts_playback_rate"><![CDATA[语速]]></string>
+    <string name="tts_playback_rate_summary"><![CDATA[设置文字的阅读速度。]]></string>
+    <string name="tts_use_english"><![CDATA[使用英语]]></string>
+    <string name="twitter"><![CDATA[Twitter]]></string>
+    <string name="two_columns"><![CDATA[2 列]]></string>
+    <string name="types"><![CDATA[类型]]></string>
+    <string name="unexpected_error"><![CDATA[意外错误]]></string>
+    <string name="unexpected_error_description"><![CDATA[抱歉！出了点问题，但我们正在调查中。]]></string>
+    <string name="unfollow"><![CDATA[取消关注]]></string>
+    <string name="unlink"><![CDATA[取消连结帐户]]></string>
+    <string name="unlock"><![CDATA[解开]]></string>
+    <string name="unregistered"><![CDATA[未注册]]></string>
+    <string name="update_account"><![CDATA[更新帐户]]></string>
+    <string name="update_downloaded"><![CDATA[刚刚下载了更新。]]></string>
+    <string name="update_failed"><![CDATA[更新时发生了错误。]]></string>
+    <string name="update_payment_details"><![CDATA[更新付款信息]]></string>
+    <string name="userinterests_title"><![CDATA[兴趣]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"关闭"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"开启"</string>
+    <string name="view"><![CDATA[视图]]></string>
+    <string name="view_full_discussion"><![CDATA[查看完整讨论]]></string>
+    <string name="vs"><![CDATA[与]]></string>
+    <string name="weather"><![CDATA[天气]]></string>
+    <string name="welcome_to_pressreader"><![CDATA[欢迎使用PressReader]]></string>
+    <string name="what_is_opinion"><![CDATA[什么意见？]]></string>
+    <string name="who_is_opinion_leader"><![CDATA[谁是意见领袖？]]></string>
+    <string name="write_comment"><![CDATA[写一条评论]]></string>
+    <string name="yesterday"><![CDATA[昨天]]></string>
+    <string name="you_are_following"><![CDATA[您正在关注%1$s。最新的问题和在线故事将显示在主页中。]]></string>
+    <string name="you_are_no_longer_following"><![CDATA[您不再关注%1$s。]]></string>
+    <string name="you_may_be_asked_to_confirm_your_purchase"><![CDATA[您可能会被要求通过回答与您的金融机构设置的安全问题来确认购买。]]></string>
+    <string name="youtube"><![CDATA[Youtube]]></string>
+    <string name="zip"><![CDATA[邮递区号]]></string>
+</resources>

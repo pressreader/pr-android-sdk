@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--- - - - - General - - - - - -->
+  <string name="app_id">com.newspaperdirect.example.oem</string>
+  <string name="app_label">PR SDK OEM</string>
+  <string name="app_name">PR SDK OEM Test</string>
+  <string name="article_hashsymbol_in_hashtag_enable">false</string>
+  <string name="article_online_show_byline">true</string>
+  <string name="article_show_bookmark_section">false</string>
+  <string name="article_show_long_tap_menu_for_empty_article">false</string>
+  <string name="article_toolbar_copy_enable">true</string>
+  <string name="article_toolbar_listen_button_enable">true</string>
+  <string name="article_toolbar_pageview_button_enable">true</string>
+  <string name="bookmarks_dialog_enabled">false</string>
+  <string name="bookmarks_enabled">true</string>
+  <string name="bookmarks_pagesets_enabled">false</string>
+  <string name="comments_enabled">true</string>
+  <string name="default_app_panel">2</string>
+  <string name="enable_google_analytics_web_id" />
+  <string name="enable_piano_signin">false</string>
+  <string name="enable_print_subscriptions">true</string>
+  <string name="enable_social_signin">false</string>
+  <string name="facebook_app_id" />
+  <string name="facebook_app_secret" />
+  <string name="facebook_url">https://www.facebook.com/perfilcom</string>
+  <string name="favourites_enabled">false</string>
+  <string name="force_tts_langugage" />
+  <string name="gigya_app_id" />
+  <string name="gigya_enabled">false</string>
+  <string name="hide_register">false</string>
+  <string name="hide_sharing">false</string>
+  <string name="home_collection_id" />
+  <string name="home_collection_name">Online stories</string>
+  <string name="newsfeed_api">0</string>
+  <string name="instagram_url">https://www.instagram.com/perfilcom/</string>
+  <string name="is_free_app">false</string>
+    <string name="janrain_app_id" />
+  <string name="janrain_enabled">false</string>
+    <string name="janrain_token_url" />
+  <string name="mandatory_authentication">false</string>
+  <string name="newspaper_details_label">Your latest issues</string>
+  <string name="newspaper_navigation_panel_enabled">false</string>
+  <string name="password_recovery_url" />
+  <string name="pref_feedback_email">support@pressreader.com</string>
+  <string name="priv_sort_cids" />
+  <string name="publisher_channel_id" />
+  <string name="publisher_push_topic_id" />
+  <string name="purchase_advice_expiration_period">14</string>
+  <string name="radio_support">true</string>
+    <string name="sample_issues_cids" />
+  <string name="settings_autocleanup_default">0</string>
+  <string name="settings_background_updates_enable">false</string>
+  <string name="settings_data_storage_path_enable">false</string>
+  <string name="settings_fullscreen_highlights_enable">true</string>
+  <string name="settings_info_enable">false</string>
+  <string name="settings_postpone_sleep_enable">false</string>
+  <string name="settings_single_tap_zoom_default">false</string>
+  <string name="settings_smart_zoom_enable">false</string>
+  <string name="settings_tips_enable">false</string>
+  <string name="show_favorites">true</string>
+  <string name="show_free_icon">true</string>
+  <string name="show_login_in_splash">true</string>
+  <string name="show_related_articles">false</string>
+  <string name="single_title_mode">false</string>
+    <string name="smart_edition_name" />
+    <string name="smart_flow_default">true</string>
+    <string name="smart_flow_enabled">false</string>
+    <string name="translate_enabled">true</string>
+    <string name="twitter_app_id" />
+    <string name="twitter_app_secret" />
+    <string name="twitter_url">https://twitter.com/perfilcom</string>
+    <string name="vote_enabled">true</string>
+    <string name="youtube_url">https://www.youtube.com/user/perfiltv</string>
+    <string name="web_registration">false</string>
+    <string name="web_update_account_url" />
+    <string name="web_update_subscription_url" />
+    <string name="sdk_exit_button_text">Exit to Sample</string>
+    <bool name="sdk_exit_button">false</bool>
+    <bool name="sdk_homefeed_button">true</bool>
+    <bool name="sdk_catalog_button">false</bool>
+    <bool name="sdk_mylibrary_button">true</bool>
+    <bool name="sdk_accounts_button">true</bool>
+    <bool name="sdk_settings_button">true</bool>
+    <!--- - - - - End of General - - - - - -->
+    <!--- - - - - Stage - - - - - -->
+  <string name="registration_url" translatable="false">http://se2test5.pressreader.com/epaper/iphone/secure.aspx?page=registration&amp;amp;r=1&amp;amp;bid=pr-mainichirt</string>
+  <string name="service_name" translatable="false">Kiosco\u0020Perfil\u0020Beta\u0020</string>
+  <string name="privacy_policy_url" translatable="false">https://www.pressreader.com/mobilehelp/PrivacyPolicy?uiLanguage=en&amp;systemName=Android%20OS&amp;osVersion=16.2&amp;appVersion=6.6.23.1050&amp;debug=0</string>
+  <string name="terms_of_use_url" translatable="false">https://www.pressreader.com/mobilehelp/TermsOfUse?uiLanguage=en&amp;systemName=Android%20OS&amp;osVersion=16.2&amp;appVersion=6.6.23.1050&amp;debug=0</string>
+  <string name="fair_usage" translatable="false">https://www.pressreader.com/mobilehelp/TermsOfUse/Fair_Use_Policy?uiLanguage=en&amp;systemName=Android%20OS&amp;osVersion=16.2&amp;appVersion=6.6.23.1050&amp;debug=0</string>
+  <!--- - - - - End of Stage - - - - - -->
+  <!--- - - - - Image - - - - - -->
+  <!--- - - - - End of Image - - - - - -->
+  <!--- - - - - Color - - - - - -->
+  <color name="ic_launcher_background">#557c9d</color>
+  <color name="color_brand">#5b9acf</color>
+  <color name="color_brand_dark">#5b9acf</color>
+  <color name="color_background_dark">#0f1012</color>
+  <color name="brand_gradient_start_color">#000000</color>
+  <color name="brand_gradient_end_color">#000000</color>
+  <!--- - - - - End of Color - - - - - -->
+</resources>

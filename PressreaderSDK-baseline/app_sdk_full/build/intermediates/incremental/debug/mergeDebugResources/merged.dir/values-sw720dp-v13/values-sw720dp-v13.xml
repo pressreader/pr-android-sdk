@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="comments_margin_horizontal">90dp</dimen>
+    <dimen name="comments_title_margin_horizontal">110dp</dimen>
+</resources>

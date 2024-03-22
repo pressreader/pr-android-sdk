@@ -1,0 +1,3 @@
+include ':app_sdk'
+include ':app_sdk_full'
+rootProject.name='Pressreader SDK Samples'

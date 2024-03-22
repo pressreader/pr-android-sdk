@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"jutri"</item>
+        <item msgid="2973062968038355991" quantity="other">"čez <ns1:g id="COUNT">%d</ns1:g> dni"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"čez 1 uro"</item>
+        <item msgid="3705373766798013406" quantity="other">"čez <ns1:g id="COUNT">%d</ns1:g> ur"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"čez 1 min"</item>
+        <item msgid="4216113292706568726" quantity="other">"čez <ns1:g id="COUNT">%d</ns1:g> minut"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"čez 1 sekundo"</item>
+        <item msgid="5495880108825805108" quantity="other">"čez toliko sekund: <ns1:g id="COUNT">%d</ns1:g>"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"včeraj"</item>
+        <item msgid="3453342639616481191" quantity="other">"Pred <ns1:g id="COUNT">%d</ns1:g> dnevi"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"pred 1 uro"</item>
+        <item msgid="6889970745748538901" quantity="other">"Pred <ns1:g id="COUNT">%d</ns1:g> urami"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"pred 1 minuto"</item>
+        <item msgid="851164968597150710" quantity="other">"Pred <ns1:g id="COUNT">%d</ns1:g> minutami"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"pred 1 sekundo"</item>
+        <item msgid="3699169366650930415" quantity="other">"Pred toliko sekundami: <ns1:g id="COUNT">%d</ns1:g>"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 ura"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> h"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 minuta"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> min"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 sekunda"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> s"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"jutri"</item>
+        <item msgid="5109449375100953247" quantity="other">"čez <ns1:g id="COUNT">%d</ns1:g> dni"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"čez 1 uro"</item>
+        <item msgid="547290677353727389" quantity="other">"čez <ns1:g id="COUNT">%d</ns1:g> ur"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"čez 1 minuto"</item>
+        <item msgid="3330713936399448749" quantity="other">"Čez toliko minut: <ns1:g id="COUNT">%d</ns1:g>."</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"čez 1 sekundo"</item>
+        <item msgid="1241926116443974687" quantity="other">"Čez <ns1:g id="COUNT">%d</ns1:g> sekund"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"včeraj"</item>
+        <item msgid="2479586466153314633" quantity="other">"Pred <ns1:g id="COUNT">%d</ns1:g> dnevi"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"pred 1 uro"</item>
+        <item msgid="2467273239587587569" quantity="other">"Pred <ns1:g id="COUNT">%d</ns1:g> urami"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"pred 1 minuto"</item>
+        <item msgid="2176942008915455116" quantity="other">"Pred <ns1:g id="COUNT">%d</ns1:g> minutami"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"Pred 1 sekundo"</item>
+        <item msgid="3903706804349556379" quantity="other">"pred toliko sekundami: <ns1:g id="COUNT">%d</ns1:g>"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d novo obvestilo</item>
+    <item quantity="two">%d novi obvestili</item>
+    <item quantity="few">%d nova obvestila</item>
+    <item quantity="other">%d novih obvestil</item>
+  </plurals>
+    <string name="Browse"><![CDATA[Prebrskaj]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Krmarjenje na začetek"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pomik navzgor"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZKLOP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"VKLOP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"preslednica"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meni +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Deljenje z:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Deljenje z drugimi prek aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Strnitev"</string>
+    <string name="about_hotspots"><![CDATA[Vizitka ‎HotSpots]]></string>
+    <string name="about_trends"><![CDATA[O trendih]]></string>
+    <string name="account_created"><![CDATA[Vaš račun je bil uspešno ustvarjen.]]></string>
+    <string name="account_name"><![CDATA[Ime računa]]></string>
+    <string name="account_owner"><![CDATA[Ime lastnika]]></string>
+    <string name="account_service_name"><![CDATA[Ime storitve]]></string>
+    <string name="account_status"><![CDATA[Stanje računa]]></string>
+    <string name="account_updated"><![CDATA[Podatki o računu so posodobljeni]]></string>
+    <string name="add_account"><![CDATA[Dodaj račun]]></string>
+    <string name="add_my_publications"><![CDATA[Dodaj med moje objave]]></string>
+    <string name="add_opinion"><![CDATA[Dodaj mnenje]]></string>
+    <string name="add_opinion_text_sample"><![CDATA[Primer: Make love, not money]]></string>
+    <string name="add_to_collection"><![CDATA[Dodaj v zbirko]]></string>
+    <string name="add_video"><![CDATA[Dodaj videoposnetek]]></string>
+    <string name="advanced_search"><![CDATA[Napredno iskanje]]></string>
+    <string name="all"><![CDATA[Vse]]></string>
+    <string name="article_comments"><![CDATA[‎%d komentarjev]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_library"><![CDATA[Knjižnica in skupina]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Izberite storitev]]></string>
+    <string name="authorization_social_signin"><![CDATA[Vpišite se s/z]]></string>
+    <string name="authorization_text"><![CDATA[Za dostop do te vsebine morate biti naročnik na %s.]]></string>
+    <string name="authorized_at"><![CDATA[Uspešno pooblaščeno na %s]]></string>
+    <string name="auto_download_issue_available"><![CDATA[Na voljo je nova izdaja: %s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Samodejno dostavi vse nove izdaje]]></string>
+    <string name="auto_renewed"><![CDATA[Samodejno obnovljeno]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Neomejeno]]></string>
+    <string name="balance"><![CDATA[Stanje]]></string>
+    <string name="balance_description"><![CDATA[%1$s od %2$s]]></string>
+    <string name="be_the_first_one_to_comment"><![CDATA[Komentirajte prvi]]></string>
+    <string name="billing_information"><![CDATA[Podatki za zaračunavanje]]></string>
+    <string name="blog"><![CDATA[Blog]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Knjige, kupljene na spletni strani PressReader, postanejo na voljo za branje v tej aplikaciji, če uporabljate iste podatke za prijavo.]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Zadnja prebrana stran]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Veseli smo, da uživate v knjigi! Za nadaljevanje svoje pustolovščine pojdite zdaj na \'Podrobnosti knjige\'.]]></string>
+    <string name="bookmark"><![CDATA[Zaznamek]]></string>
+    <string name="bookmarked"><![CDATA[Zaznamovano]]></string>
+    <string name="bookmarks"><![CDATA[Zaznamki]]></string>
+    <string name="books_banner_action"><![CDATA[Prebrskajte Knjige]]></string>
+    <string name="books_banner_description"><![CDATA[Vesolje visokokakovostnih časopisov, revij in knjig, vse na eni platformi.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Oprostite, vendar te knjige ni več na voljo]]></string>
+    <string name="books_license_expired_message"><![CDATA[Za nadaljnje branje obiščite točko za potovanje in turizem HotSpot, da razširite svoj dostop, ali pa kupite svojo e-knjigo (glede na razpoložljivost) na pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Najdi točko dostopa]]></string>
+    <string name="books_paid_title"><![CDATA[Oprostite, ta naslov ni na voljo.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
+    <string name="breaking_news"><![CDATA[Zadnje novice]]></string>
+    <string name="brought_to_you_by"><![CDATA[Prinaša vam ga]]></string>
+    <string name="browse_catalog"><![CDATA[Razišči]]></string>
+    <string name="btn_allow"><![CDATA[Dovoli]]></string>
+    <string name="btn_back"><![CDATA[Nazaj]]></string>
+    <string name="btn_cancel"><![CDATA[Prekliči]]></string>
+    <string name="btn_confirm"><![CDATA[Potrdi]]></string>
+    <string name="btn_delete"><![CDATA[Izbriši]]></string>
+    <string name="btn_download"><![CDATA[Prenesi]]></string>
+    <string name="btn_downloading"><![CDATA[Prenašanje]]></string>
+    <string name="btn_font_size"><![CDATA[Velikost pisave]]></string>
+    <string name="btn_listen"><![CDATA[Poslušaj]]></string>
+    <string name="btn_next"><![CDATA[Naslednji]]></string>
+    <string name="btn_no"><![CDATA[Ne]]></string>
+    <string name="btn_ok"><![CDATA[V redu]]></string>
+    <string name="btn_page"><![CDATA[Stran]]></string>
+    <string name="btn_retry"><![CDATA[Poskusite znova]]></string>
+    <string name="btn_send"><![CDATA[Pošlji]]></string>
+    <string name="btn_share"><![CDATA[Deli z drugimi]]></string>
+    <string name="btn_text_smart"><![CDATA[SmartFlow]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Odpovej naročnino]]></string>
+    <string name="btn_yes"><![CDATA[Da]]></string>
+    <string name="bump_it"><![CDATA[Pritrdi]]></string>
+    <string name="bump_it_counter"><![CDATA[Pritrdi (%d)]]></string>
+    <string name="bumped"><![CDATA[Pritrjeno]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Kupi %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Preizkusite brezplačno %1$s dni \nNato %2$s]]></string>
+    <string name="bundle_product_cancel"><![CDATA[Želite preklicati naročilo na izdelek?]]></string>
+    <string name="business"><![CDATA[Posel]]></string>
+    <string name="campaign_all_issues_claimed"><![CDATA[Vse izdaje so bile prevzete]]></string>
+    <string name="campaign_all_issues_claimed_description"><![CDATA[O, ne! Vse te izdaje so bile že vzete. Še vedno lahko dobite brezplačno izdajo, če obiščete eno od naših ‎HotSpots‎.]]></string>
+    <string name="categories"><![CDATA[Kategorije]]></string>
+    <string name="channel"><![CDATA[Kanal]]></string>
+    <string name="channel_feed"><![CDATA[Vir kanala]]></string>
+    <string name="channel_full_title"><![CDATA[‎%1$s pri %2$s]]></string>
+    <string name="channels"><![CDATA[Kanali]]></string>
+    <string name="character_counter_content_description">Število vnesenih znakov je %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Omejitev števila znakov je presegla %1$d od %2$d</string>
+    <string name="choose_your_plan"><![CDATA[Izberite svoj načrt]]></string>
+    <string name="city"><![CDATA[Mesto]]></string>
+    <string name="cleanup_never"><![CDATA[Nikoli]]></string>
+    <string name="clear_history"><![CDATA[Izbriši zgodovino]]></string>
+    <string name="clear_text_end_icon_content_description">Izbris besedila</string>
+    <string name="client_name_hint"><![CDATA[Ime naprave]]></string>
+    <string name="close"><![CDATA[Zapri]]></string>
+    <string name="collection_options"><![CDATA[Možnosti zbirk]]></string>
+    <string name="collection_save"><![CDATA[Shrani]]></string>
+    <string name="collections"><![CDATA[Zbirke]]></string>
+    <string name="comment_post"><![CDATA[Objave]]></string>
+    <string name="comment_post_tip"><![CDATA[Recite nekaj…]]></string>
+    <string name="comment_url_copied_to_clipboard"><![CDATA[Komentirajte besedilo, kopirano v odlagališče]]></string>
+    <string name="commented"><![CDATA[Komentirano]]></string>
+    <string name="comments"><![CDATA[Komentarji]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Omogoči</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Omogočanje storitev Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Namesti</string>
+    <string name="common_google_play_services_install_text">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Namestitev storitev Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostopnost storitev Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Posodobi</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Posodobitev storitev Google Play</string>
+    <string name="common_google_play_services_updating_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="common_google_play_services_wear_update_text">Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile.</string>
+    <string name="common_open_on_phone">Odpiranje v telefonu</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijava z računom Google</string>
+    <string name="company_hint"><![CDATA[Ime podjetja (izbirno)]]></string>
+    <string name="complete_action_faild"><![CDATA[Dejanja ni mogoče končati]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Potrdite geslo]]></string>
+    <string name="confirmation"><![CDATA[Potrditev]]></string>
+    <string name="contact_us"><![CDATA[Stopite v stik z nami]]></string>
+    <string name="continue_reading"><![CDATA[Nadaljuj z branjem]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Besedilo članka je kopirano v odlagališče]]></string>
+    <string name="copies_left"><![CDATA[Ostalo je %s kopij]]></string>
+    <string msgid="3209159573327985035" name="copy">"Kopiraj"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Povezava je kopirana v odložišče"</string>
+    <string name="count_pages"><![CDATA[‎%d strani]]></string>
+    <string name="countries"><![CDATA[Države]]></string>
+    <string name="country"><![CDATA[Država]]></string>
+    <string name="crashreport_message"><![CDATA[Zaznano je bilo sesutje aplikacije.\nAli želite razvijalcu poslati tehnične podatke o tem sesutju, tako da bo poskušal odpraviti težavo?\nObčutljivih podatkov o uporabniku se ne bo pošiljalo.]]></string>
+    <string name="create"><![CDATA[Ustvari]]></string>
+    <string name="create_new_collection"><![CDATA[Ustvari novo zbirko]]></string>
+    <string name="creating_bookmark"><![CDATA[Ustvarjanje zaznamka]]></string>
+    <string name="credit_billing_address"><![CDATA[Naslov plačnika računa]]></string>
+    <string name="credit_card_cvv"><![CDATA[CCV]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Mesec poteka]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Leto poteka]]></string>
+    <string name="credit_card_holder"><![CDATA[Ime lastnika kartice]]></string>
+    <string name="credit_card_number"><![CDATA[Številka kartice]]></string>
+    <string name="credit_card_type"><![CDATA[Kreditna kartica]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Izberite kreditno kartico]]></string>
+    <string name="current_location"><![CDATA[Trenutna lokacija]]></string>
+    <string name="current_password"><![CDATA[Trenutno geslo]]></string>
+    <string name="data_storage_path"><![CDATA[Pot za shranjevanje podatkov]]></string>
+    <string name="decrease_font"><![CDATA[Zmanjšajte pisavo]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ups! Nismo našli tisto, kar iščete.]]></string>
+    <string name="default_device_name"><![CDATA[Moja naprava]]></string>
+    <string name="default_storage"><![CDATA[Privzeta shramba]]></string>
+    <string name="delete_comment"><![CDATA[Izbriši komentar]]></string>
+    <string name="delete_post_confirmation"><![CDATA[Ali ste prepričani, da želite izbrisati ta članek?]]></string>
+    <string name="deleted_comment"><![CDATA[Izbriši komentar]]></string>
+    <string name="description"><![CDATA[Opis]]></string>
+    <string name="deselect_all"><![CDATA[Prekliči izbiro vsega]]></string>
+    <string name="dialogs_dlg_confirm_delete_collection"><![CDATA[Ali ste prepričani, da želite izbrisati zbirko?]]></string>
+    <string name="dialogs_dlg_confirm_delete_comment"><![CDATA[Ali ste prepričani, da želite izbrisati komentar?]]></string>
+    <string name="dialogs_dlg_discard_changes"><![CDATA[Ali ste prepričani, da želite zavreči spremembe?]]></string>
+    <string name="discover_gift"><![CDATA[Odkrijte darila]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Pretočni predvajanje zvoka za izbrani članek ni na voljo.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Med predvajanjem članka je prišlo do napake.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Ob prvem zagonu je treba program PressReader najprej aktivirati. Omogočite internetno povezavo in ponovno zaženite program PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Omejena povezava ali brez povezave s strežnikom.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Potrdite nakup pretekle izdaje za dodatnih %s.]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[Vaš račun bomo bremenili za: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Ali želite premakniti vse prenesene časopise na kartico SD?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[Nobena kartica SD ni bila zaznana. Ali želite za shranjevanje časopisa uporabiti notranji pomnilnik?\n\nPomnilnik na voljo: %sMb, en časopis potrebuje 5-50 Mb prostora.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Vaša naročnina se je iztekla. Prosimo, obnovite svojo naročnino ali se obrnite na podporo strankam.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Namestite in konfigurirajte e-poštnega odjemalca, če želite uspešno izvesti operacijo.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Na napravi ni več prostora. Odstranite vsebino iz kartice SD.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Funkcija povečave bo na voljo ob zaključku prenosa izdaje.]]></string>
+    <string name="dlg_opening"><![CDATA[Obdelava …]]></string>
+    <string name="dlg_processing"><![CDATA[Obdelava …]]></string>
+    <string name="dlg_show_tips"><![CDATA[Prikaži enkrat več?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Namig]]></string>
+    <string name="downloading_new_issue"><![CDATA[Prenašanje novih izdaj]]></string>
+    <string name="email"><![CDATA[E-pošta]]></string>
+    <string name="email_hint"><![CDATA[E-poštni naslov]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Nakupa ni bilo mogoče izvesti.]]></string>
+    <string name="error_connection"><![CDATA[Povezave z omrežjem ni bilo mogoče vzpostaviti.]]></string>
+    <string name="error_contacting_server"><![CDATA[Povezave s strežnikom ni bilo mogoče vzpostaviti.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Povezave s strežnikom ni bilo mogoče vzpostaviti. Poskusite znova.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Vrsta kreditne kartice se ne ujema s številko kreditne kartice]]></string>
+    <string name="error_device_authorization"><![CDATA[Avtorizacija naprave ni uspela.]]></string>
+    <string name="error_dialog_title"><![CDATA[Napaka]]></string>
+    <string name="error_empty_city"><![CDATA[Mesto je zahtevano polje]]></string>
+    <string name="error_empty_clientname"><![CDATA[Ime naprave ne sme biti prazno.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Potrditev gesla je zahtevano polje]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[Treba je vnesti kodo CVV]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Treba je vnesti imetnika kartice]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Treba je vnesti številko kreditne kartice]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Treba je vnesti ulico]]></string>
+    <string name="error_empty_email"><![CDATA[E-pošta je zahtevano polje]]></string>
+    <string name="error_empty_first_name"><![CDATA[Ime je zahtevano polje]]></string>
+    <string name="error_empty_last_name"><![CDATA[Priimek je zahtevano polje]]></string>
+    <string name="error_empty_password"><![CDATA[Geslo ne sme biti prazno.]]></string>
+    <string name="error_empty_password2"><![CDATA[Geslo je zahtevano polje]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Telefonska številka je zahtevano polje]]></string>
+    <string name="error_empty_required"><![CDATA[To je zahtevano polje]]></string>
+    <string name="error_empty_state"><![CDATA[Država je zahtevano polje]]></string>
+    <string name="error_empty_username"><![CDATA[Uporabniško ime ne sme biti prazno.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Poštna številka je zahtevano polje]]></string>
+    <string name="error_icon_content_description">Napaka</string>
+    <string name="error_invalid_email"><![CDATA[Vpišite veljaven elektronski naslov]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Datoteke za to publikacijo so nepopolne. Poskusite ponovno prenesti publikacijo.]]></string>
+    <string name="error_network_error"><![CDATA[Omrežna napaka]]></string>
+    <string name="error_ordering_issue"><![CDATA[Izdaje ni bilo mogoče naročiti. Obrnite se na tehnično pomoč.]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Gesli se ne ujemata]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Za nakup te izdaje prosimo, da na spletni strani www.pressdisplay.com vpišete veljavno številko kreditne kartice]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Za nakup te izdaje prosimo, da na spletni strani www.pressdisplay.com vpišete veljavno številko kreditne kartice]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Prenos arhiviranih izdaj je omejen]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Na zahtevo izdajatelja prenos izbranega naslova trenutno ni na voljo]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Na zahtevo izdajatelja prenos izbranega naslova trenutno ni na voljo]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Prenos trenutne vsebine na trenutni strani je prepovedan]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Branje/prenos trenutne vsebine iz vaše trenutne lokacije je prepovedan]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Branje/prenos trenutne vsebine iz vaše trenutne lokacije je prepovedan]]></string>
+    <string name="error_response_200"><![CDATA[Za ta račun je že aktivirana druga naprava s tem imenom. Izberite drugo ime naprave.]]></string>
+    <string name="error_response_201"><![CDATA[Preveč aktiviranj. Preden nadaljujete s to napravo, deavtorizirajte eno izmed obstoječih naprav.]]></string>
+    <string name="error_storage_not_available"><![CDATA[Naprava za shranjevanje SD ni na voljo.]]></string>
+    <string name="error_user_authorization"><![CDATA[Avtorizacija ni uspela. Preverite uporabniško ime in geslo.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Ta naprava je že avtorizirana s temi poverilnicami.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Vpisana promocijska koda ni pravilna]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Dodatno"</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Kopiraj povezavo"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Odpri v brskalniku"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Deli povezavo"</string>
+    <string name="first_name_hint"><![CDATA[Ime]]></string>
+    <string name="general_information"><![CDATA[Splošne informacije]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Brezplačno branje]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Nastavitve Naprave]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Omogočite storitve za določanje lokacije in jih nastavite na \"Med uporabo aplikacije\", da odkrijete posebno vsebino.]]></string>
+    <string name="hotspot_off"><![CDATA[Izklop]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="icon_content_description">Ikona pogovornega okna</string>
+    <string name="international"><![CDATA[Mednarodno]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Bi želeli kupiti to izdajo?]]></string>
+    <string name="item_view_role_description">Zavihek</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"vsak <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"ob <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="last_name_hint"><![CDATA[Priimek]]></string>
+    <string name="main_search"><![CDATA[Iskanje]]></string>
+    <string name="main_settings"><![CDATA[Nastavitve]]></string>
+    <string name="material_clock_toggle_content_description">Izberite dopoldanski ali popoldanski čas.</string>
+    <string name="material_hour_selection">Izberite uro</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Izberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">dop.</string>
+    <string name="material_timepicker_clock_mode_description">Preklopite na način ure, da vnesete čas.</string>
+    <string name="material_timepicker_hour">Ura</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">pop.</string>
+    <string name="material_timepicker_select_time">Izberite uro</string>
+    <string name="material_timepicker_text_input_mode_description">Preklopite na način za vnašanje besedila, da vnesete čas.</string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Kopiraj]]></string>
+    <string name="menu_issue_open"><![CDATA[Odpri]]></string>
+    <string name="more"><![CDATA[Več]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranite %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Več kot toliko novih obvestil: %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Izberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neveljavna oblika.</string>
+    <string name="mtrl_picker_invalid_format_example">Primer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uporabite: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neveljaven razpon.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pomik na leto %1$s</string>
+    <string name="mtrl_picker_out_of_range">Zunaj razpona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Začetni datum–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–končni datum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Izberite obseg</string>
+    <string name="mtrl_picker_range_header_unselected">Začetni datum–končni datum</string>
+    <string name="mtrl_picker_save">Shrani</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">l</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Preklop na način vnosa v koledar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dotik za preklop na izbiro dneva</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Preklop na način vnosa besedila</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dotik za preklop na izbiro leta</string>
+    <string name="my_library_noitems"><![CDATA[V knjižnici ni vsebin.]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Pomik navzgor"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Odpri predal za krmarjenje"</string>
+    <string name="new_article_view"><![CDATA[Besedilo v SmartFlow]]></string>
+    <string name="no_radio"><![CDATA[Radio ni na voljo za izdajo]]></string>
+    <string msgid="478774118347071097" name="not_set">"Ni nastavljeno"</string>
+    <string name="off"><![CDATA[Izklop]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Prilagodite svoje Interese]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Vključi vse dodatke]]></string>
+    <string name="order_subscribe"><![CDATA[Samodejno dostavi vse nove izdaje]]></string>
+    <string name="password_hint"><![CDATA[Geslo]]></string>
+    <string name="password_toggle_content_description">Prikaz gesla</string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="phone_hint"><![CDATA[Telefonska številka (neobvezno)]]></string>
+    <string name="podcasts"><![CDATA[Podcasts]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_autodelivery"><![CDATA[Samodejna dostava]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Dovoli posodobitve v ozadju]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Upravljanje naročnin]]></string>
+    <string name="pref_cleanup"><![CDATA[Odstranite vprašanj]]></string>
+    <string name="pref_dataaccess"><![CDATA[Dostop do podatkov]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Prenos vsebin samo prek Wi-Fi]]></string>
+    <string name="pref_feedback"><![CDATA[Povratne informacije]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Povratne informacije o %1$s v%2$s uporabnika %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Pošljite nam povratne informacije]]></string>
+    <string name="pref_license"><![CDATA[Licence odprtega vira]]></string>
+    <string name="pref_license_summary"><![CDATA[Podrobnosti licence za odprto kodno programsko opremo]]></string>
+    <string name="pref_storage"><![CDATA[Hramba podatkov]]></string>
+    <string name="pref_storage_summary"><![CDATA[Nastavi razpoložljivost notranjega pomnilnika]]></string>
+    <string name="pref_tips"><![CDATA[PressReader Nasveti]]></string>
+    <string name="pref_tips_summary"><![CDATA[Ponovite vmesnik pojasnila]]></string>
+    <string name="pref_version"><![CDATA[Različica]]></string>
+    <string name="pref_version_caption"><![CDATA[Različica %1$s: \t%2$s]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"»<ns1:g id="SUMMARY">%1$s</ns1:g>« je bilo kopirano v odložišče."</string>
+    <string name="premium_confirmation_warning"><![CDATA[Prepričajte se, da prekličete trenutno naročnino v nastavitvah Trgovine Play, v razdelku Plačila in naročnine vašega računa.]]></string>
+    <string name="promo_code_hint"><![CDATA[Promocijska koda (neobvezno)]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Dovolite obvestila]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Vedite, kdaj so na voljo najnovejši izvodi in ostanite na tekočem z novicami, povezanimi z vašimi interesi.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Prejmite obvestila]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Obvestila]]></string>
+    <string name="radio_next_article"><![CDATA[Naslednja zgodba]]></string>
+    <string name="radio_next_section"><![CDATA[Naslednji\nrazdelek]]></string>
+    <string name="radio_prev_article"><![CDATA[Prejšnja zgodba]]></string>
+    <string name="radio_prev_section"><![CDATA[Prejšnji\nrazdelek]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Znesek plačila:]]></string>
+    <string name="registration_agree_text"><![CDATA[S klikom gumba \"Naprej\" soglašate s <a href=\\"pressreader://terms-of-use\\">pogoji uporabe</a> in <a href=\\"pressreader://privacy\\">Politiko Zasebnosti</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Dostop do preteklih izdaj:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s dni]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Cena na izdajo:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Dostop do poročila AdValue:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Največje število nadzorovalnih opozoril:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Največje število samodejnih prenosov:]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Mesečna naročnina]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (znižana cena za 1. mesec; %1$s %3$s od 2. meseca dalje)]]></string>
+    <string name="remaining_credits"><![CDATA[Preostali krediti:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d izdaj]]></string>
+    <string name="remaining_issues_title"><![CDATA[Lmate še %d težave]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Prijavite se ali ustvarite račun, da dostopate do zgodovine nakupov in uporabljate naročnine na več napravah. Vaši trenutni nakupi bodo dodani na ta račun.]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Sponzorirano]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Iskanje"</string>
+    <string name="smart_zoom"><![CDATA[Pametni zoom]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Začnite %s poskusite]]></string>
+    <string name="state"><![CDATA[Zvezna država]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="street"><![CDATA[Ulica]]></string>
+    <string name="subscribe"><![CDATA[Naroči se]]></string>
+    <string name="subscription_plan"><![CDATA[Naročniški načrt:]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Ni razpored dobave]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Lahko urnik dostavo izdajo naročila zaslonu]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="terms_of_use"><![CDATA[Pogoji uporabe]]></string>
+    <string name="theme"><![CDATA[Tema branja]]></string>
+    <string name="theme_dark"><![CDATA[Temna]]></string>
+    <string name="theme_light"><![CDATA[Svetla]]></string>
+    <string name="theme_system"><![CDATA[Prilagodi napravi]]></string>
+    <string name="translate"><![CDATA[Prevedi]]></string>
+    <string name="trial_action"><![CDATA[Začnite brezplačno preskusno obdobje]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Ta izdelek že imate na PressReaderju.]]></string>
+    <string name="trial_subscription"><![CDATA[brezplačna preskusna različica]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Odklenite 7.000 časopisov in revij z neomejenim branjem. Preizkusite brezplačno 7 dni.]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IZKLOPLJENO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"VKLOPLJENO"</string>
+    <string name="zip"><![CDATA[Poštna številka]]></string>
+</resources>

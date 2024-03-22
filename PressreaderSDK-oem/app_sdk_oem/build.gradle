@@ -1,0 +1,106 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: "kotlin-kapt"
+
+repositories {
+    google()
+    mavenCentral()
+    maven {
+        url "../sdk-dist"
+    }
+    maven { url "https://appboy.github.io/appboy-android-sdk/sdk" }
+    maven { url 'https://jitpack.io' }
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.example.oem"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.compileSdkVersion
+        versionCode 4033
+        versionName "2.0"
+        manifestPlaceholders += [auth0Domain: "@string/com_auth0_domain", auth0Scheme: "@string/scheme"]
+    }
+
+    buildTypes {
+        ext.enableCrashlytics = false
+
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    task(refresh_version_code, type: JavaExec) {
+        main = 'com.newspaperdirect.build.android.FetchVersion'
+        classpath = files("version_code.jar")
+    }
+}
+
+dependencies {
+    if (findProject(':sdk_oem') != null) {
+        implementation project(path: ':sdk_oem')
+    } else {
+        implementation("com.newspaperdirect.pressreader.android:sdk_oem:$baseVersionMajor.$baseVersionMinor@aar") {
+            transitive = true
+        }
+    }
+    implementation "com.google.firebase:firebase-analytics:$firebaseAnalyticsVersion"
+    implementation "com.google.android.gms:play-services-analytics:$playServicesAnalytics"
+    implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlinVersion"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlinVersion"
+    implementation "androidx.core:core-ktx:$ktxVersion"
+    implementation "androidx.appcompat:appcompat:$appcompatVersion"
+
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+    kapt "com.github.bumptech.glide:compiler:$glideVersion"
+}
+
+configurations {
+    def isSocialSignInEnabled = getPressReaderParameterValue("enable_social_signin", "string", "false")
+            .equalsIgnoreCase("true")
+    if (!isSocialSignInEnabled) {
+        all*.exclude group: "com.facebook.android", module: "facebook-login"
+        all*.exclude group: "com.twitter.sdk.android", module: "twitter"
+        all*.exclude group: "com.google.android.gms", module: "play-services-plus"
+        all*.exclude group: "com.google.android.gms", module: "play-services-auth"
+    }
+
+    def isBooksEnabled = getPressReaderParameterValue("catalog_books_section", "bool", "false")
+            .equalsIgnoreCase("true")
+    if (!isBooksEnabled) {
+        all*.exclude group: "org.nanohttpd", module: "nanohttpd"
+        all*.exclude module: "books-flowpub"
+        all*.exclude module: "books"
+    }
+}
+
+def getPressReaderParameterValue(parameterName, parameterType, defaultValue) {
+    def configFile = new File(new File(projectDir, "res/values"), 'pressreader_sdk_config.xml')
+    def config = new XmlParser().parseText(configFile.text.replace("&amp;", "&").replace("&", "&amp;"))
+    def parameterNode = config."$parameterType".find { it.@name == parameterName }
+    return parameterNode == null ? defaultValue : parameterNode.text()
+}
+
+

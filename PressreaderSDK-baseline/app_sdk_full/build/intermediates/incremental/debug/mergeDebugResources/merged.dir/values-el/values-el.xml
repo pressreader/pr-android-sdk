@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"αύριο"</item>
+        <item msgid="2973062968038355991" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> ημέρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"σε 1 ώρα"</item>
+        <item msgid="3705373766798013406" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> ώρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"σε 1 λεπτό"</item>
+        <item msgid="4216113292706568726" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> λεπτά"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"σε 1 δευτερόλεπτο"</item>
+        <item msgid="5495880108825805108" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> δευτερόλεπτα"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"χθες"</item>
+        <item msgid="3453342639616481191" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> ημέρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"πριν από 1 ώρα"</item>
+        <item msgid="6889970745748538901" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> ώρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"πριν από 1 λεπτό"</item>
+        <item msgid="851164968597150710" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> λεπτά"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"πριν από 1 δευτερόλεπτο"</item>
+        <item msgid="3699169366650930415" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> δευτερόλεπτα"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 ώρα"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> ώρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 λεπτό"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> λεπτά"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 δευτερόλεπτο"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> δευτερόλεπτα"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"αύριο"</item>
+        <item msgid="5109449375100953247" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> ημέρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"σε 1 ώρα"</item>
+        <item msgid="547290677353727389" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> ώρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"σε 1 λεπτό"</item>
+        <item msgid="3330713936399448749" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> λεπτά"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"σε 1 δευτερόλεπτο"</item>
+        <item msgid="1241926116443974687" quantity="other">"σε <ns1:g id="COUNT">%d</ns1:g> δευτερόλεπτα"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"χθες"</item>
+        <item msgid="2479586466153314633" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> ημέρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"πριν από 1 ώρα"</item>
+        <item msgid="2467273239587587569" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> ώρες"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"πριν από 1 λεπτό"</item>
+        <item msgid="2176942008915455116" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> λεπτά"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"πριν από 1 δευτερόλεπτο"</item>
+        <item msgid="3903706804349556379" quantity="other">"πριν από <ns1:g id="COUNT">%d</ns1:g> δευτερόλεπτα"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d νέα ειδοποίηση</item>
+    <item quantity="other">%d νέες ειδοποιήσεις</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Εμφάνιση όλων"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Επιλέξτε μια εφαρμογή"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"διάστημα"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Κοινοποίηση σε"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Κοινοποίηση στην εφαρμογή <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="about_hotspots"><![CDATA[Σχετικά με τα HotSpots]]></string>
+    <string name="account_created"><![CDATA[Ο λογαριασμός σας δημιουργήθηκε επιτυχώς.]]></string>
+    <string name="account_name"><![CDATA[Ονομα λογαριασμού]]></string>
+    <string name="account_owner"><![CDATA[Κάτοχος λογαριασμού]]></string>
+    <string name="account_service_name"><![CDATA[Όνομα Υπηρεσίας]]></string>
+    <string name="account_status"><![CDATA[Κατάσταση λογαριασμού]]></string>
+    <string name="add_account"><![CDATA[Προσθήκη λογαριασμού]]></string>
+    <string name="add_my_publications"><![CDATA[Προσθήκη στα Έντυπά μου]]></string>
+    <string name="add_opinion"><![CDATA[Προσθήκη γνώμης]]></string>
+    <string name="add_to_collection"><![CDATA[ΠΡΟΣΘΗΚΗ ΣΤΗ ΣΥΛΛΟΓΗ]]></string>
+    <string name="advanced_search"><![CDATA[Σύνθετη αναζήτηση]]></string>
+    <string name="all"><![CDATA[Όλα]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Επιλέξτε υπηρεσία]]></string>
+    <string name="authorization_social_signin"><![CDATA[Συνδεθείτε με]]></string>
+    <string name="authorization_text"><![CDATA[Για να έχετε πρόσβαση σε αυτό το περιεχόμενο, πρέπει να είστε %s συνδρομητής]]></string>
+    <string name="auto_download"><![CDATA[Αυτόματη λήψη]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Αυτόματη παροχή όλων των νέων τευχών]]></string>
+    <string name="auto_download_new_issues_question"><![CDATA[Αυτόματη λήψη νέων εκδόσεων]]></string>
+    <string name="auto_renewed"><![CDATA[Αυτόματα ανανεώσιμη]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Απεριόριστο]]></string>
+    <string name="balance"><![CDATA[Υπόλοιπο]]></string>
+    <string name="balance_description"><![CDATA[%1$s από %2$s]]></string>
+    <string name="billing_information"><![CDATA[Πληροφορίες χρέωσης]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Τα βιβλία που αγοράστηκαν από την ιστοσελίδα του PressReader είναι διαθέσιμα για ανάγνωση σε αυτήν την εφαρμογή, εφόσον χρησιμοποιείτε τα ίδια στοιχεία λογαριασμού.]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Πιο πρόσφατη σελίδα που διαβάστηκε]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Χαίρομαστε που απολαμβάνετε το βιβλίο! Για να συνεχίσετε την περιπέτειά σας, μεταβείτε τώρα στις \'Λεπτομέρειες του βιβλίου\'.]]></string>
+    <string name="bookmark"><![CDATA[Σελιδοδείκτης]]></string>
+    <string name="bookmarks"><![CDATA[Σελιδοδείκτες]]></string>
+    <string name="books"><![CDATA[Βιβλία]]></string>
+    <string name="books_banner_action"><![CDATA[Περιηγηθείτε στα βιβλία]]></string>
+    <string name="books_banner_description"><![CDATA[Ένα σύμπαν υψηλής ποιότητας εφημερίδων, περιοδικών και βιβλίων, όλα σε μία πλατφόρμα.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Λυπούμαστε, αλλά αυτό το βιβλίο δεν είναι πλέον διαθέσιμο]]></string>
+    <string name="books_license_expired_message"><![CDATA[Για να συνεχίσετε την ανάγνωση, επισκεφθείτε ένα τουριστικό HotSpot ταξιδιών για να επεκτείνετε την πρόσβασή σας ή αγοράστε το ηλεκτρονικό σας βιβλίο (εφόσον είναι διαθέσιμο) στο pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Βρείτε ένα HotSpot]]></string>
+    <string name="books_paid_title"><![CDATA[Λυπούμαστε, αυτός ο τίτλος δεν είναι διαθέσιμος.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
+    <string name="brought_to_you_by"><![CDATA[Σας έφερε από]]></string>
+    <string name="browse_catalog"><![CDATA[Εξερευνήστε]]></string>
+    <string name="btn_back"><![CDATA[Πίσω]]></string>
+    <string name="btn_cancel"><![CDATA[Ματαίωση]]></string>
+    <string name="btn_confirm"><![CDATA[Επιβεβαίωση]]></string>
+    <string name="btn_delete"><![CDATA[Διαγραφή]]></string>
+    <string name="btn_download"><![CDATA[Λήψη]]></string>
+    <string name="btn_downloading"><![CDATA[Λήψη]]></string>
+    <string name="btn_font_size"><![CDATA[Μέγεθος γραμματοσειράς]]></string>
+    <string name="btn_listen"><![CDATA[Ακρόαση]]></string>
+    <string name="btn_next"><![CDATA[Επόμενο]]></string>
+    <string name="btn_no"><![CDATA[Όχι]]></string>
+    <string name="btn_ok"><![CDATA[Εντάξει]]></string>
+    <string name="btn_page"><![CDATA[Σελίδα]]></string>
+    <string name="btn_retry"><![CDATA[Επανάληψη]]></string>
+    <string name="btn_send"><![CDATA[Αποστολή]]></string>
+    <string name="btn_share"><![CDATA[Mοίρασμα]]></string>
+    <string name="btn_text_smart"><![CDATA[Έξυπνη ροής]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Κατάργηση συνδρομής]]></string>
+    <string name="btn_yes"><![CDATA[Ναι]]></string>
+    <string name="bump_it"><![CDATA[Υπερψηφίστε]]></string>
+    <string name="buncle_purchase_error_already_applied"><![CDATA[Το πακέτο έχει ήδη εφαρμοστεί]]></string>
+    <string name="bundle_all_you_can_read_title"><![CDATA[Όλα όσα μπορείτε να διαβάσετε]]></string>
+    <string name="bundle_cell_footer"><![CDATA[Ανανεώνεται αυτόματα. Ακύρωση όποτε επιθυμείτε.]]></string>
+    <string name="bundle_cell_subtitle"><![CDATA[Εγγραφείτε και διαβάστε όλες τις διαθέσιμες εκδόσεις]]></string>
+    <string name="bundle_empty_result"><![CDATA[Δεν βρέθηκαν συνδρομές]]></string>
+    <string name="bundle_price_per_half_year"><![CDATA[%s / εξάμηνο]]></string>
+    <string name="bundle_price_per_month"><![CDATA[%s / μήνας]]></string>
+    <string name="bundle_price_per_quarter"><![CDATA[%s / τρίμηνο]]></string>
+    <string name="bundle_price_per_year"><![CDATA[%s / χρόνος]]></string>
+    <string name="bundle_price_save"><![CDATA[(εξοικονομήστε %s)]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Αγορά %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Δοκιμάστε δωρεάν για %1$s ημέρες \nΣτη συνέχεια %2$s]]></string>
+    <string name="bundle_purchase_error_registration_required"><![CDATA[Απαιτείται εγγραφή]]></string>
+    <string name="bundle_purchase_error_unknown"><![CDATA[Μη αναμενόμενο σφάλμα κατά την αγορά προϊόντος. Παρακαλώ προσπαθήστε ξανα.]]></string>
+    <string name="bundle_title_subscription_subtitle"><![CDATA[Νέα τεύχη %s]]></string>
+    <string name="bundle_title_subscription_title"><![CDATA[%s συνδρομή]]></string>
+    <string name="business"><![CDATA[ΕΠΙΧΕΙΡΗΣΗ]]></string>
+    <string name="categories"><![CDATA[Κατηγορίες]]></string>
+    <string name="channel"><![CDATA[Channel]]></string>
+    <string name="channels"><![CDATA[Channels]]></string>
+    <string name="channels_empty_result"><![CDATA[Δεν βρέθηκαν κανάλια]]></string>
+    <string name="channels_other_sources"><![CDATA[Άλλες πηγές]]></string>
+    <string name="channels_sources"><![CDATA[Πηγές]]></string>
+    <string name="character_counter_content_description">Εισήχθησαν %1$d από %2$d χαρακτήρες</string>
+    <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
+    <string name="choose_publications"><![CDATA[Επιλέξτε εκδόσεις]]></string>
+    <string name="choose_your_plan"><![CDATA[Επιλέξτε τη συνδρομή σας]]></string>
+    <string name="city"><![CDATA[Πόλη]]></string>
+    <string name="cleanup_never"><![CDATA[Ποτέ]]></string>
+    <string name="clear_history"><![CDATA[Διαγραφή ιστορικού]]></string>
+    <string name="clear_text_end_icon_content_description">Διαγραφή κειμένου</string>
+    <string name="client_name_hint"><![CDATA[Όνομα συσκευής]]></string>
+    <string name="close"><![CDATA[Κλείσιμο]]></string>
+    <string name="collection_options"><![CDATA[Διαμόρφωση συλλογής]]></string>
+    <string name="collection_save"><![CDATA[Αποθήκευση]]></string>
+    <string name="collections"><![CDATA[Συλλογές]]></string>
+    <string name="collections_empty_result"><![CDATA[Δεν βρέθηκαν συλλογές]]></string>
+    <string name="comment_post"><![CDATA[Επισυνάπτω]]></string>
+    <string name="comments"><![CDATA[Σχόλια]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Ενεργοποίηση</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Εγκατάσταση</string>
+    <string name="common_google_play_services_install_text">Η εφαρμογή %1$s δεν μπορεί να εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από τη συσκευή σας.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Διαθεσιμότητα υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
+    <string name="common_google_play_services_unsupported_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Ενημέρωση</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_updating_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</string>
+    <string name="common_google_play_services_wear_update_text">Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα.</string>
+    <string name="common_open_on_phone">Άνοιγμα σε τηλέφωνο</string>
+    <string name="common_signin_button_text">Σύνδεση</string>
+    <string name="common_signin_button_text_long">Συνδεθείτε με το Google</string>
+    <string name="company_hint"><![CDATA[Εταιρική επωνυμία (προαιρετικό)]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Επιβεβαίωση κωδικού πρόσβασης]]></string>
+    <string name="confirmation"><![CDATA[Επιβεβαίωση]]></string>
+    <string name="continue_with"><![CDATA[Συνεχίστε με]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Κείμενο του άρθρου έχει αντιγραφεί στο πρόχειρο]]></string>
+    <string msgid="3209159573327985035" name="copy">"Αντιγραφή"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Ο σύνδεσμος αντιγράφηκε στο πρόχειρο"</string>
+    <string name="countries"><![CDATA[Χώρες]]></string>
+    <string name="country"><![CDATA[Χώρα]]></string>
+    <string name="create"><![CDATA[Δημιουργία]]></string>
+    <string name="create_new_collection"><![CDATA[Δημιουργία νέας Συλλογής]]></string>
+    <string name="creating_bookmark"><![CDATA[μοιρασιά]]></string>
+    <string name="credit_billing_address"><![CDATA[Διεύθυνση αποστολής λογαριασμού]]></string>
+    <string name="credit_card_cvv"><![CDATA[Κωδικός CVV]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Μήνας λήξης]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Έτος λήξης]]></string>
+    <string name="credit_card_holder"><![CDATA[Όνομα κατόχου]]></string>
+    <string name="credit_card_number"><![CDATA[Αριθμός πιστωτικής κάρτας]]></string>
+    <string name="credit_card_type"><![CDATA[Πιστωτική κάρτα]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Επιλογή πιστωτικής κάρτας]]></string>
+    <string name="current_location"><![CDATA[Τωρινή τοποθεσία]]></string>
+    <string name="current_password"><![CDATA[Κωδικός πρόσβασης]]></string>
+    <string name="customer_service"><![CDATA[Εξυπηρέτηση πελατών]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ωχ! Δεν μπορέσαμε να βρούμε αυτό που ψάχνετε.]]></string>
+    <string name="default_device_name"><![CDATA[Η συσκευή μου]]></string>
+    <string name="delete_comment"><![CDATA[Διαγραφή σχολίο]]></string>
+    <string name="deleted_comment"><![CDATA[Διαγράφηκε σχόλιο]]></string>
+    <string name="description"><![CDATA[Περιγραφή]]></string>
+    <string name="deselect_all"><![CDATA[Αποεπιλογή Όλων]]></string>
+    <string name="device_management_date"><![CDATA[Τελευταία Ενεργός: %s]]></string>
+    <string name="device_management_deauthorize"><![CDATA[Από-εξουσιοδότηση]]></string>
+    <string name="device_management_dialog_message"><![CDATA[Η εξουσιοδότηση αυτής της συσκευής θα ανακληθεί]]></string>
+    <string name="device_management_dialog_title"><![CDATA[Από-εξουσιοδότηση %s?]]></string>
+    <string name="device_management_this_device"><![CDATA[Αυτή η συσκευή]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Η ροή ήχου για το επιλεγμένο άρθρο δεν είναι διαθέσιμη.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Σημειώθηκε σφάλμα κατά την αναπαραγωγή του άρθρου.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Το PressReader πρέπει να ενεργοποιηθεί όταν εκκινηθεί για πρώτη φορά. Ενεργοποιήστε τη σύνδεση Internet και επανεκκινήστε το PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Περιορισμένη ή ανύπαρκτη συνδεσιμότητα με το διακομιστή.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Επιβεβαιώστε την αγορά προηγούμενων τευχών για %s επιπλέον.]]></string>
+    <string name="dlg_confirm_delete_my_library_selected_items"><![CDATA[Διαγράψτε όλα τα στοιχεία από τη βιβλιοθήκη σας?]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[Ο λογαριασμός σας θα χρεωθεί για: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Θέλετε να μεταφέρετε όλες τις εφημερίδες που λάβατε στην κάρτα SD?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[Δεν επιλέχθηκε κάρτα SD, θέλετε να χρησιμοποιήσετε την εσωτερική μνήμη για αποθήκευση εφημερίδων;\n\nΔιαθέσιμη μνήμη: %sMb, για να αποθηκευτεί μία εφημερίδα απαιτούνται 5-50Mb.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Η συνδρομή σας είναι ανενεργή. Ενημερώστε τη συνδρομή σας ή επικοινωνήστε με την υποστήριξη πελατών.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Εγκαταστήστε και διαμορφώστε ένα πρόγραμμα-πελάτη ηλεκτρονικού ταχυδρομείου για να επιτύχει αυτή η λειτουργία.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Δεν έχει απομείνει χώρος στη συσκευή. Καταργήστε περιεχόμενο από την κάρτα SD.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Η λειτουργικότητα ζουμ είναι διαθέσιμη αφού ολοκληρωθεί η λήψη του τεύχους.]]></string>
+    <string name="dlg_opening"><![CDATA[Επεξεργασία…]]></string>
+    <string name="dlg_processing"><![CDATA[Επεξεργασία…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Εμφάνιση για άλλη μια φορά?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Συμβουλή]]></string>
+    <string name="dont_ask"><![CDATA[Να μην ερωτηθώ ξανά]]></string>
+    <string name="download_wifi_only"><![CDATA[Μόνο WiFi λήψη]]></string>
+    <string name="downloaded"><![CDATA[μεταφορτωμένος]]></string>
+    <string name="downloading_new_issue"><![CDATA[Λήψη νέων τευχών]]></string>
+    <string name="dump_it"><![CDATA[Aντιταχθεί]]></string>
+    <string name="edit"><![CDATA[Επεξεργασία]]></string>
+    <string name="editorial"><![CDATA[ΑΡΘΡΑ]]></string>
+    <string name="email"><![CDATA[Διεύθυνση ηλεκτρονικού ταχυδρομείου]]></string>
+    <string name="email_address"><![CDATA[Διεύθυνση email]]></string>
+    <string name="email_communication"><![CDATA[Να επιτρέπεται η επικοινωνία μέσω ηλεκτρονικού ταχυδρομείου:]]></string>
+    <string name="email_communication_account"><![CDATA[Ειδοποιήσεις Υπηρεσίας]]></string>
+    <string name="email_communication_promo"><![CDATA[Ενημερώσεις Προϊόντος]]></string>
+    <string name="email_hint"><![CDATA[Διεύθυνση ηλεκτρονικού ταχυδρομείου]]></string>
+    <string name="entertainment"><![CDATA[ΙΑΣΚΕΔΑΣΗ]]></string>
+    <string name="error_access_not_available"><![CDATA[Δεν μπορείτε να συνδεθείτε σε αυτήν τη συσκευή]]></string>
+    <string name="error_bookmark_limit_per_issue_exceeded"><![CDATA[Συγγνώμη, έχετε υπερβεί το όριο των σελιδοδεικτών που επιτρέπονται γι\' αυτό το τεύχος.]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Δεν ήταν δυνατή η ολοκλήρωση της αγοράς.]]></string>
+    <string name="error_connection"><![CDATA[Δεν είναι δυνατή η σύνδεση.]]></string>
+    <string name="error_contacting_server"><![CDATA[Δεν ήταν δυνατή η σύνδεση με το διακομιστή.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Δεν ήταν δυνατή η σύνδεση με το διακομιστή. Δοκιμάστε ξανά.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Ο τύπος της πιστωτικής κάρτας δεν ταιριάζει με τον αριθμό πιστωτικής κάρτας]]></string>
+    <string name="error_device_authorization"><![CDATA[Η εξουσιοδότηση της συσκευής απέτυχε.]]></string>
+    <string name="error_dialog_title"><![CDATA[Σφάλμα]]></string>
+    <string name="error_email_exists"><![CDATA[Υπάρχει ήδη λογαριασμός με αυτό το email]]></string>
+    <string name="error_empty_city"><![CDATA[Απαιτείται η καταχώριση πόλης]]></string>
+    <string name="error_empty_clientname"><![CDATA[Το όνομα συσκευής δεν μπορεί να είναι κενό.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Η επιβεβαίωση κωδικού πρόσβασης είναι υποχρεωτικό πεδίο]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[Απαιτείται ο κωδικός CVV]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Απαιτείται ο κάτοχος της κάρτας]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Απαιτείται ο αριθμός πιστωτικής κάρτας]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Απαιτείται η οδός]]></string>
+    <string name="error_empty_email"><![CDATA[Η διεύθυνση ηλεκτρονικού ταχυδρομείου είναι υποχρεωτικό πεδίο]]></string>
+    <string name="error_empty_field"><![CDATA[Αυτό το πεδίο δεν πρέπει να είναι κενό]]></string>
+    <string name="error_empty_first_name"><![CDATA[Το όνομα είναι υποχρεωτικό πεδίο]]></string>
+    <string name="error_empty_last_name"><![CDATA[Το επώνυμο είναι υποχρεωτικό πεδίο]]></string>
+    <string name="error_empty_password"><![CDATA[Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός.]]></string>
+    <string name="error_empty_password2"><![CDATA[Ο κωδικός πρόσβασης είναι υποχρεωτικό πεδίο]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Απαιτείται η καταχώριση αριθμού τηλεφώνου]]></string>
+    <string name="error_empty_required"><![CDATA[Το πεδίο είναι υποχρεωτικό]]></string>
+    <string name="error_empty_state"><![CDATA[Απαιτείται η καταχώριση νομού]]></string>
+    <string name="error_empty_username"><![CDATA[Το όνομα χρήστη δεν μπορεί να είναι κενό.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Απαιτείται ταχυδρομικός κώδικας]]></string>
+    <string name="error_icon_content_description">Σφάλμα</string>
+    <string name="error_invalid_email"><![CDATA[Πρέπει να χρησιμοποιήσετε μια έγκυρη διεύθυνση email]]></string>
+    <string name="error_issue_is_archive"><![CDATA[Τα αρχειοθετημένα αρχεία περιορίζονται για λήψη]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Τα αρχεία για αυτήν τη δημοσίευση δεν είναι πλήρη. Δοκιμάστε να λάβετε ξανά αυτή τη δημοσίευση.]]></string>
+    <string name="error_network_error"><![CDATA[Σφάλμα δικτύου]]></string>
+    <string name="error_no_internet_connection"><![CDATA[Χωρίς σύνδεση στο διαδίκτυο]]></string>
+    <string name="error_ordering_issue"><![CDATA[Δεν ήταν δυνατή η παραγγελία του τεύχους. Επικοινωνήστε με την τεχνική υποστήριξη.]]></string>
+    <string name="error_password_required"><![CDATA[Το πεδίο κωδικός πρόσβασης είναι υποχρεωτικό]]></string>
+    <string name="error_password_short"><![CDATA[Βεβαιωθείτε ότι ο κωδικός πρόσβασης είναι τουλάχιστον 6 χαρακτήρες]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Οι κωδικοί πρόσβασης δεν ταιριάζουν]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Για να αγοράσετε αυτό το τεύχος, παρακαλούμε δώστε έναν έγκυρο αριθμό πιστωτικής κάρτας στο www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Για να αγοράσετε αυτό το τεύχος, παρακαλούμε δώστε έναν έγκυρο αριθμό πιστωτικής κάρτας στο www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Τα αρχειοθετημένα αρχεία περιορίζονται για λήψη]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Ο επιλεγμένος τίτλος δεν είναι διαθέσιμος προς το παρόν για λήψη σύμφωνα με αίτημα του εκδότη]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Ο επιλεγμένος τίτλος δεν είναι διαθέσιμος προς το παρόν για λήψη σύμφωνα με αίτημα του εκδότη]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Απαγορεύεται η λήψη του τρέχοντος περιεχόμενου στην τρέχουσα τοποθεσία web]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Απαγορεύεται η ανάγνωση/λήψη του τρέχοντος περιεχόμενου από την τρέχουσα τοποθεσία σας]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Απαγορεύεται η ανάγνωση/λήψη του τρέχοντος περιεχόμενου από την τρέχουσα τοποθεσία σας]]></string>
+    <string name="error_response_200"><![CDATA[Μια άλλη συσκευή με αυτό το όνομα είναι ήδη ενεργοποιημένη για αυτόν το λογαριασμό. Επιλέξτε άλλο όνομα συσκευής.]]></string>
+    <string name="error_response_201"><![CDATA[Υπερβολικά πολλές ενεργοποιήσεις. Καταργήστε την εξουσιοδότηση μίας από τις υπάρχουσες συσκευές πριν να συνεχίσετε με αυτήν.]]></string>
+    <string name="error_storage_not_available"><![CDATA[Η αποθήκευση SD δεν είναι διαθέσιμη.]]></string>
+    <string name="error_try_again"><![CDATA[Δοκιμάστε ξανά]]></string>
+    <string name="error_user_authorization"><![CDATA[Η εξουσιοδότηση απέτυχε. Ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Αυτή η συσκευή έχει εξουσιοδοτηθεί ήδη με αυτά τα διαπιστευτήρια.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Ο κωδικός promo που καταχωρίσατε είναι εσφαλμένος]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Σύνθετες"</string>
+    <string name="expiration_date"><![CDATA[Ημερομηνία λήξης]]></string>
+    <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Αντιγραφή συνδέσμου"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Άνοιγμα σε πρόγραμμα περιήγησης"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Κοινοποίηση συνδέσμου"</string>
+    <string name="featured"><![CDATA[Περισσότερα]]></string>
+    <string name="first_name_hint"><![CDATA[Όνομα]]></string>
+    <string name="for_hotspot_sponsors_body"><![CDATA[Καλωσορίζουμε νέους συνεργάτες για να διερευνήσουμε συναρπαστικές ευκαιρίες στην έκθεση των επωνυμιών τους μέσω χιλιάδων τοποθεσιών HotSpot. Παρακαλούμε επικοινωνήστε μαζί μας για λεπτομέρειες.]]></string>
+    <string name="for_publishers"><![CDATA[Για εκδότες]]></string>
+    <string name="forgot_password"><![CDATA[ξεχασατε τον κωδικο προσβασησ?]]></string>
+    <string name="free_magazines"><![CDATA[Κορυφαία δωρεάν περιοδικά]]></string>
+    <string name="free_newspapers"><![CDATA[Κορυφαίες δωρεάν εφημερίδες]]></string>
+    <string name="full_sreen_setting"><![CDATA[ΠΛΗΡΗΣ ΟΘΟΝΗ]]></string>
+    <string name="full_sreen_setting_description"><![CDATA[Με ένα πάτημα αλλάζει η λειτουργία πλήρους οθόνης]]></string>
+    <string name="gathering_logs"><![CDATA[Συλλογή αρχείου καταγραφής...]]></string>
+    <string name="general"><![CDATA[Γενικά]]></string>
+    <string name="general_information"><![CDATA[Γενικές πληροφορίες]]></string>
+    <string name="grid"><![CDATA[Πλέγμα]]></string>
+    <string name="help_center"><![CDATA[Κέντρο υποστήριξης]]></string>
+    <string name="history"><![CDATA[Ιστορικό]]></string>
+    <string name="holt_to_select"><![CDATA[Κρατήστε πατημένο για να επιλέξετε]]></string>
+    <string name="home_choose_publications_text"><![CDATA[Τα πιο πρόσφατα τεύχη από τις εκδόσεις που ακολουθείτε θα εμφανίζονται εδώ]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Δωρεάν ανάγνωση]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Ρυθμίσεις Συσκευής]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Ενεργοποιήστε τις υπηρεσίες τοποθεσίας και ορίστε τις σε \"Κατά τη χρήση της εφαρμογής\" για να ανακαλύψετε ειδικό περιεχόμενο.]]></string>
+    <string name="hotspot_novisible"><![CDATA[Δεν υπάρχουν HotSpots σε αυτήν την περιοχή]]></string>
+    <string name="hotspot_off"><![CDATA[Ανενεργή]]></string>
+    <string name="hotspot_restricted"><![CDATA[Περιορισμένος]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="hours_ago"><![CDATA[%d Ώρες πριν]]></string>
+    <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>
+    <string name="include_supplements"><![CDATA[Συμπερίληψη συμπληρωμάτων]]></string>
+    <string name="international"><![CDATA[Διεθνής]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Θα θέλατε να αγοράσετε αυτό το τεύχος?]]></string>
+    <string name="issues"><![CDATA[τεύχη]]></string>
+    <string name="item_view_role_description">Καρτέλα</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"στις <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"στις <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="keep_back_issues"><![CDATA[Κρατήστε %d τεύχη πίσω]]></string>
+    <string name="languages"><![CDATA[Γλώσσες]]></string>
+    <string name="languages_zt"><![CDATA[Κινεζικά (Παραδοσιακά)]]></string>
+    <string name="last_name_hint"><![CDATA[Επώνυμο]]></string>
+    <string name="latest_news"><![CDATA[Τελευταία νέα]]></string>
+    <string name="legal"><![CDATA[Νομοθεσία]]></string>
+    <string name="list"><![CDATA[Λίστα]]></string>
+    <string name="local_store_nothing_found"><![CDATA[Δεν βρέθηκαν δημοσιεύσεις]]></string>
+    <string name="local_store_title"><![CDATA[Εφημερίδες]]></string>
+    <string name="lock"><![CDATA[Κλείδωμα]]></string>
+    <string name="magazines"><![CDATA[Περιοδικά]]></string>
+    <string name="main_search"><![CDATA[Αναζήτηση]]></string>
+    <string name="main_settings"><![CDATA[Ρυθμίσεις]]></string>
+    <string name="make_public"><![CDATA[Δημοσιοποιήστε το]]></string>
+    <string name="manage"><![CDATA[Διαχειριστείτε]]></string>
+    <string name="manage_devices"><![CDATA[Διαχείριση συσκευών]]></string>
+    <string name="material_clock_toggle_content_description">Επιλέξτε π.μ. ή μ.μ.</string>
+    <string name="material_hour_selection">Επιλογή ώρας</string>
+    <string name="material_hour_suffix">%1$s ακριβώς</string>
+    <string name="material_minute_selection">Επιλογή λεπτών</string>
+    <string name="material_minute_suffix">%1$s λεπτά</string>
+    <string name="material_timepicker_am">ΠΜ</string>
+    <string name="material_timepicker_clock_mode_description">Κάντε εναλλαγή στη λειτουργία ρολογιού, για την εισαγωγή της ώρας.</string>
+    <string name="material_timepicker_hour">Ώρα</string>
+    <string name="material_timepicker_minute">Λεπτό</string>
+    <string name="material_timepicker_pm">ΜΜ</string>
+    <string name="material_timepicker_select_time">Επιλέξτε ώρα</string>
+    <string name="material_timepicker_text_input_mode_description">Κάντε εναλλαγή στη λειτουργία εισαγωγής κειμένου, για την εισαγωγή της ώρας.</string>
+    <string name="maybe_later"><![CDATA[Ίσως αργότερα]]></string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Αντιγράψτε]]></string>
+    <string name="menu_issue_open"><![CDATA[Άνοιγμα]]></string>
+    <string name="monitors"><![CDATA[Τα θέματά μου]]></string>
+    <string name="more"><![CDATA[Περισσότερα]]></string>
+    <string name="more_about"><![CDATA[Περί]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="more_send_us_feedback"><![CDATA[Στείλτε μας σχόλια]]></string>
+    <string name="more_send_us_feedback_logs"><![CDATA[Θα θέλατε να υποβάλετε τεχνικά στοιχεία μαζί με τη γνώμη σας?]]></string>
+    <string name="more_settings"><![CDATA[Ρυθμίσεις]]></string>
+    <string name="most_current"><![CDATA[Ημερομηνία]]></string>
+    <string name="most_popular"><![CDATA[Τα πιο δημοφιλή]]></string>
+    <string name="mtrl_badge_numberless_content_description">Νέα ειδοποίηση</string>
+    <string name="mtrl_chip_close_icon_content_description">Κατάργηση %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Πάνω από %1$d νέες ειδοποιήσεις</string>
+    <string name="mtrl_picker_a11y_next_month">Αλλαγή στον επόμενο μήνα</string>
+    <string name="mtrl_picker_a11y_prev_month">Αλλαγή στον προηγούμενο μήνα</string>
+    <string name="mtrl_picker_announce_current_selection">Τρέχουσα επιλογή: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Επιλογή ημερομηνίας</string>
+    <string name="mtrl_picker_date_header_unselected">Επιλεγμένη ημερομηνία</string>
+    <string name="mtrl_picker_day_of_week_column_header">Στήλη ημερών: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Μη έγκυρη μορφή.</string>
+    <string name="mtrl_picker_invalid_format_example">Παράδειγμα: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Χρησιμοποιήστε: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Μη έγκυρο εύρος.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Πλοήγηση στο έτος %1$s</string>
+    <string name="mtrl_picker_out_of_range">Εκτός εύρους: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ημερομηνία έναρξης – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Επιλογή εύρους</string>
+    <string name="mtrl_picker_range_header_unselected">Ημερομηνία έναρξης – Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_save">Αποθήκευση</string>
+    <string name="mtrl_picker_text_input_date_hint">Ημερομηνία</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ημερομηνία λήξης</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ημερομηνία έναρξης</string>
+    <string name="mtrl_picker_text_input_day_abbr">η</string>
+    <string name="mtrl_picker_text_input_month_abbr">μ</string>
+    <string name="mtrl_picker_text_input_year_abbr">ε</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Εναλλαγή στη λειτουργία εισαγωγής ημερολογίου</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Πατήστε για εναλλαγή για την επιλογή ημέρας</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Εναλλαγή στη λειτουργία εισαγωγής κειμένου</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή για την επιλογή έτους</string>
+    <string name="my_account"><![CDATA[Λογαριασμοί]]></string>
+    <string name="my_collections"><![CDATA[Οι σελιδοδείκτες μου]]></string>
+    <string name="my_downloads"><![CDATA[Οι λήψεις μου]]></string>
+    <string name="my_downloads_placeholder"><![CDATA[Οι λήψειςs\nθα εμφανιστούν εδώ]]></string>
+    <string name="my_library_noitems"><![CDATA[Δεν υπάρχουν στοιχεία στη βιβλιοθήκη.]]></string>
+    <string name="my_profile"><![CDATA[Το προφίλ μου]]></string>
+    <string name="my_publication"><![CDATA[Το έντυπο μου]]></string>
+    <string name="my_publications"><![CDATA[Οι εκδόσεις μου]]></string>
+    <string name="name"><![CDATA[Όνομα]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Άνοιγμα συρταριού πλοήγησης"</string>
+    <string name="navigation_home"><![CDATA[Αρχική σελίδα]]></string>
+    <string name="navigation_more"><![CDATA[Περισσότερα]]></string>
+    <string name="navigation_my_library"><![CDATA[Η βιβλιοθήκη μου]]></string>
+    <string name="nearby_gifts"><![CDATA[Κοντινά δώρα]]></string>
+    <string name="nearby_gifts_description"><![CDATA[Δημιουργήσαμε ένα δίκτυο HotSpots όπου μπορείτε να διαβάσετε και να κατεβάσετε πλήρη θέματα. Αναζητήστε ένα κοντά σας.]]></string>
+    <string name="new_article_view"><![CDATA[Κείμενο στο Έξυπνη ροής]]></string>
+    <string name="new_collection_name"><![CDATA[Ονομα Συλλογής]]></string>
+    <string name="new_comment"><![CDATA[Νέο σχόλιο]]></string>
+    <string name="new_issues_will_be_automatically_downloaded"><![CDATA[Θα γίνει αυτόματη λήψη των νέων εκδόσεων]]></string>
+    <string name="new_password"><![CDATA[Νέος κωδικός πρόσβασης]]></string>
+    <string name="new_post_title_hint"><![CDATA[Τίτλος]]></string>
+    <string name="news"><![CDATA[ΕΙΔΗΣΕΙΣ]]></string>
+    <string name="newsfeed"><![CDATA[Αρχική σελίδα]]></string>
+    <string name="newspaper_details_label"><![CDATA[Τα πιο πρόσφατα τεύχη σας]]></string>
+    <string name="newspapers"><![CDATA[Εφημερίδες]]></string>
+    <string name="newsstand"><![CDATA[Περίπτερο]]></string>
+    <string name="nickname"><![CDATA[Ψευδώνυμο]]></string>
+    <string name="no_radio"><![CDATA[Ραδιόφωνο δεν είναι διαθέσιμη για την έκδοση]]></string>
+    <string msgid="478774118347071097" name="not_set">"Δεν έχει οριστεί"</string>
+    <string name="oem_channels_title"><![CDATA[Τελευταία Νέα]]></string>
+    <string name="oem_empty_feed"><![CDATA[Δεν διατίθενται online θέματα από τις εκδόσεις σας]]></string>
+    <string name="oem_home_choose_publications_text"><![CDATA[Τα πιο πρόσφατα θέματα από τις\nεκδόσεις που ακολουθείτε θα\nεμφανίζονται εδώ]]></string>
+    <string name="oem_onboarding_header"><![CDATA[Ακολουθήστε τις εκδόσεις που θέλετε να διαβάσετε]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[Περισσότερες εκδόσεις]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[Στη συνδρομή σας]]></string>
+    <string name="off"><![CDATA[Ανενεργή]]></string>
+    <string name="offline_item_click_promt"><![CDATA[Η εφαρμογή φαίνεται να είναι εκτός σύνδεσης.]]></string>
+    <string name="on"><![CDATA[Ενεργή]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[Ή]]></string>
+    <string name="onboarding_continue"><![CDATA[Συνέχεια]]></string>
+    <string name="onboarding_done"><![CDATA[Ολοκληρώθηκε]]></string>
+    <string name="onboarding_have_an"><![CDATA[Δεν έχετε λογαριασμό?]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Προσαρμόστε τα ενδιαφέροντά σας]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="online_stories"><![CDATA[Διαδικτυακά θέματα]]></string>
+    <string name="opinion_activity"><![CDATA[Δραστηριότητα]]></string>
+    <string name="opinion_trends"><![CDATA[Τάσεις απόψεων]]></string>
+    <string name="opinions"><![CDATA[Απόψεις]]></string>
+    <string name="order_buy_latest_issue"><![CDATA[Αγορά τελευταίου τεύχους]]></string>
+    <string name="order_buy_this_issue"><![CDATA[Αγοράστε αυτό το τεύχος]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Συμπερίληψη όλων των ένθετων]]></string>
+    <string name="order_latest_issue"><![CDATA[Τρέχον τεύχος]]></string>
+    <string name="order_subscribe"><![CDATA[Αυτόματη παροχή όλων των νέων τευχών]]></string>
+    <string name="other_issues"><![CDATA[Τελευταία τεύχη]]></string>
+    <string name="page_selected"><![CDATA[Επιλέχθηκε 1 σελίδα]]></string>
+    <string name="page_set_saved"><![CDATA[Αποθηκεύτηκε %s]]></string>
+    <string name="page_view"><![CDATA[Προβολή σελίδας]]></string>
+    <string name="pages_selected"><![CDATA[Επιλέχθηκε %s σελίδα]]></string>
+    <string name="password_hint"><![CDATA[Κωδικός πρόσβασης]]></string>
+    <string name="password_recovery"><![CDATA[Ανάκτηση Κωδικού Πρόσβασης]]></string>
+    <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
+    <string name="payment_confirmation_header"><![CDATA[Παρακαλούμε επιβεβαιώστε τις πληροφορίες και πατήστε “Επιβεβαίωση” για την ολοκλήρωση]]></string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_half_yearly_fee"><![CDATA[Εξάμηνη χρέωση:]]></string>
+    <string name="payment_purchase_details"><![CDATA[Στοιχεία Συνδρομητή - Η ΚΑΘΗΜΕΡΙΝΗ ePaper]]></string>
+    <string name="payment_quarterly_fee"><![CDATA[Τριμηνιαία χρέωση:]]></string>
+    <string name="payment_receipt"><![CDATA[Απόδειξη Συνδρομής]]></string>
+    <string name="payment_required"><![CDATA[παιτούμενο]]></string>
+    <string name="payment_yearly_fee"><![CDATA[Ετήσια χρέωση:]]></string>
+    <string name="perf_my_subscriptions"><![CDATA[Οι συνδρομές μου]]></string>
+    <string name="period_daily"><![CDATA[Ημερήσια]]></string>
+    <string name="period_monthly"><![CDATA[Μηνιαία]]></string>
+    <string name="phone_hint"><![CDATA[Αριθμός τηλεφώνου (προαιρετικό)]]></string>
+    <string name="podcasts"><![CDATA[Podcasts]]></string>
+    <string name="popular_opinions"><![CDATA[δημοφιλεισ γνωμοδοτησεισ]]></string>
+    <string name="popular_tags"><![CDATA[δημοφιλεισ ετικέτες]]></string>
+    <string name="post"><![CDATA[Επισυνάπτω]]></string>
+    <string name="postpone_sleep"><![CDATA[Αναβολή της αναστολής]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_autodelivery"><![CDATA[Αυτόματη παροχή]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Να επιτρέπονται οι ενημερώσεις στο παρασκήνιο]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Διαχείριση συνδρομών]]></string>
+    <string name="pref_cleanup"><![CDATA[Κατάργηση θεμάτων]]></string>
+    <string name="pref_dataaccess"><![CDATA[Πρόσβαση δεδομένων]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Να επιτρέπεται η λήψη περιεχομένου μόνο μέσω Wi-Fi]]></string>
+    <string name="pref_feedback"><![CDATA[Σχόλια]]></string>
+    <string name="pref_feedback_moto"><![CDATA[Περιγράψτε το πρόβλημα που αντιμετωπίζετε]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Σχόλια για το %1$s v%2$s από το χρήστη %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Στείλτε μας σχόλια]]></string>
+    <string name="pref_license"><![CDATA[Άδειες ανοιχτού κώδικα]]></string>
+    <string name="pref_license_summary"><![CDATA[Λεπτομέρειες άδειας για λογισμικό ανοιχτού κώδικα]]></string>
+    <string name="pref_storage"><![CDATA[Αποθήκευση δεδομένων]]></string>
+    <string name="pref_storage_summary"><![CDATA[Ρύθμιση παραμέτρων διαθεσιμότητας εσωτερικού χώρου αποθήκευσης]]></string>
+    <string name="pref_subscriptions"><![CDATA[Συνδρομές]]></string>
+    <string name="pref_tips"><![CDATA[PressReader Συμβουλές]]></string>
+    <string name="pref_tips_summary"><![CDATA[Επαναλάβετε εξηγήσεις διεπαφής]]></string>
+    <string name="pref_use_tts"><![CDATA[Μετατροπή κειμένου σε ομιλία Android  ( Text-to-Speech )]]></string>
+    <string name="pref_use_tts_summary"><![CDATA[Χρησιμοποιήστε τη μηχανή μετατροπής κειμένου σε ομιλία της συσκευής σας για ήχο]]></string>
+    <string name="pref_version"><![CDATA[Έκδοση]]></string>
+    <string name="pref_version_caption"><![CDATA[Έκδοση %1$s: \t%2$s]]></string>
+    <string name="prefer_local_server"><![CDATA[Προτιμήστε τον τοπικό διακομιστή]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"Το \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" αντιγράφηκε στο πρόχειρο."</string>
+    <string name="premium_confirmation_continue"><![CDATA[Συνέχεια]]></string>
+    <string name="premium_confirmation_warning"><![CDATA[Βεβαιωθείτε ότι ακυρώνετε την τρέχουσα συνδρομή σας στις ρυθμίσεις του Play Store, στην ενότητα Πληρωμές και συνδρομές του λογαριασμού σας.]]></string>
+    <string name="premium_content"><![CDATA[Premium περιεχόμενο]]></string>
+    <string name="premium_content_partnered"><![CDATA[Έχουμε συνεργαστεί με κορυφαίους εκδότες για να σας παρουσιάσουμε ιστορίες που σας ενδιαφέρουν πραγματικά]]></string>
+    <string name="premium_content_ways"><![CDATA[Λάβετε αυτό το ζήτημα με έναν από τους παρακάτω τρόπους:]]></string>
+    <string name="pressreader_7day_trial_2018_BegunTitle"><![CDATA[Η εγγραφή έγινε.]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationCancel"><![CDATA[Aκύρωση]]></string>
+    <string name="pressreader_7day_trial_2018_list_subscribe"><![CDATA[Εγραφή]]></string>
+    <string name="price"><![CDATA[Τιμή]]></string>
+    <string name="privacy_policy"><![CDATA[Πολιτική Προστασίας Απορρήτου]]></string>
+    <string name="product_find_access"><![CDATA[Βρείτε πρόσβαση με χορηγία]]></string>
+    <string name="product_single_issue"><![CDATA[μία έκδοση]]></string>
+    <string name="product_subscribe_and_save"><![CDATA[Εγγραφείτε και Κερδίστε!]]></string>
+    <string name="products"><![CDATA[Προϊόντα]]></string>
+    <string name="promo_code_hint"><![CDATA[Κωδικός προσφοράς (προαιρετικό)]]></string>
+    <string name="publication_types"><![CDATA[Τύποι]]></string>
+    <string name="publications"><![CDATA[Εφημερίδες]]></string>
+    <string name="purchase_advice"><![CDATA[Συνιστούμε]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Να επιτρέπονται οι ειδοποιήσεις]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Γνωρίστε πότε είναι διαθέσιμα τα πιο πρόσφατα τεύχη και μείνετε ενημερωμένοι για ειδήσεις που σχετίζονται με τα ενδιαφέροντά σας.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Λάβετε ειδοποιήσεις]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Ειδοποιήσεις]]></string>
+    <string name="radio_next_article"><![CDATA[Επόμενη ιστορία]]></string>
+    <string name="radio_next_section"><![CDATA[Επόμενη\nενότητα]]></string>
+    <string name="radio_prev_article"><![CDATA[Προηγ. Ιστορία]]></string>
+    <string name="radio_prev_section"><![CDATA[Προηγ.\nενότητα]]></string>
+    <string name="rate"><![CDATA[Ποσοστό]]></string>
+    <string name="rate_ask_later"><![CDATA[Ερώτηση αργότερα]]></string>
+    <string name="read_newspaper_by_date"><![CDATA[Διαβάστε την εφημερίδα κατά ημερομηνία]]></string>
+    <string name="reading"><![CDATA[Ανάγνωση]]></string>
+    <string name="recently_read"><![CDATA[Διαβάστηκε πρόσφατα]]></string>
+    <string name="recommended"><![CDATA[Προτεινόμενα]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Ποσό πληρωμής:]]></string>
+    <string name="registration_agree_text"><![CDATA[Με την εγγραφή, αποδέχομαι τους <a href=\\"pressreader://terms-of-use\\">Όρους Χρήσης</a> και την <a href=\\"pressreader://privacy\\">Πολιτική απορρήτου</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Πρόσβαση σε προηγούμενα τεύχη:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s ημέρες]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Τιμή ανά τεύχος:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Πρόσβαση στην αναφορά AdValue:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Μέγιστος αριθμός ειδοποιήσεων παρακολούθησης:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Μέγιστος αριθμός αυτόματων λήψεων:]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Μηνιαία χρέωση]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (τιμή με έκπτωση για τον 1ο μήνα, %1$s %3$s από τον 2ο μήνα και εξής)]]></string>
+    <string name="related_stories"><![CDATA[Σχετικά άρθρα]]></string>
+    <string name="remaining_credits"><![CDATA[Υπόλοιπες μονάδες:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d τεύχη]]></string>
+    <string name="remaining_issue"><![CDATA[Σας απομένουν %d τεύχη]]></string>
+    <string name="remaining_issues_title"><![CDATA[Έχετε %d εκκρεμότητες]]></string>
+    <string name="reply"><![CDATA[Απαντώ]]></string>
+    <string name="reset_activation"><![CDATA[Επαναφορά ενεργοποίησης]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Συνδεθείτε ή δημιουργήστε έναν λογαριασμό για να έχετε πρόσβαση στο ιστορικό αγορών σας και να χρησιμοποιήσετε συνδρομές σε πολλές συσκευές. Οι παρούσες αγορές σας θα προστεθούν σε αυτόν τον λογαριασμό.]]></string>
+    <string name="retype_new_password"><![CDATA[Επιβεβαιώστε τον νέο κωδικό πρόσβασης]]></string>
+    <string name="ribbon_free"><![CDATA[ΔΩΡΕΑΝ]]></string>
+    <string name="ribbon_new"><![CDATA[Νέο]]></string>
+    <string name="ribbon_sample"><![CDATA[Δωρεάν δοκιμή]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Χορηγούμενο]]></string>
+    <string name="save_to_collection"><![CDATA[Αποθήκευση στη συλλογή]]></string>
+    <string name="saved_articles"><![CDATA[Αποθηκευμένα άρθρα]]></string>
+    <string name="saved_articles_placeholder"><![CDATA[Τα αποθηκευμένα άρθρα θα εμφανίζονται εδώ]]></string>
+    <string name="search_hotspots"><![CDATA[Αναζήτηση HotSpots]]></string>
+    <string name="search_local_store"><![CDATA[Αναζήτηση έντυπων]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="search_results"><![CDATA[Αποτελέσματα εύρεσης]]></string>
+    <string name="see_all"><![CDATA[Προβολή όλων]]></string>
+    <string name="select_all"><![CDATA[Επιλογή όλων]]></string>
+    <string name="select_from_gallery"><![CDATA[Επιλέξτε από τη συλλογή]]></string>
+    <string name="select_page"><![CDATA[Επιλ. Σελίδα]]></string>
+    <string name="select_product"><![CDATA[Επιλέξτε προϊόν]]></string>
+    <string name="settings_my_account"><![CDATA[Ο λογαριασμός μου]]></string>
+    <string name="settings_profile"><![CDATA[Προφίλ]]></string>
+    <string name="settings_profile_edit"><![CDATA[Επεξεργασία προφίλ]]></string>
+    <string name="show_highlights_full_screen"><![CDATA[Χαρακτηριστικά σε πλήρη οθόνη]]></string>
+    <string name="show_highlights_full_screen_description"><![CDATA[Ενεργοποιήστε ή απενεργοποιήστε τις μπλε επισημάνσεις του άρθρου κατά την ανάγνωση σελίδων. Τα κυριότερα σημεία σάς επιτρέπουν να πατήσετε για να ανοίξετε ιστορίες σε προβολή κειμένου.]]></string>
+    <string name="show_more"><![CDATA[Περισσότερα]]></string>
+    <string name="show_original"><![CDATA[Εμφάνιση πρωτοτύπου]]></string>
+    <string name="sign_in"><![CDATA[Είσοδος]]></string>
+    <string name="sign_in_to_continue"><![CDATA[Συνδεθείτε για να συνεχίσετε την ανάγνωση]]></string>
+    <string name="sign_out"><![CDATA[Εξοδος]]></string>
+    <string name="sign_up"><![CDATA[Εγγραφή]]></string>
+    <string name="sign_up_caption"><![CDATA[Δημιουργήστε έναν λογαριασμό για να αποθηκεύσετε τις εκδόσεις σας και να ξεκινήσετε τη δωρεάν δοκιμαστική περίοδο]]></string>
+    <string name="sign_up_now"><![CDATA[Νέος χρήστης? <a href=\\"pressreader_register://register\\">Νέος χρήστης.</a>]]></string>
+    <string name="sign_up_slogan"><![CDATA[Είναι γρήγορο, εύκολο και δωρεάν.]]></string>
+    <string name="sing_in"><![CDATA[Είσοδος]]></string>
+    <string name="small_grid"><![CDATA[Μικρό πλέγμα]]></string>
+    <string name="smart_zoom"><![CDATA[Έξυπνο Ζουμ]]></string>
+    <string name="smart_zoom_description"><![CDATA[Το SmartZoom σάς επιτρέπει να κάνετε διπλό πάτημα για αυτόματη εστίαση στην αρχή ενός άρθρου.]]></string>
+    <string name="sort_alphabet"><![CDATA[Με αλφαβητική σειρά]]></string>
+    <string name="sorting"><![CDATA[Ταξινόμηση]]></string>
+    <string name="sports"><![CDATA[ΣΠΟΡ]]></string>
+    <string name="start_screen"><![CDATA[Οθόνη έναρξης]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Ξεκινήστε %s σας προσπαθήστε]]></string>
+    <string name="state"><![CDATA[Νομός]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="street"><![CDATA[Οδός]]></string>
+    <string name="subscribe"><![CDATA[Εγγραφή]]></string>
+    <string name="subscribe_to_read"><![CDATA[Εγγραφείτε για ανάγνωση]]></string>
+    <string name="subscription_auto_download_header"><![CDATA[Αυτόματη λήψη νέων τευχών]]></string>
+    <string name="subscription_details"><![CDATA[Συνδρομή]]></string>
+    <string name="subscription_expires_header"><![CDATA[Λήγει]]></string>
+    <string name="subscription_manage"><![CDATA[Διαχείριση συνδρομών]]></string>
+    <string name="subscription_payment_method"><![CDATA[Στοιχεία πληρωμής]]></string>
+    <string name="subscription_plan"><![CDATA[Πλάνο συνδρομής:]]></string>
+    <string name="subscription_plan_header"><![CDATA[Τύποι συνδρομής]]></string>
+    <string name="subscription_plans"><![CDATA[Τύποι συνδρομής]]></string>
+    <string name="subscription_titles_header"><![CDATA[Τίτλοι]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Δεν παραδόσεις πρόγραμμα]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Μπορείτε να προγραμματίσετε την παράδοση στην οθόνη για το θέμα]]></string>
+    <string name="suggestions"><![CDATA[Συστάσεις]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[Ένθετα]]></string>
+    <string name="system_sharing"><![CDATA[Μοιραστείτε το με]]></string>
+    <string name="table_of_contents"><![CDATA[Πίνακας Περιεχομένων]]></string>
+    <string name="take_photo"><![CDATA[Βγάλτε μια φωτογραφία]]></string>
+    <string name="terms_of_use"><![CDATA[Οροι χρήσης]]></string>
+    <string name="text_view"><![CDATA[Προβολή άρθρου]]></string>
+    <string name="theme"><![CDATA[Θέμα ανάγνωσης]]></string>
+    <string name="theme_dark"><![CDATA[Σκοτεινό]]></string>
+    <string name="theme_light"><![CDATA[Ανοιχτή]]></string>
+    <string name="theme_system"><![CDATA[Εφαρμογή στη συσκευή]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[Πατήστε για επαναφορά]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[Τα βέλη δείχνουν τεύχη που είναι έτοιμα για λήψη]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[Λήψη νέου τεύχους]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[Πατήστε για να ανοίξετε την προβολή κειμένου. Πατήστε παρατεταμένα για το μενού]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[Πατήστε παρατεταμένα για ενέργειες άρθρου]]></string>
+    <string name="tips_order_autodelivery_download_when_available"><![CDATA[Αυτόματη λήψη νέων τευχών]]></string>
+    <string name="tips_order_favorites_appear_first"><![CDATA[Αποθήκευση στα αγαπημένα]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[Πατήστε για ειδικές δυνατότητες]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[Πατήστε τον τίτλο ή το πράσινο βέλος για να διαβάσετε ολόκληρο το θέμα]]></string>
+    <string name="toc_page_number"><![CDATA[Σελίδα %s]]></string>
+    <string name="top_free"><![CDATA[Κορυφαία δωρεάν]]></string>
+    <string name="top_free_magazines"><![CDATA[Κορυφαία δωρεάν περιοδικά]]></string>
+    <string name="top_free_newspapers"><![CDATA[Κορυφαίες δωρεάν εφημερίδες]]></string>
+    <string name="top_magazines"><![CDATA[Κορυφαία περιοδικά]]></string>
+    <string name="topnews_important"><![CDATA[Κύρια άρθρα]]></string>
+    <string name="topnews_sections"><![CDATA[Τμήματα]]></string>
+    <string name="translate"><![CDATA[Μετάφραση]]></string>
+    <string name="trial_action"><![CDATA[Ξεκινήστε τη δωρεάν δοκιμαστική περίοδο]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Έχετε ήδη αυτό το προϊόν στον PressReader.]]></string>
+    <string name="trial_subscription"><![CDATA[δωρεάν δοκιμή]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Ξεκλειδώστε 7.000 εφημερίδες και περιοδικά με απεριόριστη ανάγνωση. Δοκιμάστε το δωρεάν για 7 ημέρες.]]></string>
+    <string name="try_for_free"><![CDATA[Δωρεάν δοκιμή]]></string>
+    <string name="types"><![CDATA[Τύποι]]></string>
+    <string name="unlock"><![CDATA[Ξεκλείδωμα]]></string>
+    <string name="unregistered"><![CDATA[Αδήλωτος]]></string>
+    <string name="update_account"><![CDATA[Ενημέρωση λογαριασμού]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ΑΝΕΝΕΡΓΗ"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ΕΝΕΡΓΗ"</string>
+    <string name="view"><![CDATA[Προβολή]]></string>
+    <string name="vs"><![CDATA[έναντι]]></string>
+    <string name="write_comment"><![CDATA[Γράψε ένα σχόλιο]]></string>
+    <string name="you_are_following"><![CDATA[Ακολουθείτε %1$s. Τα πιο πρόσφατα τεύχη και τα online θέματα θα εμφανίζονται στην Αρχική σελίδα]]></string>
+    <string name="you_are_no_longer_following"><![CDATA[Δεν ακολουθείτε πλέον το %1$s.]]></string>
+    <string name="zip"><![CDATA[ΤΚ]]></string>
+</resources>

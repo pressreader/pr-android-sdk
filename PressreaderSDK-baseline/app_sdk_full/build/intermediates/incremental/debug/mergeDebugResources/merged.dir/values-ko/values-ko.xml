@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"내일"</item>
+        <item msgid="2973062968038355991" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>일 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"1시간 후"</item>
+        <item msgid="3705373766798013406" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>시간 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"1분 후"</item>
+        <item msgid="4216113292706568726" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>분 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"1초 후"</item>
+        <item msgid="5495880108825805108" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>초 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"어제"</item>
+        <item msgid="3453342639616481191" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>일 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"1시간 전"</item>
+        <item msgid="6889970745748538901" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>시간 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"1분 전"</item>
+        <item msgid="851164968597150710" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>분 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"1초 전"</item>
+        <item msgid="3699169366650930415" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>초 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1시간"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>시간"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1분"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>분"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1초"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>초"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"내일"</item>
+        <item msgid="5109449375100953247" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>일 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"1시간 후"</item>
+        <item msgid="547290677353727389" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>시간 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"1분 후"</item>
+        <item msgid="3330713936399448749" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>분 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"1초 내"</item>
+        <item msgid="1241926116443974687" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>초 후"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"어제"</item>
+        <item msgid="2479586466153314633" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>일 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"1시간 전"</item>
+        <item msgid="2467273239587587569" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>시간 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"1분 전"</item>
+        <item msgid="2176942008915455116" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>분 전"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"1초 전"</item>
+        <item msgid="3903706804349556379" quantity="other">"<ns1:g id="COUNT">%d</ns1:g>초 전"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">새 알림 %d개</item>
+    <item quantity="other">새 알림 %d개</item>
+  </plurals>
+    <string name="Browse"><![CDATA[탐색]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"홈으로 이동"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"위로 이동"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"추가 옵션"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"완료"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"사용 중지"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"사용"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"스페이스바"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"검색..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"공유 대상:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>과(와) 공유"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="about_hotspots"><![CDATA[핫스팟 소개]]></string>
+    <string name="about_trends"><![CDATA[경향 소개]]></string>
+    <string name="account_created"><![CDATA[귀하의 계정이 생성되었습니다.]]></string>
+    <string name="account_name"><![CDATA[계정 이름]]></string>
+    <string name="account_owner"><![CDATA[이름]]></string>
+    <string name="account_service_name"><![CDATA[서비스 이름]]></string>
+    <string name="account_status"><![CDATA[계정 상태]]></string>
+    <string name="account_updated"><![CDATA[계정 정보 업데이트 완료]]></string>
+    <string name="add_account"><![CDATA[계정 추가]]></string>
+    <string name="add_my_publications"><![CDATA[선호 출처]]></string>
+    <string name="add_opinion"><![CDATA[의견 추가]]></string>
+    <string name="add_opinion_text_sample"><![CDATA[예: 돈이 아니라 사랑을 나누십시오!]]></string>
+    <string name="add_to_collection"><![CDATA[컬렉션에 추가]]></string>
+    <string name="add_video"><![CDATA[동영상 추가]]></string>
+    <string name="advanced_search"><![CDATA[중앙일보 전자신문 고급 검색]]></string>
+    <string name="all"><![CDATA[모두]]></string>
+    <string name="all_downloads"><![CDATA[모두 다운로드]]></string>
+    <string name="article_comments"><![CDATA[%d 개의 댓글]]></string>
+    <string name="article_flow_bookmarks_page_set_page_amount"><![CDATA[%s 페이지]]></string>
+    <string name="article_flow_bookmarks_page_set_pages_amount"><![CDATA[페이지 %s]]></string>
+    <string name="article_homefeed_section_continue_more"><![CDATA[%s 더 보기]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_library"><![CDATA[라이브러리 및 그룹]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[서비스를 선택하십시오]]></string>
+    <string name="authorization_social_signin"><![CDATA[소셜 네트워크 로그인]]></string>
+    <string name="authorization_text"><![CDATA[%s 계정을 사용하여 신문 다운로드]]></string>
+    <string name="authorized_at"><![CDATA[%s에서 성공적으로 인증되었습니다]]></string>
+    <string name="auto"><![CDATA[자동]]></string>
+    <string name="auto_download"><![CDATA[자동 다운로드]]></string>
+    <string name="auto_download_issue_available"><![CDATA[새로운 이슈가 나왔습니다: %s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[새로운 모든 발행물 자동 배달]]></string>
+    <string name="auto_download_new_issues_question"><![CDATA[새로운 모든 발행물 자동 배달]]></string>
+    <string name="auto_renewed"><![CDATA[자동 갱신]]></string>
+    <string name="auto_translate_prompt_button_general_negative"><![CDATA[아니오]]></string>
+    <string name="auto_translate_prompt_button_general_positive"><![CDATA[네]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_negative"><![CDATA[닫기]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_positive"><![CDATA[설정]]></string>
+    <string name="auto_translate_prompt_do_not_show_again"><![CDATA[다시 보지 않기]]></string>
+    <string name="auto_translate_prompt_message_general"><![CDATA[%1$s [arrow] %2$s\n\n본 기능은 언제든지 비활성화 할 수 있습니다.]]></string>
+    <string name="auto_translate_prompt_message_limit_reached"><![CDATA[저장 가능한 최대 언어 개수에 도달하셨습니다. ‘설정’에서 선택된 언어를 관리하실 수 있습니다.]]></string>
+    <string name="auto_translate_prompt_title_general"><![CDATA[다음의 언어에 대한 자동 번역 기능을 활성화 하시겠습니까?]]></string>
+    <string name="auto_translate_prompt_title_limit_reached"><![CDATA[번역 설정]]></string>
+    <string name="back_issue_archive"><![CDATA[이전호 아카이빙]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[무제한]]></string>
+    <string name="balance"><![CDATA[잔여분]]></string>
+    <string name="balance_description"><![CDATA[%2$s 중 %1$s]]></string>
+    <string name="be_the_first_one_to_comment"><![CDATA[첫 댓글을 남기세요]]></string>
+    <string name="billing_information"><![CDATA[결제 정보]]></string>
+    <string name="blog"><![CDATA[블로그]]></string>
+    <string name="book_reader_bookmarks"><![CDATA[북마크]]></string>
+    <string name="book_reader_bookmarks_empty_state"><![CDATA[즐겨찾기 없음]]></string>
+    <string name="book_reader_font_popup_alignment"><![CDATA[정렬]]></string>
+    <string name="book_reader_font_popup_spacing"><![CDATA[줄 간격]]></string>
+    <string name="book_reader_font_popup_theme_color"><![CDATA[테마 색상]]></string>
+    <string name="book_reader_font_popup_title"><![CDATA[글꼴]]></string>
+    <string name="book_reader_get_book"><![CDATA[책 받기]]></string>
+    <string name="book_reader_highlights"><![CDATA[하이라이트]]></string>
+    <string name="book_reader_highlights_empty_state"><![CDATA[하이라이트 없음]]></string>
+    <string name="book_reader_highlights_popup_search"><![CDATA[검색]]></string>
+    <string name="book_reader_no_content_error_message"><![CDATA[다운로드할 콘텐츠가 없습니다.]]></string>
+    <string name="book_reader_page_format"><![CDATA[%1$d 중 %2$d 페이지]]></string>
+    <string name="book_reader_purchase_popup_button"><![CDATA[확인]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[PressReader 웹사이트에서 구매한 책은 동일한 계정 자격 증명을 사용하는 경우 이 앱에서 읽을 수 있습니다.]]></string>
+    <string name="book_reader_purchase_popup_title"><![CDATA[이 책 가져오기]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[더 최근에 본 페이지]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[책을 즐기고 계시다니 기쁩니다! 계속하려면 \'도서 정보\'로 이동하십시오.]]></string>
+    <string name="book_reader_search_hint"><![CDATA[단어 또는 구문 검색]]></string>
+    <string name="book_reader_table_of_content"><![CDATA[지면목록]]></string>
+    <string name="bookmark"><![CDATA[북마크]]></string>
+    <string name="bookmarked"><![CDATA[북마크됨]]></string>
+    <string name="bookmarks"><![CDATA[북마크]]></string>
+    <string name="bookmarks_view_all_bookmarks"><![CDATA[모든 북마크]]></string>
+    <string name="bookmarks_view_empty"><![CDATA[북마크가 여기에 나타납니다.]]></string>
+    <string name="books"><![CDATA[도서]]></string>
+    <string name="books_banner_action"><![CDATA[책 검색]]></string>
+    <string name="books_banner_description"><![CDATA[고품질의 신문, 잡지 및 책이 모두 한 플랫폼에서 제공되는 우주입니다.]]></string>
+    <string name="books_banner_title"><![CDATA[PressReader에서 책 읽기]]></string>
+    <string name="books_catalog_category_error_message"><![CDATA[카테고리별 책 불러오기에 실패했습니다.]]></string>
+    <string name="books_catalog_featured_error_message"><![CDATA[추천 도서 불러오기에 실패했습니다.]]></string>
+    <string name="books_catalog_global_error_message"><![CDATA[책 카탈로그 불러오기에 실패했습니다.]]></string>
+    <string name="books_catalog_just_added_error_message"><![CDATA[방금 추가한 책 불러오기에 실패했습니다.]]></string>
+    <string name="books_catalog_new_releases_error_message"><![CDATA[새로 출시된 책 불러오기에 실패했습니다.]]></string>
+    <string name="books_description_show_less"><![CDATA[접어 보기]]></string>
+    <string name="books_description_show_more"><![CDATA[더보기]]></string>
+    <string name="books_details_brought_by"><![CDATA[에 의해 제공됩니다]]></string>
+    <string name="books_details_button_get_book"><![CDATA[책 받기]]></string>
+    <string name="books_details_button_read"><![CDATA[읽기]]></string>
+    <string name="books_details_get_more_error_message"><![CDATA[더 많은 책 불러오기에 실패했습니다.]]></string>
+    <string name="books_details_isbn"><![CDATA[Isbn]]></string>
+    <string name="books_details_language"><![CDATA[언어]]></string>
+    <string name="books_details_pages"><![CDATA[페이지]]></string>
+    <string name="books_details_publisher"><![CDATA[출판사]]></string>
+    <string name="books_details_released"><![CDATA[출시일]]></string>
+    <string name="books_details_sample"><![CDATA[샘플]]></string>
+    <string name="books_details_seller"><![CDATA[판매처]]></string>
+    <string name="books_details_series_format"><![CDATA[%1$s: 도서 %2$s]]></string>
+    <string name="books_downloading_limit_message"><![CDATA[현 기간 내에 이용 가능한 연속 다운로드 제한에 도달하였습니다. 나중에 다시 시도해 주세요.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[죄송합니다, 이 책은 더 이상 제공되지 않습니다]]></string>
+    <string name="books_license_expired_message"><![CDATA[계속 읽으려면 여행 및 관광 HotSpot 을 방문하여 액세스를 연장하거나 pressreader.com에서 eBook을 구입하세요 (사용 가능한 경우).]]></string>
+    <string name="books_license_expired_title"><![CDATA[HotSpot 찾기]]></string>
+    <string name="books_paid_message"><![CDATA[다른 타이틀을 선택해주세요.]]></string>
+    <string name="books_paid_title"><![CDATA[죄송합니다, 이 제목은 사용할 수 없습니다.]]></string>
+    <string name="bottomsheet_action_expand_halfway">반만 펼치기</string>
+    <string name="browse_catalog"><![CDATA[탐색]]></string>
+    <string name="btn_back"><![CDATA[뒤로]]></string>
+    <string name="btn_cancel"><![CDATA[취소]]></string>
+    <string name="btn_confirm"><![CDATA[승인]]></string>
+    <string name="btn_delete"><![CDATA[지우기]]></string>
+    <string name="btn_download"><![CDATA[다운로드]]></string>
+    <string name="btn_downloading"><![CDATA[다운로드 중]]></string>
+    <string name="btn_font_size"><![CDATA[글자크기]]></string>
+    <string name="btn_listen"><![CDATA[듣기]]></string>
+    <string name="btn_next"><![CDATA[다음]]></string>
+    <string name="btn_no"><![CDATA[아니요]]></string>
+    <string name="btn_ok"><![CDATA[확인]]></string>
+    <string name="btn_page"><![CDATA[페이지]]></string>
+    <string name="btn_retry"><![CDATA[다시 시도]]></string>
+    <string name="btn_send"><![CDATA[보내기]]></string>
+    <string name="btn_share"><![CDATA[공유]]></string>
+    <string name="btn_text_smart"><![CDATA[스마트 흐름]]></string>
+    <string name="btn_unsubscribe"><![CDATA[가입 취소]]></string>
+    <string name="btn_yes"><![CDATA[예]]></string>
+    <string name="bump_it"><![CDATA[좋아요]]></string>
+    <string name="bump_it_counter"><![CDATA[업보트 (%d)]]></string>
+    <string name="bumped"><![CDATA[업보트됨]]></string>
+    <string name="buncle_purchase_error_already_applied"><![CDATA[번들이 이미 적용되었습니다]]></string>
+    <string name="bundle_all_you_can_read_title"><![CDATA[읽을 수 있는 모든 것]]></string>
+    <string name="bundle_cell_footer"><![CDATA[자동 갱신. 언제든 해지 가능.]]></string>
+    <string name="bundle_cell_subtitle"><![CDATA[가입하고 모든 이용 가능한 출판물을 읽으세요.]]></string>
+    <string name="bundle_empty_result"><![CDATA[구독물 없음]]></string>
+    <string name="bundle_footer_text"><![CDATA[요금은 월 반복 기준으로 제공됩니다. 언제든 취소 가능합니다. <br> 월간 구독 요금제를 통해 읽은 모든 이슈에 대해 출판사에 보상을 지불합니다. <a href=\'pressreader://fair-usage\'>공정 사용 정책</a>이 적용됩니다. 모든 요금제는 개인 사용을 목적으로 합니다. 비즈니스 요금은 귀하의 조직의 직원 수를 기준으로 책정됩니다.]]></string>
+    <string name="bundle_price_per_amount_months"><![CDATA[%1$s / %2$s 개월]]></string>
+    <string name="bundle_price_per_bi_week"><![CDATA[%s / 2주마다]]></string>
+    <string name="bundle_price_per_bi_year"><![CDATA[%s / 반년마다]]></string>
+    <string name="bundle_price_per_half_year"><![CDATA[%s / 반년마다]]></string>
+    <string name="bundle_price_per_month"><![CDATA[%s / 월]]></string>
+    <string name="bundle_price_per_quarter"><![CDATA[%s / 분기마다]]></string>
+    <string name="bundle_price_per_week"><![CDATA[%s / 주]]></string>
+    <string name="bundle_price_per_year"><![CDATA[%s / 년]]></string>
+    <string name="bundle_price_save"><![CDATA[(절약 %s)]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[구매 %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[%1$s일 동안 무료로 시도해보세요. \n그 후 %2$s입니다.]]></string>
+    <string name="bundle_product_cancel"><![CDATA[제품 구독을 취소하시겠습니까?]]></string>
+    <string name="bundle_purchase_error_registration_required"><![CDATA[등록이 필요합니다]]></string>
+    <string name="bundle_purchase_error_unknown"><![CDATA[제품을 구매하는 중에 예기치 않은 오류가 발생했습니다. 다시 시도해주세요.]]></string>
+    <string name="bundle_title_subscription_subtitle"><![CDATA[새로운 이슈: %s]]></string>
+    <string name="bundle_title_subscription_title"><![CDATA[%s 구독]]></string>
+    <string name="business"><![CDATA[비지니스]]></string>
+    <string name="calendar_year_chunk_title"><![CDATA[%1$s - %2$s]]></string>
+    <string name="campaign_all_issues_claimed"><![CDATA[청구된 모든 간행물]]></string>
+    <string name="campaign_all_issues_claimed_description"><![CDATA[오 안돼요! 이 모든 간행물은 이미 픽업되었습니다. 핫스팟 중 하나를 방문하면 여전히 무료 간행물을 받을 수 있습니다.]]></string>
+    <string name="categories"><![CDATA[카테고리]]></string>
+    <string name="channel"><![CDATA[채널]]></string>
+    <string name="channel_feed"><![CDATA[채널 피드]]></string>
+    <string name="channel_full_title"><![CDATA[%2$s 에서  %1$s]]></string>
+    <string name="channels"><![CDATA[채널]]></string>
+    <string name="channels_empty_result"><![CDATA[채널을 찾을 수 없습니다]]></string>
+    <string name="channels_other_sources"><![CDATA[다른 출처]]></string>
+    <string name="channels_sources"><![CDATA[모든 소스]]></string>
+    <string name="character_counter_content_description">입력된 글자 %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">글자 수 제한이 초과되었습니다(%1$d/%2$d).</string>
+    <string name="choose_publications"><![CDATA[출판물을 선택하세요.]]></string>
+    <string name="choose_your_plan"><![CDATA[플랜 선택]]></string>
+    <string name="city"><![CDATA[구/군/시]]></string>
+    <string name="cleanup_never"><![CDATA[못]]></string>
+    <string name="clear"><![CDATA[지우기]]></string>
+    <string name="clear_history"><![CDATA[기록 삭제]]></string>
+    <string name="clear_text_end_icon_content_description">텍스트 삭제</string>
+    <string name="client_name_hint"><![CDATA[장치 이름]]></string>
+    <string name="close"><![CDATA[닫기]]></string>
+    <string name="collection_options"><![CDATA[컬렉션 옵션]]></string>
+    <string name="collection_save"><![CDATA[저장]]></string>
+    <string name="collections"><![CDATA[컬렉션]]></string>
+    <string name="collections_empty_result"><![CDATA[컬렉션을 찾을 수 없습니다]]></string>
+    <string name="com_appboy_feed_connection_error_body">네트워크 연결을 할 수 없습니다. 나중에 다시 시도해 주십시오.</string>
+    <string name="com_appboy_feed_connection_error_title">연결 오류</string>
+    <string name="com_appboy_feed_empty">업데이트가 없습니다. 다음에 다시 확인해 주십시오.</string>
+    <string name="comment_post"><![CDATA[포스트]]></string>
+    <string name="comment_post_tip"><![CDATA[의견 공유...]]></string>
+    <string name="comment_url_copied_to_clipboard"><![CDATA[댓글 텍스트가 클립보드에 복사되었습니다]]></string>
+    <string name="commented"><![CDATA[댓글 작성]]></string>
+    <string name="comments"><![CDATA[댓글]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">사용 설정</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 서비스 사용 가능 여부</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">업데이트</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="company_address"><![CDATA[PressReader.com
+200-13111 Vanier Place
+Richmond BC V6V 2J1
+Canada]]></string>
+    <string name="company_hint"><![CDATA[회사 이름(옵션)]]></string>
+    <string name="complete_action_faild"><![CDATA[액션을 완료할 수 없습니다]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[암호 확인]]></string>
+    <string name="confirmation"><![CDATA[확인]]></string>
+    <string name="contact_us"><![CDATA[문의하기]]></string>
+    <string name="continue_reading"><![CDATA[계속 읽기]]></string>
+    <string name="continue_with"><![CDATA[로 계속하세요.]]></string>
+    <string name="copied_to_clipboard"><![CDATA[기사 텍스트는 클립 보드에 복사되었습니다]]></string>
+    <string name="copies_left"><![CDATA[%s 개 사본 남음]]></string>
+    <string msgid="3209159573327985035" name="copy">"복사"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"클립보드에 링크 복사됨"</string>
+    <string name="couldnt_find_any_stories"><![CDATA[이 관심사에 대한 최근 이야기를 찾을 수 없습니다]]></string>
+    <string name="count_pages"><![CDATA[%d 페이지]]></string>
+    <string name="countries"><![CDATA[국가]]></string>
+    <string name="country"><![CDATA[국가]]></string>
+    <string name="crashreport_message"><![CDATA[애플리케이션 충돌이 감지되었습니다.\n프로그램 개발자가 해당 문제를 고칠 수 있도록 이 충돌과 관련된 기술적 데이터를 제공해 주시겠습니까?\n사용자에 대한 민감한 정보는 전송되지 않습니다.]]></string>
+    <string name="create"><![CDATA[생성]]></string>
+    <string name="create_new_collection"><![CDATA[새로운 컬렉션 만들기]]></string>
+    <string name="creating_bookmark"><![CDATA[북마크 생성 중]]></string>
+    <string name="credit_billing_address"><![CDATA[요금 청구 주소]]></string>
+    <string name="credit_card_cvv"><![CDATA[CVV 코드]]></string>
+    <string name="credit_card_expire_month"><![CDATA[만료 월]]></string>
+    <string name="credit_card_expire_year"><![CDATA[만료 연도]]></string>
+    <string name="credit_card_holder"><![CDATA[카드 소유자 이름]]></string>
+    <string name="credit_card_info"><![CDATA[%1$s (%2$d/%3$d 만료)]]></string>
+    <string name="credit_card_number"><![CDATA[신용 카드 번호]]></string>
+    <string name="credit_card_type"><![CDATA[신용 카드]]></string>
+    <string name="credit_card_type_hint"><![CDATA[신용 카드 선택]]></string>
+    <string name="current_location"><![CDATA[현재 위치]]></string>
+    <string name="customer_service"><![CDATA[고객 서비스]]></string>
+    <string name="data_storage_path"><![CDATA[데이터 저장 경로]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[어이쿠! 찾고 있는 것을 찾을 수 없습니다.]]></string>
+    <string name="default_device_name"><![CDATA[내 장치]]></string>
+    <string name="default_storage"><![CDATA[기본 저장 위치]]></string>
+    <string name="delete_account"><![CDATA[계정 삭제]]></string>
+    <string name="delete_comment"><![CDATA[댓글 삭제]]></string>
+    <string name="delete_post_confirmation"><![CDATA[이 기사를 삭제하시겠습니까?]]></string>
+    <string name="deleted_comment"><![CDATA[삭제된 댓글]]></string>
+    <string name="description"><![CDATA[설명]]></string>
+    <string name="deselect_all"><![CDATA[모두 선택 해제]]></string>
+    <string name="device_management_date"><![CDATA[마지막 활동: %s]]></string>
+    <string name="device_management_deauthorize"><![CDATA[인증해제]]></string>
+    <string name="device_management_dialog_message"><![CDATA[이 장치에 대한 승인이 취소됩니다. 이 기기에서 계속 읽으려면 다시 로그인해야합니다.]]></string>
+    <string name="device_management_dialog_title"><![CDATA[인증해제 %s?]]></string>
+    <string name="device_management_this_device"><![CDATA[이 기기]]></string>
+    <string name="dialogs_dlg_confirm_delete_collection"><![CDATA[컬렉션을 삭제하시겠습니까?]]></string>
+    <string name="dialogs_dlg_confirm_delete_comment"><![CDATA[댓글을 삭제하시겠습니까?]]></string>
+    <string name="dialogs_dlg_discard_changes"><![CDATA[변경 사항을 삭제하시겠습니까?]]></string>
+    <string name="discover_gift"><![CDATA[선물 찾기]]></string>
+    <string name="dismiss"><![CDATA[닫기]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[선택한 문서에 대한 오디오 스트리밍을 사용할 수 없습니다.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[기사를 재생하는 동안 오류가 발생했습니다.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[처음으로 시작하는 경우 PressReader를 활성화해야 합니다. 인터넷 연결을 가능하게 하고 PressReader를 다시 시작하십시오.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[서버와 연결이 제한되거나 연결되지 않았습니다.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[%s 등에 대한 지난 발행물 구입을 확인하십시오.]]></string>
+    <string name="dlg_confirm_delete_my_library_selected_items"><![CDATA[라이브러리에서 선택한 모든 아이템을 삭제하시겠습니까?]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[다음에 대한 요금이 계정에 부과됩니다: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[당신의 SD 카드로 모든 다운로드한 신문을 옮기는가?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[SD 카드가 없습니다. 내장 메모리에 뉴스를 저장하시겠습니까?\n\n가용 메모리 : %sMb, 뉴스 한개 당 약 5-50Mb 의 메모리를 차지합니다.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[가입이 정지되어 있습니다. 가입을 갱신하거나 고객 지원부에 문의하십시오.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[이 작업이 성공적으로 수행되도록 이메일 클라이언트를 설치하고 구성하십시오.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[장치에 공간이 없습니다. SD 카드에서 콘텐츠를 제거하십시오.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[발행물 다운로드 완료 시 확대/축소 기능을 사용할 수 있습니다.]]></string>
+    <string name="dlg_opening"><![CDATA[처리하는 중…]]></string>
+    <string name="dlg_processing"><![CDATA[처리하는 중…]]></string>
+    <string name="dlg_show_tips"><![CDATA[한 번 더보기?]]></string>
+    <string name="dlg_title_tip"><![CDATA[팁]]></string>
+    <string name="do_you_want_move_files"><![CDATA[모든 파일을 새 장소로 이동하시겠습니까?]]></string>
+    <string name="documents"><![CDATA[문서]]></string>
+    <string name="dont_ask"><![CDATA[다시 묻지 않음]]></string>
+    <string name="dont_show_this_again"><![CDATA[이 항목을 다시 표시하지 않음]]></string>
+    <string name="download_wifi_only"><![CDATA[Wi-fi일때만 다운로드]]></string>
+    <string name="downloaded"><![CDATA[다운로드 됨]]></string>
+    <string name="downloading_large_file"><![CDATA[대용량 파일 다운로드]]></string>
+    <string name="downloading_new_issue"><![CDATA[새 발행물 다운로드]]></string>
+    <string name="dump_it"><![CDATA[싫어요]]></string>
+    <string name="dump_it_counter"><![CDATA[다운보트 (%d)]]></string>
+    <string name="edit"><![CDATA[수정]]></string>
+    <string name="editions"><![CDATA[지역판]]></string>
+    <string name="editorial"><![CDATA[사설]]></string>
+    <string name="email"><![CDATA[이메일]]></string>
+    <string name="email_address"><![CDATA[이메일 주소]]></string>
+    <string name="email_communication"><![CDATA[이메일 소통 허용:]]></string>
+    <string name="email_communication_account"><![CDATA[서비스(권장)]]></string>
+    <string name="email_communication_account_description"><![CDATA[본인은 자신의 계정 및 PressReader.com 서비스와 관련된 중요한 이메일(예: 내 토픽 및 출판 알림)을 수신하기를 원합니다.]]></string>
+    <string name="email_communication_promo"><![CDATA[프로모션]]></string>
+    <string name="email_communication_promo_description"><![CDATA[예. PressReader.com에 관한 소식, 특별 행사, 설문조사 및 콘테스트에 관한 최신 정보를 알려주십시오.]]></string>
+    <string name="email_communication_title"><![CDATA[이메일 문의]]></string>
+    <string name="email_hint"><![CDATA[이메일 주소]]></string>
+    <string name="error_access_account"><![CDATA[귀하의 PressReader 계정에 접속하는 데 문제가 발생하였습니다]]></string>
+    <string name="error_auhtorize_one_more_time"><![CDATA[다시 한 번 귀하의 계정에 로그인해 주십시오]]></string>
+    <string name="error_bookmark_limit_exceeded"><![CDATA[죄송합니다. 허용된 북마크 수를 초과했습니다.]]></string>
+    <string name="error_bookmark_limit_per_issue_exceeded"><![CDATA[죄송합니다. 이 간행물에 허용된 북마크 수를 초과했습니다.]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[구입을 완료할 수 없습니다.]]></string>
+    <string name="error_connection"><![CDATA[네트워크와의 연결을 설정할 수 없습니다.]]></string>
+    <string name="error_contacting_server"><![CDATA[서버에 연결할 수 없습니다.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[서버에 연결할 수 없습니다. 다시 시도하십시오.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[카드종류와 카드번호가 일치하지 않습니다]]></string>
+    <string name="error_device_authorization"><![CDATA[장치 인증에 실패했습니다.]]></string>
+    <string name="error_dialog_title"><![CDATA[오류]]></string>
+    <string name="error_empty_city"><![CDATA[구/군/시는 필수 항목입니다]]></string>
+    <string name="error_empty_clientname"><![CDATA[장치 이름은 비워둘 수 없습니다.]]></string>
+    <string name="error_empty_confirm"><![CDATA[암호 확인은 필수 입력란입니다]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[CVV 코드는 필수 항목입니다]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[카드 소유자는 필수 항목입니다]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[신용 카드 번호는 필수 항목입니다]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[주소는 필수 항목입니다]]></string>
+    <string name="error_empty_email"><![CDATA[이메일은 필수 입력란입니다]]></string>
+    <string name="error_empty_field"><![CDATA[입력 필수 항목입니다]]></string>
+    <string name="error_empty_first_name"><![CDATA[이름은 필수 입력란입니다]]></string>
+    <string name="error_empty_last_name"><![CDATA[성씨는 필수 입력란입니다]]></string>
+    <string name="error_empty_password"><![CDATA[암호는 비워둘 수 없습니다.]]></string>
+    <string name="error_empty_password2"><![CDATA[암호는 필수 입력란입니다]]></string>
+    <string name="error_empty_phone_number"><![CDATA[전화 번호는 필수 항목입니다]]></string>
+    <string name="error_empty_required"><![CDATA[입력란이 필수 항목입니다]]></string>
+    <string name="error_empty_state"><![CDATA[시/도는 필수 항목입니다]]></string>
+    <string name="error_empty_username"><![CDATA[사용자 이름은 비워둘 수 없습니다.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[우편 번호는 필수 항목입니다]]></string>
+    <string name="error_expiration_date"><![CDATA[잘못된 신용카드 만료일]]></string>
+    <string name="error_externalauth_500"><![CDATA[오류가 발생했습니다. 나중에 다시 시도해 주세요.]]></string>
+    <string name="error_icon_content_description">오류</string>
+    <string name="error_invalid_email"><![CDATA[유효한 이메일 주소가 아닙니다]]></string>
+    <string name="error_issue_is_archive"><![CDATA[아카이브된 간행물은 다운로드가 제한됩니다.]]></string>
+    <string name="error_linked_to_another_account"><![CDATA[이 계정은 이미 사용 중입니다.]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[이 게시물의 파일이 완전하지 않습니다. 이 게시물을 다시 다운로드하십시오.]]></string>
+    <string name="error_network_error"><![CDATA[네트워크 오류]]></string>
+    <string name="error_nickname_exists"><![CDATA[이 닉네임을 사용하는 계정이 이미 존재합니다]]></string>
+    <string name="error_no_internet_connection"><![CDATA[인터넷에 연결되지 않음]]></string>
+    <string name="error_no_internet_connection_description"><![CDATA[Wi-Fi에 연결하거나 PressReader의 셀룰러 데이터를 켜십시오.]]></string>
+    <string name="error_ordering_issue"><![CDATA[해당 발행물을 주문할 수 없습니다. 기술 지원부에 문의하십시오.]]></string>
+    <string name="error_password_required"><![CDATA[비밀번호 입력이 필요합니다]]></string>
+    <string name="error_password_short"><![CDATA[비밀번호가 적어도 6자 이상인지 확인하세요.]]></string>
+    <string name="error_passwords_not_match"><![CDATA[암호가 일치하지 않습니다]]></string>
+    <string name="error_please_reset_activation"><![CDATA[정품 인증을 다시 해 주십시오]]></string>
+    <string name="error_post_empty"><![CDATA[빈 게시물은 게시할 수 없습니다]]></string>
+    <string name="error_problem_internet_connection"><![CDATA[인터넷 연결에 문제가 있는 것 같습니다]]></string>
+    <string name="error_request_access_result_102"><![CDATA[이 발행물을 구매하려면 www.pressdisplay.com에서 유효한 신용 카드 번호를 입력하십시오]]></string>
+    <string name="error_request_access_result_103"><![CDATA[이 발행물을 구매하려면 www.pressdisplay.com에서 유효한 신용 카드 번호를 입력하십시오]]></string>
+    <string name="error_request_access_result_401"><![CDATA[보관된 발행물은 다운로드가 제한됩니다]]></string>
+    <string name="error_request_access_result_410"><![CDATA[선택된 타이틀은 게시자의 요청에 따라 현재 다운로드할 수 없습니다]]></string>
+    <string name="error_request_access_result_411"><![CDATA[선택된 타이틀은 게시자의 요청에 따라 현재 다운로드할 수 없습니다]]></string>
+    <string name="error_request_access_result_420"><![CDATA[현재 콘텐츠는 해당 웹 사이트에 다운로드가 금지되었습니다]]></string>
+    <string name="error_request_access_result_450"><![CDATA[현재 콘텐츠는 해당 위치에서 읽기/다운로드가 금지되었습니다]]></string>
+    <string name="error_request_access_result_451"><![CDATA[현재 콘텐츠는 해당 위치에서 읽기/다운로드가 금지되었습니다]]></string>
+    <string name="error_response_200"><![CDATA[이 이름으로 다른 장치가 해당 계정에서 이미 활성화되었습니다. 다른 장치 이름을 선택하십시오.]]></string>
+    <string name="error_response_201"><![CDATA[이 계정으로 사용할 수있는 기기 수를 초과했습니다. 활성된 기기중 하나를 승인 취소하십시오.]]></string>
+    <string name="error_searching"><![CDATA[죄송합니다, \"%1$s\"에 대한 결과를 찾을 수 없습니다.]]></string>
+    <string name="error_storage_not_available"><![CDATA[SD 스토리지는 사용할 수 없습니다.]]></string>
+    <string name="error_try_again"><![CDATA[다시 시도해주세요.]]></string>
+    <string name="error_tts_not_supported"><![CDATA[안드로이드 텍스트 음성 변환은 지원되지 않습니다. 온라인 라디오 스트리밍으로 전환하세요.]]></string>
+    <string name="error_unexpected_error"><![CDATA[예기치 않은 오류가 발생했습니다.]]></string>
+    <string name="error_update_subscription_change_billing_info"><![CDATA[청구 정보가 오래되거나 불완전합니다]]></string>
+    <string name="error_user_authorization"><![CDATA[인증에 실패했습니다. 사용자 이름 및 암호를 확인하십시오.]]></string>
+    <string name="error_user_name_in_use"><![CDATA[동일한 외부 ID를 가진 프로필을 공유하고 있습니다.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[이 장치는 이미 해당 사용자 식별정보로 인증되었습니다.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[입력하신 프로모션 코드가 올바르지 않습니다]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"고급"</string>
+    <string name="expiration_date"><![CDATA[구독 만료일]]></string>
+    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"링크 복사"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"브라우저에서 열기"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"링크 공유"</string>
+    <string name="featured"><![CDATA[특집? 기획?]]></string>
+    <string name="featured_articles"><![CDATA[특집 기사]]></string>
+    <string name="featured_by"><![CDATA[다음 스폰서에 의해 제공됨]]></string>
+    <string name="financial"><![CDATA[금융]]></string>
+    <string name="first_name_hint"><![CDATA[이름]]></string>
+    <string name="follow"><![CDATA[팔로우]]></string>
+    <string name="followers"><![CDATA[팔로워]]></string>
+    <string name="following"><![CDATA[팔로잉]]></string>
+    <string name="for_hotspot_sponsors_body"><![CDATA[저희의 수 천여곳의 핫스팟을 이용하여 브랜드를 홍보할 수 있는 색다른 기회를 탐색하고자 하는 새로운 파트너를 환영합니다. 더 자세한 내용은 로 문의주세요.]]></string>
+    <string name="for_hotspotsponsors"><![CDATA[핫스팟 스폰서쉽 문의]]></string>
+    <string name="for_publishers"><![CDATA[출판업자용]]></string>
+    <string name="for_publishers_body"><![CDATA[오늘 %1$s 에 가입하세요!\n출판물 시장을 확대하여 더 많은 독자를 확보하고 PressReader만이 제공하는 교차 플랫폼으로 수익을 올릴 수 있는 다양한 기회를 활용하시려면 %2$s 로 저희에게 문의해 주십시오.]]></string>
+    <string name="for_you"><![CDATA[추천]]></string>
+    <string name="for_you_as_start_screen"><![CDATA[For You\'를 시작 화면으로 설정하시겠습니까?]]></string>
+    <string name="forgot_password"><![CDATA[분실된 비밀번호 변경]]></string>
+    <string name="free_magazines"><![CDATA[무료 매거진]]></string>
+    <string name="free_newspapers"><![CDATA[무료 신문]]></string>
+    <string name="free_of_total"><![CDATA[%2$s 중 %1$s 개 무료]]></string>
+    <string name="free_titles_20char_max"><![CDATA[무료 출판물]]></string>
+    <string name="full_sreen_setting"><![CDATA[풀스크린]]></string>
+    <string name="full_sreen_setting_description"><![CDATA[한번의 터치를 통해 풀스크린 모드로 전환가능]]></string>
+    <string name="gathering_logs"><![CDATA[로그 수집 중...]]></string>
+    <string name="general"><![CDATA[기본 정보]]></string>
+    <string name="general_information"><![CDATA[일반 정보]]></string>
+    <string name="genres"><![CDATA[장르]]></string>
+    <string name="get_latest_news_updates_and_new_issue_alerts"><![CDATA[최신 뉴스 업데이트, 이슈 알림 그리고 특별 프로모션에 대한 업데이트를 받으세요]]></string>
+    <string name="get_your_free_copy"><![CDATA[무료 사본 받기]]></string>
+    <string name="gift_campaign_disclaimer"><![CDATA[이 선물을 받으면 PressReader의 이용 약관에 동의하는 것으로 간주됩니다]]></string>
+    <string name="gift_congratulation"><![CDATA[축하합니다! %s의 무료 사본을 받았습니다]]></string>
+    <string name="gift_start_in"><![CDATA[%d 에서 읽기 시작할 수 있습니다.]]></string>
+    <string name="gift_start_reading"><![CDATA[읽기 시작]]></string>
+    <string name="go_premium_issue_subscription_payment_period_every_days"><![CDATA[/%d 일]]></string>
+    <string name="go_premium_issue_subscription_payment_period_months"><![CDATA[/%d 개월]]></string>
+    <string name="go_premium_issue_subscription_payment_period_year"><![CDATA[/년]]></string>
+    <string name="go_premium_start_free_trial"><![CDATA[무료 체험 시작]]></string>
+    <string name="grid"><![CDATA[그리드]]></string>
+    <string name="help_center"><![CDATA[헬프 센터]]></string>
+    <string name="history"><![CDATA[기록]]></string>
+    <string name="home_choose_publications_text"><![CDATA[내가 팔로우한 뉴스,잡지의 최신호가 이곳에 나타납니다]]></string>
+    <string name="hot_zone"><![CDATA[핫스팟]]></string>
+    <string name="hot_zone_description"><![CDATA[스폰서 핫스팟 장소에서 신문과 매거진에 무료 접속하십시오]]></string>
+    <string name="hotspot_content"><![CDATA[핫스팟 컨텐츠]]></string>
+    <string name="hotspot_novisible"><![CDATA[이 지역에는 핫스팟이 없습니다]]></string>
+    <string name="hotspot_off"><![CDATA[꺼짐]]></string>
+    <string name="hotspot_public"><![CDATA[공개]]></string>
+    <string name="hotspot_restricted"><![CDATA[제한]]></string>
+    <string name="hotspothub_title"><![CDATA[핫스팟 지도]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="hotspotmap_more_locations"><![CDATA[%d 개 추가 핫스팟]]></string>
+    <string name="hotspots"><![CDATA[핫스팟]]></string>
+    <string name="hotspots_general"><![CDATA[이 지도를 사용하면 %s에서 좋아하는 수 천개의 출판물에 대한 스폰서 접속이 제공되는 가까운 Wi-Fi 네트워크를 찾을 수 있습니다.]]></string>
+    <string name="hotspots_listheader"><![CDATA[핫스팟은 지도상에서 그룹으로 표시됩니다.\n근처에 있는 다른 핫스팟을 보려면 어둡게 표시된 핀을 클릭하거나 지도를 확대하십시오.]]></string>
+    <string name="icon_content_description">대화상자 아이콘</string>
+    <string name="image_caption_optional"><![CDATA[이미지 캡션]]></string>
+    <string name="include_supplements"><![CDATA[보충 자료 포함]]></string>
+    <string name="information"><![CDATA[정보]]></string>
+    <string name="install_fullversion"><![CDATA[PressReader 설치]]></string>
+    <string name="international"><![CDATA[국제]]></string>
+    <string name="issues"><![CDATA[간행물]]></string>
+    <string name="item_view_role_description">탭</string>
+    <string name="joda_time_android_date_time">%1$s %2$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"<ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"<ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="join_the_discussion"><![CDATA[토론에 참여]]></string>
+    <string name="just_added"><![CDATA[추가됨]]></string>
+    <string name="keep_back_issues"><![CDATA[지난 호 %d 호 보관]]></string>
+    <string name="label_pause"><![CDATA[일시 중지]]></string>
+    <string name="label_play"><![CDATA[재생]]></string>
+    <string name="languages"><![CDATA[언어]]></string>
+    <string name="last_name_hint"><![CDATA[성]]></string>
+    <string name="learn_more"><![CDATA[자세히 알아보기]]></string>
+    <string name="limited_publications_dialog_message"><![CDATA[본 발행호는 %s 까지 볼 수 있습니다.]]></string>
+    <string name="list"><![CDATA[목록]]></string>
+    <string name="load_stories"><![CDATA[스토리 로딩]]></string>
+    <string name="loading_books"><![CDATA[책 로딩중]]></string>
+    <string name="loading_publications"><![CDATA[출판물 로드 중]]></string>
+    <string name="local_store_nothing_found"><![CDATA[검색된 출판물이 없습니다]]></string>
+    <string name="local_store_title"><![CDATA[출판물]]></string>
+    <string name="lock"><![CDATA[잠금]]></string>
+    <string name="login_id"><![CDATA[로그인 아이디]]></string>
+    <string name="magazines"><![CDATA[잡지]]></string>
+    <string name="main_search"><![CDATA[검색]]></string>
+    <string name="main_settings"><![CDATA[설정]]></string>
+    <string name="main_title_and_supplements"><![CDATA[메인 타이틀 및 보충 자료]]></string>
+    <string name="main_title_only"><![CDATA[메인 타이틀만]]></string>
+    <string name="manage"><![CDATA[관리]]></string>
+    <string name="manage_devices"><![CDATA[나의 기기 관리]]></string>
+    <string name="material_clock_toggle_content_description">오전 또는 오후를 선택하세요.</string>
+    <string name="material_hour_selection">시간 선택</string>
+    <string name="material_hour_suffix">%1$s시 정각</string>
+    <string name="material_minute_selection">분 선택</string>
+    <string name="material_minute_suffix">%1$s분</string>
+    <string name="material_timepicker_am">오전</string>
+    <string name="material_timepicker_clock_mode_description">시간 입력을 위해 시계 모드로 전환합니다.</string>
+    <string name="material_timepicker_hour">시간</string>
+    <string name="material_timepicker_minute">분</string>
+    <string name="material_timepicker_pm">오후</string>
+    <string name="material_timepicker_select_time">시간 선택</string>
+    <string name="material_timepicker_text_input_mode_description">시간 입력을 위해 텍스트 입력 모드로 전환합니다.</string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[복사]]></string>
+    <string name="menu_issue_open"><![CDATA[열기]]></string>
+    <string name="menu_issue_read"><![CDATA[읽기]]></string>
+    <string name="minutes"><![CDATA[%d 분]]></string>
+    <string name="minutes_one"><![CDATA[1분]]></string>
+    <string name="monitors"><![CDATA[내 토픽]]></string>
+    <string name="more"><![CDATA[기타]]></string>
+    <string name="more_about"><![CDATA[회사 소개]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="more_send_us_feedback"><![CDATA[피드백 전송]]></string>
+    <string name="more_settings"><![CDATA[설정]]></string>
+    <string name="most_current"><![CDATA[가장 최근]]></string>
+    <string name="most_popular"><![CDATA[가장 인기있는]]></string>
+    <string name="most_recently_published"><![CDATA[가장 최신]]></string>
+    <string name="most_relevant"><![CDATA[가장 관련도 높은]]></string>
+    <string name="mtrl_badge_numberless_content_description">새 알림</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">새 알림 %1$d개 초과</string>
+    <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
+    <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
+    <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">날짜 선택</string>
+    <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
+    <string name="mtrl_picker_day_of_week_column_header">요일 열: %1$s</string>
+    <string name="mtrl_picker_invalid_format">형식이 잘못되었습니다.</string>
+    <string name="mtrl_picker_invalid_format_example">예: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s 사용</string>
+    <string name="mtrl_picker_invalid_range">날짜 범위가 잘못되었습니다.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s년으로 이동</string>
+    <string name="mtrl_picker_out_of_range">%1$s은(는) 범위를 벗어난 날짜입니다.</string>
+    <string name="mtrl_picker_range_header_only_end_selected">시작일~%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s~종료일</string>
+    <string name="mtrl_picker_range_header_selected">%1$s~%2$s</string>
+    <string name="mtrl_picker_range_header_title">기간 선택</string>
+    <string name="mtrl_picker_range_header_unselected">시작일~종료일</string>
+    <string name="mtrl_picker_save">저장</string>
+    <string name="mtrl_picker_text_input_date_hint">날짜</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">종료일</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">시작일</string>
+    <string name="mtrl_picker_text_input_day_abbr">일</string>
+    <string name="mtrl_picker_text_input_month_abbr">월</string>
+    <string name="mtrl_picker_text_input_year_abbr">년</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">캘린더 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_day_selection">탭하여 요일 선택으로 전환</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">텍스트 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_year_selection">탭하여 연도 선택으로 전환</string>
+    <string name="my_account"><![CDATA[계정]]></string>
+    <string name="my_downloads"><![CDATA[나의 다운로드]]></string>
+    <string name="my_library_noitems"><![CDATA[다운로드 된 항목이 없습니다.]]></string>
+    <string name="my_profile"><![CDATA[내 채널]]></string>
+    <string name="my_publications"><![CDATA[내 전자신문]]></string>
+    <string name="name"><![CDATA[구독 제품명]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"위로 이동"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"탐색 창 열기"</string>
+    <string name="navigate_external_link"><![CDATA[이 링크를 클릭하시면 PressReader 외부 웹사이트로 이동하게 됩니다. 이것을 브라우저에서 여시겠습니까?%s]]></string>
+    <string name="navigation_home"><![CDATA[홈]]></string>
+    <string name="navigation_more"><![CDATA[더보기]]></string>
+    <string name="navigation_my_library"><![CDATA[나의 라이브러리]]></string>
+    <string name="nearby_gifts"><![CDATA[근처 선물]]></string>
+    <string name="nearby_gifts_description"><![CDATA[당사는 전체 간행물을 읽고 다운로드할 수 있는 핫스팟 네트워크를 구축했습니다. 가까운 핫스팟을 검색하십시오.]]></string>
+    <string name="new_article_view"><![CDATA[SmartFlow 텍스트]]></string>
+    <string name="new_article_view_description"><![CDATA[텍스트 피드에서 스크롤하여 끊임없이 기사를 읽을 수 있습니다. 번역 기능을 사용하려면 SmartFlow 기능을 활성화시켜 주세요.]]></string>
+    <string name="new_comment"><![CDATA[새 댓글]]></string>
+    <string name="new_issues_will_be_automatically_downloaded"><![CDATA[새 간행물이 자동으로 다운로드되어 귀하의 라이브러리에 추가됩니다.]]></string>
+    <string name="new_post"><![CDATA[새 게시물]]></string>
+    <string name="new_post_text_hint"><![CDATA[여기에서 기사를 작성하십시오.]]></string>
+    <string name="new_post_title_hint"><![CDATA[타이틀]]></string>
+    <string name="new_releases"><![CDATA[최신 발행]]></string>
+    <string name="new_user_header"><![CDATA[더 많은 콘텐츠에 접속하시려면 한 단계의 간단한 등록 절차를 완료해 주시기 바랍니다.]]></string>
+    <string name="news_digest"><![CDATA[뉴스 요약판]]></string>
+    <string name="news_digest_description"><![CDATA[정규 뉴스 및 추천 컨텐츠 요약판을 통해 최신 동향을 업데이트 받으세요]]></string>
+    <string name="newsfeed"><![CDATA[홈 피드]]></string>
+    <string name="newsfeed_as_start_screen"><![CDATA[시작화면을 홈 피드로 하시겠습니까?]]></string>
+    <string name="newsfeed_more_stories"><![CDATA[추가 기사 보기]]></string>
+    <string name="newsfeed_recommended_card_empty"><![CDATA[관심사를 선택하지 않으셨습니다.]]></string>
+    <string name="newsfeed_recommended_card_empty_description"><![CDATA[더 많은 관심사를 추가하여 당신의 독서 경험을 퍼스널라이즈하세요. 당신의 관심사에 보다 적합한 추천을 받을 수 있습니다.]]></string>
+    <string name="newsfeed_recommended_card_halfempty"><![CDATA[스토리를 찾을 수 없습니다.]]></string>
+    <string name="newsfeed_recommended_card_halfempty_action"><![CDATA[관심사를 팔로우하세요.]]></string>
+    <string name="newsfeed_recommended_card_halfempty_description"><![CDATA[더 많은 관심사를 추가하여 당신의 독서 경험을 퍼스널라이즈하세요. 당신의 관심사에 보다 적합한 추천을 받을 수 있습니다.]]></string>
+    <string name="newsfeed_recommended_card_subtitle"><![CDATA[당신의 관심사와 출판물에서 찾아낸 최적의 스토리.]]></string>
+    <string name="newspaper_details_label"><![CDATA[나의 최신 출판물]]></string>
+    <string name="newspapers"><![CDATA[신문]]></string>
+    <string name="newsstand"><![CDATA[신문 판매대]]></string>
+    <string name="nickname"><![CDATA[닉네임]]></string>
+    <string name="no_radio"><![CDATA[라디오는 문제를 해결하기 위해 사용할 수 없습니다]]></string>
+    <string name="no_thanks"><![CDATA[아니요]]></string>
+    <string msgid="478774118347071097" name="not_set">"설정되지 않음"</string>
+    <string name="now_on"><![CDATA[지금]]></string>
+    <string name="oem_empty_feed"><![CDATA[즐겨찾기한 출판물에서 온라인 스토리를 찾을 수 없습니다]]></string>
+    <string name="oem_onboarding_header"><![CDATA[읽고 싶은 출판물을 팔로우하세요]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[더 많은 출판물]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[구독중인 출판물]]></string>
+    <string name="off"><![CDATA[꺼짐]]></string>
+    <string name="offers_and_promotions"><![CDATA[특별 할인 및 프로모션]]></string>
+    <string name="offers_and_promotions_description"><![CDATA[로부터의 특별 할인 및 프로모션 %s]]></string>
+    <string name="on"><![CDATA[설정]]></string>
+    <string name="onboarding_add_interests"><![CDATA[관심사를 추가하세요.]]></string>
+    <string name="onboarding_authorization_email"><![CDATA[이메일]]></string>
+    <string name="onboarding_authorization_facebook"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_google"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_library"><![CDATA[도서관 혹은 그룹 계정]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[혹은]]></string>
+    <string name="onboarding_authorization_sign_in_or_create"><![CDATA[나만의 스토리 혹은 관심사를 저장하기 위해 로그인 혹은 계정 생성]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_humanised"><![CDATA[거의 다 끝났습니다! 계정을 생성하거나 로그인하여 관심사를 저장하세요]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_short"><![CDATA[로그인 혹은 계정 생성]]></string>
+    <string name="onboarding_authorization_skip"><![CDATA[건너뛰기]]></string>
+    <string name="onboarding_choose_interests"><![CDATA[관심사를 선택하세요.]]></string>
+    <string name="onboarding_choose_publications"><![CDATA[출판물 팔로우]]></string>
+    <string name="onboarding_continue"><![CDATA[계속]]></string>
+    <string name="onboarding_done"><![CDATA[완료]]></string>
+    <string name="onboarding_edit_interests"><![CDATA[관심사 편집]]></string>
+    <string name="onboarding_error_searching_interests"><![CDATA[\\"%1$s\\" 에 대한 관심사를 찾지 못했습니다.]]></string>
+    <string name="onboarding_error_searching_publications"><![CDATA[\\"%1$s\\" 에 대한 출판물을 찾지 못했습니다.]]></string>
+    <string name="onboarding_error_text"><![CDATA[컨텐츠를 로딩하는데 에러가 발생했습니다.\n다시 시도해 주세요.]]></string>
+    <string name="onboarding_finished_banner_action"><![CDATA[확인]]></string>
+    <string name="onboarding_finished_banner_text"><![CDATA[읽을수록 프레스리더는 당신의 취향을 배우고 익히게 됩니다.]]></string>
+    <string name="onboarding_finished_banner_title"><![CDATA[준비 완료]]></string>
+    <string name="onboarding_get_started"><![CDATA[시작]]></string>
+    <string name="onboarding_have_an"><![CDATA[계정이 없습니까?]]></string>
+    <string name="onboarding_have_an_account_sign_in"><![CDATA[계정이 없습니까? <a href=\\"pressreader_authorize://authorize\\">로그인</a>]]></string>
+    <string name="onboarding_interest_search_placeholder_1"><![CDATA[여행]]></string>
+    <string name="onboarding_interest_search_placeholder_2"><![CDATA[디자인]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_interests_header"><![CDATA[팔로우하고 싶은 관심사를 선택하시어 당신에게 보다 적합한 뉴스와 기사를 받아보세요.]]></string>
+    <string name="onboarding_intro_text"><![CDATA[%s 이제 당신의\n관심사를 선택하시어 당신에게 보다 \n뉴스와 기사를 추천받아보세요.]]></string>
+    <string name="onboarding_intro_title"><![CDATA[이번 업데이트에서의 새로운 점]]></string>
+    <string name="onboarding_open_banner_text"><![CDATA[관심사를 선택하시어 보다 당신의 관심사에 적절한 신문과 잡지를 추천 받아보세요.]]></string>
+    <string name="onboarding_open_banner_text_humanised"><![CDATA[관심있는 주제를 알려주세요. 당신의 관심사에 딱 맞는 스토리와 신문/잡지를 추천해 드립니다.]]></string>
+    <string name="onboarding_open_banner_title"><![CDATA[당신의 경험을 개선해보세요.]]></string>
+    <string name="onboarding_open_banner_title_humanised"><![CDATA[당신에게는 어떤 스토리들이 중요한가요?]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="onboarding_publications_header"><![CDATA[당신이 좋아할만한 신문과 잡지입니다. 커버를 탭하여 팔로우하세요.]]></string>
+    <string name="onboarding_search_for_interests"><![CDATA[관심사 검색]]></string>
+    <string name="onboarding_search_for_publications"><![CDATA[출판물 검색]]></string>
+    <string name="onboarding_searching_interests"><![CDATA[관심사 검색 중]]></string>
+    <string name="onboarding_searching_publications"><![CDATA[출판물 검색 중]]></string>
+    <string name="onboarding_splash_text"><![CDATA[세계 최고의 신문과 잡지를 탐색해보세요.]]></string>
+    <string name="onboarding_you_can_search_for_things"><![CDATA[다음과 같은 결과를 검색하실 수 있습니다]]></string>
+    <string name="one_column"><![CDATA[1열]]></string>
+    <string name="open_external_browser_hint"><![CDATA[외부 브라우저에서 열기]]></string>
+    <string name="opinion_activity"><![CDATA[활동]]></string>
+    <string name="opinion_leader"><![CDATA[의견 주도자]]></string>
+    <string name="opinion_leaders"><![CDATA[의견 주도자]]></string>
+    <string name="opinion_leaders_empty"><![CDATA[이 영역에는 의견 리더가 없습니다]]></string>
+    <string name="opinion_list_empty"><![CDATA[이 영역에는 의견이 없습니다]]></string>
+    <string name="opinion_trends"><![CDATA[의견 동향]]></string>
+    <string name="opinions"><![CDATA[의견]]></string>
+    <string name="option_leaders_count"><![CDATA[의견 리더 %d 명]]></string>
+    <string name="order_include_all_supplements"><![CDATA[모든 부록 포함]]></string>
+    <string name="order_latest_issue"><![CDATA[최신 간행물]]></string>
+    <string name="order_subscribe"><![CDATA[새로운 모든 발행물 자동 배달]]></string>
+    <string name="order_this_issue"><![CDATA[이 간행물]]></string>
+    <string name="other_issues"><![CDATA[최신호]]></string>
+    <string name="page_set_saved"><![CDATA[저장됨 %s]]></string>
+    <string name="page_view"><![CDATA[페이지뷰]]></string>
+    <string name="password_hint"><![CDATA[암호]]></string>
+    <string name="password_recovery"><![CDATA[분실된 비밀번호 변경]]></string>
+    <string name="password_recovery_description"><![CDATA[가입할 때 사용하신 이메일 주소를 입력해 주세요. 해당 이메일 주소로 비밀번호 재설정에 대한 안내 메일이 발송됩니다.]]></string>
+    <string name="password_recovery_success"><![CDATA[귀하의 이메일로 비밀번호 복구 링크가 전송되었습니다.\n 비밀번호 변경 절차를 완료하려면:/n1. 이메일을 확인합니다. 2. 이메일에 제공된 링크를 따릅니다.]]></string>
+    <string name="password_toggle_content_description">비밀번호 표시</string>
+    <string name="payment_billing_issue"><![CDATA[발행호수:]]></string>
+    <string name="payment_confirmation_header"><![CDATA[정보를 확인하신 다음 완료하시려면 \"확인\"을 클릭하십시오]]></string>
+    <string name="payment_credit_card_city_hint"><![CDATA[PressTown]]></string>
+    <string name="payment_credit_card_holder_hint"><![CDATA[John PressReader]]></string>
+    <string name="payment_credit_card_state_hint"><![CDATA[CA]]></string>
+    <string name="payment_credit_card_street_hint"><![CDATA[123 Main Street]]></string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_months_fee"><![CDATA[%d개월마다(자동 갱신):]]></string>
+    <string name="payment_purchase_details"><![CDATA[구매 정보]]></string>
+    <string name="payment_receipt"><![CDATA[영수증]]></string>
+    <string name="payment_update_cc_info"><![CDATA[신용카드 정보 업데이트]]></string>
+    <string name="paywall_text"><![CDATA[계속 읽으려면 이 간행물을 구입하십시오]]></string>
+    <string name="perf_my_subscriptions"><![CDATA[내 구독]]></string>
+    <string name="period_half_quarterly"><![CDATA[반년마다]]></string>
+    <string name="period_quarterly"><![CDATA[분기별]]></string>
+    <string name="period_yearly"><![CDATA[매년]]></string>
+    <string name="personalize_your_account"><![CDATA[계정 맞춤 설정]]></string>
+    <string name="phone_hint"><![CDATA[전화 번호(옵션)]]></string>
+    <string name="podcasts"><![CDATA[팟캐스트]]></string>
+    <string name="popular_choice"><![CDATA[인기 항목]]></string>
+    <string name="popular_opinions"><![CDATA[인기 의견]]></string>
+    <string name="popular_tags"><![CDATA[인기 태그]]></string>
+    <string name="post"><![CDATA[포스트]]></string>
+    <string name="post_comment_footer"><![CDATA[사진 혹은 영상 추가]]></string>
+    <string name="postpone_sleep"><![CDATA[화면 끄기]]></string>
+    <string name="postpone_sleep_system"><![CDATA[시스템]]></string>
+    <string name="posts"><![CDATA[게시물]]></string>
+    <string name="pref_auto_translate_delete_alert_negative_button"><![CDATA[아니오]]></string>
+    <string name="pref_auto_translate_delete_alert_positive_button"><![CDATA[네]]></string>
+    <string name="pref_auto_translate_delete_alert_title"><![CDATA[이 번역을 지우시겠습니까?]]></string>
+    <string name="pref_auto_translate_disclaimer"><![CDATA[번역 <u>주의사항</u>]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_auto_translate_option"><![CDATA[자동 번역]]></string>
+    <string name="pref_auto_translate_prompt_option"><![CDATA[언어 저장으로 이동]]></string>
+    <string name="pref_auto_translate_summary"><![CDATA[기사 자동 번역 관리.]]></string>
+    <string name="pref_auto_translate_title"><![CDATA[번역 설정]]></string>
+    <string name="pref_auto_translate_translate_auto"><![CDATA[자동 번역 시, 선택된 언어쌍 기억하기.]]></string>
+    <string name="pref_autodelivery"><![CDATA[최신호 자동 다운로드]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[백그라운드 업데이트 허용]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[가입 관리]]></string>
+    <string name="pref_cleanup"><![CDATA[지난호 삭제]]></string>
+    <string name="pref_dataaccess"><![CDATA[데이터 접근]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Wi-Fi 콘텐츠 다운로드만 허용]]></string>
+    <string name="pref_feedback"><![CDATA[피드백]]></string>
+    <string name="pref_feedback_moto"><![CDATA[겪고 계신 문제를 설명해 주세요.]]></string>
+    <string name="pref_feedback_subject"><![CDATA[사용자 %3$s의 %1$s v%2$s에 대한 피드백]]></string>
+    <string name="pref_feedback_summary"><![CDATA[피드백 전송]]></string>
+    <string name="pref_storage"><![CDATA[데이터 저장]]></string>
+    <string name="pref_storage_summary"><![CDATA[내장 스토리지 가용성을 설정합니다]]></string>
+    <string name="pref_subscriptions"><![CDATA[구독플랜]]></string>
+    <string name="pref_tips"><![CDATA[PressReader 활용 팁]]></string>
+    <string name="pref_tips_summary"><![CDATA[인터페이스 설명을 반복]]></string>
+    <string name="pref_use_tts"><![CDATA[텍스트 스피치 전환 가능]]></string>
+    <string name="pref_use_tts_summary"><![CDATA[개인 기기에서 텍스트 스피치 엔진을 사용해, 온라인으로 스트리밍하는 대신 음성으로 들을 수 있습니다.]]></string>
+    <string name="pref_version"><![CDATA[버전]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s 버전: \t%2$s]]></string>
+    <string name="prefer_local_server"><![CDATA[기본 로컬 서버]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"\'<ns1:g id="SUMMARY">%1$s</ns1:g>\'이(가) 클립보드에 복사되었습니다."</string>
+    <string name="premium_confirmation_warning"><![CDATA[현재 계정의 Play 스토어 설정에서 결제 및 구독 섹션에서 반드시 현재 구독을 취소해야 합니다.]]></string>
+    <string name="premium_content"><![CDATA[프리미엄 콘텐츠]]></string>
+    <string name="premium_content_partnered"><![CDATA[당사는 귀하가 관심을 갖고 있는 기사를 제공하기 위해 최고의 출판사와 파트너 관계를 맺었습니다.]]></string>
+    <string name="premium_content_ways"><![CDATA[다음 방법 중 하나를 사용하여 이 간행물을 받으십시오:]]></string>
+    <string name="pressreader_7day_trial_2018_BegunBody"><![CDATA[귀하의 무료 평가판이 시작되었습니다.]]></string>
+    <string name="pressreader_7day_trial_2018_BegunTitle"><![CDATA[모두 완료되었습니다.]]></string>
+    <string name="pressreader_7day_trial_2018_list_description"><![CDATA[무료 {duration}일 평가판]]></string>
+    <string name="pressreader_7day_trial_2018_list_description_date_price"><![CDATA[{start_date}에 시작: {price}/월]]></string>
+    <string name="pressreader_7day_trial_2018_list_subscribe"><![CDATA[구독]]></string>
+    <string name="pressreader_account"><![CDATA[PressReader 계정]]></string>
+    <string name="price"><![CDATA[가격]]></string>
+    <string name="price_duration_month_formatted"><![CDATA[%1$s / %2$s 월]]></string>
+    <string name="price_duration_months_formatted"><![CDATA[%1$s / %2$s 개월]]></string>
+    <string name="price_duration_week_formatted"><![CDATA[%1$s / %2$s 주]]></string>
+    <string name="price_duration_weeks_formatted"><![CDATA[%1$s / %2$s 주]]></string>
+    <string name="price_duration_year_formatted"><![CDATA[%1$s / %2$s 년]]></string>
+    <string name="price_duration_years_formatted"><![CDATA[%1$s / %2$s 년]]></string>
+    <string name="problem_with_subscription_payment_need_to_update_payment_details"><![CDATA[귀하의 구독 결제 정보에 문제가 있습니다. 구독을 계속하기 위해서 결제 정보를 업데이트 해주세요.]]></string>
+    <string name="proceed"><![CDATA[계속]]></string>
+    <string name="product_buy_with_play"><![CDATA[또는 구글 플레이에서 구매]]></string>
+    <string name="product_compare"><![CDATA[플랜 비교하기…]]></string>
+    <string name="product_find_access"><![CDATA[스폰서 액세스 찾기]]></string>
+    <string name="product_footer"><![CDATA[견적 가격은 매월 결제하는 플랜을 기준으로 한 것입니다. 이는 언제든지 취소할 수 있습니다. <br>*월간 구독 플랜을 통해 읽은 모든 서적에 대한 요금은 저희가 출판자에게 지급합니다. <a href=\"pressreader://fair-usage\">공정 사용 정책</a>이 적용됩니다.]]></string>
+    <string name="product_single_issue"><![CDATA[단일호 구매]]></string>
+    <string name="product_subscribe_and_save"><![CDATA[구독하시고 절약하세요!]]></string>
+    <string name="product_unlimited_access"><![CDATA[PressReader 무제한 이용]]></string>
+    <string name="product_unlimited_issues"><![CDATA[열람 가능한 호수 제한 없음*]]></string>
+    <string name="products"><![CDATA[제품]]></string>
+    <string name="profile"><![CDATA[채널]]></string>
+    <string name="promo_code_hint"><![CDATA[프로모션 코드(옵션)]]></string>
+    <string name="publication_files_large"><![CDATA[출판물 파일이 대용량입니다. 추가 데이터 요금이 부과되는 것을 피하시려면 Wi-Fi 연결을 사용하십시오.]]></string>
+    <string name="publication_types"><![CDATA[출판물 유형]]></string>
+    <string name="publications"><![CDATA[탐색]]></string>
+    <string name="publications_catalog_title"><![CDATA[카탈로그 검색]]></string>
+    <string name="publications_menu"><![CDATA[출판물 메뉴 보기]]></string>
+    <string name="publications_stories"><![CDATA[출판물, 스토리 검색]]></string>
+    <string name="publications_stories_interests"><![CDATA[출판물, 스토리, 관심사 검색]]></string>
+    <string name="purchase_advice"><![CDATA[추천 목록]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[알림 허용하기]]></string>
+    <string name="push_notifications_request_description"><![CDATA[최신 이슈가 이용 가능할 때 알고, 관심사와 관련된 뉴스에 대해 최신 정보를 유지하세요.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[알림 받기]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[알림]]></string>
+    <string name="radio_next_article"><![CDATA[다음 스토리]]></string>
+    <string name="radio_next_section"><![CDATA[다음\n섹션]]></string>
+    <string name="radio_prev_article"><![CDATA[이전 스토리]]></string>
+    <string name="radio_prev_section"><![CDATA[이전\n섹션]]></string>
+    <string name="rate_ask_later"><![CDATA[나중에 요청하기]]></string>
+    <string name="rate_body"><![CDATA[%s 를 좋아하신 다면 구글 플레이에서 그것을 평가해 주세요?]]></string>
+    <string name="rate_us"><![CDATA[저희를 평가해 주세요]]></string>
+    <string name="read_newspaper_by_date"><![CDATA[날짜별로 신문 읽기]]></string>
+    <string name="reading"><![CDATA[읽기]]></string>
+    <string name="recently_read"><![CDATA[최근에 읽은 항목]]></string>
+    <string name="region"><![CDATA[지역]]></string>
+    <string name="register_confirmation_rate"><![CDATA[지불 금액:]]></string>
+    <string name="registration_agree_text"><![CDATA[다음\" 버튼을 누르는 것은 <a href=\\"pressreader://terms-of-use\\">사용 약관</a> 및 <a href=\\"pressreader://privacy\\">개인 정보 취급 정책</a>에 동의하는 것입니다]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[지난 발행물에 대한 접근:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s 일]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[발행물당 가격:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[AdValue 보고서에 대한 접근:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[최대 모니터링 경고 수:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[최대 자동 다운로드 수:]]></string>
+    <string name="registration_plan_print_subscriptions"><![CDATA[구독물 인쇄]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* 월별 요금]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (첫 번째 달 할인가격, 두 번째 달 이후로는 정규가격 매월 %1$s %3$s)]]></string>
+    <string name="related_opinions"><![CDATA[관련 의견]]></string>
+    <string name="related_stories"><![CDATA[관련 기사]]></string>
+    <string name="remaining_credits"><![CDATA[남은 크레딧:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d 개 발행물]]></string>
+    <string name="remaining_issues_title"><![CDATA[%d  개의 발행호가 남아있습니다.]]></string>
+    <string name="reply"><![CDATA[답장]]></string>
+    <string name="reset_activation"><![CDATA[인증 재설정]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[구매 기록 열람 및 다수의 기기에서 구독권 이용을 하려면 로그인 혹은 계정 생성을 하세요. 현재 구매 내역은 해당 계정에 추가됩니다.]]></string>
+    <string name="ribbon_free"><![CDATA[무료]]></string>
+    <string name="ribbon_new"><![CDATA[새로운]]></string>
+    <string name="ribbon_sample"><![CDATA[샘플]]></string>
+    <string name="ribbon_sponsored"><![CDATA[후원]]></string>
+    <string name="save_to_collection"><![CDATA[컬럭션에 저장]]></string>
+    <string name="saved_articles"><![CDATA[저장된 기사]]></string>
+    <string name="saved_articles_placeholder"><![CDATA[저장된 기사가 여기에 나타남]]></string>
+    <string name="scroll_back_to_open_menu"><![CDATA[백스크롤하여 메뉴 열기]]></string>
+    <string name="search_discover"><![CDATA[검색 및 찾기]]></string>
+    <string name="search_hotspots"><![CDATA[핫스팟 검색]]></string>
+    <string name="search_local_store"><![CDATA[출판물 검색]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"검색"</string>
+    <string name="search_nocontent_header"><![CDATA[흠, 아무것도 찾지 못했습니다]]></string>
+    <string name="search_nocontent_message"><![CDATA[검색 범위를 넓히거나 나중에 새로운 기사를 다시 확인하십시오.]]></string>
+    <string name="search_opinions"><![CDATA[의견 검색]]></string>
+    <string name="search_results"><![CDATA[검색 결과]]></string>
+    <string name="searching"><![CDATA[검색 중…]]></string>
+    <string name="seconds"><![CDATA[%d 초]]></string>
+    <string name="see_all"><![CDATA[모두 보기]]></string>
+    <string name="select_all"><![CDATA[모두 선택]]></string>
+    <string name="select_from_gallery"><![CDATA[갤러리에서 선택]]></string>
+    <string name="select_page"><![CDATA[페이지 선택]]></string>
+    <string name="select_product"><![CDATA[제품 선택]]></string>
+    <string name="select_start_screen"><![CDATA[시작 화면 선택]]></string>
+    <string name="settings_hotspot_location"><![CDATA[위치 추가]]></string>
+    <string name="settings_hotspot_location_description"><![CDATA[백그라운드에서 WiFi 접속 없이 핫스팟에 접속하기 위해 위치 서비스 활성화]]></string>
+    <string name="settings_my_account"><![CDATA[내 계정]]></string>
+    <string name="settings_profile"><![CDATA[프로필]]></string>
+    <string name="settings_profile_edit"><![CDATA[프로필 수정]]></string>
+    <string name="share_comment"><![CDATA[댓글 공유]]></string>
+    <string name="show_highlights_full_screen"><![CDATA[전체 화면에서 하이라이트]]></string>
+    <string name="show_highlights_full_screen_description"><![CDATA[페이지를 읽는 중 파란색 하이라이트를 켜거나 끌 수 있습니다. 하이라이트를 탭하면 텍스트 뷰에서 이야기를 열 수 있습니다.]]></string>
+    <string name="showing_count_total"><![CDATA[%2$s 중 %1$s 표시]]></string>
+    <string name="sign_in"><![CDATA[로그인]]></string>
+    <string name="sign_in_now"><![CDATA[이미 계정이 있으신가요? <a href=\\"pressreader_authorize://authorize\\">로그인 하세요</a>]]></string>
+    <string name="sign_out"><![CDATA[로그아웃]]></string>
+    <string name="sign_up"><![CDATA[등록하기]]></string>
+    <string name="sign_up_now"><![CDATA[신규 사용자이신가요? <a href=\\"pressreader_register://register\\">지금 계정을 생성하세요.</a>]]></string>
+    <string name="sign_up_slogan"><![CDATA[빠르고 쉬우며 무료입니다]]></string>
+    <string name="similar"><![CDATA[유사한 기사]]></string>
+    <string name="similar_stories"><![CDATA[%d 유사한 스토리]]></string>
+    <string name="sing_in"><![CDATA[로그인]]></string>
+    <string name="sing_in_description"><![CDATA[PressReader 계정으로 언제 어디서나 좋아하는 신문과 잡지를 읽으십시오.]]></string>
+    <string name="small_grid"><![CDATA[작은 그리드]]></string>
+    <string name="smart_zoom"><![CDATA[스마트 줌]]></string>
+    <string name="smart_zoom_description"><![CDATA[더블 터치로 기사를 읽기 좋은 사이즈로 확대합니다.]]></string>
+    <string name="social_and_linked_networks"><![CDATA[소셜 네트워크 및 연동 상태]]></string>
+    <string name="sorry_no_more_filters"><![CDATA[죄송합니다. 더 이상 필터가 없습니다. 하지만 귀하를 위한 몇 가지 훌륭한 채널과 의견을 찾았습니다.]]></string>
+    <string name="sort_alphabet"><![CDATA[알파벳별]]></string>
+    <string name="sorting"><![CDATA[정리]]></string>
+    <string name="start_screen"><![CDATA[시작 화면]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[당신의 %s 시도 시작]]></string>
+    <string name="state"><![CDATA[시/도]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stay_up_to_date"><![CDATA[최신 동향 파악하세요.]]></string>
+    <string name="stories"><![CDATA[스토리]]></string>
+    <string name="street"><![CDATA[주소]]></string>
+    <string name="subscribe"><![CDATA[구독]]></string>
+    <string name="subscription_auto_download_header"><![CDATA[새 간행물 자동 다운로드]]></string>
+    <string name="subscription_billing_date_header"><![CDATA[결제 날짜]]></string>
+    <string name="subscription_cancel"><![CDATA[구독 취소]]></string>
+    <string name="subscription_details"><![CDATA[구독 세부 정보]]></string>
+    <string name="subscription_expires_header"><![CDATA[만료]]></string>
+    <string name="subscription_manage"><![CDATA[구독 관리]]></string>
+    <string name="subscription_no_subscriptions"><![CDATA[구독이 없습니다.]]></string>
+    <string name="subscription_open_title"><![CDATA[신문으로 이동]]></string>
+    <string name="subscription_payment_method"><![CDATA[결제 방법]]></string>
+    <string name="subscription_plan"><![CDATA[가입 플랜:]]></string>
+    <string name="subscription_plan_header"><![CDATA[구독 요금제]]></string>
+    <string name="subscription_plans"><![CDATA[구독플랜]]></string>
+    <string name="subscription_titles_header"><![CDATA[타이틀]]></string>
+    <string name="subscription_trial_subtitle"><![CDATA[무료 액세스]]></string>
+    <string name="subscription_unlimited_subtitle"><![CDATA[무제한 읽기]]></string>
+    <string name="subscriptions_footer"><![CDATA[견적 가격은 매월 결제하는 플랜을 기준으로 한 것입니다. 이는 언제든지 취소할 수 있습니다.]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[예정된 자동 다운로드 없음]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[호별 다운로드/구입 화면에서 설정하실 수 있습니다.]]></string>
+    <string name="suggestions"><![CDATA[제안]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[추가]]></string>
+    <string name="suppliment_count_huge"><![CDATA[%d 추가]]></string>
+    <string name="suppliment_count_one"><![CDATA[%d 추가]]></string>
+    <string name="support_now"><![CDATA[동의]]></string>
+    <string name="supporters"><![CDATA[서포터]]></string>
+    <string name="supporting"><![CDATA[동의함]]></string>
+    <string name="system_sharing"><![CDATA[공유...]]></string>
+    <string name="table_of_contents"><![CDATA[지면목록]]></string>
+    <string name="take_photo"><![CDATA[사진 찍기]]></string>
+    <string name="tell_your_friends"><![CDATA[친구에게도]]></string>
+    <string name="terms_of_use"><![CDATA[이용 약관]]></string>
+    <string name="text_view"><![CDATA[텍스트 뷰]]></string>
+    <string name="theme"><![CDATA[읽기 테마]]></string>
+    <string name="theme_dark"><![CDATA[어두운]]></string>
+    <string name="theme_light"><![CDATA[밝은]]></string>
+    <string name="theme_system"><![CDATA[기기에 맞추기]]></string>
+    <string name="they_can_get_too"><![CDATA[구독할 수 있도록 알려주세요!]]></string>
+    <string name="this_channel_is_private"><![CDATA[이 채널은 비공개입니다]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[되돌리기 하려면 탭하세요]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[화살표는 해당 출판물을 다운로드할 준비가 되었음을 나타냅니다]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[신간 다운로드]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[텍스트 뷰를 열려면 탭하세요]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[문서 액션을 사용하시려면 길게 누르기 하세요]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[특수 기능을 살펴보려면 탭하세요]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[전체 이야기를 읽으시려면 헤드라인이나 녹색 화살표를 탭하세요]]></string>
+    <string name="title_page"><![CDATA[%1$d / %2$d]]></string>
+    <string name="today"><![CDATA[오늘]]></string>
+    <string name="top_free"><![CDATA[인기 무료 자료]]></string>
+    <string name="top_free_magazines"><![CDATA[인기 무료 매거진]]></string>
+    <string name="top_free_newspapers"><![CDATA[인기 무료 신문]]></string>
+    <string name="top_magazines"><![CDATA[인기 매거진]]></string>
+    <string name="top_newspapers"><![CDATA[인기 신문]]></string>
+    <string name="topnews_important"><![CDATA[주요 기사]]></string>
+    <string name="topnews_important_locale"><![CDATA[주요 기사 - %s]]></string>
+    <string name="topnews_interesting"><![CDATA[관심]]></string>
+    <string name="topnews_morenews"><![CDATA[추가 뉴스]]></string>
+    <string name="topnews_morenews_locale"><![CDATA[추가 뉴스 - %s]]></string>
+    <string name="topnews_readerschoice"><![CDATA[독자의 선택]]></string>
+    <string name="topnews_sincelastvisit"><![CDATA[마지막 방문 이후]]></string>
+    <string name="topnews_subtitle"><![CDATA[오늘 가장 중요한 1면 기사.]]></string>
+    <string name="translate"><![CDATA[번역]]></string>
+    <string name="translated_popup_auto_translate"><![CDATA[자동 번역:]]></string>
+    <string name="translated_popup_disclaimer"><![CDATA[번역 <u>주의사항</u>]]></string>
+    <string name="translated_popup_translated_into"><![CDATA[___으로 번역]]></string>
+    <string name="translation_badge_translated"><![CDATA[번역됨]]></string>
+    <string name="translation_badge_translating"><![CDATA[번역]]></string>
+    <string name="trial_banner_details_description_1"><![CDATA[좋아하는 신문과 잡지 무제한 다운로드]]></string>
+    <string name="trial_banner_details_description_2"><![CDATA[오프라인에서 읽을 수 있도록 전체 간행물 저장]]></string>
+    <string name="trial_banner_details_description_3"><![CDATA[좋아하는 타이틀 추가 및 자동 다운로드 설정]]></string>
+    <string name="trial_banner_premium"><![CDATA[PressReader 프리미엄]]></string>
+    <string name="trial_banner_try_trial"><![CDATA[7일 동안 무료로 체험해 보십시오]]></string>
+    <string name="trial_error_eligibility"><![CDATA[이전에 출시 특별 행사를 이용했습니다.\n지금 구독하시겠습니까?]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[PressReader에서 이미 이 제품을 가지고 있습니다.]]></string>
+    <string name="trial_error_eligibility_title"><![CDATA[행운이 있기를!]]></string>
+    <string name="trial_error_eligibility_unlimited"><![CDATA[PressReader에 대한 모든 액세스 권한이 이미 있습니다.]]></string>
+    <string name="trial_error_eligibility_unlimited_start_exploring"><![CDATA[탐색 시작]]></string>
+    <string name="trial_subscription"><![CDATA[무료 시험판]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[모든 타이틀을 잠금 해제하고 무제한 읽기 혜택을 누리십시오.\n7일 동안 무료로 체험해 보십시오.\n언제든지 취소할 수 있습니다.]]></string>
+    <string name="trial_try_premium_title"><![CDATA[무료로 프리미엄 체험하기]]></string>
+    <string name="try_for_free"><![CDATA[무료로 체험하기]]></string>
+    <string name="try_premium"><![CDATA[프리미엄 체험하기]]></string>
+    <string name="try_zooming_different_place"><![CDATA[축소하거나 맵을 다른 장소로 드래그하십시오.]]></string>
+    <string name="tts_playback_rate"><![CDATA[스피치 속도]]></string>
+    <string name="tts_playback_rate_summary"><![CDATA[텍스트를 음성으로 전환해 들을 때 원하는 속도를 지정할 수 있습니다.]]></string>
+    <string name="two_columns"><![CDATA[2열]]></string>
+    <string name="types"><![CDATA[유형]]></string>
+    <string name="unexpected_error"><![CDATA[예기치 않은 오류]]></string>
+    <string name="unexpected_error_description"><![CDATA[죄송합니다! 무언가 잘못되어 조사 중입니다.]]></string>
+    <string name="unfollow"><![CDATA[팔로우 해제]]></string>
+    <string name="unlink"><![CDATA[계정 링크 해제]]></string>
+    <string name="unlock"><![CDATA[잠금 해제]]></string>
+    <string name="unregistered"><![CDATA[게스트]]></string>
+    <string name="update_account"><![CDATA[계정 업데이트]]></string>
+    <string name="update_payment_details"><![CDATA[결제 정보 업데이트]]></string>
+    <string name="userinterests_title"><![CDATA[관심 항목]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"사용 안함"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"사용"</string>
+    <string name="vs"><![CDATA[對]]></string>
+    <string name="what_is_opinion"><![CDATA[의견은 무엇입니까?]]></string>
+    <string name="who_is_opinion_leader"><![CDATA[의견 주도자는 누구입니까?]]></string>
+    <string name="write_comment"><![CDATA[댓글 쓰기]]></string>
+    <string name="yesterday"><![CDATA[어제]]></string>
+    <string name="you_may_be_asked_to_confirm_your_purchase"><![CDATA[구매 확정을 위해서 귀하가 금융기관과 설정한 보안 질문에 답을 해야할 수도 있습니다.]]></string>
+    <string name="zip"><![CDATA[우편 번호]]></string>
+</resources>

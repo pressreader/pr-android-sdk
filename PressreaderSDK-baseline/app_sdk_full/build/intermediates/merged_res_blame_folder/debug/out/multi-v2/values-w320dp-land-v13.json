@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.newspaperdirect.example.samplesdk.app_sdk_full-mergeDebugResources-71:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\victr\\.gradle\\caches\\transforms-3\\3a8ded3a7e4e2cddce7ee0156473533a\\transformed\\material-1.4.0-beta01\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

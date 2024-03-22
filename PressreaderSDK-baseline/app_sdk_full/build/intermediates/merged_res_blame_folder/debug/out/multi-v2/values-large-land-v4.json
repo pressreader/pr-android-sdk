@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.newspaperdirect.example.samplesdk.app_sdk_full-mergeDebugResources-71:/values-large-land-v4/values-large-land-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\victr\\.gradle\\caches\\transforms-3\\63f14c68488e8dea1848a302466f2ca0\\transformed\\jetified-publications-6.6\\res\\values-large-land-v4\\values-large-land-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,141,201",
+                        "endColumns": "85,59,57",
+                        "endOffsets": "136,196,254"
+                    },
+                    "to": {
+                        "startLines": "2,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,369,429",
+                        "endColumns": "85,59,57",
+                        "endOffsets": "136,424,482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\victr\\.gradle\\caches\\transforms-3\\7c6277bfb4969fdaed1441e14d559ce8\\transformed\\jetified-core-6.6\\res\\values-large-land-v4\\values-large-land-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,168,225",
+                        "endColumns": "48,63,56,57",
+                        "endOffsets": "99,163,220,278"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "141,190,254,311",
+                        "endColumns": "48,63,56,57",
+                        "endOffsets": "185,249,306,364"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"завтра"</item>
+        <item msgid="2973062968038355991" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> дн."</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"через 1 час"</item>
+        <item msgid="3705373766798013406" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> ч."</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"через 1 мин."</item>
+        <item msgid="4216113292706568726" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> мин."</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"через 1 с."</item>
+        <item msgid="5495880108825805108" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> с."</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"вчера"</item>
+        <item msgid="3453342639616481191" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> дн. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"1 час назад"</item>
+        <item msgid="6889970745748538901" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> ч. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"1 мин. назад"</item>
+        <item msgid="851164968597150710" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> мин. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"1 сек. назад"</item>
+        <item msgid="3699169366650930415" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> сек. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 ч."</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> ч."</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 мин."</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> мин."</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 сек."</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> сек."</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"завтра"</item>
+        <item msgid="5109449375100953247" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> дн."</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"через 1 час"</item>
+        <item msgid="547290677353727389" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> ч."</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"через 1 минуту"</item>
+        <item msgid="3330713936399448749" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> мин."</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"через 1 секунду"</item>
+        <item msgid="1241926116443974687" quantity="other">"через <ns1:g id="COUNT">%d</ns1:g> с."</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"вчера"</item>
+        <item msgid="2479586466153314633" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> дн. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"1 час назад"</item>
+        <item msgid="2467273239587587569" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> ч. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"1 минуту назад"</item>
+        <item msgid="2176942008915455116" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> мин. назад"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"1 секунду назад"</item>
+        <item msgid="3903706804349556379" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> с. назад"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string name="Browse"><![CDATA[Листать]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_hotspots"><![CDATA[Что такое HotSpot]]></string>
+    <string name="about_trends"><![CDATA[О тенденциях]]></string>
+    <string name="account_created"><![CDATA[Ваша учетная запись успешно создана.]]></string>
+    <string name="account_name"><![CDATA[Учетная запись]]></string>
+    <string name="account_owner"><![CDATA[Владелец учетной записи]]></string>
+    <string name="account_service_name"><![CDATA[Имя сервиса]]></string>
+    <string name="account_status"><![CDATA[Статус пользователя]]></string>
+    <string name="add_account"><![CDATA[Добавить доступ]]></string>
+    <string name="add_my_publications"><![CDATA[Добавить в Мои издания]]></string>
+    <string name="add_opinion"><![CDATA[Добавить мнение]]></string>
+    <string name="add_to_collection"><![CDATA[Добавить в Коллекцию]]></string>
+    <string name="add_video"><![CDATA[Добавить видео]]></string>
+    <string name="advanced_search"><![CDATA[Детальный поиск]]></string>
+    <string name="all"><![CDATA[Все]]></string>
+    <string name="all_downloads"><![CDATA[Все загрузки]]></string>
+    <string name="article_flow_bookmarks_page_set_page_amount"><![CDATA[%s  Страница]]></string>
+    <string name="article_homefeed_section_continue_more"><![CDATA[Еще %s]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Выберите сервис]]></string>
+    <string name="authorization_social_signin"><![CDATA[Вход через соцсети]]></string>
+    <string name="authorization_text"><![CDATA[Если у вас нет имени пользователя и пароля, пожалуйста зарегистрируйтесь для пробного периода на %s]]></string>
+    <string name="authorized_at"><![CDATA[Успешно авторизован в %s]]></string>
+    <string name="auto"><![CDATA[Авто]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Автоматически загрузить все новые выпуски]]></string>
+    <string name="auto_translate_prompt_button_general_negative"><![CDATA[Нет]]></string>
+    <string name="auto_translate_prompt_button_general_positive"><![CDATA[Да]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_negative"><![CDATA[Закрыть]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_positive"><![CDATA[Настройки]]></string>
+    <string name="auto_translate_prompt_do_not_show_again"><![CDATA[Не показывать больше]]></string>
+    <string name="auto_translate_prompt_message_general"><![CDATA[%1$s [arrow] %2$s\n\nВы можете выключить это в любой момент.]]></string>
+    <string name="auto_translate_prompt_message_limit_reached"><![CDATA[Вы достигли максимального числа сохраненных пар языков. Откройте Настройки для изменения выбранных языков.]]></string>
+    <string name="auto_translate_prompt_title_general"><![CDATA[Включить автоматический перевод для этих языков?]]></string>
+    <string name="auto_translate_prompt_title_limit_reached"><![CDATA[Предпочтения перевода]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[неограничено]]></string>
+    <string name="balance"><![CDATA[Баланс]]></string>
+    <string name="balance_description"><![CDATA[%1$s из %2$s]]></string>
+    <string name="billing_information"><![CDATA[Информация по платежу]]></string>
+    <string name="blog"><![CDATA[Блог]]></string>
+    <string name="book_reader_bookmarks"><![CDATA[Закладки]]></string>
+    <string name="book_reader_bookmarks_empty_state"><![CDATA[Пока нет выдержек]]></string>
+    <string name="book_reader_font_popup_alignment"><![CDATA[Выравнивание]]></string>
+    <string name="book_reader_font_popup_spacing"><![CDATA[Межстрочный интервал]]></string>
+    <string name="book_reader_font_popup_theme_color"><![CDATA[Цветовая тема]]></string>
+    <string name="book_reader_font_popup_title"><![CDATA[Шрифты]]></string>
+    <string name="book_reader_get_book"><![CDATA[Получить книгу]]></string>
+    <string name="book_reader_highlights"><![CDATA[Выдержки]]></string>
+    <string name="book_reader_highlights_empty_state"><![CDATA[Пока нет выдержек]]></string>
+    <string name="book_reader_highlights_popup_search"><![CDATA[Поиск]]></string>
+    <string name="book_reader_no_content_error_message"><![CDATA[Нет контента для загрузки]]></string>
+    <string name="book_reader_page_format"><![CDATA[Страница %1$d из %2$d]]></string>
+    <string name="book_reader_purchase_popup_button"><![CDATA[Продолжить]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Книги, приобретенные на веб-сайте PressReader, становятся доступными для чтения в этом приложении при условии использования тех же учетных данных.]]></string>
+    <string name="book_reader_purchase_popup_title"><![CDATA[Получить эту книгу]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Более недавняя прочитанная страница]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Нам очень приятно, что вам нравится книга! Чтобы продолжить ваше приключение, перейдите сейчас к \'Подробностям о книге\'.]]></string>
+    <string name="book_reader_search_hint"><![CDATA[Искать слово или фразу]]></string>
+    <string name="book_reader_table_of_content"><![CDATA[Содержание]]></string>
+    <string name="bookmark"><![CDATA[Закладка]]></string>
+    <string name="bookmarked"><![CDATA[Добавлено в закладки]]></string>
+    <string name="bookmarks"><![CDATA[Закладки]]></string>
+    <string name="bookmarks_view_all_bookmarks"><![CDATA[Все закладки]]></string>
+    <string name="bookmarks_view_empty"><![CDATA[Закладки будут показаны тут]]></string>
+    <string name="books"><![CDATA[Книги]]></string>
+    <string name="books_banner_action"><![CDATA[Просматривайте Книги]]></string>
+    <string name="books_banner_description"><![CDATA[Вселенная высококачественных газет, журналов и книг, все на одной платформе.]]></string>
+    <string name="books_banner_title"><![CDATA[Читать книги на PressReader]]></string>
+    <string name="books_catalog_category_error_message"><![CDATA[Не удалось загрузить книги по рубрикам]]></string>
+    <string name="books_catalog_featured_error_message"><![CDATA[Не удалось загрузить выкладку]]></string>
+    <string name="books_catalog_global_error_message"><![CDATA[Не удалось загрузить каталог книг]]></string>
+    <string name="books_catalog_just_added_error_message"><![CDATA[Не удалось загрузить недавно добавленные в каталог]]></string>
+    <string name="books_catalog_new_releases_error_message"><![CDATA[Не удалось загрузить свежие релизы]]></string>
+    <string name="books_description_show_less"><![CDATA[Показать меньше]]></string>
+    <string name="books_description_show_more"><![CDATA[Показать больше]]></string>
+    <string name="books_details_brought_by"><![CDATA[Представлено]]></string>
+    <string name="books_details_button_get_book"><![CDATA[Получить Kнигу]]></string>
+    <string name="books_details_button_read"><![CDATA[Читать]]></string>
+    <string name="books_details_get_more_error_message"><![CDATA[Не удалось загрузить больше книг]]></string>
+    <string name="books_details_isbn"><![CDATA[ISBN]]></string>
+    <string name="books_details_pages"><![CDATA[Страницы]]></string>
+    <string name="books_details_publisher"><![CDATA[Издатель]]></string>
+    <string name="books_details_released"><![CDATA[Выпущено]]></string>
+    <string name="books_details_sample"><![CDATA[Пример]]></string>
+    <string name="books_details_seller"><![CDATA[Продавец]]></string>
+    <string name="books_details_series_format"><![CDATA[%1$s: Книга %2$s]]></string>
+    <string name="books_downloading_limit_message"><![CDATA[Вы достигли максимального числа загрузок в этом периоде, попробуйте позже]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Извините, эта книга больше не доступна]]></string>
+    <string name="books_license_expired_message"><![CDATA[Для продолжения чтения, перейдите в точку HotSpot для путешествий и туризма, чтобы продлить доступ, или приобретите свою электронную книгу (по возможности) на pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Найти точку HotSpot]]></string>
+    <string name="books_paid_title"><![CDATA[Извините, этот заголовок недоступен.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="breaking_news"><![CDATA[Последние новости]]></string>
+    <string name="brought_to_you_by"><![CDATA[Расширенный доступ к изданиям предлагает]]></string>
+    <string name="browse_catalog"><![CDATA[Листать каталог]]></string>
+    <string name="btn_back"><![CDATA[Назад]]></string>
+    <string name="btn_cancel"><![CDATA[Отменить]]></string>
+    <string name="btn_confirm"><![CDATA[Подтвердить]]></string>
+    <string name="btn_delete"><![CDATA[Удалить]]></string>
+    <string name="btn_download"><![CDATA[Загрузить]]></string>
+    <string name="btn_downloading"><![CDATA[Загружается]]></string>
+    <string name="btn_font_size"><![CDATA[Размер шрифта]]></string>
+    <string name="btn_listen"><![CDATA[Прослушать]]></string>
+    <string name="btn_next"><![CDATA[Далее]]></string>
+    <string name="btn_no"><![CDATA[Нет]]></string>
+    <string name="btn_ok"><![CDATA[ОК]]></string>
+    <string name="btn_page"><![CDATA[Страница]]></string>
+    <string name="btn_retry"><![CDATA[Повторить]]></string>
+    <string name="btn_send"><![CDATA[Отправить]]></string>
+    <string name="btn_share"><![CDATA[Поделиться статьей]]></string>
+    <string name="btn_text_smart"><![CDATA[SmartFlow]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Отписаться]]></string>
+    <string name="btn_yes"><![CDATA[Да]]></string>
+    <string name="bump_it"><![CDATA[Соглашусь]]></string>
+    <string name="bumped"><![CDATA[Проголосовано]]></string>
+    <string name="bundle_price_per_amount_months"><![CDATA[%1$s / %2$s месяц(а/ев)]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Купить %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Попробуйте бесплатно в течение %1$s дней \nЗатем %2$s.]]></string>
+    <string name="categories"><![CDATA[Рубрики]]></string>
+    <string name="channel"><![CDATA[Канал]]></string>
+    <string name="channels"><![CDATA[Каналы]]></string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="choose_publications"><![CDATA[Выберите издания]]></string>
+    <string name="choose_your_plan"><![CDATA[Выберите тариф]]></string>
+    <string name="city"><![CDATA[Город]]></string>
+    <string name="cleanup_never"><![CDATA[Никогда]]></string>
+    <string name="clear"><![CDATA[Очистить]]></string>
+    <string name="clear_history"><![CDATA[Сбросить историю]]></string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string name="client_name_hint"><![CDATA[Имя устройства]]></string>
+    <string name="close"><![CDATA[Закрыть]]></string>
+    <string name="collection_options"><![CDATA[Настройки Коллекции]]></string>
+    <string name="collection_save"><![CDATA[Сохранить]]></string>
+    <string name="collections"><![CDATA[Коллекции]]></string>
+    <string name="com_appboy_feed_connection_error_body">Невозможно установить сетевое подключение. Пожалуйста, повторите попытку позже.</string>
+    <string name="com_appboy_feed_connection_error_title">Ошибка подключения</string>
+    <string name="com_appboy_feed_empty">Обновления недоступны. Пожалуйста, проверьте снова позже.</string>
+    <string name="comment_post"><![CDATA[Статья]]></string>
+    <string name="commented"><![CDATA[Прокомментировано]]></string>
+    <string name="comments"><![CDATA[Комментариев]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Включить</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Обновить</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="company_hint"><![CDATA[Компания (дополнительно)]]></string>
+    <string name="complete_action_faild"><![CDATA[Не получается завершить действие]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Подтвердите пароль]]></string>
+    <string name="confirmation"><![CDATA[Подтверждение]]></string>
+    <string name="continue_reading"><![CDATA[Продолжить чтение]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Текст статьи скопирован в буфер обмена]]></string>
+    <string msgid="3209159573327985035" name="copy">"Копировать"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Ссылка скопирована в буфер обмена."</string>
+    <string name="countries"><![CDATA[Страны]]></string>
+    <string name="country"><![CDATA[Страна]]></string>
+    <string name="crashreport_message"><![CDATA[Предыдущая сессия приложения завершилась аварийно.\nХотите ли Вы переслать разработчику технические данные об ошибке?\nОтправляеются исключительно данные этой программы, без частной информации.]]></string>
+    <string name="create"><![CDATA[Создать]]></string>
+    <string name="create_new_collection"><![CDATA[Добавить новую коллекцию]]></string>
+    <string name="credit_billing_address"><![CDATA[Адрес выставления счета]]></string>
+    <string name="credit_card_cvv"><![CDATA[Проверочный код]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Месяц окончания действия]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Год окончания действия]]></string>
+    <string name="credit_card_holder"><![CDATA[Имя держателя карты]]></string>
+    <string name="credit_card_number"><![CDATA[Номер кредитной карты]]></string>
+    <string name="credit_card_type"><![CDATA[Кредитная карта]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Выбор кредитной карты]]></string>
+    <string name="current_location"><![CDATA[Текущая позиция]]></string>
+    <string name="current_password"><![CDATA[Пароль]]></string>
+    <string name="decrease_font"><![CDATA[Уменьшить шрифт]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ой! Мы не смогли найти то, что вы ищете.]]></string>
+    <string name="default_device_name"><![CDATA[Мое устройство]]></string>
+    <string name="delete_account"><![CDATA[Удалить Учетную запись]]></string>
+    <string name="deleted_comment"><![CDATA[Удаленный комментарий]]></string>
+    <string name="description"><![CDATA[Описание]]></string>
+    <string name="deselect_all"><![CDATA[Снять выделение]]></string>
+    <string name="device_management_date"><![CDATA[Последний активный: %s]]></string>
+    <string name="device_management_deauthorize"><![CDATA[Отключить]]></string>
+    <string name="device_management_dialog_message"><![CDATA[Авторизация этого устройства была отозвана. Пожалуйста, войдите заново.]]></string>
+    <string name="device_management_dialog_title"><![CDATA[Отключить %s?]]></string>
+    <string name="device_management_this_device"><![CDATA[Это устройство]]></string>
+    <string name="discover_gift"><![CDATA[Найти подарочный доступ]]></string>
+    <string name="dismiss"><![CDATA[Закрыть]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Аудиоданные для выбранной статьи недоступны.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Произошла ошибка во время показа статьи.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Перед первым использованием приложение PressReader должно быть активировано. Убедитесь в наличии подключения к интернету и запустите программу еще раз.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Отсутствует соединение с сервером.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Да, я хочу приобрести этот выпуск за %s.]]></string>
+    <string name="dlg_confirm_delete_my_library_selected_items"><![CDATA[Удалить выделенные объекты?]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[С вашего счета будет снято: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Переместить все загруженные газеты на SD-карту?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[SD-карта не найдена. Использовать для хранения газет внутреннюю память?\n\nДоступно памяти: %s МБ, для хранения одной газеты требуется 5–50 МБ.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Неактивная подписка. Обновите подписку или свяжитесь со службой поддержки клиентов.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Для пользования данной функцией - установите и настройте почтовую программу.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[В устройстве закончилось свободное пространство. Очистите SD-карту.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Приближение возможно только после полной загрузки выпуска.]]></string>
+    <string name="dlg_opening"><![CDATA[Открываем…]]></string>
+    <string name="dlg_processing"><![CDATA[Работаем…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Показать еще раз?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Совет]]></string>
+    <string name="documents"><![CDATA[Документы]]></string>
+    <string name="dont_ask"><![CDATA[Больше не спрашивать]]></string>
+    <string name="downloaded"><![CDATA[Загружено]]></string>
+    <string name="downloading_new_issue"><![CDATA[Загрузка новых выпусков]]></string>
+    <string name="dump_it"><![CDATA[Возражаю]]></string>
+    <string name="dump_it_counter"><![CDATA[Против (%d)]]></string>
+    <string name="edit"><![CDATA[Редактировать]]></string>
+    <string name="email"><![CDATA[Электронная почта]]></string>
+    <string name="email_address"><![CDATA[Адрес электронной почты]]></string>
+    <string name="email_communication"><![CDATA[Разрешить связь по электронной почте:]]></string>
+    <string name="email_communication_account"><![CDATA[Технические уведомления (рекомендуется)]]></string>
+    <string name="email_communication_promo"><![CDATA[Обновления продукта]]></string>
+    <string name="email_communication_title"><![CDATA[Уведомления по электронной почте]]></string>
+    <string name="email_hint"><![CDATA[Адрес электронной почты]]></string>
+    <string name="enter_or_paste_url"><![CDATA[Вставьте адрес URL]]></string>
+    <string name="error_access_account"><![CDATA[Проблема с доступом к вашей учетной записи]]></string>
+    <string name="error_access_not_available"><![CDATA[Вы не можете войти на этом устройстве]]></string>
+    <string name="error_auhtorize_one_more_time"><![CDATA[Пожалуйста, войдите еще раз]]></string>
+    <string name="error_bookmark_limit_exceeded"><![CDATA[К сожалению, вы достигли предельного числа допустимых для этого выпуска закладок.]]></string>
+    <string name="error_bookmark_limit_per_issue_exceeded"><![CDATA[К сожалению, вы достигли предельного числа допустимых для этого выпуска закладок.]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Ошибка завершения покупки.]]></string>
+    <string name="error_connection"><![CDATA[Подключение к интернету не получилось.]]></string>
+    <string name="error_contacting_server"><![CDATA[Ошибка подключения к серверу.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Ошибка подключения к серверу. Попробуйте еще раз.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Тип кредитной карты не соответствует номеру кредитной карты]]></string>
+    <string name="error_device_authorization"><![CDATA[Авторизация устройства не получилась.]]></string>
+    <string name="error_dialog_title"><![CDATA[Ошибка]]></string>
+    <string name="error_email_exists"><![CDATA[Пользователь с таким адресом уже зарегистрирован.]]></string>
+    <string name="error_empty_city"><![CDATA[Необходимо ввести город]]></string>
+    <string name="error_empty_clientname"><![CDATA[Имя устройства не может быть пустым.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Необходимо подтвердить пароль]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[Необходимо ввести проверочный код]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Необходимо ввести имя держателя карты]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Необходимо ввести номер кредитной карты]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Необходимо ввести улицу]]></string>
+    <string name="error_empty_email"><![CDATA[Необходимо ввести адрес электронной почты]]></string>
+    <string name="error_empty_field"><![CDATA[Это поле не может быть пустым]]></string>
+    <string name="error_empty_first_name"><![CDATA[Необходимо ввести имя]]></string>
+    <string name="error_empty_last_name"><![CDATA[Необходимо ввести фамилию]]></string>
+    <string name="error_empty_password"><![CDATA[Пароль не может быть пустым.]]></string>
+    <string name="error_empty_password2"><![CDATA[Необходимо ввести пароль]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Необходимо ввести номер телефона]]></string>
+    <string name="error_empty_required"><![CDATA[Поле является обязательным]]></string>
+    <string name="error_empty_state"><![CDATA[Необходимо ввести регион]]></string>
+    <string name="error_empty_username"><![CDATA[Имя не должно быть пустым.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Необходимо ввести почтовый индекс]]></string>
+    <string name="error_expiration_date"><![CDATA[Неверный срок действия карты]]></string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="error_invalid_email"><![CDATA[Необходимо использовать действительный адрес эл. почты]]></string>
+    <string name="error_issue_is_archive"><![CDATA[Архивные выпуски ограничены для загрузки]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Файлы для этой публикации загружены не полностью. Попробуйте загрузить данную публикацию еще раз.]]></string>
+    <string name="error_network_error"><![CDATA[Ошибка сети]]></string>
+    <string name="error_ordering_issue"><![CDATA[Ошибка заказа выпуска. Свяжитесь со службой технической поддержки.]]></string>
+    <string name="error_password_required"><![CDATA[Требуется поле паролей]]></string>
+    <string name="error_password_short"><![CDATA[Пароль должен быть не менее 6 знаков.]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Пароль не совпадает]]></string>
+    <string name="error_please_reset_activation"><![CDATA[Пожалуйста, обновите активацию]]></string>
+    <string name="error_problem_internet_connection"><![CDATA[Проблема со связью с сервером]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Чтобы купить данный выпуск, введите действительный номер кредитной карты на странице www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Чтобы купить данный выпуск, введите действительный номер кредитной карты на странице www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Архивные выпуски ограничены для загрузки]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Выбранный выпуск в настоящее время недоступен для загрузки по запросу издателя]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Выбранный выпуск в настоящее время недоступен для загрузки по запросу издателя]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Это содержимое запрещено для загрузки на данном веб-сайте]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Это содержимое запрещено для чтения/загрузки из текущего местоположения]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Это содержимое запрещено для чтения/загрузки из текущего местоположения]]></string>
+    <string name="error_response_200"><![CDATA[Другое устройство с таким же именем уже активировано для данного пользователя. Выберите другое имя устройства.]]></string>
+    <string name="error_response_201"><![CDATA[Вы превысили число устройств, которые можно использовать с этой учетной записью. Пожалуйста, выйдите на другом устройстве.]]></string>
+    <string name="error_storage_not_available"><![CDATA[SD-карта недоступна.]]></string>
+    <string name="error_try_again"><![CDATA[Попробуйте еще]]></string>
+    <string name="error_user_authorization"><![CDATA[Авторизация не удалась. Пожалуйста проверьте логин и пароль.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Устройство с данным именем и паролем уже было активировано.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Введен неправильный промо-код]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Дополнительно"</string>
+    <string name="expiration_date"><![CDATA[Срок действия]]></string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Копировать ссылку"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Открыть в браузере"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Отправить ссылку"</string>
+    <string name="featured"><![CDATA[В фокусе]]></string>
+    <string name="featured_articles"><![CDATA[В фокусе]]></string>
+    <string name="featured_by"><![CDATA[Рекомендации]]></string>
+    <string name="first_name_hint"><![CDATA[Имя]]></string>
+    <string name="follow"><![CDATA[Подписаться]]></string>
+    <string name="following"><![CDATA[Вы подписаны]]></string>
+    <string name="for_hotspot_sponsors_body"><![CDATA[Мы приглашаем новых партнеров обсудить, как предоставление доступа к нашим изданиям может улучшить ваши отношения с клиентами. Напишите нам на.]]></string>
+    <string name="for_hotspotsponsors"><![CDATA[Для спонсоров HotSpot]]></string>
+    <string name="for_publishers"><![CDATA[Издателям]]></string>
+    <string name="for_publishers_body"><![CDATA[Присоединитесь к %1$s сегодня!\nНапишите нам на %2$s, чтобы обсудить потенциал увеличения вашего охвата и доходов с помощью уникальным кросс-платформенных решений PressReader!]]></string>
+    <string name="for_you"><![CDATA[Для тебя]]></string>
+    <string name="forgot_password"><![CDATA[Восстановление забытого пароля?]]></string>
+    <string name="free_magazines"><![CDATA[Бесплатные журналы]]></string>
+    <string name="free_newspapers"><![CDATA[Бесплатные газеты]]></string>
+    <string name="free_titles_20char_max"><![CDATA[Бесплатные издания]]></string>
+    <string name="full_sreen_setting"><![CDATA[Полный экран]]></string>
+    <string name="full_sreen_setting_description"><![CDATA[Однократное нажатие переключает полноэкранный режим]]></string>
+    <string name="general"><![CDATA[Общая информация]]></string>
+    <string name="general_information"><![CDATA[Общая информация]]></string>
+    <string name="genres"><![CDATA[Жанры]]></string>
+    <string name="get_latest_news_updates_and_new_issue_alerts"><![CDATA[Получайте последние новости и уведомления о свежих выпусках, а также эксклюзивные предложения]]></string>
+    <string name="go_premium"><![CDATA[Попробовать премиум-подписку]]></string>
+    <string name="go_premium_ad1"><![CDATA[Подпишитесь и выберите любое из тысяч изданий нашего каталога]]></string>
+    <string name="go_premium_ad2"><![CDATA[Попробуйте бесплатную подписку в течение {duration} дней]]></string>
+    <string name="go_premium_ad2_line2"><![CDATA[Цена <a href=\\"\\">{price}/Месяц</a>]]></string>
+    <string name="go_premium_ad2_notrial"><![CDATA[Вы можете использовать до 5 устройств]]></string>
+    <string name="go_premium_ad3"><![CDATA[Отменить можно в любой момент]]></string>
+    <string name="go_premium_buy_with_pressreader"><![CDATA[Купить с помощью PressReader]]></string>
+    <string name="go_premium_get_this_issue"><![CDATA[Скачать этот выпуск]]></string>
+    <string name="go_premium_issue_subscription_details_format"><![CDATA[Новые выпуски %1$s]]></string>
+    <string name="go_premium_issue_subscription_payment_period"><![CDATA[/Месяц]]></string>
+    <string name="go_premium_price"><![CDATA[{price}/Месяц]]></string>
+    <string name="go_premium_start_free_trial"><![CDATA[Начать пробный период]]></string>
+    <string name="grid"><![CDATA[Сетка]]></string>
+    <string name="help_center"><![CDATA[Справка]]></string>
+    <string name="history"><![CDATA[История]]></string>
+    <string name="holt_to_select"><![CDATA[Выделите долгим нажатием]]></string>
+    <string name="home_choose_publications_text"><![CDATA[Последние выпуски из публикаций, за которыми вы следите, будут опубликованы здесь]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hot_zone_description"><![CDATA[Получите полный доступ к изданиям в точках HotSpot, предлагаемых спонсорами]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Бесплатное чтение]]></string>
+    <string name="hotspot_content"><![CDATA[Материалы спонсора]]></string>
+    <string name="hotspot_enable_bluetooth"><![CDATA[Включите Bluetooth, чтобы получать уведомления о наличии спонсированного доступа в HotSpot.]]></string>
+    <string name="hotspot_enable_gifts"><![CDATA[Разрешить подарки]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Настройки Устройства]]></string>
+    <string name="hotspot_enable_local_services"><![CDATA[Активируйте сервис геолокации]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Включите службы определения местоположения и установите их на \"При использовании приложения\", чтобы открывать подарочное содержание.]]></string>
+    <string name="hotspot_learnmore_long"><![CDATA[Активируйте сервис геолокации и установите \"Разрешить\" для подключения и получения бесплатной прессы, когда вы находитесь рядом в зоне спонсируемого доступа: в библиотеках, отелях, аэропортах, авиакомпаниях и круизах. Подробнее в <a href=\\"pressreader://hotspot-settings\\"> настройках HotSpot </a>]]></string>
+    <string name="hotspot_off"><![CDATA[Недоступны]]></string>
+    <string name="hotspot_public"><![CDATA[Публичные]]></string>
+    <string name="hotspot_restricted"><![CDATA[Для гостей]]></string>
+    <string name="hotspothub_title"><![CDATA[Карта HotSpot]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="hotspotmap_more_locations"><![CDATA[Еще точек: %d]]></string>
+    <string name="hotspotmap_sponsor"><![CDATA[Спонсируйте Hotspot]]></string>
+    <string name="hotspots_general"><![CDATA[На карте показаны сети Wi-Fi, где спонсоры оплачивают ваш доступ к изданиям в каталоге %s, - мы называем их HotSpot.]]></string>
+    <string name="hotspots_listheader"><![CDATA[HotSpot сгруппированы на карте.\nЕсли у булавки на карте есть тень, то увидеть соседние точки можно, нажав на нее или увеличив карту.]]></string>
+    <string name="hour_ago"><![CDATA[%d д. час назад]]></string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="increase_font"><![CDATA[Увеличить шрифт]]></string>
+    <string name="information"><![CDATA[Информация]]></string>
+    <string name="international"><![CDATA[Международный]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Хотите купить это издание?]]></string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="joda_time_android_date_time">%2$s, %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"<ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"в <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="join_the_discussion"><![CDATA[Выскажитесь]]></string>
+    <string name="just_added"><![CDATA[Только что добавлено]]></string>
+    <string name="keep_back_issues"><![CDATA[Хранить %d выпусков]]></string>
+    <string name="languages"><![CDATA[Языки]]></string>
+    <string name="last_account_for_signin"><![CDATA[Нельзя отвязать учетную запись, которая используется для входа в PressReader.]]></string>
+    <string name="last_name_hint"><![CDATA[Фамилия]]></string>
+    <string name="limited_publications_dialog_message"><![CDATA[Этот выпуск будет доступен до %s]]></string>
+    <string name="list"><![CDATA[Список]]></string>
+    <string name="load_stories"><![CDATA[Загрузить статьи]]></string>
+    <string name="loading_books"><![CDATA[Загружаем книги]]></string>
+    <string name="loading_publications"><![CDATA[Загружаем издания]]></string>
+    <string name="local_store_nothing_found"><![CDATA[Издания не найдены]]></string>
+    <string name="local_store_title"><![CDATA[Издания]]></string>
+    <string name="lock"><![CDATA[Заблокировать]]></string>
+    <string name="login_id"><![CDATA[Идентификатор для входа]]></string>
+    <string name="magazines"><![CDATA[Журналы]]></string>
+    <string name="main_search"><![CDATA[Поиск]]></string>
+    <string name="main_settings"><![CDATA[Настройки]]></string>
+    <string name="make_public"><![CDATA[Сделать публичной]]></string>
+    <string name="manage"><![CDATA[Изменить]]></string>
+    <string name="manage_devices"><![CDATA[Управление устройствами]]></string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="maybe_later"><![CDATA[Возможно, позже]]></string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Скопировать]]></string>
+    <string name="menu_issue_open"><![CDATA[Открыть]]></string>
+    <string name="menu_issue_open_with_premium"><![CDATA[Читать без ограничений]]></string>
+    <string name="menu_issue_read"><![CDATA[Читать]]></string>
+    <string name="migration_sign_in"><![CDATA[Наше новое обновление приложения требует повторной активации учетной записи.\n\nВойдите в систему, чтобы продолжить чтение %s]]></string>
+    <string name="minutes"><![CDATA[%d мин]]></string>
+    <string name="monitors"><![CDATA[Мои темы]]></string>
+    <string name="more"><![CDATA[Дополнительно]]></string>
+    <string name="more_about"><![CDATA[О Программе]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="more_send_us_feedback"><![CDATA[Отправьте нам отзыв]]></string>
+    <string name="more_settings"><![CDATA[Настройки]]></string>
+    <string name="most_current"><![CDATA[Самые свежие]]></string>
+    <string name="most_popular"><![CDATA[Самые популярные]]></string>
+    <string name="most_recently_published"><![CDATA[Самое свежее]]></string>
+    <string name="most_relevant"><![CDATA[Самые релевантные]]></string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string name="my_account"><![CDATA[Учетные записи]]></string>
+    <string name="my_collections"><![CDATA[Mои коллекции]]></string>
+    <string name="my_downloads"><![CDATA[Загрузки]]></string>
+    <string name="my_downloads_placeholder"><![CDATA[Ваши загрузки\nбудут отображаться здесь]]></string>
+    <string name="my_library_noitems"><![CDATA[Библиотека пустая.]]></string>
+    <string name="my_profile"><![CDATA[Мой канал]]></string>
+    <string name="my_publication"><![CDATA[В Моих изданиях]]></string>
+    <string name="my_publications"><![CDATA[Мои издания]]></string>
+    <string name="name"><![CDATA[Имя]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Перейти вверх"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Открыть панель навигации"</string>
+    <string name="navigation_home"><![CDATA[Домой]]></string>
+    <string name="navigation_more"><![CDATA[Еще]]></string>
+    <string name="navigation_my_library"><![CDATA[Моя Библиотека]]></string>
+    <string name="new_article_view"><![CDATA[Текст в SmartFlow]]></string>
+    <string name="new_article_view_description"><![CDATA[Читать статьи в непрерывном текстовом потоке. Многие функции приложения - такие как Коллекции и Перевод, требуют эту опцию.]]></string>
+    <string name="new_collection_name"><![CDATA[Имя коллекции]]></string>
+    <string name="new_comment"><![CDATA[Новый комментарий]]></string>
+    <string name="new_password"><![CDATA[Новый пароль]]></string>
+    <string name="new_releases"><![CDATA[Новые выпуски]]></string>
+    <string name="news_digest"><![CDATA[Дайджест новостей]]></string>
+    <string name="news_digest_description"><![CDATA[Регулярный дайджест с новостями и рекомендованными статьями, чтобы быть в курсе]]></string>
+    <string name="newsfeed"><![CDATA[Лента новостей]]></string>
+    <string name="newsfeed_as_start_screen"><![CDATA[Сделать ленту новостей стартовым экраном?]]></string>
+    <string name="newsfeed_recommended_card_empty"><![CDATA[Вы не выбрали интересующие Вас темы]]></string>
+    <string name="newsfeed_recommended_card_empty_description"><![CDATA[Добавьте интересующие Вас темы, чтобы персонализировать свое чтение и получать более уместные рекомендации.]]></string>
+    <string name="newsfeed_recommended_card_halfempty"><![CDATA[Мы не смогли найти статьи]]></string>
+    <string name="newsfeed_recommended_card_halfempty_action"><![CDATA[Следите за дополнительными интересующими темами]]></string>
+    <string name="newsfeed_recommended_card_halfempty_description"><![CDATA[Добавьте больше интересующих тем, чтобы персонализировать свое чтение и получать более уместные рекомендации.]]></string>
+    <string name="newsfeed_recommended_card_subtitle"><![CDATA[Лучшие статьи из интересующих Вас тем и изданий.]]></string>
+    <string name="newspaper_details_label"><![CDATA[Ваши последние выпуски]]></string>
+    <string name="newspapers"><![CDATA[Газеты]]></string>
+    <string name="newsstand"><![CDATA[Киоск]]></string>
+    <string name="nickname"><![CDATA[Подпись для комментариев]]></string>
+    <string name="no_password_yet"><![CDATA[Пароля пока нет]]></string>
+    <string name="no_radio"><![CDATA[Радио не доступно для издания]]></string>
+    <string name="no_thanks"><![CDATA[Нет, спасибо]]></string>
+    <string msgid="478774118347071097" name="not_set">"Не указано"</string>
+    <string name="oem_empty_feed"><![CDATA[Нет онлайн-статей, доступных в Ваших изданиях]]></string>
+    <string name="oem_onboarding_header"><![CDATA[Следите за изданиями, которые нравится читать]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[Больше изданий]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[В Вашей подписке]]></string>
+    <string name="off"><![CDATA[Отключить]]></string>
+    <string name="offers_and_promotions"><![CDATA[Акции и спецпредложения]]></string>
+    <string name="offers_and_promotions_description"><![CDATA[Спецпредложения и рекламные акции от %s]]></string>
+    <string name="offline_item_click_promt"><![CDATA[Нет подключения к сети. Пожалуйста, проверьте ваше соединение и повторите попытку]]></string>
+    <string name="on"><![CDATA[Включено]]></string>
+    <string name="onboarding_add_interests"><![CDATA[Добавьте больше интересующих тем]]></string>
+    <string name="onboarding_authorization_library"><![CDATA[Библиотеки и организации]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[Или]]></string>
+    <string name="onboarding_authorization_sign_in_or_create"><![CDATA[Войдите или создайте учетную запись, чтобы сохранить статьи и интересующие темы]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_humanised"><![CDATA[Почти готово! Создайте учетную запись или войдите, чтобы сохранить интересующие Вас темы]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_short"><![CDATA[Войдите или создайте учетную запись]]></string>
+    <string name="onboarding_authorization_skip"><![CDATA[Пропустить]]></string>
+    <string name="onboarding_choose_interests"><![CDATA[Чем вы интересуетесь]]></string>
+    <string name="onboarding_choose_publications"><![CDATA[Следите за новыми выпусками изданий]]></string>
+    <string name="onboarding_continue"><![CDATA[Продолжить]]></string>
+    <string name="onboarding_done"><![CDATA[Готово]]></string>
+    <string name="onboarding_edit_interests"><![CDATA[Изменить интересующие темы]]></string>
+    <string name="onboarding_error_searching_interests"><![CDATA[К сожалению, мы не нашли изданий по запросу \\"%1$s\\". Попробуйте еще раз.]]></string>
+    <string name="onboarding_error_searching_publications"><![CDATA[К сожалению, мы не нашли изданий по запросу \\"%1$s\\". Попробуйте еще раз.]]></string>
+    <string name="onboarding_error_text"><![CDATA[Произошла ошибка при загрузке информации.\nИзвините, попробуйте еще раз.]]></string>
+    <string name="onboarding_finished_banner_action"><![CDATA[Готово]]></string>
+    <string name="onboarding_finished_banner_text"><![CDATA[По мере Вашего чтения, PressReader будет обучаться и адаптироваться к Вашим вкусам]]></string>
+    <string name="onboarding_finished_banner_title"><![CDATA[Все готово]]></string>
+    <string name="onboarding_get_started"><![CDATA[Начать]]></string>
+    <string name="onboarding_have_an"><![CDATA[У вас есть аккаунт?]]></string>
+    <string name="onboarding_have_an_account_sign_in"><![CDATA[У вас есть аккаунт? <a href=\\"pressreader_authorize://authorize\\">Войти</a>]]></string>
+    <string name="onboarding_interest_search_placeholder_1"><![CDATA[Путешествия]]></string>
+    <string name="onboarding_interest_search_placeholder_2"><![CDATA[Дизайн]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_interests_header"><![CDATA[Выберите, что вас интересует, чтобы получать издания и статьи, соответствующие вашим интересам]]></string>
+    <string name="onboarding_intro_text"><![CDATA[теперь позволяет\nвыбрать интересующие темы и получать более\nподходящие новости и статьи.]]></string>
+    <string name="onboarding_intro_title"><![CDATA[Изменения в этом обновлении]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Настройте свои интересы]]></string>
+    <string name="onboarding_open_banner_text"><![CDATA[Получайте более подходящие газеты и журналы, указав интересующие темы.]]></string>
+    <string name="onboarding_open_banner_text_humanised"><![CDATA[Расскажите какие темы Вас интересуют, и мы порекомендуем лучшие статьи и издания.]]></string>
+    <string name="onboarding_open_banner_title"><![CDATA[Улучшите свое чтение]]></string>
+    <string name="onboarding_open_banner_title_humanised"><![CDATA[Какие статьи Вам важны?]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="onboarding_publications_header"><![CDATA[Вот некоторые газеты и журналы, которые вам могут понравиться. Нажмите на обложку, чтобы продолжить чтение.]]></string>
+    <string name="onboarding_search_for_interests"><![CDATA[Поиск по интересам]]></string>
+    <string name="onboarding_search_for_publications"><![CDATA[Поиск по названию издания]]></string>
+    <string name="onboarding_searching_interests"><![CDATA[Ищем то, что вас интересует]]></string>
+    <string name="onboarding_searching_publications"><![CDATA[Ищем издания]]></string>
+    <string name="onboarding_splash_text"><![CDATA[Откройте для себя лучшие газеты и журналы мира]]></string>
+    <string name="onboarding_you_can_search_for_things"><![CDATA[Вы можете искать такие вещи, как]]></string>
+    <string name="one_column"><![CDATA[1 колонка]]></string>
+    <string name="opinion_activity"><![CDATA[Активность]]></string>
+    <string name="opinion_leaders"><![CDATA[Лидеры Мнений]]></string>
+    <string name="opinion_trends"><![CDATA[Мнения]]></string>
+    <string name="opinions"><![CDATA[Мнения]]></string>
+    <string name="order_buy_this_issue"><![CDATA[Приобрести этот выпуск]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Со всеми приложениями]]></string>
+    <string name="order_open_payment_options"><![CDATA[Все методы оплаты]]></string>
+    <string name="order_open_purchase_options"><![CDATA[Другие варианты покупки]]></string>
+    <string name="order_subscribe"><![CDATA[Автоматически загрузить все новые выпуски]]></string>
+    <string name="other_issues"><![CDATA[Другие выпуски]]></string>
+    <string name="page_view"><![CDATA[Газетный вид]]></string>
+    <string name="password_hint"><![CDATA[Пароль]]></string>
+    <string name="password_recovery"><![CDATA[Восстановление забытого пароля]]></string>
+    <string name="password_recovery_description"><![CDATA[Пожалуйста, введите адрес электронной почты, использованный при регистрации. Мы вышлем на него инструкции по смене пароля.]]></string>
+    <string name="password_recovery_success"><![CDATA[Ссылка для восстановления пароля выслана по электронной почте.]]></string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="payment_credit_card_city_hint"><![CDATA[...]]></string>
+    <string name="payment_credit_card_holder_hint"><![CDATA[...]]></string>
+    <string name="payment_credit_card_state_hint"><![CDATA[...]]></string>
+    <string name="payment_credit_card_street_hint"><![CDATA[...]]></string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_purchase_details"><![CDATA[Более подробная информация о покупках]]></string>
+    <string name="payment_receipt"><![CDATA[Платежный счет]]></string>
+    <string name="payment_required"><![CDATA[Обязательное поле]]></string>
+    <string name="payment_update_cc_info"><![CDATA[Обновить информацию о кредитной карте]]></string>
+    <string name="period_daily"><![CDATA[Ежедневная]]></string>
+    <string name="period_monthly"><![CDATA[Ежемесячник]]></string>
+    <string name="period_weekly"><![CDATA[Еженедельник]]></string>
+    <string name="phone_hint"><![CDATA[Номер телефона (дополнительно)]]></string>
+    <string name="pick_paper"><![CDATA[Выбрать издание по дате выхода]]></string>
+    <string name="podcasts"><![CDATA[Подкасты]]></string>
+    <string name="popular_choice"><![CDATA[Популярный выбор]]></string>
+    <string name="popular_opinions"><![CDATA[Популярные Мнения]]></string>
+    <string name="postpone_sleep"><![CDATA[Отложить спящий режим]]></string>
+    <string name="posts"><![CDATA[Статьи]]></string>
+    <string name="pref_auto_translate_delete_alert_negative_button"><![CDATA[Нет]]></string>
+    <string name="pref_auto_translate_delete_alert_positive_button"><![CDATA[Да]]></string>
+    <string name="pref_auto_translate_delete_alert_title"><![CDATA[Удалить этот перевод?]]></string>
+    <string name="pref_auto_translate_disclaimer"><![CDATA[Перевод <u>условия</u>]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_auto_translate_option"><![CDATA[Переводить автоматически]]></string>
+    <string name="pref_auto_translate_prompt_option"><![CDATA[Предлагать сохранять языки]]></string>
+    <string name="pref_auto_translate_summary"><![CDATA[Управление автоматическим переводом текста статей.]]></string>
+    <string name="pref_auto_translate_title"><![CDATA[Предпочтения перевода]]></string>
+    <string name="pref_auto_translate_translate_auto"><![CDATA[Запомнить языковые пары, выбранные для автоматического перевода.]]></string>
+    <string name="pref_autodelivery"><![CDATA[Автоматическая доставка]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Обновления в фоновом режиме]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Управление подписками]]></string>
+    <string name="pref_cleanup"><![CDATA[Удалить издания]]></string>
+    <string name="pref_dataaccess"><![CDATA[Доступ к данным]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Разрешить только Wi-Fi соединение]]></string>
+    <string name="pref_feedback"><![CDATA[Ваши замечания и пожелания]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Отзывы на %1$s v%2$s от пользователя %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Поделитесь Вашими замечаниями и пожеланиями]]></string>
+    <string name="pref_license"><![CDATA[Лицензии открытого исходного кода]]></string>
+    <string name="pref_license_summary"><![CDATA[Детали лицензии для программного обеспечения с открытым исходным кодом]]></string>
+    <string name="pref_storage"><![CDATA[Хранилище данных]]></string>
+    <string name="pref_storage_summary"><![CDATA[Настроить доступность внутренней памяти]]></string>
+    <string name="pref_subscriptions"><![CDATA[Подписки]]></string>
+    <string name="pref_tips"><![CDATA[Подсказки PressReader]]></string>
+    <string name="pref_tips_summary"><![CDATA[Повторите объяснения интерфейса]]></string>
+    <string name="pref_use_tts"><![CDATA[Включить системную озвучку]]></string>
+    <string name="pref_use_tts_summary"><![CDATA[Использовать голосовую службу вашего устройства вместо аудиопотока с наших серверов.]]></string>
+    <string name="pref_version"><![CDATA[Версия]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s версия: \t%2$s]]></string>
+    <string name="prefer_local_server"><![CDATA[Предпочтение локальному серверу]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"Текст \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" скопирован в буфер обмена"</string>
+    <string name="premium_confirmation_continue"><![CDATA[Отписаться]]></string>
+    <string name="premium_confirmation_issue_subscription"><![CDATA[Спасибо за подписку]]></string>
+    <string name="premium_confirmation_not_now"><![CDATA[Не сейчас]]></string>
+    <string name="premium_confirmation_premium"><![CDATA[Вы получили премиум-подписку]]></string>
+    <string name="premium_confirmation_premium_subtitle"><![CDATA[Наслаждайтесь полным доступом к лучшим газетам и журналам мира]]></string>
+    <string name="premium_confirmation_single_issue"><![CDATA[Спасибо за покупку]]></string>
+    <string name="premium_confirmation_subscribing_subtitle_format"><![CDATA[Новые выпуски будут доступны каждые  %1$s дней]]></string>
+    <string name="premium_confirmation_warning"><![CDATA[Обязательно отмените вашу текущую подписку в настройках Play Маркета, в разделе \"Платежи и подписки\" вашей учетной записи.]]></string>
+    <string name="price_duration_month_formatted"><![CDATA[%1$s / %2$s mесяц]]></string>
+    <string name="price_duration_months_formatted"><![CDATA[%1$s / %2$s мес]]></string>
+    <string name="price_duration_week_formatted"><![CDATA[%1$s / %2$s hеделя]]></string>
+    <string name="price_duration_weeks_formatted"><![CDATA[%1$s / %2$s нед]]></string>
+    <string name="price_duration_year_formatted"><![CDATA[%1$s / %2$s год]]></string>
+    <string name="price_duration_years_formatted"><![CDATA[%1$s / %2$s лет]]></string>
+    <string name="privacy_policy"><![CDATA[Правила защиты личной информации]]></string>
+    <string name="problem_with_subscription_payment_need_to_update_payment_details"><![CDATA[Возникла проблема с платежом за подписку. Пожалуйста, обновите платежные данные для ее продления.]]></string>
+    <string name="product_single_issue"><![CDATA[Один выпуск]]></string>
+    <string name="product_subscribe_and_save"><![CDATA[Подпишитесь и сэкономьте!]]></string>
+    <string name="profile"><![CDATA[Мой портрет]]></string>
+    <string name="promo_code_hint"><![CDATA[Промо-код (дополнительно)]]></string>
+    <string name="publication_types"><![CDATA[Типы изданий]]></string>
+    <string name="publications"><![CDATA[Издания]]></string>
+    <string name="publications_catalog_subtitle"><![CDATA[Более 7 тысяч газет, журналов и книг со всего мира]]></string>
+    <string name="publications_catalog_title"><![CDATA[Посмотрите Каталог]]></string>
+    <string name="publications_menu"><![CDATA[Меню изданий]]></string>
+    <string name="publications_stories"><![CDATA[Поиск изданий, статей]]></string>
+    <string name="publications_stories_interests"><![CDATA[Искать издания, статьи и интересы]]></string>
+    <string name="purchase_advice"><![CDATA[Мы рекомендуем]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Разрешить уведомления]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Знайте, когда появляются последние выпуски и оставайтесь в курсе новостей, связанных с вашими интересами.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Получать уведомления]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Уведомления]]></string>
+    <string name="radio_next_article"><![CDATA[Следующая история]]></string>
+    <string name="radio_next_section"><![CDATA[Следующий\nраздел]]></string>
+    <string name="radio_prev_article"><![CDATA[Пред. история]]></string>
+    <string name="radio_prev_section"><![CDATA[Пред.\nраздел]]></string>
+    <string name="rate"><![CDATA[Оцените]]></string>
+    <string name="rate_ask_later"><![CDATA[Спросить позже]]></string>
+    <string name="rate_body"><![CDATA[Если Вам нравится %s, поставьте нам, пожалуйста, хорошую оценку в Google Play]]></string>
+    <string name="rate_do_not_ask_anymore"><![CDATA[Больше не спрашивать]]></string>
+    <string name="rate_us"><![CDATA[Оцените нас]]></string>
+    <string name="reading"><![CDATA[Чтение]]></string>
+    <string name="recently_read"><![CDATA[Недавние]]></string>
+    <string name="recommended"><![CDATA[Рекомендуемые]]></string>
+    <string name="redownload"><![CDATA[Загрузить заново]]></string>
+    <string name="redownload_issue"><![CDATA[Из-за недавних изменений в ОС Android мы не можем открыть этот номер  в высоком разрешении. Вы хотите загрузить его заново?]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Сумма платежа:]]></string>
+    <string name="registration_agree_text"><![CDATA[Нажатием кнопки «Далее» вы соглашаетесь с <a href=\\"pressreader://terms-of-use\\">Условиями использования</a> и <a href=\\"pressreader://privacy\\">Политикой конфиденциальности</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Доступ к прошлым выпускам:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s дн.]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Цена за выпуск:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Доступ к отчету AdValue:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Макс. кол-во оповещений мониторинга:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Макс. кол-во автоматических загрузок:]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Ежемесячная плата]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (цена со скидкой за 1-ый месяц, %1$s %3$s за 2-ой месяц и далее)]]></string>
+    <string name="related_opinions"><![CDATA[Близкие Мнения]]></string>
+    <string name="remaining_credits"><![CDATA[Оставшийся кредит:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d выпусков]]></string>
+    <string name="remaining_issue"><![CDATA[Баланс выпусков: %d]]></string>
+    <string name="remaining_issues"><![CDATA[Осталось %d кредитов]]></string>
+    <string name="remaining_issues_title"><![CDATA[Осталось %d кредитов]]></string>
+    <string name="reply"><![CDATA[Ответить]]></string>
+    <string name="report_comment"><![CDATA[Отчеты]]></string>
+    <string name="report_indecent"><![CDATA[Неприлично]]></string>
+    <string name="report_irrelevant"><![CDATA[Не к месту]]></string>
+    <string name="reset_activation"><![CDATA[Перерегистрироваться]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Войдите или создайте аккаунт, чтобы получить доступ к истории покупок и использовать подписки на нескольких устройствах. Ваши текущие покупки будут добавлены в этот аккаунт.]]></string>
+    <string name="retype_new_password"><![CDATA[Подтвердите новый пароль]]></string>
+    <string name="ribbon_free"><![CDATA[Бесплатно]]></string>
+    <string name="ribbon_new"><![CDATA[Новое]]></string>
+    <string name="ribbon_sample"><![CDATA[Пример]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Спонсировано]]></string>
+    <string name="save_to_collection"><![CDATA[Сохранить в коллекцию]]></string>
+    <string name="saved_articles"><![CDATA[Сохраненные статьи]]></string>
+    <string name="saved_articles_placeholder"><![CDATA[Сохраненные статьи будут отображаться здесь]]></string>
+    <string name="search_hotspots"><![CDATA[Поиск HotSpot]]></string>
+    <string name="search_local_store"><![CDATA[Найти издание]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="search_opinions"><![CDATA[Найти мнения]]></string>
+    <string name="search_results"><![CDATA[Результаты]]></string>
+    <string name="searching"><![CDATA[Ищем…]]></string>
+    <string name="see_all"><![CDATA[Показать все]]></string>
+    <string name="select_all"><![CDATA[Выделить все]]></string>
+    <string name="select_from_gallery"><![CDATA[Выбрать из альбома]]></string>
+    <string name="select_page"><![CDATA[Выбрать полосу]]></string>
+    <string name="select_product"><![CDATA[Выберите тариф]]></string>
+    <string name="select_start_screen"><![CDATA[Выбор стартового экрана]]></string>
+    <string name="settings_hotspot_beacon"><![CDATA[Дополнительный доступ по маячкам]]></string>
+    <string name="settings_hotspot_beacon_description"><![CDATA[Используйте специальную энергоэффекивную версию Bluetooth для нахождения ближайших маячков. Маячки позволяют получать подарочный доступ к полному каталогу без подключения у Wi-Fi, и также требуют для работы права на фоновый доступ к службе геопозиции.]]></string>
+    <string name="settings_hotspot_location"><![CDATA[Дополнительный доступ по геопозиции]]></string>
+    <string name="settings_hotspot_location_description"><![CDATA[Разрешите фоновую проверку геопозиции, чтобы подключаться к точкам подарочного доступа.]]></string>
+    <string name="settings_profile_edit"><![CDATA[Редактировать профиль]]></string>
+    <string name="shared"><![CDATA[Отправленные]]></string>
+    <string name="show_calendar"><![CDATA[Показать календарь]]></string>
+    <string name="show_highlights_full_screen"><![CDATA[Заголовки в полноэкранном режиме]]></string>
+    <string name="show_highlights_full_screen_description"><![CDATA[Включить или выключить подсветку заголовков при чтении страниц. Подсветка позволяет переходить с текстовый режим чтения статей.]]></string>
+    <string name="show_more"><![CDATA[Показать еще]]></string>
+    <string name="showing_count_total"><![CDATA[Показаны %1$s из %2$s]]></string>
+    <string name="sign_in_to_continue"><![CDATA[Войдите, чтобы продолжить чтение]]></string>
+    <string name="sign_out"><![CDATA[Выход]]></string>
+    <string name="sign_up"><![CDATA[Регистрация]]></string>
+    <string name="sign_up_now"><![CDATA[Новый пользователь? <a href=\\"pressreader_register://register\\">Зарегистрируйтесь.</a>]]></string>
+    <string name="sign_up_slogan"><![CDATA[Это быстро и просто.]]></string>
+    <string name="similar_stories"><![CDATA[%d Похожие статьи]]></string>
+    <string name="sing_in"><![CDATA[Войти]]></string>
+    <string name="small_grid"><![CDATA[Мелкая сетка]]></string>
+    <string name="smart_zoom"><![CDATA[SmartZoom]]></string>
+    <string name="smart_zoom_description"><![CDATA[автоматически фокусировать на начале статьи при двойном нажатии.]]></string>
+    <string name="social_and_linked_networks"><![CDATA[Внешние учетные записи]]></string>
+    <string name="sort_alphabet"><![CDATA[По алфавиту]]></string>
+    <string name="sorting"><![CDATA[Сортировка]]></string>
+    <string name="start_screen"><![CDATA[Стартовый экран]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Начните пробу %s]]></string>
+    <string name="state"><![CDATA[Область]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stay_up_to_date"><![CDATA[Будьте в курсе]]></string>
+    <string name="stories"><![CDATA[Статьи]]></string>
+    <string name="street"><![CDATA[Улица]]></string>
+    <string name="subscribe"><![CDATA[Подписаться]]></string>
+    <string name="subscription_details"><![CDATA[Подробности подписки]]></string>
+    <string name="subscription_payment_method"><![CDATA[Cпособ платежа]]></string>
+    <string name="subscription_plan"><![CDATA[План подписки:]]></string>
+    <string name="subscription_plans"><![CDATA[Подписные тарифы]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Нет графика поставки]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Вы можете запланировать доставку по вопросу экран порядке]]></string>
+    <string name="suggestions"><![CDATA[Варианты]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[Приложения]]></string>
+    <string name="suppliment_count_huge"><![CDATA[Приложений: %d]]></string>
+    <string name="suppliment_count_one"><![CDATA[%d приложение]]></string>
+    <string name="support_now"><![CDATA[Присоединиться]]></string>
+    <string name="supporters"><![CDATA[Поддерживают]]></string>
+    <string name="supporting"><![CDATA[поддерживают]]></string>
+    <string name="system_sharing"><![CDATA[Поделиться с...]]></string>
+    <string name="table_of_contents"><![CDATA[Содержание]]></string>
+    <string name="take_photo"><![CDATA[Снять]]></string>
+    <string name="terms_of_use"><![CDATA[Правила пользования]]></string>
+    <string name="text_view"><![CDATA[Текст]]></string>
+    <string name="theme"><![CDATA[Тема чтения]]></string>
+    <string name="theme_dark"><![CDATA[Темная]]></string>
+    <string name="theme_light"><![CDATA[Светлая]]></string>
+    <string name="theme_system"><![CDATA[Соответствовать устройству]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[Нажмите, чтобы вернуться туда]]></string>
+    <string name="tips_experiance_page_view_with_free_titles"><![CDATA[Оцените удобство доступа к полным страницам, открыв бесплатное издание.]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[Стрелка показывает доступность более свежих выпусков]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[Загрузить самый свежий выпуск]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[Подсвеченные заголовки открывают текстовый вид]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[Нажмите и подержите, чтобы открыть меню]]></string>
+    <string name="tips_order_autodelivery_download_when_available"><![CDATA[Скачивать все новые выпуски]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[Действия со всеми статьями в этом виде]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[Нажмите на заголовок или стрелку в конце, чтобы расхлопнуть статью]]></string>
+    <string name="today"><![CDATA[Сегодня]]></string>
+    <string name="top_free"><![CDATA[Популярные бесплатные]]></string>
+    <string name="top_free_magazines"><![CDATA[Бесплатные популярные журналы]]></string>
+    <string name="top_free_newspapers"><![CDATA[Бесплатные популярные газеты]]></string>
+    <string name="top_magazines"><![CDATA[Главные журналы]]></string>
+    <string name="top_newspapers"><![CDATA[Топ газеты]]></string>
+    <string name="topnews_important"><![CDATA[Главные новости]]></string>
+    <string name="topnews_morenews"><![CDATA[Другие новости]]></string>
+    <string name="topnews_readerschoice"><![CDATA[Популярные статьи]]></string>
+    <string name="topnews_sincelastvisit"><![CDATA[Пока вас не было]]></string>
+    <string name="translate"><![CDATA[Перевести]]></string>
+    <string name="translated_popup_auto_translate"><![CDATA[Переводить автоматически:]]></string>
+    <string name="translated_popup_disclaimer"><![CDATA[Перевод <u>условия</u>]]></string>
+    <string name="translated_popup_translated_into"><![CDATA[Переведено на]]></string>
+    <string name="translation_badge_translated"><![CDATA[Переведено]]></string>
+    <string name="translation_badge_translating"><![CDATA[Переводится]]></string>
+    <string name="trial_action"><![CDATA[Начните бесплатную пробную версию]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[У вас уже есть этот продукт на PressReader.]]></string>
+    <string name="trial_subscription"><![CDATA[бесплатная пробная версия]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Разблокируйте 7 000 газет и журналов с неограниченным чтением. Попробуйте бесплатно на 7 дней]]></string>
+    <string name="try_premium"><![CDATA[Пропробуйте Premium]]></string>
+    <string name="try_zooming_different_place"><![CDATA[Попробуйте уменьшить масштаб или сдвинуться в другое место]]></string>
+    <string name="tts_playback_rate"><![CDATA[Скорость речи]]></string>
+    <string name="tts_playback_rate_summary"><![CDATA[Установить скорость, с которой будет происходить чтение.]]></string>
+    <string name="two_columns"><![CDATA[2 колонки]]></string>
+    <string name="types"><![CDATA[Типы изданий]]></string>
+    <string name="unlock"><![CDATA[Разблокировать]]></string>
+    <string name="update_account"><![CDATA[Обновить аккаунт]]></string>
+    <string name="update_payment_details"><![CDATA[Обновить платежные данные]]></string>
+    <string name="userinterests_title"><![CDATA[Интересы]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ВКЛ."</string>
+    <string name="view"><![CDATA[Вид]]></string>
+    <string name="view_full_discussion"><![CDATA[Открыть обсуждение полностью]]></string>
+    <string name="vs"><![CDATA[против]]></string>
+    <string name="welcome_to_pressreader"><![CDATA[Добро пожаловать в PressReader]]></string>
+    <string name="write_comment"><![CDATA[Прокомментируйте]]></string>
+    <string name="yesterday"><![CDATA[Вчера]]></string>
+    <string name="you_may_be_asked_to_confirm_your_purchase"><![CDATA[Ваш банк может запросить подтвердить покупку, задав контрольные вопросы.]]></string>
+    <string name="zip"><![CDATA[Индекс]]></string>
+</resources>

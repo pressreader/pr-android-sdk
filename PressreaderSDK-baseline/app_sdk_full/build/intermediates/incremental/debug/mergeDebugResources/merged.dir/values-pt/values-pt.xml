@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"amanhã"</item>
+        <item msgid="2973062968038355991" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> dias"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"em 1 hora"</item>
+        <item msgid="3705373766798013406" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> horas"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"em 1 minuto"</item>
+        <item msgid="4216113292706568726" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> minutos"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"em 1 segundo"</item>
+        <item msgid="5495880108825805108" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> segundos"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"ontem"</item>
+        <item msgid="3453342639616481191" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> dias atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"1 hora atrás"</item>
+        <item msgid="6889970745748538901" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> horas atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"1 minuto atrás"</item>
+        <item msgid="851164968597150710" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutos atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"1 seg. atrás"</item>
+        <item msgid="3699169366650930415" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> segundos   atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"Uma hora"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> horas"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"Um minuto"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutos"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"Um segundo"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> segundos"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"amanhã"</item>
+        <item msgid="5109449375100953247" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> dias"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"em 1 hora"</item>
+        <item msgid="547290677353727389" quantity="other">"Em <ns1:g id="COUNT">%d</ns1:g> horas"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"em 1 minuto"</item>
+        <item msgid="3330713936399448749" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> minutos"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"em 1 segundo"</item>
+        <item msgid="1241926116443974687" quantity="other">"em <ns1:g id="COUNT">%d</ns1:g> segundos"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"ontem"</item>
+        <item msgid="2479586466153314633" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> dias atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"1 hora atrás"</item>
+        <item msgid="2467273239587587569" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> horas atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"1 minuto atrás"</item>
+        <item msgid="2176942008915455116" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutos atrás"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"1 segundo atrás"</item>
+        <item msgid="3903706804349556379" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> segundos atrás"</item>
+    </plurals>
+    <string name="Browse"><![CDATA[Navegar]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="about_hotspots"><![CDATA[Sobre HotSpots]]></string>
+    <string name="about_trends"><![CDATA[Sobre Tendências]]></string>
+    <string name="account_created"><![CDATA[A sua conta foi criada com êxito.]]></string>
+    <string name="account_name"><![CDATA[Nome da Conta]]></string>
+    <string name="account_owner"><![CDATA[Usuário da conta]]></string>
+    <string name="account_service_name"><![CDATA[Nome do serviço]]></string>
+    <string name="account_status"><![CDATA[Estado da conta]]></string>
+    <string name="account_updated"><![CDATA[Atualizada informação da conta]]></string>
+    <string name="add_account"><![CDATA[Adicionar conta]]></string>
+    <string name="add_my_publications"><![CDATA[Adicionar às Minhas Publicações]]></string>
+    <string name="add_opinion"><![CDATA[Adicionar opinião]]></string>
+    <string name="add_opinion_text_sample"><![CDATA[Exemplo: Faça amor, não faça dinheiro]]></string>
+    <string name="add_to_collection"><![CDATA[Adicionar à coleção]]></string>
+    <string name="add_video"><![CDATA[Adicionar um vídeo]]></string>
+    <string name="advanced_search"><![CDATA[Pesquisa Avançada]]></string>
+    <string name="all"><![CDATA[Todas as origens]]></string>
+    <string name="all_downloads"><![CDATA[Todos os Downloads]]></string>
+    <string name="article_comments"><![CDATA[%d Comentários]]></string>
+    <string name="article_flow_bookmarks_page_set_page_amount"><![CDATA[%s  Página]]></string>
+    <string name="article_flow_bookmarks_page_set_pages_amount"><![CDATA[%s Páginas]]></string>
+    <string name="article_homefeed_section_continue_more"><![CDATA[Mais %s]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_library"><![CDATA[Biblioteca e grupo]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Por favor escolha o seu serviço]]></string>
+    <string name="authorization_social_signin"><![CDATA[Acesso via Redes Social]]></string>
+    <string name="authorization_text"><![CDATA[Você precisa ser um assinante %s para ter acesso a este conteúdo]]></string>
+    <string name="authorized_at"><![CDATA[Autorizado com sucesso em %s]]></string>
+    <string name="auto"><![CDATA[Automático]]></string>
+    <string name="auto_download"><![CDATA[Download automático]]></string>
+    <string name="auto_download_issue_available"><![CDATA[Nova edição está disponível: %s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Auto-baixar novas edições]]></string>
+    <string name="auto_download_new_issues_question"><![CDATA[Auto-baixar novas edições?]]></string>
+    <string name="auto_renewed"><![CDATA[Auto-renovável]]></string>
+    <string name="auto_translate_prompt_button_general_negative"><![CDATA[Não]]></string>
+    <string name="auto_translate_prompt_button_general_positive"><![CDATA[Sim]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_negative"><![CDATA[Fechar]]></string>
+    <string name="auto_translate_prompt_button_limit_reached_positive"><![CDATA[Definições]]></string>
+    <string name="auto_translate_prompt_do_not_show_again"><![CDATA[Não mostrar novamente.]]></string>
+    <string name="auto_translate_prompt_message_general"><![CDATA[%1$s [arrow] %2$s\n\nPode desativar isto a qualquer momento.]]></string>
+    <string name="auto_translate_prompt_message_limit_reached"><![CDATA[Atingiu o número máximo de pares de idiomas guardados. Aceda a Configurações para gerir os seus idiomas selecionados.]]></string>
+    <string name="auto_translate_prompt_title_general"><![CDATA[Ativar tradução automática para estes idiomas?]]></string>
+    <string name="auto_translate_prompt_title_limit_reached"><![CDATA[Preferências de tradução]]></string>
+    <string name="back_issue_archive"><![CDATA[Arquivo de edições anteriores]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Ilimitado]]></string>
+    <string name="balance"><![CDATA[Saldo]]></string>
+    <string name="balance_description"><![CDATA[%1$s de %2$s]]></string>
+    <string name="be_the_first_one_to_comment"><![CDATA[Seja o primeiro a comentar]]></string>
+    <string name="billing_information"><![CDATA[Dados para facturação]]></string>
+    <string name="blog"><![CDATA[Blogue]]></string>
+    <string name="book_reader_bookmarks"><![CDATA[Favoritos]]></string>
+    <string name="book_reader_bookmarks_empty_state"><![CDATA[Ainda não há favoritos]]></string>
+    <string name="book_reader_font_popup_alignment"><![CDATA[Alinhamento]]></string>
+    <string name="book_reader_font_popup_spacing"><![CDATA[Espaçamento entre linhas]]></string>
+    <string name="book_reader_font_popup_theme_color"><![CDATA[Cor do tema]]></string>
+    <string name="book_reader_font_popup_title"><![CDATA[Fontes]]></string>
+    <string name="book_reader_get_book"><![CDATA[Obter Livro]]></string>
+    <string name="book_reader_highlights"><![CDATA[Destaques]]></string>
+    <string name="book_reader_highlights_empty_state"><![CDATA[Ainda não há destaques]]></string>
+    <string name="book_reader_highlights_popup_search"><![CDATA[Pesquisar]]></string>
+    <string name="book_reader_no_content_error_message"><![CDATA[Não há conteúdo para download]]></string>
+    <string name="book_reader_page_format"><![CDATA[Page %1$d of %2$d]]></string>
+    <string name="book_reader_purchase_popup_button"><![CDATA[Ok]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[Os livros adquiridos no site da PressReader ficam disponíveis para leitura neste aplicativo, desde que utilize as mesmas credenciais da conta.]]></string>
+    <string name="book_reader_purchase_popup_title"><![CDATA[Obter este livro]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Página mais recente lida]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Estamos felizes por estares a gostar do livro! Para continuares a tua aventura, vai agora para os \'Detalhes do livro\'.]]></string>
+    <string name="book_reader_search_hint"><![CDATA[Pesquise por uma palavra ou frase]]></string>
+    <string name="book_reader_table_of_content"><![CDATA[Conteúdo]]></string>
+    <string name="bookmark"><![CDATA[Indicador]]></string>
+    <string name="bookmarked"><![CDATA[Marcar]]></string>
+    <string name="bookmarks"><![CDATA[Marcadores]]></string>
+    <string name="bookmarks_view_all_bookmarks"><![CDATA[Todos os Favoritos]]></string>
+    <string name="bookmarks_view_empty"><![CDATA[Favoritos aparecerão aqui]]></string>
+    <string name="books"><![CDATA[Livros]]></string>
+    <string name="books_banner_action"><![CDATA[Navegue pelos Livros]]></string>
+    <string name="books_banner_description"><![CDATA[Um universo de jornais, revistas e livros de alta qualidade, tudo numa única plataforma.]]></string>
+    <string name="books_banner_title"><![CDATA[Leia livros no PressReader]]></string>
+    <string name="books_catalog_category_error_message"><![CDATA[Falha ao carregar livros por categoria]]></string>
+    <string name="books_catalog_featured_error_message"><![CDATA[Falha ao carregar os livros em destaque]]></string>
+    <string name="books_catalog_global_error_message"><![CDATA[Falha ao carregar o catálogo de livros]]></string>
+    <string name="books_catalog_just_added_error_message"><![CDATA[Falha ao carregar apenas livros adicionados]]></string>
+    <string name="books_catalog_new_releases_error_message"><![CDATA[Falha ao carregar livros recém-lançados]]></string>
+    <string name="books_description_show_less"><![CDATA[ver menos]]></string>
+    <string name="books_description_show_more"><![CDATA[ver mais]]></string>
+    <string name="books_details_brought_by"><![CDATA[Trazido a você por]]></string>
+    <string name="books_details_button_get_book"><![CDATA[Obter Livro]]></string>
+    <string name="books_details_button_read"><![CDATA[Ler]]></string>
+    <string name="books_details_get_more_error_message"><![CDATA[Falha ao carregar mais livros]]></string>
+    <string name="books_details_isbn"><![CDATA[Isbn]]></string>
+    <string name="books_details_language"><![CDATA[Idiomas]]></string>
+    <string name="books_details_pages"><![CDATA[Páginas]]></string>
+    <string name="books_details_publisher"><![CDATA[Editora]]></string>
+    <string name="books_details_released"><![CDATA[Lançado]]></string>
+    <string name="books_details_sample"><![CDATA[Exemplo]]></string>
+    <string name="books_details_seller"><![CDATA[Vendedor]]></string>
+    <string name="books_details_series_format"><![CDATA[%1$s: Book %2$s]]></string>
+    <string name="books_downloading_limit_message"><![CDATA[Você atingiu seu limite de download consecutivo para este período. Tente novamente mais tarde.]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Lamentamos, este livro já não está disponível]]></string>
+    <string name="books_license_expired_message"><![CDATA[Para continuar a ler, visite um HotSpot de viagens e turismo para estender o seu acesso, ou compre o seu eBook (sujeito a disponibilidade) em pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Encontrar um HotSpot]]></string>
+    <string name="books_paid_message"><![CDATA[Por favor, escolha outro título.]]></string>
+    <string name="books_paid_title"><![CDATA[Lamentamos, mas este título não está disponível.]]></string>
+    <string name="breaking_news"><![CDATA[Notícias de Última Hora]]></string>
+    <string name="brought_to_you_by"><![CDATA[Trazido para você por]]></string>
+    <string name="browse_catalog"><![CDATA[Explorar]]></string>
+    <string name="btn_allow"><![CDATA[Permitir]]></string>
+    <string name="btn_back"><![CDATA[Retroceder]]></string>
+    <string name="btn_cancel"><![CDATA[Cancelar]]></string>
+    <string name="btn_confirm"><![CDATA[Confirmar]]></string>
+    <string name="btn_delete"><![CDATA[Apagar]]></string>
+    <string name="btn_download"><![CDATA[Baixar]]></string>
+    <string name="btn_downloading"><![CDATA[Baixando]]></string>
+    <string name="btn_font_size"><![CDATA[Tamanho das letras]]></string>
+    <string name="btn_listen"><![CDATA[Ouça]]></string>
+    <string name="btn_next"><![CDATA[Seguinte]]></string>
+    <string name="btn_no"><![CDATA[Não]]></string>
+    <string name="btn_ok"><![CDATA[OK]]></string>
+    <string name="btn_page"><![CDATA[Página]]></string>
+    <string name="btn_retry"><![CDATA[Tente outra vez]]></string>
+    <string name="btn_send"><![CDATA[Enviar]]></string>
+    <string name="btn_share"><![CDATA[Partilhe]]></string>
+    <string name="btn_text_smart"><![CDATA[Fluxo Inteligente]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Cancele a assinatura]]></string>
+    <string name="btn_yes"><![CDATA[Sim]]></string>
+    <string name="bump_it"><![CDATA[Mova para o topo]]></string>
+    <string name="bump_it_counter"><![CDATA[Mova para o topo (%d)]]></string>
+    <string name="bumped"><![CDATA[Movido para o topo]]></string>
+    <string name="buncle_purchase_error_already_applied"><![CDATA[O plano já foi aplicado]]></string>
+    <string name="bundle_all_you_can_read_title"><![CDATA[Acesso Ilimitado]]></string>
+    <string name="bundle_cell_footer"><![CDATA[Renovação automática. Cancele a qualquer momento.]]></string>
+    <string name="bundle_cell_subtitle"><![CDATA[Assine & ler todas as publicações disponíveis]]></string>
+    <string name="bundle_empty_result"><![CDATA[Não foram encontradas assinaturas]]></string>
+    <string name="bundle_footer_text"><![CDATA[Os preços dos planos de assinatura são mensais recorrentes. Cancele a qualquer momento.  Pagamos aos editores por todas a edições lidas nos planos de assinatura mensal. <a href=\"pressreader://fair-usage\">Política de utilização responsável</a>. Todos os planos de assinatura destinam-se ao uso pessoal de um indivíduo. As taxas comerciais são baseadas no número de funcionários na sua organização.]]></string>
+    <string name="bundle_price_per_amount_months"><![CDATA[%1$s / %2$s meses]]></string>
+    <string name="bundle_price_per_bi_week"><![CDATA[%s / semanalmente]]></string>
+    <string name="bundle_price_per_bi_year"><![CDATA[%s / bi-anual]]></string>
+    <string name="bundle_price_per_half_year"><![CDATA[%s / semestre]]></string>
+    <string name="bundle_price_per_month"><![CDATA[%s / mês]]></string>
+    <string name="bundle_price_per_quarter"><![CDATA[%s / trimestre]]></string>
+    <string name="bundle_price_per_week"><![CDATA[%s / semana]]></string>
+    <string name="bundle_price_per_year"><![CDATA[%s / ano]]></string>
+    <string name="bundle_price_save"><![CDATA[(economize %s)]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Comprar %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Experimente gratuitamente por %1$s dias \nDepois %2$s.]]></string>
+    <string name="bundle_product_cancel"><![CDATA[Cancelar assinatura?]]></string>
+    <string name="bundle_purchase_error_registration_required"><![CDATA[Registo necessário]]></string>
+    <string name="bundle_purchase_error_unknown"><![CDATA[Erro inesperado ao comprar o produto. Por favor, tente novamente.]]></string>
+    <string name="bundle_title_subscription_subtitle"><![CDATA[Novas edições %s]]></string>
+    <string name="bundle_title_subscription_title"><![CDATA[%s assinatura]]></string>
+    <string name="business"><![CDATA[Negócio]]></string>
+    <string name="calendar_year_chunk_title"><![CDATA[%1$s - %2$s]]></string>
+    <string name="campaign_all_issues_claimed"><![CDATA[Todas as edições solicitadas]]></string>
+    <string name="campaign_all_issues_claimed_description"><![CDATA[Oh não! Todas estas edições já foram adquiridas. Ainda pode obter uma edição gratuita quando visitar um dos nossos HotSpots.]]></string>
+    <string name="categories"><![CDATA[Categorias]]></string>
+    <string name="channel"><![CDATA[Canais]]></string>
+    <string name="channel_feed"><![CDATA[Feed do canal]]></string>
+    <string name="channel_full_title"><![CDATA[%1$s at %2$s]]></string>
+    <string name="channels"><![CDATA[Canais]]></string>
+    <string name="channels_empty_result"><![CDATA[Canais não encontrados]]></string>
+    <string name="channels_other_sources"><![CDATA[Outras fontes]]></string>
+    <string name="channels_sources"><![CDATA[Fontes]]></string>
+    <string name="choose_publications"><![CDATA[Escolha publicações]]></string>
+    <string name="choose_your_plan"><![CDATA[Escolha seu plano]]></string>
+    <string name="city"><![CDATA[Cidade]]></string>
+    <string name="cleanup_never"><![CDATA[Nunca]]></string>
+    <string name="clear"><![CDATA[Limpar]]></string>
+    <string name="clear_history"><![CDATA[Limpar Histórico]]></string>
+    <string name="client_name_hint"><![CDATA[Nome do dispositivo]]></string>
+    <string name="close"><![CDATA[Fechar]]></string>
+    <string name="collection_options"><![CDATA[Opções de coleção]]></string>
+    <string name="collection_save"><![CDATA[Guardar]]></string>
+    <string name="collections"><![CDATA[Coleções]]></string>
+    <string name="collections_empty_result"><![CDATA[Coleções não encontradas]]></string>
+    <string name="com_appboy_feed_connection_error_body">Não é possível estabelecer uma conexão de rede. Tente novamente mais tarde.</string>
+    <string name="com_appboy_feed_connection_error_title">Erro de conexão</string>
+    <string name="com_appboy_feed_empty">Não temos nenhuma atualização. Verifique novamente mais tarde.</string>
+    <string name="comment_post"><![CDATA[Publicar]]></string>
+    <string name="comment_post_tip"><![CDATA[Diga algo...]]></string>
+    <string name="comment_url_copied_to_clipboard"><![CDATA[Texto do artigo foi copiado para a área de transferência]]></string>
+    <string name="commented"><![CDATA[Comentar]]></string>
+    <string name="comments"><![CDATA[Comentar]]></string>
+    <string name="company_address"><![CDATA[PressReader.com
+200-13111 Vanier Place
+Richmond BC V6V 2J1
+Canada]]></string>
+    <string name="company_hint"><![CDATA[Nome da empresa (opcional)]]></string>
+    <string name="complete_action_faild"><![CDATA[Não é possível concluir a ação]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Palavra-passe de confirmação]]></string>
+    <string name="confirmation"><![CDATA[Confirmação]]></string>
+    <string name="contact_us"><![CDATA[Contate-nos]]></string>
+    <string name="continue_reading"><![CDATA[Continuar lendo]]></string>
+    <string name="continue_with"><![CDATA[Continue com]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Texto do artigo foi copiado para a área de transferência]]></string>
+    <string name="copies_left"><![CDATA[%s cópias restantes]]></string>
+    <string msgid="3209159573327985035" name="copy">"Copiar"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Link copiado para a área de transferência"</string>
+    <string name="couldnt_find_any_stories"><![CDATA[Nós não conseguimos encontrar nenhuma
+história recente para esse tópico]]></string>
+    <string name="count_pages"><![CDATA[%d páginas]]></string>
+    <string name="countries"><![CDATA[Países]]></string>
+    <string name="country"><![CDATA[País]]></string>
+    <string name="crashreport_message"><![CDATA[A falha do aplicativo foi detetada.\nGostaria de fornecer ao construtor os dados técnicos relativos a esta falha, para que ele possa tentar reparar o problema?\nNenhum dado sensível do usuário está sendo enviado.]]></string>
+    <string name="create"><![CDATA[Criar]]></string>
+    <string name="create_new_collection"><![CDATA[Criar Nova Colecção]]></string>
+    <string name="creating_bookmark"><![CDATA[Criação de indicador]]></string>
+    <string name="credit_billing_address"><![CDATA[Endereço para facturação]]></string>
+    <string name="credit_card_cvv"><![CDATA[Código CVV]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Mês de expiração]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Ano de expiração]]></string>
+    <string name="credit_card_holder"><![CDATA[Titular do cartão]]></string>
+    <string name="credit_card_info"><![CDATA[%1$s (Termina em  %2$d/%3$d)]]></string>
+    <string name="credit_card_number"><![CDATA[N.º do cartão de crédito]]></string>
+    <string name="credit_card_type"><![CDATA[Cartão de crédito]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Escolha o cartão de crédito]]></string>
+    <string name="current_location"><![CDATA[Atual localização]]></string>
+    <string name="current_password"><![CDATA[Senha atual]]></string>
+    <string name="customer_service"><![CDATA[Atendimento ao Cliente]]></string>
+    <string name="data_storage_path"><![CDATA[Caminho de armazenamento de dados]]></string>
+    <string name="decrease_font"><![CDATA[Diminuir fonte]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ups! Não encontrámos o que procuras.]]></string>
+    <string name="default_device_name"><![CDATA[O meu dispositivo]]></string>
+    <string name="default_storage"><![CDATA[Armazenamento padrão]]></string>
+    <string name="delete_account"><![CDATA[Eliminar conta]]></string>
+    <string name="delete_account_confirmation_body"><![CDATA[A remoção completa dos seus dados pessoais demorará vários dias. Se subscreveu assinaturas através da sua conta app store, por favor faça o cancelamento através da app store.]]></string>
+    <string name="delete_account_confirmation_title"><![CDATA[Tem a certeza de que deseja eliminar a sua conta?]]></string>
+    <string name="delete_comment"><![CDATA[Comentário excluído]]></string>
+    <string name="delete_post_confirmation"><![CDATA[Você tem certeza de que deseja deletar o artigo?]]></string>
+    <string name="deleted_comment"><![CDATA[Comentário excluído]]></string>
+    <string name="description"><![CDATA[Descrição]]></string>
+    <string name="deselect_all"><![CDATA[Desmarcar Tudo]]></string>
+    <string name="device_management_date"><![CDATA[Ativo pela última vez: %s]]></string>
+    <string name="device_management_deauthorize"><![CDATA[Remover autorização]]></string>
+    <string name="device_management_dialog_message"><![CDATA[A autorização para este dispositivo será revogada. Para continuar lendo neste dispositivo, você terá que fazer login novamente.]]></string>
+    <string name="device_management_dialog_title"><![CDATA[Remover autorização %s?]]></string>
+    <string name="device_management_this_device"><![CDATA[Esse dispositivo]]></string>
+    <string name="dialogs_dlg_confirm_delete_collection"><![CDATA[Tem certeza que deseja excluir a coleção?]]></string>
+    <string name="dialogs_dlg_confirm_delete_comment"><![CDATA[Tem certeza que deseja excluir o comentário?]]></string>
+    <string name="dialogs_dlg_discard_changes"><![CDATA[Tem certeza que deseja descartar alterações?]]></string>
+    <string name="discover_gift"><![CDATA[Descobrir presentes]]></string>
+    <string name="dismiss"><![CDATA[Fechar]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[O streaming de áudio não está disponível para o artigo seleccionado.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Um erro ocorreu durante o playback do artigo.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Tem de activar o PressReader antes de o iniciar pela primeira vez. Por favor ligue-se à Internet e reinicie o PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Conectividade com o servidor limitada ou inexistente.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Sim, pretendo comprar esta edição anterior por %s]]></string>
+    <string name="dlg_confirm_delete_my_library_selected_items"><![CDATA[Excluir todos os itens selecionados de sua biblioteca?]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[A sua conta será cobrada em: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Quer transferir para o seu cartão SD todos os jornais dos quais fez download?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[Nenhum cartão SD detectado. Quer utilizar a memória interna para guardar os jornais?\n\nMemória disponível: %sMb, um jornal ocupa 5-50Mb.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[A sua subscrição está inactiva. Actualize a sua subscrição ou contacte a assistência ao cliente.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Por favor instale e configure o seu email para terminar esta operação.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Sem espaço no dispositivo. Remova o conteúdo do cartão SD.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[A funcionalidade de zoom só está disponível quando o download da edição estiver concluído.]]></string>
+    <string name="dlg_opening"><![CDATA[Processando…]]></string>
+    <string name="dlg_processing"><![CDATA[A processar…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Mostrar mais uma vez?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Sugestão]]></string>
+    <string name="do_you_want_move_files"><![CDATA[Deseja mover todos os arquivos para o novo local?]]></string>
+    <string name="documents"><![CDATA[Documentos]]></string>
+    <string name="dont_ask"><![CDATA[Não perguntar novamente]]></string>
+    <string name="dont_show_this_again"><![CDATA[Não mostre isso de novo]]></string>
+    <string name="download_wifi_only"><![CDATA[Download apenas por WiFi]]></string>
+    <string name="downloaded"><![CDATA[Minhas Edições]]></string>
+    <string name="downloading_large_file"><![CDATA[Download de arquivo]]></string>
+    <string name="downloading_new_issue"><![CDATA[A transferir novas edições]]></string>
+    <string name="dump_it"><![CDATA[Descarte]]></string>
+    <string name="dump_it_counter"><![CDATA[Contrapor (%d)]]></string>
+    <string name="edit"><![CDATA[Editar]]></string>
+    <string name="editions"><![CDATA[Edições]]></string>
+    <string name="editorial"><![CDATA[Editorial]]></string>
+    <string name="email"><![CDATA[E-mail]]></string>
+    <string name="email_address"><![CDATA[Endereço de e-mail]]></string>
+    <string name="email_communication"><![CDATA[Permitir comunicação por email:]]></string>
+    <string name="email_communication_account"><![CDATA[Serviço (recomendado)]]></string>
+    <string name="email_communication_account_description"><![CDATA[Edições favoritas, tópicos e detalhes da conta]]></string>
+    <string name="email_communication_promo"><![CDATA[Atualizações de produtos]]></string>
+    <string name="email_communication_promo_description"><![CDATA[Novos títulos, atualizações de recursos e outras informações.]]></string>
+    <string name="email_communication_title"><![CDATA[Comunicação por email]]></string>
+    <string name="email_hint"><![CDATA[Endereço de e-mail]]></string>
+    <string name="enter_billing_info"><![CDATA[Dados para facturação...]]></string>
+    <string name="enter_or_paste_url"><![CDATA[Cole a URL no seu leitor]]></string>
+    <string name="entertainment"><![CDATA[Entretenimento]]></string>
+    <string name="error_access_account"><![CDATA[Há um problema no acesso a sua conta no Pressreader]]></string>
+    <string name="error_access_not_available"><![CDATA[Você não pode fazer login neste dispositivo]]></string>
+    <string name="error_access_token_expired"><![CDATA[Um token de acesso não pode ser obtido. Autorize novamente o uso de sistema de autorização externo.]]></string>
+    <string name="error_access_token_from_diff_account"><![CDATA[A identificação de usuário externo associada com a conta Pressreader não confere com a identificação do usuário logado com o sistema externo]]></string>
+    <string name="error_account_is_used_for_singin"><![CDATA[O perfil já está vinculado a esta conta]]></string>
+    <string name="error_auhtorize_one_more_time"><![CDATA[Entre em sua conta mais uma vez]]></string>
+    <string name="error_bookmark_limit_exceeded"><![CDATA[Desculpe, você excedeu o número de favoritos permitidos para esta edição.]]></string>
+    <string name="error_bookmark_limit_per_issue_exceeded"><![CDATA[Desculpe, você excedeu o número de favoritos permitidos para esta edição.]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Não é possível concluir a compra.]]></string>
+    <string name="error_collection_name_not_empty"><![CDATA[O nome da coleção não pode ficar vazio]]></string>
+    <string name="error_connection"><![CDATA[Não foi possível estabelecer ligação de rede.]]></string>
+    <string name="error_contacting_server"><![CDATA[Não é possível ligar ao servidor.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Não é possível ligar ao servidor. Tente novamente.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[O tipo de cartão de crédito não corresponde ao número do cartão de crédito]]></string>
+    <string name="error_device_authorization"><![CDATA[Falha ao autorizar o dispositivo.]]></string>
+    <string name="error_device_authorization_signin"><![CDATA[O acesso anônimo falhou, por favor entre com sua conta pessoal]]></string>
+    <string name="error_dialog_title"><![CDATA[Erro]]></string>
+    <string name="error_email_exists"><![CDATA[Já existe uma conta com esse email.]]></string>
+    <string name="error_email_exists_restore_password"><![CDATA[Parece que você já tem uma conta.]]></string>
+    <string name="error_email_in_use"><![CDATA[E-mail já em uso]]></string>
+    <string name="error_empty_city"><![CDATA[Tem de indicar a cidade]]></string>
+    <string name="error_empty_clientname"><![CDATA[Por favor preencha o Nome do Dispositivo.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Tem de indicar a palavra-passe de confirmação]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[Tem de indicar o código CVV]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Tem de indicar o titular do cartão]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Tem de indicar o n.º do cartão de crédito]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Tem de indicar o endereço]]></string>
+    <string name="error_empty_email"><![CDATA[Tem de indicar o e-mail]]></string>
+    <string name="error_empty_field"><![CDATA[Este campo não deveria estar vazio]]></string>
+    <string name="error_empty_first_name"><![CDATA[Tem de indicar o nome]]></string>
+    <string name="error_empty_last_name"><![CDATA[Tem de indicar o apelido]]></string>
+    <string name="error_empty_password"><![CDATA[Por favor preencha o campo de Password.]]></string>
+    <string name="error_empty_password2"><![CDATA[Tem de indicar a palavra-passe]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Tem de indicar o número de telefone]]></string>
+    <string name="error_empty_required"><![CDATA[Tem de preencher o campo]]></string>
+    <string name="error_empty_state"><![CDATA[Tem de indicar o distrito]]></string>
+    <string name="error_empty_username"><![CDATA[Por favor preencha o campo de User name.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Tem de indicar o código postal]]></string>
+    <string name="error_expiration_date"><![CDATA[Data de vencimento do cartão de crédito inválida]]></string>
+    <string name="error_externalauth_500"><![CDATA[Um erro ocorreu, tente novamente.]]></string>
+    <string name="error_invalid_email"><![CDATA[Tem de utilizar um endereço de e-mail válido]]></string>
+    <string name="error_issue_is_archive"><![CDATA[Edições arquivadas são limitadas para download]]></string>
+    <string name="error_linked_to_another_account"><![CDATA[Esta conta já está em uso]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Os ficheiros desta publicação estão incompletos. Tente fazer novamente o download desta publicação.]]></string>
+    <string name="error_network_error"><![CDATA[Erro de rede]]></string>
+    <string name="error_nickname_exists"><![CDATA[Uma conta com esse apelido já existe]]></string>
+    <string name="error_no_internet_connection"><![CDATA[Ligação à Internet indisponível]]></string>
+    <string name="error_no_internet_connection_description"><![CDATA[Conecte-se ao Wi-Fi ou ative os dados móveis para o PressReader.]]></string>
+    <string name="error_ordering_issue"><![CDATA[Não é possível pedir a edição. Contacte a assistência técnica.]]></string>
+    <string name="error_password_required"><![CDATA[O campo da palavra-passe é de preenchimento obrigatório]]></string>
+    <string name="error_password_short"><![CDATA[Por favor assegure-se de que a senha tenha pelo menos 6 caracteres]]></string>
+    <string name="error_passwords_not_match"><![CDATA[As palavras-passe não são iguais]]></string>
+    <string name="error_please_reset_activation"><![CDATA[Por favor, reinicie sua ativação]]></string>
+    <string name="error_post_empty"><![CDATA[Você não pode publicar uma postagem vazia]]></string>
+    <string name="error_problem_internet_connection"><![CDATA[Parece haver um problema com a sua conexão de internet]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Para adquirir esta edição, forneça um número de cartão de crédito válido em www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Para adquirir esta edição, forneça um número de cartão de crédito válido em www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[As edições arquivadas estão restritas para download]]></string>
+    <string name="error_request_access_result_410"><![CDATA[O título seleccionado não está disponível para download de acordo com o pedido do editor]]></string>
+    <string name="error_request_access_result_411"><![CDATA[O título seleccionado não está disponível para download de acordo com o pedido do editor]]></string>
+    <string name="error_request_access_result_420"><![CDATA[É proibido transferir o conteúdo actual no actual website]]></string>
+    <string name="error_request_access_result_450"><![CDATA[É proibido ler/transferir o conteúdo actual a partir da sua actual localização]]></string>
+    <string name="error_request_access_result_451"><![CDATA[É proibido ler/transferir o conteúdo actual a partir da sua actual localização]]></string>
+    <string name="error_response_200"><![CDATA[Outro dispositivo com este nome já esta´activado para esta conta. Por favor escolha um nome de dispositivo diferente.]]></string>
+    <string name="error_response_201"><![CDATA[Você excedeu o número de dispositivos que pode usar com esta conta. Desautorize um de seus dispositivos ativos.]]></string>
+    <string name="error_searching"><![CDATA[Desculpe, não foi possível encontrar nenhum resultado para \"%1$s\".]]></string>
+    <string name="error_storage_not_available"><![CDATA[O armazenamento SD não está disponível]]></string>
+    <string name="error_try_again"><![CDATA[Tente novamente]]></string>
+    <string name="error_tts_not_supported"><![CDATA[O recurso Leitura de Texto não é suportado. Por favor, altere para streaming de rádio online]]></string>
+    <string name="error_unexpected_error"><![CDATA[Erro não esperado]]></string>
+    <string name="error_update_subscription_change_billing_info"><![CDATA[Os seus detalhes de pagamento estão desatualizados ou imcompletos]]></string>
+    <string name="error_user_authorization"><![CDATA[A autorização falhou. Por favor verifique o seu user name e password.]]></string>
+    <string name="error_user_name_in_use"><![CDATA[Um perfil de compartilhamento com o mesmo ID externo já existe.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[O dispositivo já está autorizado com estas credenciais.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[O Código Promocional que introduziu não está correcto]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avançado"</string>
+    <string name="expiration_date"><![CDATA[Data de validade]]></string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Copiar link"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Abrir no navegador"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Compartilhar link"</string>
+    <string name="featured"><![CDATA[Destaques]]></string>
+    <string name="featured_articles"><![CDATA[Artigos em destaque]]></string>
+    <string name="featured_by"><![CDATA[Em destaque por]]></string>
+    <string name="financial"><![CDATA[Financeiro]]></string>
+    <string name="first_name_hint"><![CDATA[Primeiro nome/Nome próprio]]></string>
+    <string name="follow"><![CDATA[Seguir]]></string>
+    <string name="followers"><![CDATA[Seguidores]]></string>
+    <string name="following"><![CDATA[A seguir]]></string>
+    <string name="for_hotspot_sponsors_body"><![CDATA[Acolhemos positivamente novos parceiros para explorar oportunidades empolgantes para expor as marcas deles através de centenas de locais de HotSpot. Fale conosco para saber detalhes.]]></string>
+    <string name="for_hotspotsponsors"><![CDATA[Para patrocinadores de HotSpot]]></string>
+    <string name="for_publishers"><![CDATA[Para Editores]]></string>
+    <string name="for_publishers_body"><![CDATA[Junte-se a %1$s hoje!\nFale conosco pelo %2$s para ampliar seu alcance, aumentar seu público e diversificar oportunidades de receita com a solução de plataforma cruzada única do PressReader\!]]></string>
+    <string name="for_you"><![CDATA[Para si]]></string>
+    <string name="for_you_as_start_screen"><![CDATA[Gostaria de definir \"Para Você\" como tela inicial?]]></string>
+    <string name="forgot_password"><![CDATA[Esqueceu-se da palavra-passe?]]></string>
+    <string name="free_magazines"><![CDATA[Revistas gratuitas]]></string>
+    <string name="free_newspapers"><![CDATA[Jornais gratuitos]]></string>
+    <string name="free_of_total"><![CDATA[%1$s gratuito de %2$s]]></string>
+    <string name="free_titles_20char_max"><![CDATA[Títulos gratuitos]]></string>
+    <string name="full_sreen_setting"><![CDATA[Tela cheia]]></string>
+    <string name="full_sreen_setting_description"><![CDATA[Toque uma vez para ativar o modo de tela cheia]]></string>
+    <string name="gathering_logs"><![CDATA[Coletando registros...]]></string>
+    <string name="general"><![CDATA[Geral]]></string>
+    <string name="general_information"><![CDATA[Informações gerais]]></string>
+    <string name="genres"><![CDATA[Gêneros]]></string>
+    <string name="get_latest_news_updates_and_new_issue_alerts"><![CDATA[Receba as últimas notícias e alertas de novas edições, bem como promoções exclusivas]]></string>
+    <string name="get_your_free_copy"><![CDATA[Receba uma cópia gratuita]]></string>
+    <string name="gift_campaign_disclaimer"><![CDATA[Ao receber este presente, concorda que podemos ocasionalmente enviar-lhe informações de promoções através do sistema PressReader]]></string>
+    <string name="gift_congratulation"><![CDATA[Parabéns! Você recebeu uma cópia gratuita de %s]]></string>
+    <string name="gift_start_in"><![CDATA[Você pode começar a ler em %d]]></string>
+    <string name="gift_start_reading"><![CDATA[Começar a ler]]></string>
+    <string name="go_premium"><![CDATA[Seja Premium]]></string>
+    <string name="go_premium_ad1"><![CDATA[Assine & escolha entre milhares de publicações]]></string>
+    <string name="go_premium_ad2"><![CDATA[Experimente grátis por {duration} dias]]></string>
+    <string name="go_premium_ad2_line2"><![CDATA[Regularmente <a href=\\"\\">{price}/Mês</a>]]></string>
+    <string name="go_premium_ad2_notrial"><![CDATA[Use em até 5 aparelhos]]></string>
+    <string name="go_premium_ad3"><![CDATA[Cancele a qualquer momento]]></string>
+    <string name="go_premium_buy_with_pressreader"><![CDATA[Ou comprar com Pressreader]]></string>
+    <string name="go_premium_get_this_issue"><![CDATA[Obtenha esta publicação]]></string>
+    <string name="go_premium_issue_subscription_details_format"><![CDATA[Novas edições %1$s]]></string>
+    <string name="go_premium_issue_subscription_payment_period"><![CDATA[/Mês]]></string>
+    <string name="go_premium_issue_subscription_payment_period_every_days"><![CDATA[/%d dias]]></string>
+    <string name="go_premium_issue_subscription_payment_period_months"><![CDATA[/%d meses]]></string>
+    <string name="go_premium_issue_subscription_payment_period_year"><![CDATA[/anos]]></string>
+    <string name="go_premium_price"><![CDATA[{price}/Mês]]></string>
+    <string name="go_premium_start_free_trial"><![CDATA[Iniciar acesso gratuito]]></string>
+    <string name="grant_permission"><![CDATA[Conceder permissão]]></string>
+    <string name="grid"><![CDATA[Grade]]></string>
+    <string name="help_center"><![CDATA[Centro de Ajuda]]></string>
+    <string name="history"><![CDATA[Histórico]]></string>
+    <string name="holt_to_select"><![CDATA[Segurar para selecionar]]></string>
+    <string name="home_choose_publications_text"><![CDATA[As últimas edições das publicações que segue aparecem aqui]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hot_zone_description"><![CDATA[Receba acesso de cortesia a jornais e revitas em locais HotSpot patrocinados]]></string>
+    <string name="hotspot_complementary_reading"><![CDATA[Leitura gratuita]]></string>
+    <string name="hotspot_content"><![CDATA[Conteúdo HotSpot]]></string>
+    <string name="hotspot_enable_bluetooth"><![CDATA[Ative o Bluetooth e você será notificado quando estiver em uma rede HotSpot.]]></string>
+    <string name="hotspot_enable_gifts"><![CDATA[Permitir presentes]]></string>
+    <string name="hotspot_enable_gifts_action"><![CDATA[Configurações do Dispositivo]]></string>
+    <string name="hotspot_enable_local_services"><![CDATA[Serviços de Localização]]></string>
+    <string name="hotspot_enable_location"><![CDATA[Ative os serviços de localização e defina-os como \"Ao utilizar a aplicação\" para descobrir conteúdo especial.]]></string>
+    <string name="hotspot_enable_location_application"><![CDATA[Permita a localização na permissão do aplicativo.]]></string>
+    <string name="hotspot_learnmore_long"><![CDATA[Ative os serviços de localização e defina como \"Sempre permitir\" para conectar-se e desfrutar de acesso gratuito quando estiver perto de pontos de acesso patrocinados em bibliotecas, hotéis, aeroportos, cias aéreas e cruzeiros. Saiba mais em <a href=\"pressreader://hotspot-settings\">HotSpot Settings</a>]]></string>
+    <string name="hotspot_nearby_offline"><![CDATA[Há um HotSpot do PressReader próximo. Fique online para usá-lo.]]></string>
+    <string name="hotspot_novisible"><![CDATA[Não há HotSpots nessa área]]></string>
+    <string name="hotspot_off"><![CDATA[Desligado]]></string>
+    <string name="hotspot_public"><![CDATA[Público]]></string>
+    <string name="hotspot_restricted"><![CDATA[Restrito]]></string>
+    <string name="hotspothub_title"><![CDATA[Mapa HotSpot]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="hotspotmap_more_locations"><![CDATA[%d mais HotSpots]]></string>
+    <string name="hotspotmap_sponsor"><![CDATA[Patrocine um HotSpot]]></string>
+    <string name="hotspots"><![CDATA[Hotspots]]></string>
+    <string name="hotspots_general"><![CDATA[Use esse mapa para encontrar redes Wi-Fi próximas que oferecem acesso patrocinado para centenas de publicações que você ama em %s.]]></string>
+    <string name="hotspots_listheader"><![CDATA[Os HotSpots são agrupados juntos no mapa.\nClique em um pino sombreado para ver os outros próximos ou amplie.]]></string>
+    <string name="hour_ago"><![CDATA[%d hora atrás]]></string>
+    <string name="hours_ago"><![CDATA[%d horas atrás]]></string>
+    <string name="image_caption_optional"><![CDATA[Legenda da imagem]]></string>
+    <string name="imei_required"><![CDATA[Edições baixadas previamente são protegidas pela ID do seu dispositivo. Precisaremos da ID do dispositivo para abri-lo pra você. Gostaria de conceder permissão?]]></string>
+    <string name="include_supplements"><![CDATA[Incluir suplementos]]></string>
+    <string name="increase_font"><![CDATA[Aumentar fonte]]></string>
+    <string name="information"><![CDATA[Informação]]></string>
+    <string name="instagram"><![CDATA[Instagram]]></string>
+    <string name="install_fullversion"><![CDATA[Instalar PressReader]]></string>
+    <string name="international"><![CDATA[Internacional]]></string>
+    <string name="issue_purchase_confirmation_title"><![CDATA[Gostaria de comprar esta edição?]]></string>
+    <string name="issues"><![CDATA[edições]]></string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"em <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"às <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="join_the_discussion"><![CDATA[Junte-se à discussão]]></string>
+    <string name="just_added"><![CDATA[Adicionado]]></string>
+    <string name="keep_back_issues"><![CDATA[Manter %d edições anteriores]]></string>
+    <string name="label_pause"><![CDATA[Pausa]]></string>
+    <string name="label_play"><![CDATA[Reproduzir]]></string>
+    <string name="language_not_supported"><![CDATA[Sem suporte para o idioma]]></string>
+    <string name="languages"><![CDATA[Línguas]]></string>
+    <string name="languages_zt"><![CDATA[Chinês (Tradicional)]]></string>
+    <string name="last_account_for_signin"><![CDATA[Não é possível desvincular uma conta que você usa para fazer logon no PressReader.]]></string>
+    <string name="last_name_hint"><![CDATA[Último nome/Apelido]]></string>
+    <string name="latest_news"><![CDATA[Últimas notícias]]></string>
+    <string name="learn_more"><![CDATA[Saber mais]]></string>
+    <string name="legal"><![CDATA[Legal]]></string>
+    <string name="limited_publications_dialog_message"><![CDATA[Esta edição estará disponível até %s]]></string>
+    <string name="list"><![CDATA[Selecionado]]></string>
+    <string name="load_stories"><![CDATA[Carregar mais stories]]></string>
+    <string name="loading_books"><![CDATA[Carregando livros]]></string>
+    <string name="loading_comments"><![CDATA[Carregando comentários]]></string>
+    <string name="loading_labels"><![CDATA[Carregando rótulos]]></string>
+    <string name="loading_publications"><![CDATA[Carregando publicações]]></string>
+    <string name="local_store_nothing_found"><![CDATA[Nenhuma publicação encontrada]]></string>
+    <string name="local_store_title"><![CDATA[Publicações]]></string>
+    <string name="location_permission_dialog_title"><![CDATA[É gratuito?]]></string>
+    <string name="lock"><![CDATA[Bloqueio]]></string>
+    <string name="login_id"><![CDATA[ID de logon]]></string>
+    <string name="magazines"><![CDATA[Revistas]]></string>
+    <string name="main_search"><![CDATA[Busca]]></string>
+    <string name="main_settings"><![CDATA[Definições]]></string>
+    <string name="main_title_and_supplements"><![CDATA[Título principal e suplementos]]></string>
+    <string name="main_title_only"><![CDATA[Título principal apenas]]></string>
+    <string name="make_public"><![CDATA[Tornar público]]></string>
+    <string name="manage"><![CDATA[Gerenciar]]></string>
+    <string name="manage_devices"><![CDATA[Gerenciar dispositivos]]></string>
+    <string name="maybe_later"><![CDATA[Talvez mais tarde]]></string>
+    <string name="media_000"><![CDATA[00:00]]></string>
+    <string name="menu_copy"><![CDATA[Copiar]]></string>
+    <string name="menu_issue_open"><![CDATA[Abrir]]></string>
+    <string name="menu_issue_open_with_premium"><![CDATA[Leia com Premium]]></string>
+    <string name="menu_issue_read"><![CDATA[Ler]]></string>
+    <string name="migration_sign_in"><![CDATA[Nossa atualização mais recente do aplicativo requer reativação da conta.\n\nFaça login para continuar desfrutando %s.]]></string>
+    <string name="minutes"><![CDATA[%d minutos]]></string>
+    <string name="minutes_ago"><![CDATA[%d Minutos atrás]]></string>
+    <string name="minutes_one"><![CDATA[1 minuto]]></string>
+    <string name="monitors"><![CDATA[Meus Tópicos]]></string>
+    <string name="more"><![CDATA[Mais]]></string>
+    <string name="more_about"><![CDATA[Sobre]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="more_by_author_format"><![CDATA[More by %s]]></string>
+    <string name="more_from_series"><![CDATA[Mais desta série]]></string>
+    <string name="more_genre_format"><![CDATA[Mais %s]]></string>
+    <string name="more_send_us_feedback"><![CDATA[Envie-nos o seu feedback]]></string>
+    <string name="more_send_us_feedback_logs"><![CDATA[Gostaria de enviar registros técnicos juntos à sua opinião?]]></string>
+    <string name="more_settings"><![CDATA[Ajustes]]></string>
+    <string name="most_current"><![CDATA[Mais Atual]]></string>
+    <string name="most_popular"><![CDATA[Mais Popular]]></string>
+    <string name="most_recently_published"><![CDATA[Mais recente]]></string>
+    <string name="most_relevant"><![CDATA[Mais relevante]]></string>
+    <string name="my_account"><![CDATA[Contas]]></string>
+    <string name="my_collections"><![CDATA[Minhas coleções]]></string>
+    <string name="my_downloads"><![CDATA[Meus Downloads]]></string>
+    <string name="my_downloads_placeholder"><![CDATA[Downloads\naparecerão aqui]]></string>
+    <string name="my_library_noitems"><![CDATA[Não há itens na biblioteca.]]></string>
+    <string name="my_opinions"><![CDATA[Minhas opiniões]]></string>
+    <string name="my_profile"><![CDATA[O meu perfil]]></string>
+    <string name="my_publication"><![CDATA[Minha Publicação]]></string>
+    <string name="my_publications"><![CDATA[Minhas Publicações]]></string>
+    <string name="name"><![CDATA[Nome]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Navegar para cima"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Abrir gaveta de navegação"</string>
+    <string name="navigate_external_link"><![CDATA[O link leva você a um site fora do PressReader. Abrir em seu navegador?\n%s]]></string>
+    <string name="navigation_home"><![CDATA[Home]]></string>
+    <string name="navigation_more"><![CDATA[Mais]]></string>
+    <string name="navigation_my_library"><![CDATA[As minhas edições]]></string>
+    <string name="nearby_gifts"><![CDATA[Presentes próximos]]></string>
+    <string name="nearby_gifts_description"><![CDATA[Criamos uma rede de HotSpots onde você pode ler e baixar edições completas. Procure por uma perto de você.]]></string>
+    <string name="new_article_view"><![CDATA[Texto em Fluxo Inteligente]]></string>
+    <string name="new_article_view_description"><![CDATA[Leia artigos em um feed de texto contínuo. Funcionalidades como Página Inicial, Meus Tópicos, Minhas Colecções e Tradução exigem que SmartFlow esteja ativado.]]></string>
+    <string name="new_collection_name"><![CDATA[Nome da coleção]]></string>
+    <string name="new_comment"><![CDATA[Novo comentário]]></string>
+    <string name="new_issues_will_be_automatically_downloaded"><![CDATA[Novos exemplares serão baixados automaticamente e adicionados à sua biblioteca.]]></string>
+    <string name="new_password"><![CDATA[Nova senha]]></string>
+    <string name="new_post"><![CDATA[Nova postagem]]></string>
+    <string name="new_post_text_hint"><![CDATA[Escreva sua história aqui]]></string>
+    <string name="new_post_title_hint"><![CDATA[Título]]></string>
+    <string name="new_releases"><![CDATA[Novos Lançamentos]]></string>
+    <string name="new_user_header"><![CDATA[Fale-nos um pouco sobre você. Criaremos um apelido público. Você pode mudar depois.]]></string>
+    <string name="news"><![CDATA[Notícias]]></string>
+    <string name="news_digest"><![CDATA[Resumo das Notícias]]></string>
+    <string name="news_digest_description"><![CDATA[Um resumo regular de notícias e conteúdo recomendado para mantê-lo(a) atualizado(a)]]></string>
+    <string name="newsfeed"><![CDATA[Página Inicial]]></string>
+    <string name="newsfeed_as_start_screen"><![CDATA[Gostaria de tornar o feed inicial em sua tela de início?]]></string>
+    <string name="newsfeed_more_stories"><![CDATA[Veja mais histórias]]></string>
+    <string name="newsfeed_recommended_card_empty"><![CDATA[Não selecionou nenhum interesse]]></string>
+    <string name="newsfeed_recommended_card_empty_description"><![CDATA[Adicione interesses para personalizar sua experiência de leitura e obter recomendações mais relevantes]]></string>
+    <string name="newsfeed_recommended_card_halfempty"><![CDATA[Não conseguimos encontrar nenhuma notícia]]></string>
+    <string name="newsfeed_recommended_card_halfempty_action"><![CDATA[Siga mais interesses]]></string>
+    <string name="newsfeed_recommended_card_halfempty_description"><![CDATA[Adicione mais interesses para personalizar sua experiência de leitura e obter recomendações mais relevantes]]></string>
+    <string name="newsfeed_recommended_card_subtitle"><![CDATA[As melhores histórias de seus interesses e publicações favoritas.]]></string>
+    <string name="newspaper_details_label"><![CDATA[Suas últimas edições]]></string>
+    <string name="newspaper_download_progress_content_description_downloaded"><![CDATA[Baixado]]></string>
+    <string name="newspapers"><![CDATA[Jornais]]></string>
+    <string name="newsstand"><![CDATA[Quiosque]]></string>
+    <string name="nickname"><![CDATA[Apelido]]></string>
+    <string name="no_new_stories"><![CDATA[Nenhuma reportagem nova]]></string>
+    <string name="no_password_yet"><![CDATA[Ainda sem senha]]></string>
+    <string name="no_radio"><![CDATA[Rádio não está disponível para a questão]]></string>
+    <string name="no_thanks"><![CDATA[Não, obrigado]]></string>
+    <string name="no_updates"><![CDATA[Nenhuma atualização]]></string>
+    <string name="no_updates_on_opinions"><![CDATA[Nenhuma atividade em nenhuma de suas opiniões]]></string>
+    <string name="not_posted_yet"><![CDATA[Ainda não publicado]]></string>
+    <string msgid="478774118347071097" name="not_set">"Não definido"</string>
+    <string name="now_on"><![CDATA[Agora em]]></string>
+    <string name="obituaries"><![CDATA[Obituários]]></string>
+    <string name="oem_channels_title"><![CDATA[Últimas notícias]]></string>
+    <string name="oem_empty_feed"><![CDATA[Não há conteúdo on-line disponível nas\nsuas publicações]]></string>
+    <string name="oem_home_choose_publications_text"><![CDATA[As últimas edições e notícias das\npublicações que segue\naparecem aqui]]></string>
+    <string name="oem_onboarding_header"><![CDATA[Siga as suas publicações favoritas]]></string>
+    <string name="oem_payment_options_restore_purchases_restore_purchases"><![CDATA[Recuperar compras]]></string>
+    <string name="oem_payment_options_restore_purchases_title"><![CDATA[Já tem uma assinatura?]]></string>
+    <string name="oem_recommended_newspaper_header"><![CDATA[Mais publicações]]></string>
+    <string name="oem_subscribed_newspapers_header"><![CDATA[Na sua assinatura]]></string>
+    <string name="off"><![CDATA[Desligado]]></string>
+    <string name="offers_and_promotions"><![CDATA[Ofertas e promoções]]></string>
+    <string name="offers_and_promotions_description"><![CDATA[Ofertas especiais e promoções %s]]></string>
+    <string name="offline_item_click_promt"><![CDATA[O aplicativo parece estar offline. Verifique sua rede e conexões Wi-Fi e tente novamente.]]></string>
+    <string name="on"><![CDATA[LIGADO]]></string>
+    <string name="onboarding_add_interests"><![CDATA[Adicionar mais interesses]]></string>
+    <string name="onboarding_authorization_email"><![CDATA[Email]]></string>
+    <string name="onboarding_authorization_email_content_description"><![CDATA[Email]]></string>
+    <string name="onboarding_authorization_facebook"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_facebook_content_description"><![CDATA[Facebook]]></string>
+    <string name="onboarding_authorization_google"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_google_content_description"><![CDATA[Google]]></string>
+    <string name="onboarding_authorization_library"><![CDATA[Biblioteca ou Grupo]]></string>
+    <string name="onboarding_authorization_library_content_description"><![CDATA[Biblioteca]]></string>
+    <string name="onboarding_authorization_or"><![CDATA[Ou]]></string>
+    <string name="onboarding_authorization_sign_in_or_create"><![CDATA[Faça login ou crie uma conta para salvar notícias e interesses em seu perfil]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_humanised"><![CDATA[Quase lá! Crie sua conta ou faça login para salvar seus interesses]]></string>
+    <string name="onboarding_authorization_sign_in_or_create_short"><![CDATA[Faça login ou crie uma conta]]></string>
+    <string name="onboarding_authorization_skip"><![CDATA[Pular]]></string>
+    <string name="onboarding_authorization_twitter"><![CDATA[Twitter]]></string>
+    <string name="onboarding_authorization_twitter_content_description"><![CDATA[Twitter]]></string>
+    <string name="onboarding_choose_interests"><![CDATA[Escolha os seus interesses]]></string>
+    <string name="onboarding_choose_publications"><![CDATA[Siga as publicações]]></string>
+    <string name="onboarding_continue"><![CDATA[Continuar]]></string>
+    <string name="onboarding_done"><![CDATA[Feito]]></string>
+    <string name="onboarding_edit_interests"><![CDATA[Editar interesses]]></string>
+    <string name="onboarding_error_searching_interests"><![CDATA[Não foi possível encontrar nenhum interesse para  \\"%1$s\\".]]></string>
+    <string name="onboarding_error_searching_publications"><![CDATA[Desculpe-nos, não encontramos nenhuma publicação para \\"%1$s\\".]]></string>
+    <string name="onboarding_error_text"><![CDATA[Ocorreu um erro ao carregar o conteúdo.\nNDesculpe, tente novamente.]]></string>
+    <string name="onboarding_finished_banner_action"><![CDATA[Entendi]]></string>
+    <string name="onboarding_finished_banner_text"><![CDATA[À medida que você lê, o PressReader continuará aprendendo e se adaptando aos seus gostos pessoais]]></string>
+    <string name="onboarding_finished_banner_title"><![CDATA[Está tudo configurado]]></string>
+    <string name="onboarding_get_started"><![CDATA[Iniciar]]></string>
+    <string name="onboarding_have_an"><![CDATA[Já possui uma conta?]]></string>
+    <string name="onboarding_have_an_account_sign_in"><![CDATA[Tem uma conta? <a href=\\"pressreader_authorize://authorize\\">Entrar</a>]]></string>
+    <string name="onboarding_interest_search_placeholder_1"><![CDATA[Viagem]]></string>
+    <string name="onboarding_interest_search_placeholder_2"><![CDATA[Design]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_interests_header"><![CDATA[Escolha os interesses que deseja seguir para obter notícias e artigos mais relevantes.]]></string>
+    <string name="onboarding_intro_text"><![CDATA[%s agora permite que\nescolha os seus interesses para obter mais\nnotícias e artigos relevantes.]]></string>
+    <string name="onboarding_intro_title"><![CDATA[Novo nesta atualização]]></string>
+    <string name="onboarding_open_banner_action"><![CDATA[Personalize os seus Interesses]]></string>
+    <string name="onboarding_open_banner_text"><![CDATA[Obtenha jornais e revistas ainda mais relevantes ao escolher seus interesses]]></string>
+    <string name="onboarding_open_banner_text_humanised"><![CDATA[Conte-nos seus interesses e nós recomendaremos as melhores notícias e publicações para você]]></string>
+    <string name="onboarding_open_banner_title"><![CDATA[Melhore a sua experiência]]></string>
+    <string name="onboarding_open_banner_title_humanised"><![CDATA[Que notícias são importantes para você?]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="onboarding_publications_header"><![CDATA[Aqui estão alguns jornais e revistas que achamos que você pode gostar. Toque nas capas para seguir.]]></string>
+    <string name="onboarding_search_for_interests"><![CDATA[Pesquisar por interesses]]></string>
+    <string name="onboarding_search_for_publications"><![CDATA[Buscar publicações]]></string>
+    <string name="onboarding_searching_interests"><![CDATA[Pesquisando interesses]]></string>
+    <string name="onboarding_searching_publications"><![CDATA[Pesquisando publicações]]></string>
+    <string name="onboarding_splash_text"><![CDATA[Descubra os melhores jornais e revistas do mundo]]></string>
+    <string name="onboarding_you_can_search_for_things"><![CDATA[Você pode pesquisar coisas como]]></string>
+    <string name="one_column"><![CDATA[1 coluna]]></string>
+    <string name="online_stories"><![CDATA[Conteúdo online]]></string>
+    <string name="open_external_browser_hint"><![CDATA[Abrir no navegador externo]]></string>
+    <string name="opinion_activity"><![CDATA[Actividade]]></string>
+    <string name="opinion_contributors"><![CDATA[Contribuidores de opiniões]]></string>
+    <string name="opinion_feed"><![CDATA[Feed de opiniões]]></string>
+    <string name="opinion_leader"><![CDATA[Líderes de Opinião]]></string>
+    <string name="opinion_leaders"><![CDATA[Líderes de Opinião]]></string>
+    <string name="opinion_leaders_empty"><![CDATA[Não há líderes de opiniões nessa área]]></string>
+    <string name="opinion_list_empty"><![CDATA[Não há opiniões nessa área]]></string>
+    <string name="opinion_trends"><![CDATA[Tendências de Opinião]]></string>
+    <string name="opinions"><![CDATA[Opiniões]]></string>
+    <string name="option_leaders_count"><![CDATA[%d Líderes de opiniões]]></string>
+    <string name="order_buy_latest_issue"><![CDATA[Comprar última edição]]></string>
+    <string name="order_buy_this_issue"><![CDATA[Comprar esta edição]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Incluir todos os suplementos]]></string>
+    <string name="order_latest_issue"><![CDATA[Últimas edições]]></string>
+    <string name="order_open_payment_options"><![CDATA[Ver todas as opções de pagamento]]></string>
+    <string name="order_open_purchase_options"><![CDATA[Ver todas as opções de compra]]></string>
+    <string name="order_subscribe"><![CDATA[Entrega automática de todas as novas edições]]></string>
+    <string name="order_this_issue"><![CDATA[Essa edição]]></string>
+    <string name="other_issues"><![CDATA[Últimas edições]]></string>
+    <string name="page_selected"><![CDATA[1 página selecionada]]></string>
+    <string name="page_set_saved"><![CDATA[Salvo %s]]></string>
+    <string name="page_view"><![CDATA[Ver página]]></string>
+    <string name="pages_selected"><![CDATA[%s páginas selecionadas]]></string>
+    <string name="password_changed"><![CDATA[Alterado %s]]></string>
+    <string name="password_hint"><![CDATA[Senha]]></string>
+    <string name="password_recovery"><![CDATA[Recuperação da palavra-chave]]></string>
+    <string name="password_recovery_description"><![CDATA[Por favor, insira o endereço de e-mail que usou para se inscrever na sua conta. Iremos enviar e-mail com as instruções sobre como redefinir a sua palavra-passe para esse endereço.]]></string>
+    <string name="password_recovery_success"><![CDATA[Se <b>%1$s</b> corresponder ao endereço de e-mail em sua conta, então enviaremos instruções de redefinição de senha para você.  Para alterar sua senha:  1. Verifique seu e-mail em <b>%1$s</b>  2. Siga o link <br>]]></string>
+    <string name="payment_billing_issue"><![CDATA[Edição:]]></string>
+    <string name="payment_confirmation_header"><![CDATA[Verifique as informações e pressione \"Confirm\" (Confirmar) para concluir]]></string>
+    <string name="payment_credit_card_city_hint"><![CDATA[Sua cidade]]></string>
+    <string name="payment_credit_card_holder_hint"><![CDATA[John PressReader]]></string>
+    <string name="payment_credit_card_state_hint"><![CDATA[CA]]></string>
+    <string name="payment_credit_card_street_hint"><![CDATA[123 Main Street]]></string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="payment_days_fee"><![CDATA[A cada %d dias (renovação automática)]]></string>
+    <string name="payment_half_yearly_fee"><![CDATA[Valor semestral:]]></string>
+    <string name="payment_issue_price"><![CDATA[Preço da edição:]]></string>
+    <string name="payment_monthly_fee"><![CDATA[Taxa mensal:]]></string>
+    <string name="payment_months_fee"><![CDATA[A cada d% meses (renovação automática):]]></string>
+    <string name="payment_purchase_details"><![CDATA[Pormenores da compra]]></string>
+    <string name="payment_quarterly_fee"><![CDATA[Valor trimestral:]]></string>
+    <string name="payment_receipt"><![CDATA[Recibo]]></string>
+    <string name="payment_required"><![CDATA[Obrigatório]]></string>
+    <string name="payment_total_amount"><![CDATA[Valor total:]]></string>
+    <string name="payment_update_cc_info"><![CDATA[Atualizar cartão de crédito]]></string>
+    <string name="payment_yearly_fee"><![CDATA[Valor anual:]]></string>
+    <string name="paywall_text"><![CDATA[Compre essa edição para continuar lendo]]></string>
+    <string name="perf_my_subscriptions"><![CDATA[As Minhas Subscrições]]></string>
+    <string name="period_bimonthly"><![CDATA[bimestralmente]]></string>
+    <string name="period_biweekly"><![CDATA[semanalmente]]></string>
+    <string name="period_biyearly"><![CDATA[bi-anual]]></string>
+    <string name="period_daily"><![CDATA[Diário]]></string>
+    <string name="period_half_quarterly"><![CDATA[semestralmente]]></string>
+    <string name="period_irregular"><![CDATA[irregularmente]]></string>
+    <string name="period_monthly"><![CDATA[Mensal]]></string>
+    <string name="period_once"><![CDATA[uma vez]]></string>
+    <string name="period_quarterly"><![CDATA[Trimestral]]></string>
+    <string name="period_weekly"><![CDATA[semanalmente]]></string>
+    <string name="period_yearly"><![CDATA[anualmente]]></string>
+    <string name="personalize_your_account"><![CDATA[Personalizar conta]]></string>
+    <string name="personalize_your_account_summary"><![CDATA[Crie um logon para acessar sua conta em vários dispositivos e em nosso site. Se quiser, você pode definir sua senha mais tarde usando o link \"Forgot Password?\" (Esqueci a senha).]]></string>
+    <string name="phone_hint"><![CDATA[N.º de telefone (opcional)]]></string>
+    <string name="pick_paper"><![CDATA[Escolha a edição por data]]></string>
+    <string name="podcasts"><![CDATA[Podcasts]]></string>
+    <string name="popular_choice"><![CDATA[Escolha Popular]]></string>
+    <string name="popular_opinions"><![CDATA[Opiniões populares]]></string>
+    <string name="popular_tags"><![CDATA[Etiquetas populares]]></string>
+    <string name="post"><![CDATA[Postar]]></string>
+    <string name="post_comment_footer"><![CDATA[Adicionar fotos, vídeos e opiniões]]></string>
+    <string name="postpone_sleep"><![CDATA[Adiar o modo descanso]]></string>
+    <string name="postpone_sleep_system"><![CDATA[Sistema]]></string>
+    <string name="posts"><![CDATA[Postagens]]></string>
+    <string name="pref_application_data_management"><![CDATA[Gerenciamento de dados do aplicativo]]></string>
+    <string name="pref_application_data_management_summary"><![CDATA[Recuperar espaço utilizado]]></string>
+    <string name="pref_auto_translate_delete_alert_negative_button"><![CDATA[Não]]></string>
+    <string name="pref_auto_translate_delete_alert_positive_button"><![CDATA[Sim]]></string>
+    <string name="pref_auto_translate_delete_alert_title"><![CDATA[Eliminar esta tradução?]]></string>
+    <string name="pref_auto_translate_disclaimer"><![CDATA[Tradução <u>aviso lega</u>]]></string>
+    <string name="pref_auto_translate_from_to_option"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="pref_auto_translate_option"><![CDATA[Traduzir automaticamente]]></string>
+    <string name="pref_auto_translate_prompt_option"><![CDATA[Solicitar para guardar idiomas]]></string>
+    <string name="pref_auto_translate_summary"><![CDATA[Gerir traduções automáticas de artigos]]></string>
+    <string name="pref_auto_translate_title"><![CDATA[Preferências de tradução]]></string>
+    <string name="pref_auto_translate_translate_auto"><![CDATA[Lembrar os pares de idiomas selecionados para tradução automática.]]></string>
+    <string name="pref_autodelivery"><![CDATA[Download automático]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Permitir actualizações em segundo plano]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Gestão de assinaturas]]></string>
+    <string name="pref_cleanup"><![CDATA[Remover edições]]></string>
+    <string name="pref_clear_data_cache"><![CDATA[Excluir dados em cache]]></string>
+    <string name="pref_clear_data_cache_and_downloads"><![CDATA[Excluir dados em cache e itens baixados]]></string>
+    <string name="pref_clear_data_full"><![CDATA[Reinicialização completa]]></string>
+    <string name="pref_dataaccess"><![CDATA[Acesso aos dados]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Permita ao Wi-Fi apenas aos dados de acesso]]></string>
+    <string name="pref_feedback"><![CDATA[Feedback]]></string>
+    <string name="pref_feedback_moto"><![CDATA[Por favor, descreva o problema que você está enfrentando:]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Feedback sobre %1$s v%2$s a partir de user %3$s]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Envie-nos o seu feedback]]></string>
+    <string name="pref_license"><![CDATA[Licenças de código aberto]]></string>
+    <string name="pref_license_summary"><![CDATA[Detalhes da licença para software de código aberto]]></string>
+    <string name="pref_storage"><![CDATA[Armazenamento de dados]]></string>
+    <string name="pref_storage_summary"><![CDATA[Configurar a disponibilidade do armazenamento interno]]></string>
+    <string name="pref_subscriptions"><![CDATA[Subscrições]]></string>
+    <string name="pref_tips"><![CDATA[Dicas PressReader]]></string>
+    <string name="pref_tips_formatted"><![CDATA[%s Dicas]]></string>
+    <string name="pref_tips_summary"><![CDATA[Repita explicações de interface]]></string>
+    <string name="pref_use_tts"><![CDATA[Conversor texto-voz em Android nativo]]></string>
+    <string name="pref_use_tts_summary"><![CDATA[Utiliza a função Leitura de Texto no seu dispositivo para recursos de áudio, em vez de streaming online.]]></string>
+    <string name="pref_version"><![CDATA[Versão]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s versão: \t%2$s]]></string>
+    <string name="prefer_local_server"><![CDATA[Servidor local preferido]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" copiado para a área de transferência."</string>
+    <string name="premium_confirmation_continue"><![CDATA[Continuar]]></string>
+    <string name="premium_confirmation_issue_subscription"><![CDATA[Agradecemos a sua assinatura]]></string>
+    <string name="premium_confirmation_not_now"><![CDATA[Agora não]]></string>
+    <string name="premium_confirmation_premium"><![CDATA[Bem-vindo(a) ao Premium]]></string>
+    <string name="premium_confirmation_premium_subtitle"><![CDATA[Aproveite acesso completo aos melhores jornais e revistas do mundo.]]></string>
+    <string name="premium_confirmation_single_issue"><![CDATA[Obrigado por comprar esta publicação]]></string>
+    <string name="premium_confirmation_subscribing_subtitle_format"><![CDATA[Novas edições estarão disponíveis %1$s.]]></string>
+    <string name="premium_confirmation_warning"><![CDATA[Certifique-se de cancelar a sua assinatura atual nas configurações da Play Store, na seção Pagamentos e assinaturas da sua conta.]]></string>
+    <string name="premium_content"><![CDATA[Conteúdo premium]]></string>
+    <string name="premium_content_partnered"><![CDATA[Temos parceria com as principais editoras para trazer reportagens com as quais você realmente se importa]]></string>
+    <string name="premium_content_ways"><![CDATA[Obtenha essa edição através de uma das formas seguintes:]]></string>
+    <string name="premium_restore_purchases"><![CDATA[Já possui uma assinatura? <br><font color=#2bc48c>Restaurar compras</font>]]></string>
+    <string name="pressreader_7day_trial_2018_BegunBody"><![CDATA[Iniciou a sua avaliação gratuita]]></string>
+    <string name="pressreader_7day_trial_2018_BegunTitle"><![CDATA[Está concluído]]></string>
+    <string name="pressreader_7day_trial_2018_BillingExplanation"><![CDATA[Insira suas informações de cobrança para iniciar seu teste gratuito do PressReader. Se você não cancelar a assinatura nos próximos {duração} dias, será cobrado {preço}/mês quando sua assinatura começar em {data_inicial}.]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationBody"><![CDATA[Seu período de teste começará imediatamente. Se você não cancelar a assinatura nos próximos {duration} dias, será cobrado {price}/mês quando sua assinatura começar em {start_date}.]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationCancel"><![CDATA[Cancelado]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationOK"><![CDATA[Iniciar teste]]></string>
+    <string name="pressreader_7day_trial_2018_ConfirmationTitle"><![CDATA[Iniciar seu teste agora?]]></string>
+    <string name="pressreader_7day_trial_2018_list_description"><![CDATA[Experimente grátis por {duration} dia(s)]]></string>
+    <string name="pressreader_7day_trial_2018_list_description_date_price"><![CDATA[Começando {start_date}: {price}/mês]]></string>
+    <string name="pressreader_7day_trial_2018_list_subscribe"><![CDATA[Subscrever]]></string>
+    <string name="pressreader_account"><![CDATA[Conta Pressreader]]></string>
+    <string name="price"><![CDATA[Preço]]></string>
+    <string name="price_duration_month_formatted"><![CDATA[%1$s / %2$s mês]]></string>
+    <string name="price_duration_months_formatted"><![CDATA[%1$s / %2$s meses]]></string>
+    <string name="price_duration_week_formatted"><![CDATA[%1$s / %2$s semana]]></string>
+    <string name="price_duration_weeks_formatted"><![CDATA[%1$s / %2$s semanas]]></string>
+    <string name="price_duration_year_formatted"><![CDATA[%1$s / %2$s ano]]></string>
+    <string name="price_duration_years_formatted"><![CDATA[%1$s / %2$s anos]]></string>
+    <string name="print_edition"><![CDATA[Edições Impressas]]></string>
+    <string name="privacy_policy"><![CDATA[Política de privacidade]]></string>
+    <string name="problem_with_subscription_payment_need_to_update_payment_details"><![CDATA[Ocorreu um problema com o pagamento da sua assinatura. Atualize os seus dados de pagamento para manter a sua assinatura ativa.]]></string>
+    <string name="proceed"><![CDATA[Continuar]]></string>
+    <string name="product_buy_with_play"><![CDATA[Ou comprar com Google Play]]></string>
+    <string name="product_compare"><![CDATA[Comparar planos…]]></string>
+    <string name="product_find_access"><![CDATA[Encontrar acesso patrocinado]]></string>
+    <string name="product_single_issue"><![CDATA[Edição única]]></string>
+    <string name="product_subscribe_and_save"><![CDATA[Subscreva e Salve!]]></string>
+    <string name="product_unlimited_access"><![CDATA[Acesso ilimitado à PressReader]]></string>
+    <string name="product_unlimited_issues"><![CDATA[Edições ilimitadas]]></string>
+    <string name="products"><![CDATA[Produtos]]></string>
+    <string name="profile"><![CDATA[Perfil]]></string>
+    <string name="promo_code_hint"><![CDATA[Código promocional (opcional)]]></string>
+    <string name="publication_files_large"><![CDATA[Baixar essa publicação através da rede móvel pode incorrer cobranças de dados.]]></string>
+    <string name="publication_types"><![CDATA[Tipos]]></string>
+    <string name="publications"><![CDATA[Navegar]]></string>
+    <string name="publications_catalog_subtitle"><![CDATA[Mais de 7.000 jornais, revistas e livros de todo o mundo]]></string>
+    <string name="publications_catalog_title"><![CDATA[Aceda ao Catálogo]]></string>
+    <string name="publications_menu"><![CDATA[Menu de publicações]]></string>
+    <string name="publications_stories"><![CDATA[Procurar por publicações, histórias]]></string>
+    <string name="publications_stories_interests"><![CDATA[Procurar publicações, histórias e interesses]]></string>
+    <string name="purchase_advice"><![CDATA[Recomendamos]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Permitir notificações]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Saber quando as últimas edições estão disponíveis e ficar atualizado sobre notícias relacionadas aos seus interesses.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Receber notificações]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Notificações]]></string>
+    <string name="radio_next_article"><![CDATA[História seguinte]]></string>
+    <string name="radio_next_section"><![CDATA[Secção\nseguinte]]></string>
+    <string name="radio_prev_article"><![CDATA[História ant.]]></string>
+    <string name="radio_prev_section"><![CDATA[Secção\nant.]]></string>
+    <string name="rate"><![CDATA[Tarifa]]></string>
+    <string name="rate_ask_later"><![CDATA[Com certeza, pergunte-me mais tarde]]></string>
+    <string name="rate_body"><![CDATA[Desfrutando %s o bastante para nos dar uma avaliação de 5 estrelas?]]></string>
+    <string name="rate_do_not_ask_anymore"><![CDATA[Aqui está o que pode ser melhorado]]></string>
+    <string name="rate_no_thanks"><![CDATA[Não, obrigado]]></string>
+    <string name="rate_not_now"><![CDATA[Não agora]]></string>
+    <string name="rate_us"><![CDATA[Avalie o aplicativo]]></string>
+    <string name="rate_us_later"><![CDATA[Quer deixar uma avaliação mais tarde?]]></string>
+    <string name="read_expired_offline"><![CDATA[Para continuar lendo este título, por favor, conecte-se à Internet.]]></string>
+    <string name="read_newspaper_by_date"><![CDATA[Ler publicação por data]]></string>
+    <string name="reading"><![CDATA[A ler]]></string>
+    <string name="recently_read"><![CDATA[Lido Recentemente]]></string>
+    <string name="recommended"><![CDATA[Recomendado(a)]]></string>
+    <string name="recommended_interests"><![CDATA[Interesses recomendados]]></string>
+    <string name="recommended_interests_description"><![CDATA[Selecionados para você com base no seu histórico de leitura e interesses]]></string>
+    <string name="redownload"><![CDATA[Baixar novamente]]></string>
+    <string name="redownload_issue"><![CDATA[Devido às alterações recentes no sistema operacional Android, não podemos abrir essa edição em alta resolução. Deseja fazer o download novamente?]]></string>
+    <string name="region"><![CDATA[Regiões]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Valor a pagar:]]></string>
+    <string name="registration_agree_text"><![CDATA[Ao registrar, aceito os <a href=\\"pressreader://terms-of-use\\"> e a <a href=\\"pressreader://privacy\\">Política de Privacidade</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Acesso a números anteriores:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s dias]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Preço por número:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Acesso ao relatório AdValue:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[N.º máx. de alertas de monitorização:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[N.º máx. de downloads automáticos:]]></string>
+    <string name="registration_plan_print_subscriptions"><![CDATA[Assinaturas impressas]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Tarifa mensal]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s  (preço com desconto para o 1º mês; %1$s %3$s do 2º mês em diante)]]></string>
+    <string name="related_opinions"><![CDATA[Opiniões Relacionadas]]></string>
+    <string name="related_stories"><![CDATA[Histórias Relacionadas]]></string>
+    <string name="remaining_credits"><![CDATA[Créditos Restantes:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d edições]]></string>
+    <string name="remaining_issue"><![CDATA[Tem %d ediçaõ]]></string>
+    <string name="remaining_issues"><![CDATA[Você ainda tem %d edições]]></string>
+    <string name="remaining_issues_title"><![CDATA[Você ainda tem %d edições]]></string>
+    <string name="remove_files"><![CDATA[Remove files]]></string>
+    <string name="reply"><![CDATA[Responder]]></string>
+    <string name="report_comment"><![CDATA[Relatórios]]></string>
+    <string name="report_harassment"><![CDATA[Assédio]]></string>
+    <string name="report_indecent"><![CDATA[Indecente]]></string>
+    <string name="report_irrelevant"><![CDATA[Irrelevante]]></string>
+    <string name="report_reason"><![CDATA[Por que está a reportar isto?]]></string>
+    <string name="report_spam"><![CDATA[Lixo eletrônico]]></string>
+    <string name="report_unlawful"><![CDATA[Ilegal]]></string>
+    <string name="reset_activation"><![CDATA[Redefinir a ativação]]></string>
+    <string name="restart"><![CDATA[Reiniciar]]></string>
+    <string name="restore_purchases_nothing_to_restore"><![CDATA[Não há nada para restaurar]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Faça login ou crie uma conta para aceder ao seu histórico de compras e usar as suas assinaturas em vários dispositivos. As suas compras atuais serão adicionadas a esta conta.]]></string>
+    <string name="retype_new_password"><![CDATA[Digite a nova senha de novo]]></string>
+    <string name="ribbon_free"><![CDATA[GRÁTIS]]></string>
+    <string name="ribbon_new"><![CDATA[NOTÍCIA]]></string>
+    <string name="ribbon_sample"><![CDATA[Exemplo]]></string>
+    <string name="ribbon_sponsored"><![CDATA[Patrocinado]]></string>
+    <string name="save_to_collection"><![CDATA[Salvar na Coleção]]></string>
+    <string name="saved_articles"><![CDATA[Artigos Salvos]]></string>
+    <string name="saved_articles_placeholder"><![CDATA[Os artigos salvos serão exibidos aqui]]></string>
+    <string name="scroll_back_to_open_menu"><![CDATA[Role para trás para abrir o menu]]></string>
+    <string name="search_discover"><![CDATA[Pesquise e descubra]]></string>
+    <string name="search_hotspots"><![CDATA[Procurar Hotspots]]></string>
+    <string name="search_local_store"><![CDATA[Pesquisar publicações]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="search_no_trending"><![CDATA[Sem tendências]]></string>
+    <string name="search_nocontent_header"><![CDATA[Não encontramos nada]]></string>
+    <string name="search_nocontent_message"><![CDATA[Amplie sua pesquisa ou volte mais tarde para ver novas reportagens.]]></string>
+    <string name="search_opinions"><![CDATA[Buscar Opiniões]]></string>
+    <string name="search_results"><![CDATA[Procurar Resultados]]></string>
+    <string name="search_trending_title"><![CDATA[Tendências]]></string>
+    <string name="searching"><![CDATA[A procurar…]]></string>
+    <string name="seconds"><![CDATA[%d segundos]]></string>
+    <string name="see_all"><![CDATA[Ver todas]]></string>
+    <string name="select_all"><![CDATA[Seleccionar tudo]]></string>
+    <string name="select_from_gallery"><![CDATA[Selecione da galleria]]></string>
+    <string name="select_page"><![CDATA[Selecione a página]]></string>
+    <string name="select_product"><![CDATA[Selecionar Produto]]></string>
+    <string name="select_start_screen"><![CDATA[Selecione a tela de início]]></string>
+    <string name="selected_pages"><![CDATA[Páginas selecionadas]]></string>
+    <string name="settings_hotspot_beacon"><![CDATA[Complemento Beacon]]></string>
+    <string name="settings_hotspot_beacon_description"><![CDATA[Utilize o sinal de Bluetooth de baixa energia do seu dispositivo para descobrir Beacons. Beacons utilizam os Serviços de Localização que rodam em segundo plano no seu dispositivo e permitem que você possa se conectar ao Pressreader sem acesso a redes Wi-Fi.]]></string>
+    <string name="settings_hotspot_location"><![CDATA[Complemento de Localização]]></string>
+    <string name="settings_hotspot_location_description"><![CDATA[Ative a configuração de localização do seu dispositivo e você poderá conectar-se e selecionar HotSpots mesmo quando não tiver acesso a redes Wi-Fi.]]></string>
+    <string name="settings_my_account"><![CDATA[A Minha Conta]]></string>
+    <string name="settings_profile"><![CDATA[Perfil]]></string>
+    <string name="settings_profile_edit"><![CDATA[Editar Perfil]]></string>
+    <string name="share_comment"><![CDATA[Compartilhar Comentário]]></string>
+    <string name="shared"><![CDATA[Compartilhado]]></string>
+    <string name="show_calendar"><![CDATA[Mostrar Calendário]]></string>
+    <string name="show_highlights_full_screen"><![CDATA[Mostrar destaques em tela cheia]]></string>
+    <string name="show_highlights_full_screen_description"><![CDATA[Ligue e desligue destaques azuis durante a leitura de páginas. Destaques permitem que você toque para abrir artigos em vista de texto.]]></string>
+    <string name="show_more"><![CDATA[Mostrar Mais]]></string>
+    <string name="show_original"><![CDATA[Mostrar Original]]></string>
+    <string name="showing_count_total"><![CDATA[Exibindo %1$s de %2$s]]></string>
+    <string name="sign_in"><![CDATA[Entrar]]></string>
+    <string name="sign_in_now"><![CDATA[Usuário existente? <a href=\\"pressreader_authorize://authorize\\">Por favor, cadastre-se</a>]]></string>
+    <string name="sign_in_to_continue"><![CDATA[Faça login para continuar lendo]]></string>
+    <string name="sign_out"><![CDATA[Sair]]></string>
+    <string name="sign_up"><![CDATA[Registre-se]]></string>
+    <string name="sign_up_caption"><![CDATA[Crie uma conta para salvar publicações e iniciar o período de acesso gratuito]]></string>
+    <string name="sign_up_now"><![CDATA[Novo usuário? <a href=\\"pressreader_register://register\\">Cadastre-se agora.</a>]]></string>
+    <string name="sign_up_slogan"><![CDATA[É rápido, fácil e grátis.]]></string>
+    <string name="similar"><![CDATA[Histórias semelhantes]]></string>
+    <string name="similar_stories"><![CDATA[%d Histórias semelhantes]]></string>
+    <string name="sing_in"><![CDATA[Entrar]]></string>
+    <string name="sing_in_description"><![CDATA[Leia seus jornais e revistas favoritos em qualquer lugar, a qualquer momento com sua conta do PressReader.]]></string>
+    <string name="small_grid"><![CDATA[Pequena grelha]]></string>
+    <string name="smart_zoom"><![CDATA[Zoom inteligente]]></string>
+    <string name="smart_zoom_description"><![CDATA[Zoom inteligente permite que você toque duas vezes para automaticamente ver o inicio de um artigo aumentado por zoom.]]></string>
+    <string name="social_and_linked_networks"><![CDATA[Redes sociais e vinculadas]]></string>
+    <string name="sorry_no_more_filters"><![CDATA[Não há mais filtros. Mas encontramos vários canais e opiniões ótimos para você.]]></string>
+    <string name="sort_alphabet"><![CDATA[Por Abecedário]]></string>
+    <string name="sorting"><![CDATA[Ordenar]]></string>
+    <string name="sports"><![CDATA[Desporto]]></string>
+    <string name="start_screen"><![CDATA[Tela de início]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Comece o seu %s tentar]]></string>
+    <string name="state"><![CDATA[Estado]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stay_up_to_date"><![CDATA[Mantenha-se atualizado(a)]]></string>
+    <string name="stories"><![CDATA[Históricos]]></string>
+    <string name="street"><![CDATA[Endereço]]></string>
+    <string name="subscribe"><![CDATA[Subscrever]]></string>
+    <string name="subscribe_to_read"><![CDATA[Assine para ler]]></string>
+    <string name="subscription_auto_download_header"><![CDATA[Auto-baixar novas edições]]></string>
+    <string name="subscription_billing_date_header"><![CDATA[Data de Cobrança]]></string>
+    <string name="subscription_cancel"><![CDATA[Cancelar assinatura]]></string>
+    <string name="subscription_details"><![CDATA[Detalhes da assinatura]]></string>
+    <string name="subscription_expires_header"><![CDATA[Expira]]></string>
+    <string name="subscription_manage"><![CDATA[Gerir assinaturas]]></string>
+    <string name="subscription_no_subscriptions"><![CDATA[Você não tem assinatura.]]></string>
+    <string name="subscription_open_title"><![CDATA[Ir ao jornal]]></string>
+    <string name="subscription_payment_method"><![CDATA[Método de Pagamento]]></string>
+    <string name="subscription_plan"><![CDATA[Plano de assinatura:]]></string>
+    <string name="subscription_plan_header"><![CDATA[Plano de subscrição]]></string>
+    <string name="subscription_plans"><![CDATA[Planos de subscrição]]></string>
+    <string name="subscription_titles_header"><![CDATA[Títulos]]></string>
+    <string name="subscription_trial_subtitle"><![CDATA[Acesso grauito]]></string>
+    <string name="subscription_unlimited_subtitle"><![CDATA[Leitura ilimitada]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Não há entregas de programação]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Você pode agendar a entrega na tela para edição]]></string>
+    <string name="suggestions"><![CDATA[Sugestões]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="supplements"><![CDATA[Suplementos]]></string>
+    <string name="suppliment_count_huge"><![CDATA[%d Suplemento]]></string>
+    <string name="suppliment_count_one"><![CDATA[%d Suplementos]]></string>
+    <string name="support_now"><![CDATA[Concordar]]></string>
+    <string name="supporters"><![CDATA[Apoiantes]]></string>
+    <string name="supporting"><![CDATA[Concordado]]></string>
+    <string name="system_sharing"><![CDATA[Compartilhar com]]></string>
+    <string name="table_of_contents"><![CDATA[Índice de Assuntos]]></string>
+    <string name="take_photo"><![CDATA[Tirar foto]]></string>
+    <string name="tell_your_friends"><![CDATA[Conte aos seus amigos]]></string>
+    <string name="terms_of_use"><![CDATA[Termos de Uso]]></string>
+    <string name="text_view"><![CDATA[Ver texto]]></string>
+    <string name="text_view_feed_tools_more_content_description"><![CDATA[Abrir menu de ferramentas adicionais]]></string>
+    <string name="text_view_feed_tools_more_list_view_content_description"><![CDATA[Lista de ferramentas do menu]]></string>
+    <string name="theme"><![CDATA[Tema de leitura]]></string>
+    <string name="theme_dark"><![CDATA[Escura]]></string>
+    <string name="theme_light"><![CDATA[Clara]]></string>
+    <string name="theme_system"><![CDATA[Ajustar ao dispositivo]]></string>
+    <string name="they_can_get_too"><![CDATA[de modo que possam obter também!]]></string>
+    <string name="this_channel_is_private"><![CDATA[Este canal é privado]]></string>
+    <string name="tips_breadcrumbs"><![CDATA[Tocar para reverter]]></string>
+    <string name="tips_experiance_page_view_with_free_titles"><![CDATA[Experimente a visualização de página com títulos gratuitos]]></string>
+    <string name="tips_my_library_left_panel"><![CDATA[As setas mostram as edições prontas para descarregamento]]></string>
+    <string name="tips_my_library_purchase_advice"><![CDATA[Descarregar nova edição]]></string>
+    <string name="tips_newspaperview_highlight"><![CDATA[Tocar para abrir vista de texto. Manter pressionado para menu]]></string>
+    <string name="tips_newspaperview_long_tap"><![CDATA[Pressionar para ações de artigo]]></string>
+    <string name="tips_order_autodelivery_download_when_available"><![CDATA[Auto-Descarga novas edições]]></string>
+    <string name="tips_order_favorites_appear_first"><![CDATA[Seus títulos favoritos aparecem primeiro]]></string>
+    <string name="tips_sf_action_menu"><![CDATA[Tocar para recursos especiais]]></string>
+    <string name="tips_sf_expand_gestures"><![CDATA[Tocar no cabeçalho ou na seta verde para ler a história completa]]></string>
+    <string name="title_page"><![CDATA[%1$d de %2$d]]></string>
+    <string name="title_page_spread"><![CDATA[%1$d - %2$d de %3$d]]></string>
+    <string name="title_publishing_subtitle"><![CDATA[Publicado em %s]]></string>
+    <string name="toc_page_number"><![CDATA[Páginas %s]]></string>
+    <string name="today"><![CDATA[Hoje]]></string>
+    <string name="top_free"><![CDATA[Principais gratuitos]]></string>
+    <string name="top_free_magazines"><![CDATA[Principais revistas gratuitas]]></string>
+    <string name="top_free_newspapers"><![CDATA[Principais jornais gratuitos]]></string>
+    <string name="top_magazines"><![CDATA[Principais Revistas]]></string>
+    <string name="top_newspapers"><![CDATA[Principais jornais]]></string>
+    <string name="topnews_important"><![CDATA[Reportagens principais]]></string>
+    <string name="topnews_important_locale"><![CDATA[Principais Histórias - %s]]></string>
+    <string name="topnews_interesting"><![CDATA[Interessante]]></string>
+    <string name="topnews_morenews"><![CDATA[Mais notícias]]></string>
+    <string name="topnews_morenews_locale"><![CDATA[Mais Notícias - %s]]></string>
+    <string name="topnews_readerschoice"><![CDATA[Escolha dos Leitores]]></string>
+    <string name="topnews_sections"><![CDATA[Secções]]></string>
+    <string name="topnews_sincelastvisit"><![CDATA[Desde a Sua Última Visita]]></string>
+    <string name="topnews_subtitle"><![CDATA[As histórias mais importantes da primeira página hoje.]]></string>
+    <string name="translate"><![CDATA[Traduzir]]></string>
+    <string name="translated_into"><![CDATA[Traduzido para %s]]></string>
+    <string name="translated_popup_auto_translate"><![CDATA[Traduzir automaticamente:]]></string>
+    <string name="translated_popup_auto_translate_from_to"><![CDATA[%1$s [arrow] %2$s]]></string>
+    <string name="translated_popup_disclaimer"><![CDATA[Tradução <u>aviso legal</u>]]></string>
+    <string name="translated_popup_translated_into"><![CDATA[Traduzido para]]></string>
+    <string name="translation_badge_translated"><![CDATA[Traduzido]]></string>
+    <string name="translation_badge_translating"><![CDATA[A traduzir]]></string>
+    <string name="translation_disclaimer"><![CDATA[A função de tradução do PressReader fornece uma interpretação geral do conteúdo de um artigo, mas não representa uma tradução exata. O PressReader não se responsabiliza pela precisão de qualquer tradução, uma vez que todo o texto é traduzido automaticamente sem verificação manual de correção.]]></string>
+    <string name="translation_disclaimer_title"><![CDATA[Aviso legal]]></string>
+    <string name="translation_languages_dialog_list_view_content_description"><![CDATA[Lista de idiomas de tradução]]></string>
+    <string name="trial_action"><![CDATA[Inicie o período experimental gratuito]]></string>
+    <string name="trial_banner_details_description_1"><![CDATA[Downloads ilimitados dos seus jornais e revistas favoritos]]></string>
+    <string name="trial_banner_details_description_2"><![CDATA[Salve edições completas para ler offline.]]></string>
+    <string name="trial_banner_details_description_3"><![CDATA[Adicione títulos favoritos e configure downloads automáticos]]></string>
+    <string name="trial_banner_premium"><![CDATA[PressReader Premium]]></string>
+    <string name="trial_banner_try_trial"><![CDATA[Experimente de graça por 7 dias]]></string>
+    <string name="trial_error_eligibility"><![CDATA[Você já aproveitou uma oferta introdutória.\nVocê gostaria de se inscrever agora?]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Você já possui este produto no PressReader.]]></string>
+    <string name="trial_error_eligibility_title"><![CDATA[Sorte sua!]]></string>
+    <string name="trial_error_eligibility_unlimited"><![CDATA[Você já tem um passe com todo acesso na PressReader.]]></string>
+    <string name="trial_error_eligibility_unlimited_start_exploring"><![CDATA[Comece explorar]]></string>
+    <string name="trial_subscription"><![CDATA[versão de demonstração gratuita]]></string>
+    <string name="trial_try_premium_desc"><![CDATA[Desbloqueie 7.000 jornais e revistas com leitura ilimitada. Experimente gratuitamente durante 7 dias.]]></string>
+    <string name="trial_try_premium_title"><![CDATA[Experimentar a versão Premium gratuitamente]]></string>
+    <string name="try_for_free"><![CDATA[Experimentar gratuitamente]]></string>
+    <string name="try_premium"><![CDATA[Tente Premium]]></string>
+    <string name="try_zooming_different_place"><![CDATA[Tente diminuir o zoom ou arrastar o mapa para um local diferente]]></string>
+    <string name="tts_language_not_installed"><![CDATA[Não há suporte para o idioma do jornal no TTS Engine. Instale o idioma ou continue em inglês]]></string>
+    <string name="tts_not_installed"><![CDATA[Para processar com a fala local, o TTS Engine precisa ser instalado]]></string>
+    <string name="tts_playback_rate"><![CDATA[Velocidade de Fala]]></string>
+    <string name="tts_playback_rate_summary"><![CDATA[Ajusta a velocidade em que o texto é falado.]]></string>
+    <string name="tts_use_english"><![CDATA[Usar Inglês]]></string>
+    <string name="twitter"><![CDATA[Twitter]]></string>
+    <string name="two_columns"><![CDATA[2 colunas]]></string>
+    <string name="types"><![CDATA[Tipos]]></string>
+    <string name="unexpected_error"><![CDATA[Erro não Esperado]]></string>
+    <string name="unexpected_error_description"><![CDATA[Desculpe-nos! Algo deu erra, mas estamos buscando a solução.]]></string>
+    <string name="unfollow"><![CDATA[Deixar de seguir]]></string>
+    <string name="unlink"><![CDATA[Desvincular Conta]]></string>
+    <string name="unlock"><![CDATA[Desbloquear]]></string>
+    <string name="unregistered"><![CDATA[Não registrado]]></string>
+    <string name="update_account"><![CDATA[Atualizar conta]]></string>
+    <string name="update_downloaded"><![CDATA[Uma atualização acaba de ser baixada.]]></string>
+    <string name="update_failed"><![CDATA[Ocorreu um erro durante a atualização.]]></string>
+    <string name="update_payment_details"><![CDATA[Atualizar detalhes de pagamento.]]></string>
+    <string name="userinterests_title"><![CDATA[Interesses]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DESATIVADO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ATIVADO"</string>
+    <string name="view"><![CDATA[Visualização]]></string>
+    <string name="view_full_discussion"><![CDATA[Visualizar Discussão Completa]]></string>
+    <string name="vs"><![CDATA[x]]></string>
+    <string name="weather"><![CDATA[Metereologia]]></string>
+    <string name="welcome_to_pressreader"><![CDATA[Bem-vindo(a) ao PressReader]]></string>
+    <string name="what_is_opinion"><![CDATA[Qual é a opinião?]]></string>
+    <string name="who_is_opinion_leader"><![CDATA[Quem é o líder de opiniões?]]></string>
+    <string name="write_comment"><![CDATA[Escreva sua matéria]]></string>
+    <string name="yesterday"><![CDATA[Ontem]]></string>
+    <string name="you_are_following"><![CDATA[Está a seguir %1$s. Últimas edições e conteúdo online aparecem na Página inicial.]]></string>
+    <string name="you_are_no_longer_following"><![CDATA[Já não está a seguir %1$s.]]></string>
+    <string name="you_may_be_asked_to_confirm_your_purchase"><![CDATA[Poderá ser solicitado a confirmar a sua compra respondendo à pergunta de segurança definida com a sua instituição financeira.]]></string>
+    <string name="youtube"><![CDATA[Youtube]]></string>
+    <string name="zip"><![CDATA[Código postal]]></string>
+</resources>

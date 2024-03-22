@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item msgid="2178576254385739855" quantity="one">"homme"</item>
+        <item msgid="2973062968038355991" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> päeva pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item msgid="3274708118124045246" quantity="one">"1 tunni pärast"</item>
+        <item msgid="3705373766798013406" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> tunni pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item msgid="562786149928284878" quantity="one">"1 minuti pärast"</item>
+        <item msgid="4216113292706568726" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minuti pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item msgid="5842225370795066299" quantity="one">"1 sekundi pärast"</item>
+        <item msgid="5495880108825805108" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> sekundi pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item msgid="8463161711492680309" quantity="one">"eile"</item>
+        <item msgid="3453342639616481191" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> päeva tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item msgid="4796212039724722116" quantity="one">"1 tund tagasi"</item>
+        <item msgid="6889970745748538901" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> tundi tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item msgid="6361490147113871545" quantity="one">"1 minut tagasi"</item>
+        <item msgid="851164968597150710" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutit tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item msgid="1849036840200069118" quantity="one">"1 s tagasi"</item>
+        <item msgid="3699169366650930415" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> sekundit tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item msgid="8917467491248809972" quantity="one">"1 tund"</item>
+        <item msgid="3863962854246773930" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> tundi"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item msgid="4915414002546085617" quantity="one">"1 minut"</item>
+        <item msgid="3165187169224908775" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutit"</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item msgid="6962015528372969481" quantity="one">"1 sekund"</item>
+        <item msgid="1886107766577166786" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> sekundit"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item msgid="5413088743009839518" quantity="one">"homme"</item>
+        <item msgid="5109449375100953247" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> päeva pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item msgid="7164353342477769999" quantity="one">"1 tunni pärast"</item>
+        <item msgid="547290677353727389" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> tunni pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item msgid="8793095251325200395" quantity="one">"1 minuti pärast"</item>
+        <item msgid="3330713936399448749" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minuti pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item msgid="2729745560954905102" quantity="one">"1 sekundi pärast"</item>
+        <item msgid="1241926116443974687" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> sekundi pärast"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item msgid="861358534398115820" quantity="one">"eile"</item>
+        <item msgid="2479586466153314633" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> päeva tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item msgid="9150797944610821849" quantity="one">"1 tund tagasi"</item>
+        <item msgid="2467273239587587569" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> tundi tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item msgid="3306787433088810191" quantity="one">"1 minut tagasi"</item>
+        <item msgid="2176942008915455116" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> minutit tagasi"</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item msgid="4869870056547896011" quantity="one">"1 sekund tagasi"</item>
+        <item msgid="3903706804349556379" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> sekundit tagasi"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uus märguanne</item>
+    <item quantity="other">%d uut märguannet</item>
+  </plurals>
+    <string name="Browse"><![CDATA[Sirvi]]></string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Liigu avalehele"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Liigu üles"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Rohkem valikuid"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Kuva kõik"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valige rakendus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VÄLJAS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"SEES"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"kustuta"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"sisestusklahv"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktsiooniklahv +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Tõstuklahv +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"tühik"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menüü +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Otsige …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Päringu tühistamine"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Otsingupäring"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Otsing"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Päringu esitamine"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Häälotsing"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaga:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jagamine rakendusega <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ahendamine"</string>
+    <string name="about_hotspots"><![CDATA[Teave HotSpots kohta]]></string>
+    <string name="about_trends"><![CDATA[Trendide kohta]]></string>
+    <string name="account_created"><![CDATA[Teie konto on edukalt loodud.]]></string>
+    <string name="account_name"><![CDATA[Konto nimi]]></string>
+    <string name="account_owner"><![CDATA[Konto omanik]]></string>
+    <string name="account_service_name"><![CDATA[Teenuse nimi]]></string>
+    <string name="account_status"><![CDATA[Konto olek]]></string>
+    <string name="account_updated"><![CDATA[Kontoteave on värskendatud]]></string>
+    <string name="add_account"><![CDATA[Lisa konto]]></string>
+    <string name="add_my_publications"><![CDATA[Lisa minu väljaannetesse]]></string>
+    <string name="add_opinion"><![CDATA[Lisa arvamus]]></string>
+    <string name="add_opinion_text_sample"><![CDATA[Näide: Teeni armastust, mitte raha]]></string>
+    <string name="add_to_collection"><![CDATA[Lisa kollektsiooni]]></string>
+    <string name="add_video"><![CDATA[Lisa video]]></string>
+    <string name="advanced_search"><![CDATA[Täpsem otsing]]></string>
+    <string name="all"><![CDATA[Kõik]]></string>
+    <string name="all_downloads"><![CDATA[Kõik allalaadimised]]></string>
+    <string name="article_comments"><![CDATA[%d kommentaari]]></string>
+    <string name="article_flow_bookmarks_page_set_page_amount"><![CDATA[Leht %s]]></string>
+    <string name="article_flow_bookmarks_page_set_pages_amount"><![CDATA[Lehed %s]]></string>
+    <string name="article_homefeed_section_continue_more"><![CDATA[Rohkem %s]]></string>
+    <string name="auth_facebook"><![CDATA[Facebook]]></string>
+    <string name="auth_google"><![CDATA[Google]]></string>
+    <string name="auth_library"><![CDATA[Teek ja grupp]]></string>
+    <string name="auth_twitter"><![CDATA[Twitter]]></string>
+    <string name="authorization_select_service"><![CDATA[Palun valige teenus]]></string>
+    <string name="authorization_social_signin"><![CDATA[Logige sisse, kasutades teenust]]></string>
+    <string name="authorization_text"><![CDATA[Sellele sisule juurdepääsu saamiseks peate olema %s tellija.]]></string>
+    <string name="authorized_at"><![CDATA[Autoriseerimine õnnestus: %s]]></string>
+    <string name="auto_download_issue_available"><![CDATA[Saadaval on uus number: %s]]></string>
+    <string name="auto_download_new_issues"><![CDATA[Saada uued väljaanded automaatselt]]></string>
+    <string name="auto_renewed"><![CDATA[Automaatselt uuendatud]]></string>
+    <string name="back_issue_archive_unlimited"><![CDATA[Piiramatu]]></string>
+    <string name="balance"><![CDATA[Jääk]]></string>
+    <string name="balance_description"><![CDATA[%1$s %2$s-st]]></string>
+    <string name="be_the_first_one_to_comment"><![CDATA[Olge esimene, kes kommenteerib]]></string>
+    <string name="billing_information"><![CDATA[Arveldusandmed]]></string>
+    <string name="blog"><![CDATA[Blogi]]></string>
+    <string name="book_reader_purchase_popup_button"><![CDATA[Olgu]]></string>
+    <string name="book_reader_purchase_popup_content"><![CDATA[PressReader-verkkosivustolta ostetut kirjat tulevat saataville luettaviksi tässä sovelluksessa, kun käytät samoja käyttäjätietoja.]]></string>
+    <string name="book_reader_purchase_popup_title"><![CDATA[Hankige see raamat]]></string>
+    <string name="book_reader_reading_position_title"><![CDATA[Hiljuti loetud lehekülg]]></string>
+    <string name="book_reader_sample_popup_message"><![CDATA[Olemme iloisia, että nautit kirjasta! Jatkaaksesi seikkailuasi, mene nyt \'Kirjan tiedot\' -sivulle.]]></string>
+    <string name="bookmark"><![CDATA[Järjehoidja]]></string>
+    <string name="bookmarked"><![CDATA[Järjehoidjaga märgitud]]></string>
+    <string name="bookmarks"><![CDATA[Järjehoidjad]]></string>
+    <string name="books_banner_action"><![CDATA[Sirvi Raamatuid.]]></string>
+    <string name="books_banner_description"><![CDATA[Kvaliteetsete ajalehtede, ajakirjade ja raamatute universum, kõik ühes platvormis.]]></string>
+    <string name="books_banner_title"><![CDATA[Loe raamatuid PressReaderis]]></string>
+    <string name="books_license_expired_button_open_map"><![CDATA[Vabandame, kuid see raamat pole enam saadaval]]></string>
+    <string name="books_license_expired_message"><![CDATA[Jätkamiseks külastage reisi ja turismi HotSpoti, et laiendada oma juurdepääsu, või ostke oma e-raamat (saadavusest sõltuvalt) aadressilt pressreader.com.]]></string>
+    <string name="books_license_expired_title"><![CDATA[Leia HotSpot]]></string>
+    <string name="books_paid_message"><![CDATA[Palun valige mõni teine pealkiri.]]></string>
+    <string name="books_paid_title"><![CDATA[Pahoittelemme, mutta tämä otsikko ei ole saatavilla.]]></string>
+    <string name="bottomsheet_action_expand_halfway">Laiendamine poolenisti</string>
+    <string name="breaking_news"><![CDATA[Värsked uudised]]></string>
+    <string name="brought_to_you_by"><![CDATA[Tõi teieni]]></string>
+    <string name="browse_catalog"><![CDATA[Tutvumine]]></string>
+    <string name="btn_allow"><![CDATA[Luba]]></string>
+    <string name="btn_back"><![CDATA[Tagakülg]]></string>
+    <string name="btn_cancel"><![CDATA[Tühista]]></string>
+    <string name="btn_confirm"><![CDATA[Kinnita]]></string>
+    <string name="btn_delete"><![CDATA[Kustuta]]></string>
+    <string name="btn_download"><![CDATA[Laadi alla]]></string>
+    <string name="btn_downloading"><![CDATA[Allalaadimine]]></string>
+    <string name="btn_font_size"><![CDATA[Fondi suurus]]></string>
+    <string name="btn_listen"><![CDATA[Kuula]]></string>
+    <string name="btn_next"><![CDATA[Järgmine]]></string>
+    <string name="btn_no"><![CDATA[Ei]]></string>
+    <string name="btn_ok"><![CDATA[OK]]></string>
+    <string name="btn_page"><![CDATA[Leht]]></string>
+    <string name="btn_retry"><![CDATA[Proovige uuesti]]></string>
+    <string name="btn_send"><![CDATA[Saada]]></string>
+    <string name="btn_share"><![CDATA[Jaga]]></string>
+    <string name="btn_text_smart"><![CDATA[SmartFlow]]></string>
+    <string name="btn_unsubscribe"><![CDATA[Tühistage tellimus]]></string>
+    <string name="btn_yes"><![CDATA[Jah]]></string>
+    <string name="bump_it"><![CDATA[Poolthääl]]></string>
+    <string name="bump_it_counter"><![CDATA[Poolthääl (%d)]]></string>
+    <string name="bumped"><![CDATA[Poolthääl antud]]></string>
+    <string name="bundle_pricing_buy"><![CDATA[Osta %s]]></string>
+    <string name="bundle_pricing_free_trial"><![CDATA[Proovige tasuta %1$s päeva \nSeejärel %2$s]]></string>
+    <string name="bundle_product_cancel"><![CDATA[Kas tühistate toote tellimuse?]]></string>
+    <string name="business"><![CDATA[Ettevõte]]></string>
+    <string name="campaign_all_issues_claimed"><![CDATA[Kõik lunastatud numbrid]]></string>
+    <string name="campaign_all_issues_claimed_description"><![CDATA[Oh ei! Kõik need numbrid on juba välja võetud. Saate endiselt tasuta numbri, kui külastate ühte meie HotSpots.]]></string>
+    <string name="categories"><![CDATA[Kategooriad]]></string>
+    <string name="channel"><![CDATA[Kanal]]></string>
+    <string name="channel_feed"><![CDATA[Kanali voog]]></string>
+    <string name="channel_full_title"><![CDATA[%1$s %2$s]]></string>
+    <string name="channels"><![CDATA[Kanalid]]></string>
+    <string name="channels_empty_result"><![CDATA[Kanaleid ei leitud]]></string>
+    <string name="channels_other_sources"><![CDATA[Muud allikad]]></string>
+    <string name="channels_sources"><![CDATA[Allikad]]></string>
+    <string name="character_counter_content_description">Sisestatud tähemärgid: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">Tähemärgipiirang on ületatud: %1$d/%2$d</string>
+    <string name="choose_publications"><![CDATA[Valige väljaanded]]></string>
+    <string name="choose_your_plan"><![CDATA[Valige oma plaan]]></string>
+    <string name="city"><![CDATA[Linn]]></string>
+    <string name="cleanup_never"><![CDATA[Mitte kunagi]]></string>
+    <string name="clear"><![CDATA[Kustuta]]></string>
+    <string name="clear_history"><![CDATA[Kustuta ajalugu]]></string>
+    <string name="clear_text_end_icon_content_description">Kustuta tekst</string>
+    <string name="client_name_hint"><![CDATA[Seadme nimi]]></string>
+    <string name="close"><![CDATA[Sulge]]></string>
+    <string name="collection_options"><![CDATA[Kollektsiooni valikud]]></string>
+    <string name="collection_save"><![CDATA[Salvesta]]></string>
+    <string name="collections"><![CDATA[Kollektsioonid]]></string>
+    <string name="collections_empty_result"><![CDATA[Kollektsioone ei leitud]]></string>
+    <string name="com_appboy_feed_connection_error_body">Võrguühenduse loomine ebaõnnestus. Proovige hiljem uuesti.</string>
+    <string name="com_appboy_feed_connection_error_title">Üheduse viga</string>
+    <string name="com_appboy_feed_empty">Uuendusi pole praegu saadaval. Proovige hiljem uuesti.</string>
+    <string name="comment_post"><![CDATA[Post]]></string>
+    <string name="comment_post_tip"><![CDATA[Öelge midagi…]]></string>
+    <string name="comment_url_copied_to_clipboard"><![CDATA[Kommentaari tekst kopeeritakse lõikelauale]]></string>
+    <string name="commented"><![CDATA[Kommenteeritud]]></string>
+    <string name="comments"><![CDATA[Kommentaarid]]></string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Luba</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play teenuste lubamine</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installi</string>
+    <string name="common_google_play_services_install_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play teenuste hankimine</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play teenuste saadavalolek</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unknown_issue">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Värskenda</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="common_google_play_services_wear_update_text">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_signin_button_text">Logi sisse</string>
+    <string name="common_signin_button_text_long">Logi sisse Google\'i kontoga</string>
+    <string name="company_address"><![CDATA[PressReader.com
+200-13111 Vanier Place
+Richmond BC V6V 2J1
+Canada]]></string>
+    <string name="company_hint"><![CDATA[Ettevõtte nimi (valikuline)]]></string>
+    <string name="complete_action_faild"><![CDATA[Toimingut ei saa lõpule viia]]></string>
+    <string name="confirm_pwd_hint"><![CDATA[Kinnitage salasõna]]></string>
+    <string name="confirmation"><![CDATA[Kinnitus]]></string>
+    <string name="contact_us"><![CDATA[Võtke meiega ühendust]]></string>
+    <string name="continue_reading"><![CDATA[Jätka lugemist]]></string>
+    <string name="continue_with"><![CDATA[Jätka järgmisega]]></string>
+    <string name="copied_to_clipboard"><![CDATA[Artikli tekst kopeeritakse lõikelauale]]></string>
+    <string name="copies_left"><![CDATA[%s koopiat jäänud]]></string>
+    <string msgid="3209159573327985035" name="copy">"Kopeerimine"</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Link kopeeriti lõikelauale"</string>
+    <string name="couldnt_find_any_stories"><![CDATA[Me ei leidnud selle huviala
+jaoks hiljutisi lugusid]]></string>
+    <string name="count_pages"><![CDATA[%d lehekülge]]></string>
+    <string name="countries"><![CDATA[Riigid]]></string>
+    <string name="country"><![CDATA[Riik]]></string>
+    <string name="crashreport_message"><![CDATA[Rakenduse kokkukukkumine on avastatud.\nKas soovite arendajale edastada selle kokkukukkumisega seotud tehnilised andmed, et nad saaksid proovida probleemi parandada?\nKasutaja tundlikke andmeid ei edastata.]]></string>
+    <string name="create"><![CDATA[Loo]]></string>
+    <string name="create_new_collection"><![CDATA[Looge uus kollektsioon]]></string>
+    <string name="creating_bookmark"><![CDATA[Järjehoidja loomine]]></string>
+    <string name="credit_billing_address"><![CDATA[Arve aadress]]></string>
+    <string name="credit_card_cvv"><![CDATA[CVV]]></string>
+    <string name="credit_card_expire_month"><![CDATA[Aegumiskuu]]></string>
+    <string name="credit_card_expire_year"><![CDATA[Aegumisaasta]]></string>
+    <string name="credit_card_holder"><![CDATA[Kaardiomaniku nimi]]></string>
+    <string name="credit_card_number"><![CDATA[Kaardi number]]></string>
+    <string name="credit_card_type"><![CDATA[Krediitkaart]]></string>
+    <string name="credit_card_type_hint"><![CDATA[Valige krediitkaart*]]></string>
+    <string name="current_location"><![CDATA[Praegune asukoht]]></string>
+    <string name="current_password"><![CDATA[Kehtiv parool]]></string>
+    <string name="data_storage_path"><![CDATA[Andmete salvestamise tee]]></string>
+    <string name="decrease_font"><![CDATA[Fondi suuruse vähendamine]]></string>
+    <string name="deeplink_content_not_found"><![CDATA[Ups! Me ei leidnud seda, mida otsite.]]></string>
+    <string name="default_device_name"><![CDATA[Minu seade]]></string>
+    <string name="default_storage"><![CDATA[Vaikimisi salvestusruum]]></string>
+    <string name="delete_comment"><![CDATA[Kustutage kommentaar]]></string>
+    <string name="delete_post_confirmation"><![CDATA[Kas soovite kindlasti selle artikli kustutada?]]></string>
+    <string name="deleted_comment"><![CDATA[Kustutatud kommentaar]]></string>
+    <string name="description"><![CDATA[Kirjeldus]]></string>
+    <string name="deselect_all"><![CDATA[Tühista kõik valikud]]></string>
+    <string name="dialogs_dlg_confirm_delete_collection"><![CDATA[Kas olete kindel, et soovite kollektsiooni kustutada?]]></string>
+    <string name="dialogs_dlg_confirm_delete_comment"><![CDATA[Kas olete kindel, et soovite kommentaari kustutada?]]></string>
+    <string name="dialogs_dlg_discard_changes"><![CDATA[Kas soovite muudatused kindlasti hüljata?]]></string>
+    <string name="discover_gift"><![CDATA[Avastage kingitusi]]></string>
+    <string name="dlg_article_no_streaming"><![CDATA[Valitud artikli heli voogesitus ei ole saadaval.]]></string>
+    <string name="dlg_article_playback_error"><![CDATA[Artikli taasesitamisel ilmnes tõrge.]]></string>
+    <string name="dlg_authorization_required"><![CDATA[Esmakordsel käivitamisel nõutakse PressReaderi aktiveerimist. Palun looge internetiühendus ja taaskäivitage PressReader.]]></string>
+    <string name="dlg_bad_connection"><![CDATA[Ühendus serveriga on piiratud või puudub.]]></string>
+    <string name="dlg_confirm_archived_issue_purchase"><![CDATA[Palun kinnitage varasema lehenumbri ost lisatasu  %s eest.]]></string>
+    <string name="dlg_confirm_issue_purchase"><![CDATA[Teie kontolt lahutatakse: %s]]></string>
+    <string name="dlg_confirm_transfer_internal_memory"><![CDATA[Kas soovite kõigi allalaaditud ajalehtede ülekandmist SD-kaardile?]]></string>
+    <string name="dlg_confirm_use_internal_memory"><![CDATA[SD-kaarti ei tuvastatud, kas soovite ajalehe salvestamiseks kasutada sisemälu?\n\nSaadaolev mälu: %s Mb, ühe ajalehe salvestamiseks vajatakse 5–50 Mb mälu.]]></string>
+    <string name="dlg_inactive_subscription"><![CDATA[Teie tellimus on mitteaktiivne. Palun uuendage oma tellimust või pöörduge klienditeenindusse.]]></string>
+    <string name="dlg_no_email_client"><![CDATA[Selle operatsiooni õnnestumiseks peate installima ja seadistama e-posti programmi.]]></string>
+    <string name="dlg_no_space_on_device"><![CDATA[Seadmes pole ruumi. Palun looge oma SD-kaardil vaba ruumi.]]></string>
+    <string name="dlg_no_zooms_available_yet"><![CDATA[Suumida saab pärast numbri täielikku allalaadimist.]]></string>
+    <string name="dlg_opening"><![CDATA[Töötlemine…]]></string>
+    <string name="dlg_processing"><![CDATA[Töötlemine…]]></string>
+    <string name="dlg_show_tips"><![CDATA[Show veel kord?]]></string>
+    <string name="dlg_title_tip"><![CDATA[Näpunäide]]></string>
+    <string name="downloading_new_issue"><![CDATA[Uute sisude allalaadimine]]></string>
+    <string name="email"><![CDATA[E-post]]></string>
+    <string name="email_hint"><![CDATA[E-posti aadress]]></string>
+    <string name="error_cannot_process_purchase"><![CDATA[Ostu ei õnnestunud sooritada.]]></string>
+    <string name="error_connection"><![CDATA[Võrguühendust ei saanud luua.]]></string>
+    <string name="error_contacting_server"><![CDATA[Serveriga ei õnnestunud ühendust luua.]]></string>
+    <string name="error_contacting_server_retry"><![CDATA[Serveriga ei õnnestunud ühendust luua. Palun proovige uuesti.]]></string>
+    <string name="error_credit_card_number_not_match"><![CDATA[Krediitkaardi tüüp ei vasta krediitkaardi numbrile]]></string>
+    <string name="error_device_authorization"><![CDATA[Seadme volitamine ebaõnnestus.]]></string>
+    <string name="error_dialog_title"><![CDATA[Viga]]></string>
+    <string name="error_empty_city"><![CDATA[Märkida tuleb linn]]></string>
+    <string name="error_empty_clientname"><![CDATA[Seadme nime väli ei saa olla tühi.]]></string>
+    <string name="error_empty_confirm"><![CDATA[Parooli kinnituse väli on nõutav]]></string>
+    <string name="error_empty_credit_card_cvv"><![CDATA[CVV kood on nõutav]]></string>
+    <string name="error_empty_credit_card_holder"><![CDATA[Kaardi omaniku nimi on nõutav]]></string>
+    <string name="error_empty_credit_card_number"><![CDATA[Krediitkaardi number on nõutav]]></string>
+    <string name="error_empty_credit_card_street"><![CDATA[Aadress on nõutav]]></string>
+    <string name="error_empty_email"><![CDATA[E-posti väli on nõutav]]></string>
+    <string name="error_empty_first_name"><![CDATA[Eesnime väli on nõutav]]></string>
+    <string name="error_empty_last_name"><![CDATA[Perekonnanime väli on nõutav]]></string>
+    <string name="error_empty_password"><![CDATA[Parooli väli ei saa olla tühi.]]></string>
+    <string name="error_empty_password2"><![CDATA[Parooli väli on nõutav]]></string>
+    <string name="error_empty_phone_number"><![CDATA[Märkida tuleb telefoninumber]]></string>
+    <string name="error_empty_required"><![CDATA[Väli on kohustuslik]]></string>
+    <string name="error_empty_state"><![CDATA[Nõutav on riik]]></string>
+    <string name="error_empty_username"><![CDATA[Kasutajanime väli ei saa olla tühi.]]></string>
+    <string name="error_empty_zipcode"><![CDATA[Postiindeks on nõutav]]></string>
+    <string name="error_icon_content_description">Viga</string>
+    <string name="error_invalid_email"><![CDATA[Peate kasutama kehtivat e-posti aadressi]]></string>
+    <string name="error_missing_or_corrupted_files"><![CDATA[Selle väljaande failid on puudulikud. Palun proovige väljaanne uuesti alla laadida.]]></string>
+    <string name="error_network_error"><![CDATA[Võrguviga]]></string>
+    <string name="error_ordering_issue"><![CDATA[Numbri tellimine ei õnnestunud. Palun pöörduge tehnilise toe poole.]]></string>
+    <string name="error_passwords_not_match"><![CDATA[Paroolid ei ühti]]></string>
+    <string name="error_request_access_result_102"><![CDATA[Selle väljaande ostmiseks sisestage kehtiva krediitkaardinumber leheküljele www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_103"><![CDATA[Selle väljaande ostmiseks sisestage kehtiva krediitkaardinumber leheküljele www.pressdisplay.com]]></string>
+    <string name="error_request_access_result_401"><![CDATA[Arhiivitud numbreid ei saa alla laadida]]></string>
+    <string name="error_request_access_result_410"><![CDATA[Väljaandja palvel ei ole valitud väljaanne hetkel allalaadimiseks saadaval]]></string>
+    <string name="error_request_access_result_411"><![CDATA[Väljaandja palvel ei ole valitud väljaanne hetkel allalaadimiseks saadaval]]></string>
+    <string name="error_request_access_result_420"><![CDATA[Praeguse sisu allalaadimine praeguselt veebilehelt on keelatud]]></string>
+    <string name="error_request_access_result_450"><![CDATA[Praeguse sisu lugemine/allalaadimine on Teie praeguses asukohas keelatud]]></string>
+    <string name="error_request_access_result_451"><![CDATA[Praeguse sisu lugemine/allalaadimine on Teie praeguses asukohas keelatud]]></string>
+    <string name="error_response_200"><![CDATA[Selle kliendikontoga on aktiveeritud teine sama nimega seade. Palun valige mõni teine seadmenimi.]]></string>
+    <string name="error_response_201"><![CDATA[Liiga palju aktiveeritud seadmeid. Palun tühistage mõne seadme volitus, enne kui uue lisate.]]></string>
+    <string name="error_storage_not_available"><![CDATA[SD-mälukaardile ei saa salvestada.]]></string>
+    <string name="error_user_authorization"><![CDATA[Volitamine ebaõnnestus. Palun kontrollige kasutajanime ja parooli.]]></string>
+    <string name="error_user_name_is_already_activated"><![CDATA[Seade on nende isikuandmetega juba volitatud.]]></string>
+    <string name="error_wrong_promo_code"><![CDATA[Sisestatud kampaaniakood ei ole õige]]></string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Täpsemad"</string>
+    <string name="exposed_dropdown_menu_content_description">Kuva rippmenüü</string>
+    <string name="facebook"><![CDATA[Facebook]]></string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Kopeeri link"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Ava brauseris"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Jaga linki"</string>
+    <string name="first_name_hint"><![CDATA[Eesnimi]]></string>
+    <string name="general_information"><![CDATA[Üldinfo]]></string>
+    <string name="hot_zone"><![CDATA[HotSpot]]></string>
+    <string name="hotspot_off"><![CDATA[Väljas]]></string>
+    <string name="hotspotmap_distance"><![CDATA[%d km]]></string>
+    <string name="icon_content_description">Dialoogi ikoon</string>
+    <string name="international"><![CDATA[Rahvusvaheline]]></string>
+    <string name="item_view_role_description">Vaheleht</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string msgid="9093949757757445117" name="joda_time_android_preposition_for_date">"kuupäeval <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5506831244263083793" name="joda_time_android_preposition_for_time">"kell <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="1818557177829411417" name="joda_time_android_relative_time">"<ns1:g id="DATE">%1$s</ns1:g>, <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string name="last_name_hint"><![CDATA[Perekonnanimi]]></string>
+    <string name="main_search"><![CDATA[Otsing]]></string>
+    <string name="main_settings"><![CDATA[Seaded]]></string>
+    <string name="material_clock_toggle_content_description">Valige AM või PM</string>
+    <string name="material_hour_selection">Valige tund</string>
+    <string name="material_hour_suffix">Kell %1$s</string>
+    <string name="material_minute_selection">Minutite valimine</string>
+    <string name="material_minute_suffix">%1$s minutit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aktiveerige kellaaja sisestamiseks kellarežiim.</string>
+    <string name="material_timepicker_hour">Tunnid</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Aja valimine</string>
+    <string name="material_timepicker_text_input_mode_description">Aktiveerige kellaaja sisestamiseks tekstisisestusrežiim.</string>
+    <string name="media_000"><![CDATA[Volita]]></string>
+    <string name="menu_copy"><![CDATA[Kopeeri]]></string>
+    <string name="menu_issue_open"><![CDATA[Ava]]></string>
+    <string name="more"><![CDATA[Rohkem]]></string>
+    <string name="more_articles"><![CDATA[+%d]]></string>
+    <string name="mtrl_badge_numberless_content_description">Uus märguanne</string>
+    <string name="mtrl_chip_close_icon_content_description">Üksuse %1$s eemaldamine</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Rohkem kui %1$d uut märguannet</string>
+    <string name="mtrl_picker_a11y_next_month">Vaheta järgmisele kuule</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaheta eelmisele kuule</string>
+    <string name="mtrl_picker_announce_current_selection">Praegune valik: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valige kuupäev</string>
+    <string name="mtrl_picker_date_header_unselected">Valitud kuupäev</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päevade veerg: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Sobimatu vorming.</string>
+    <string name="mtrl_picker_invalid_format_example">Näide: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Kasutage: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Sobimatu vahemik.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Mine aastasse %1$s</string>
+    <string name="mtrl_picker_out_of_range">Vahemikust väljas: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alguskuupäev – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – lõppkuupäev</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Valige vahemik</string>
+    <string name="mtrl_picker_range_header_unselected">Alguskuupäev – lõppkuupäev</string>
+    <string name="mtrl_picker_save">Salvesta</string>
+    <string name="mtrl_picker_text_input_date_hint">Kuupäev</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Lõppkuupäev</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alguskuupäev</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Lülitu kalendrisisestusrežiimile</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Puudutage, et lülituda päeva valimisele</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Lülitu tekstisisestusrežiimile</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Puudutage, et lülituda aasta valimisele</string>
+    <string name="my_library_noitems"><![CDATA[Raamatukogu on tühi.]]></string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Navigeeri üles"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Navigeerimissahtli avamine"</string>
+    <string name="new_article_view"><![CDATA[Tekst SmartFlow]]></string>
+    <string name="no_radio"><![CDATA[Raadio puhul ei ole küsimus]]></string>
+    <string msgid="478774118347071097" name="not_set">"Määramata"</string>
+    <string name="off"><![CDATA[Väljas]]></string>
+    <string name="onboarding_interest_search_placeholder_3"><![CDATA[Apple]]></string>
+    <string name="onboarding_interest_search_placeholder_4"><![CDATA[Elon Musk]]></string>
+    <string name="onboarding_interest_search_placeholder_5"><![CDATA[New York]]></string>
+    <string name="onboarding_publication_search_placeholder_1"><![CDATA[Forbes]]></string>
+    <string name="onboarding_publication_search_placeholder_2"><![CDATA[The Insider]]></string>
+    <string name="onboarding_publication_search_placeholder_3"><![CDATA[Variety]]></string>
+    <string name="onboarding_publication_search_placeholder_4"><![CDATA[USA Today]]></string>
+    <string name="onboarding_publication_search_placeholder_5"><![CDATA[Newsweek]]></string>
+    <string name="order_include_all_supplements"><![CDATA[Kõik lisad]]></string>
+    <string name="order_subscribe"><![CDATA[Saada uued väljaanded automaatselt]]></string>
+    <string name="password_hint"><![CDATA[Parool]]></string>
+    <string name="password_toggle_content_description">Parooli kuvamine</string>
+    <string name="payment_credit_card_zip_hint"><![CDATA[12345]]></string>
+    <string name="phone_hint"><![CDATA[Telefoninumber (valikuline)]]></string>
+    <string name="pref_autodelivery"><![CDATA[Automaatne saatmine]]></string>
+    <string name="pref_autodelivery_caption"><![CDATA[Luba taustal uuendamist]]></string>
+    <string name="pref_autodelivery_summary"><![CDATA[Halda tellimusi]]></string>
+    <string name="pref_cleanup"><![CDATA[Eemalda teemad]]></string>
+    <string name="pref_dataaccess"><![CDATA[Juurdepääs andmetele]]></string>
+    <string name="pref_dataaccess_caption"><![CDATA[Luba allalaadimine ainult Wi-Fi ühendusega]]></string>
+    <string name="pref_feedback"><![CDATA[Tagasiside]]></string>
+    <string name="pref_feedback_subject"><![CDATA[Kasutaja %3$s tagasiside %1$s v%2$s kohta]]></string>
+    <string name="pref_feedback_summary"><![CDATA[Saatke meile tagasisidet]]></string>
+    <string name="pref_storage"><![CDATA[Andmesalvestus]]></string>
+    <string name="pref_storage_summary"><![CDATA[Häälestage sisemälu kättesaadavus]]></string>
+    <string name="pref_tips"><![CDATA[PressReader Tips]]></string>
+    <string name="pref_tips_summary"><![CDATA[Korda interface selgitusi]]></string>
+    <string name="pref_version"><![CDATA[Versioon]]></string>
+    <string name="pref_version_caption"><![CDATA[%1$s versioon: \t%2$s]]></string>
+    <string msgid="7961817945132860002" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” on lõikelauale kopeeritud."</string>
+    <string name="premium_confirmation_warning"><![CDATA[Veenduge, et tühistate oma praeguse tellimuse oma kontoga seotud Play poe seadetes, maksete ja tellimuste jaotises.]]></string>
+    <string name="promo_code_hint"><![CDATA[Kampaaniakood (valikuline)]]></string>
+    <string name="push_notifications_request_allow"><![CDATA[Luba teavitused]]></string>
+    <string name="push_notifications_request_description"><![CDATA[Ole kursis, millal on uusimad väljaanded saadaval ja püsi oma huvidega seotud uudistega kursis.]]></string>
+    <string name="push_notifications_request_title"><![CDATA[Saada teavitusi]]></string>
+    <string name="push_notifications_settings_title"><![CDATA[Notifications]]></string>
+    <string name="radio_next_article"><![CDATA[Järgmine lugu]]></string>
+    <string name="radio_next_section"><![CDATA[Järgmine\nlõik]]></string>
+    <string name="radio_prev_article"><![CDATA[Eelmine lugu]]></string>
+    <string name="radio_prev_section"><![CDATA[Eelmine\nlõik]]></string>
+    <string name="register_confirmation_rate"><![CDATA[Makstav summa]]></string>
+    <string name="registration_agree_text"><![CDATA[Klõpsates nuppu \"Edasi\" nõustute <a href=\""pressreader://terms-of-use\"">kasutustingimustega</a>]]></string>
+    <string name="registration_plan_access_to_back_issues"><![CDATA[Juurdepääs varasematele numbritele:]]></string>
+    <string name="registration_plan_access_to_back_issues_format"><![CDATA[%s päeva]]></string>
+    <string name="registration_plan_additional_issues"><![CDATA[Ühe numbri hind:]]></string>
+    <string name="registration_plan_advalue_report"><![CDATA[Juurdepääs AdValue aruandele:]]></string>
+    <string name="registration_plan_alerts"><![CDATA[Jälgimisteadete maksimaalne hulk:]]></string>
+    <string name="registration_plan_auto_downloads"><![CDATA[Automaatsete allalaadimiste maksimaalne arv:]]></string>
+    <string name="registration_plan_summary_fee"><![CDATA[* Kuutasu]]></string>
+    <string name="registration_summary_price_info"><![CDATA[<sup>*</sup> %1$s %2$s (soodustasu esimeseks kuuks; %1$s %3$s alates teisest kuust)]]></string>
+    <string name="remaining_credits"><![CDATA[Allesjäänud summa:]]></string>
+    <string name="remaining_credits_format"><![CDATA[%d väljaanded]]></string>
+    <string name="remaining_issues_title"><![CDATA[Teile jääb %d probleemi]]></string>
+    <string name="restore_purchases_nothing_to_restore_description"><![CDATA[Logige sisse või looge konto, et pääseda ligi oma ostude ajaloole ja kasutada tellimusi mitmel seadmel. Teie praegused ostud lisatakse sellele kontole.]]></string>
+    <string name="ribbon_free"><![CDATA[Tasuta]]></string>
+    <string name="ribbon_new"><![CDATA[Uus]]></string>
+    <string name="ribbon_sample"><![CDATA[Näidis]]></string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Otsing"</string>
+    <string name="smart_zoom"><![CDATA[SmartZoom]]></string>
+    <string name="start_your_pressreader_trial"><![CDATA[Alusta oma %s proovida]]></string>
+    <string name="state"><![CDATA[Osariik]]></string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="street"><![CDATA[Aadress]]></string>
+    <string name="subscribe"><![CDATA[Tellima]]></string>
+    <string name="subscription_plan"><![CDATA[Tellimuse plaan:]]></string>
+    <string name="subscriptions_no_subscriptions_title"><![CDATA[Ajakava tarnete]]></string>
+    <string name="subscriptions_no_subscriptions_title_summary"><![CDATA[Võite kavandada tarne väljastamisel et ekraan]]></string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="terms_of_use"><![CDATA[Kasutustingimustega]]></string>
+    <string name="theme"><![CDATA[Lugemisteema]]></string>
+    <string name="theme_dark"><![CDATA[Tume]]></string>
+    <string name="theme_light"><![CDATA[Heledam]]></string>
+    <string name="theme_system"><![CDATA[Sobita seadmega]]></string>
+    <string name="translate"><![CDATA[Tõlgi]]></string>
+    <string name="trial_error_eligibility_product"><![CDATA[Teil on see toode juba olemas PressReaderis.]]></string>
+    <string name="trial_subscription"><![CDATA[tasuta prooviperiood]]></string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"VÄLJAS"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"SEES"</string>
+    <string name="zip"><![CDATA[Postiindeks]]></string>
+</resources>

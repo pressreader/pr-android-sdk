@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_config_prefDialogWidth">440dp</dimen>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">90%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">55%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">80%</item>
+    <dimen name="article_comments_layout_height">500dp</dimen>
+    <dimen name="article_comments_layout_width">500dp</dimen>
+    <dimen name="book_details_get_book_button_width">206dp</dimen>
+    <dimen name="book_details_sample_button_width">86dp</dimen>
+    <dimen name="book_details_series_margin_top">0dp</dimen>
+    <dimen name="book_details_thumbnail_height">420dp</dimen>
+    <dimen name="book_details_thumbnail_width">308dp</dimen>
+    <dimen name="book_reader_purchase_popup_background_corner_radius">16dp</dimen>
+    <dimen name="book_reader_purchase_popup_height">@dimen/wrap_content</dimen>
+    <dimen name="book_reader_purchase_popup_width">380dp</dimen>
+    <dimen name="bottom_sheet_width">480dp</dimen>
+    <dimen name="card_margin">26dp</dimen>
+    <dimen name="gift_banner_button_text_size">12sp</dimen>
+    <dimen name="hotsopot_tips_width">440dp</dimen>
+    <dimen name="interest_title_max_width">400dp</dimen>
+    <dimen name="leader_header_height">42dp</dimen>
+    <dimen name="loading_manual_button_width">335dp</dimen>
+    <dimen name="loading_status_view_padding_top">300dp</dimen>
+    <dimen name="local_store_menu_list_margin_horizontal">16dip</dimen>
+    <dimen name="main_side_padding">40dp</dimen>
+    <dimen name="navigation_bar_size">80dp</dimen>
+    <dimen name="oauth_dialog_height">@dimen/wrap_content</dimen>
+    <dimen name="payment_options_padding">40dp</dimen>
+    <dimen name="popup_border_width">0.5dp</dimen>
+    <dimen name="popup_content_corner_radius">9dp</dimen>
+    <dimen name="popup_corner_radius">8dp</dimen>
+    <dimen name="publication_banner_cell_width">190dp</dimen>
+    <dimen name="publication_braze_card_width">400dp</dimen>
+    <dimen name="publication_details_footer_height">92dp</dimen>
+    <dimen name="publication_details_masthead_max_width">400dp</dimen>
+    <dimen name="publication_promo_banner_height">384dp</dimen>
+    <dimen name="publication_promo_banner_width">400dp</dimen>
+    <dimen name="publications_featured_cell_height">310dp</dimen>
+    <dimen name="publications_featured_cell_spacing">20dp</dimen>
+    <dimen name="publications_featured_cell_width">228dp</dimen>
+    <dimen name="publications_home_cell_height_multipub">248dp</dimen>
+    <dimen name="publications_home_cell_width_multipub">260dp</dimen>
+    <dimen name="publications_promo_banner_top_spacing">16dp</dimen>
+    <dimen name="publications_publication_cell_height">258dp</dimen>
+    <dimen name="publications_publication_cell_spacing">20dp</dimen>
+    <dimen name="publications_publication_cell_width">190dp</dimen>
+    <dimen name="publications_section_spacing">4dp</dimen>
+    <dimen name="search_header_padding_top">32dp</dimen>
+    <dimen name="search_suggestion_item_left">@dimen/keyline_1</dimen>
+    <dimen name="slider_item_image_height">213dip</dimen>
+    <dimen name="slider_item_width">135dip</dimen>
+    <dimen name="trial_banner_background_width">@dimen/wrap_content</dimen>
+    <dimen name="trial_banner_item_padding">50dp</dimen>
+    <dimen name="trial_banner_item_width">400dp</dimen>
+    <integer name="download_expanded_view_cols">3</integer>
+    <integer name="publications_column_count">3</integer>
+    <item name="rss_column_count" type="integer">2</item>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.Dialog.FixedSize"/>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.Dialog.FixedSize"/>
+    <style name="Base.Theme.MaterialComponents.DialogWhenLarge" parent="Base.Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Base.Theme.MaterialComponents.Light.DialogWhenLarge" parent="Base.Theme.MaterialComponents.Light.Dialog.FixedSize"/>
+    <style name="ProductDetailsDescriptionText">
+        <item name="android:textColor">@color/grey_15</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:spacing">10dip</item>
+    </style>
+    <style name="ProductDetailsTitleText">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:spacing">10dip</item>
+    </style>
+    <style name="reading_tips_text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+</resources>

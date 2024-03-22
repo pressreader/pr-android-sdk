@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="authorization_onboarding_bottom_padding">60dp</dimen>
+    <dimen name="authorization_onboarding_or_bottom_margin">24dp</dimen>
+    <dimen name="authorization_onboarding_skip_bottom_margin">16dp</dimen>
+</resources>
