@@ -5,8 +5,14 @@ apply plugin: "kotlin-kapt"
 repositories {
     google()
     mavenCentral()
-    maven {
-        url "../sdk-dist"
+    repositories {
+        maven {
+            url 'https://maven.pkg.github.com/pressreader/pr-android-sdk'
+            credentials {
+                username = "<GITHUB_USERNAME>"
+                password = "<GITHUB_PACKAGES_TOKEN>"
+            }
+        }
     }
     maven { url "https://appboy.github.io/appboy-android-sdk/sdk" }
     maven { url 'https://jitpack.io' }
