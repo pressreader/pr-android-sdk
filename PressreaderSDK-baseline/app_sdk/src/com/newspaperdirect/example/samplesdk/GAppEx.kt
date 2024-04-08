@@ -1,8 +1,8 @@
 package com.newspaperdirect.example.samplesdk
 
 import android.app.Application
-import com.newspaperdirect.sdk.PressReader
 import com.newspaperdirect.sdk.analytics.AnalyticsTracker
+import com.newspaperdirect.sdkfull.PressReader
 
 class GAppEx : Application() {
     override fun onCreate() {

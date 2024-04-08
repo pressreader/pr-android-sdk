@@ -6,13 +6,11 @@ repositories {
     google()
     mavenCentral()
     maven { url "https://appboy.github.io/appboy-android-sdk/sdk" }
-    repositories {
-        maven {
-            url 'https://maven.pkg.github.com/pressreader/pr-android-sdk'
-            credentials {
-                username = "<GITHUB_USERNAME>"
-                password = "<GITHUB_PACKAGES_TOKEN>"
-            }
+    maven {
+        url 'https://maven.pkg.github.com/pressreader/pr-android-sdk'
+        credentials {
+            username = "<GITHUB_USERNAME>"
+            password = "<GITHUB_PACKAGES_TOKEN>"
         }
     }
 }
@@ -57,12 +55,8 @@ android {
 }
 
 dependencies {
-    if (findProject(':sdk') != null) {
-        implementation(project(path: ':sdk'))
-    } else {
-        implementation("com.newspaperdirect.pressreader.android:sdk:$baseVersionMajor.$baseVersionMinor@aar") {
-            transitive = true
-        }
+    implementation("com.newspaperdirect.pressreader.android:sdk_full:$baseVersionMajor.$baseVersionMinor@aar") {
+        transitive = true
     }
     implementation "com.github.bumptech.glide:glide:$glideVersion"
     kapt "com.github.bumptech.glide:compiler:$glideVersion"

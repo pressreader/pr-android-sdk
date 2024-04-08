@@ -8,15 +8,15 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.newspaperdirect.pressreader.android.utils.extensions.EMPTY
-import com.newspaperdirect.sdk.Dialogs.showChooseServiceDialog
-import com.newspaperdirect.sdk.PressReader.AuthorizationError
-import com.newspaperdirect.sdk.PressReader.Callback
-import com.newspaperdirect.sdk.PressReader.Companion.instance
-import com.newspaperdirect.sdk.PressReader.LogsCallback
-import com.newspaperdirect.sdk.PressReader.ServerError
-import com.newspaperdirect.sdk.PressReader.ServerErrorText
-import com.newspaperdirect.sdk.catalog.Download
-import com.newspaperdirect.sdk.catalog.Download.DownloadState
+import com.newspaperdirect.sdkfull.Dialogs.showChooseServiceDialog
+import com.newspaperdirect.sdkfull.PressReader.AuthorizationError
+import com.newspaperdirect.sdkfull.PressReader.Callback
+import com.newspaperdirect.sdkfull.PressReader.Companion.instance
+import com.newspaperdirect.sdkfull.PressReader.LogsCallback
+import com.newspaperdirect.sdkfull.PressReader.ServerError
+import com.newspaperdirect.sdkfull.PressReader.ServerErrorText
+import com.newspaperdirect.sdkfull.catalog.Download
+import com.newspaperdirect.sdkfull.catalog.Download.DownloadState
 import timber.log.Timber
 import java.util.Calendar
 

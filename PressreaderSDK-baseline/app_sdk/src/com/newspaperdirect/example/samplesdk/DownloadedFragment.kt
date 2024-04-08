@@ -11,9 +11,9 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.newspaperdirect.pressreader.android.utils.extensions.EMPTY
-import com.newspaperdirect.sdk.PressReader
-import com.newspaperdirect.sdk.catalog.Download
-import com.newspaperdirect.sdk.catalog.Item
+import com.newspaperdirect.sdkfull.PressReader
+import com.newspaperdirect.sdkfull.catalog.Download
+import com.newspaperdirect.sdkfull.catalog.Item
 import java.text.SimpleDateFormat
 import java.util.Locale
 

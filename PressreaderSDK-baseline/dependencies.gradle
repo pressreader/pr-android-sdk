@@ -1,6 +1,6 @@
 ext {
     //main gradle deps
-    kotlinVersion = '1.7.10'
+    kotlinVersion = '1.9.21'
     ktxVersion = '1.9.0'
 
     compileSdkVersion = 33
