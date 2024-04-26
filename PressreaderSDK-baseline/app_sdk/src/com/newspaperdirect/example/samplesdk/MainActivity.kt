@@ -29,7 +29,11 @@ class MainActivity : AppCompatActivity(), Download.Callback {
     private var testIssueDate = Calendar.getInstance().apply {
         set(Calendar.YEAR, 2023)
         set(Calendar.MONTH, 0)
-        set(Calendar.DAY_OF_MONTH, 1)
+        set(Calendar.DAY_OF_MONTH, 0)
+        set(Calendar.MINUTE, 0)
+        set(Calendar.HOUR, 12)
+        set(Calendar.SECOND, 0)
+        set(Calendar.MILLISECOND, 0)
     }.time
     private var downloadState = DownloadState.Stop
 
