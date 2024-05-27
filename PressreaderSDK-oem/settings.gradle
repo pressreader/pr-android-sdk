@@ -1,2 +1,0 @@
-include ':app_sdk_oem'
-rootProject.name='Pressreader SDK OEM Sample'

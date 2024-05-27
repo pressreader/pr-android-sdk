@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="navigation_bar_bigtablet_profile_padding">16dp</dimen>
-    <dimen name="navigation_bar_bigtablet_top_padding">32dp</dimen>
-    <dimen name="trial_banner_item_padding">80dp</dimen>
-</resources>
