@@ -3,7 +3,7 @@
 Distribution
 ============
 
-The latest PressReader SDK can be downloaded from [release page](https://github.com/pressreader/pr-android-sdk/releases). Make sure to request access to GitHub repository. For receiving the SDK release notifications, subscribe to Watch → Custom → Releases event.
+The latest PressReader SDK can be downloaded from [release page](https://github.com/pressreader/pr-android-sdk/releases). Make sure to request access to GitHub repository. For receiving the SDK release notifications, subscribe to Watch → Custom → Releases event. Additionally, you can find 'PressReader SDK - release policies' here: https://pressreader.atlassian.net/wiki/x/GAA70w
 
 Installation
 ============
