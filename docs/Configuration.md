@@ -24,7 +24,7 @@ Most of the settings resides in `pressreader_sdk_config.xml`
 
 **Please note:** If these graphic resources aren’t overriden, then SDK will use default one which aren’t related to any certain publisher. In order to override mentioned graphic resources an integrator of SDK should create corresponsing png files and add them at least to drawable folder. Also, we recommend to create and put resources for all main Android densities such as mdpi, hdpi etc.
 
-![image_resources_image](docs/assets/image_resources.png)
+![image_resources_image](assets/image_resources.png)
 
 ### Service configuration params
 
@@ -67,8 +67,8 @@ to
 ```xml
 <bool name="sdk_exit_button">true</bool>
 ```
-![navigation_no_exit_image](docs/assets/navigation_no_exit.png)
-![navigation_exit_image](docs/assets/navigation_exit.png)
+![navigation_no_exit_image](assets/navigation_no_exit.png)
+![navigation_exit_image](assets/navigation_exit.png)
 
 ### Feature flags
 
