@@ -45,55 +45,6 @@ dependencies { implementation('com.newspaperdirect.pressreader.android:sdk_oem:6
 
 *   copy ```pressreader_sdk.xml``` from the sample into your app
 
-# Initialization
-
-Call `PressReader.init` in your Application
-
-**GAppEx.java**
-
-```java
-public class GAppEx extends MultiDexApplication { 
-	@Override public void onCreate() { 
-		super.onCreate(); 
-		PressReader.init(this); 
-	} 
-}
-```
-
-PressReader SDK can store all downloaded newspapers in an external storage. If it’s required you should call `PressReader.getInstance().setInternalStorageAvailable(true)` after initialization.
-
-## Observing SDK state
-
-After initialization PressReader SDK starts device activation and catalog loading with newspapers. There are several LiveDatas and flags which allow you to get the current state of the SDK:
-
-| **Properties** | **Purpose** |
-|--|--|
-|`isActivatedLiveData` / `isActivated`  | is true when SDK is activated and is going to load the main catalog |
-|`activationErrorLiveData` / `activationError` | is filled when something went wrong during activation. The message has the full description in this case. If you want to try run activation again you should call `PressReader.getInstance().requestActivation()` |
-|`isCatalogLoadedLiveData` / `isCatalogLoaded`  | it true when Catalog is loaded |
-
-
-# Executing commands
-
-PressReaders SDK allows to leverage DeepLinking functionality using `PressReader.getInstance().execute`. If a link requires parameters you need to pass them in a map. Also It allows you to specify a callback which will return a non null value if an error occur.
-
-**Example:**
-
-```java
-HashMap<String,  String> params = new HashMap<>(); 
-params.put("cid",  "9001"); 
-params.put("date",  "20191105"); 
-PressReader.getInstance().execute("order", params,  
-	new  PressReader.ExecuteCallback()  { 
-		@Override public  void  completed(@Nullable  Throwable throwable)  {
-			Log.d(TAG,  "deeplink throwable: "  + throwable); 
-			} 
-		}
-	);
-```
-
-To pass a token there is a convenient method: `PressReader.getInstance().sendToken`.
-
 # Full Screen PressReader UI
 
 To start a fullscreen PressReader UI start PressReader Intent this way:

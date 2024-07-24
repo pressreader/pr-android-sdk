@@ -50,10 +50,12 @@ class GAppEx : MultiDexApplication() {
 Upon initialisation PRSDK performs activation and other tasks necessary for its normal work.
 There are several LiveDatas and flags which allow you to get the current state of the SDK:
 
-|Properties|Purpose|
-|---|---|---|
-|`isActivatedLiveData` / `isActivated`|is true when SDK is activated and is going to load the main catalog|
-|`activationErrorLiveData` / `activationError`|is filled when something went wrong during activation. The message has the full description in this case. If you want to try run activation again you should call `PressReader.getInstance().requestActivation()`|
+
+| **Properties** | **Purpose** |
+|--|--|
+|`isActivatedLiveData` / `isActivated`  | is true when SDK is activated and is going to load the main catalog |
+|`activationErrorLiveData` / `activationError` | is filled when something went wrong during activation. The message has the full description in this case. If you want to try run activation again you should call `PressReader.getInstance().requestActivation()` |
+|`isCatalogLoadedLiveData` / `isCatalogLoaded`  | it true when Catalog is loaded |
 
 # Download
 

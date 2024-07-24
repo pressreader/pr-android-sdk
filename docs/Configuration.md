@@ -24,6 +24,8 @@ Most of the settings resides in `pressreader_sdk_config.xml`
 
 **Please note:** If these graphic resources aren’t overriden, then SDK will use default one which aren’t related to any certain publisher. In order to override mentioned graphic resources an integrator of SDK should create corresponsing png files and add them at least to drawable folder. Also, we recommend to create and put resources for all main Android densities such as mdpi, hdpi etc.
 
+![image_resources_image](docs/assets/image_resources.png)
+
 ### Service configuration params
 
 | **Name** | **Description** |
@@ -56,6 +58,17 @@ The parameters allow to show/hide buttons on the navigation bar.
 | `sdk_accounts_button` | Show accounts button for the PressReader flow or accounts UI on More screen in the Branded Edition flow |
 | `sdk_settings_button` | Show settings button for the PressReader flow or settings UI on More screen in the Branded Edition flow |
 | `sdk_bookmarks_button` | Show bookmarks button for the PressReader flow |
+
+The following screenshots demonstrate the change from
+```xml
+<bool name="sdk_exit_button">false</bool>
+```
+to
+```xml
+<bool name="sdk_exit_button">true</bool>
+```
+![navigation_no_exit_image](docs/assets/navigation_no_exit.png)
+![navigation_exit_image](docs/assets/navigation_exit.png)
 
 ### Feature flags
 
