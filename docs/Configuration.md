@@ -90,3 +90,53 @@ to
 | `vote_enabled` | Enable/disable voting functionality for an article |
 | `hyphenation_disabled` | Enable/disable hyphenation for article details |
 | `reader_external_links_enable` | Enable/disable external links navigation and rendering for Article Details and Replica | true |
+
+# Home JSON Configuration
+
+To configure the home or catalog screen you need to create a folder “res/raw” and add a json file home_config.json (for home) or pubhub_config.json(for catalog).
+
+# Dark/Light Theme configuration:
+
+Starting from Android SDK version 6.6.2, both Dark and Light modes are supported by default. The SDK will inherit theme from the parent application to ensure the correct mode is applied.
+
+To enable Theme configuration from the SDK's settings section, override the following configuration field:
+
+`<string name="theme_switching_enabled">true</string>`
+
+Note, if this option is enabled, the SDK will operate based on user settings within the SDK and will not consider the parent application's mode.
+
+To force the SDK to use any of the available modes, you can use:
+
+```java
+AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);  - Light Theme 
+AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);  - Dark Theme 
+AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM);  - Match Device
+```
+You can also obtain the current mode settings using:
+```kotlin
+when (resources.configuration.uiMode and Configuration.UI_MODE_NIGHT_MASK) { 
+	Configuration.UI_MODE_NIGHT_YES -> ... 
+	Configuration.UI_MODE_NIGHT_NO -> ... 
+	Configuration.UI_MODE_NIGHT_UNDEFINED -> ... 
+	else -> ... 
+}
+```
+
+# New Payment Flow
+
+If you enable `new_payment_flow_supported` you will likely want to override some string resources:
+
+```xml
+<string  name="go_premium"><![CDATA[Go Premium]]></string> 
+<string  name="go_premium_ad1"><![CDATA[Subscribe & choose from thousand of issues]]></string> 
+<string  name="go_premium_ad2"><![CDATA[Try free for {7} days]]></string> 
+<string  name="go_premium_ad2_line2"><![CDATA[Regularly <a href=\"\">{price}/month</a>]]></string> 
+<string  name="go_premium_ad2_notrial"><![CDATA[Use on up to 5 devices]]></string> 
+<string  name="go_premium_ad3"><![CDATA[Cancel anytime]]></string> 
+<string  name="go_premium_buy_with_pressreader"><![CDATA[Buy with PressReader]]></string> 
+<string  name="go_premium_get_this_issue"><![CDATA[Get this issue]]></string> 
+<string  name="go_premium_issue_subscription_details_format"><![CDATA[New issues %1$s]]></string> 
+<string  name="go_premium_issue_subscription_payment_period"><![CDATA[/month]]></string> 
+<string  name="go_premium_price"><![CDATA[{price}/month]]></string> 
+<string  name="go_premium_start_free_trial"><![CDATA[Start free trial]]></string>
+```
