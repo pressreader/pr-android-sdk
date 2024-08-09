@@ -32,9 +32,7 @@ repositories {
 **build.gradle**
 
 ```groovy
-// to integrate full PressReader SDK
-dependencies { implementation('com.newspaperdirect.pressreader.android:sdk_full:6.0@aar') { transitive = true }}
-// to integrate reader-only PressReader SDK
+// to integrate reader PressReader SDK
 dependencies { implementation('com.newspaperdirect.pressreader.android:sdk:6.0@aar') { transitive = true }}
 ```
 
@@ -44,24 +42,6 @@ dependencies { implementation('com.newspaperdirect.pressreader.android:sdk_oem:6
 ```
 
 *   copy ```pressreader_sdk.xml``` from the sample into your app
-
-# Full Screen PressReader UI
-
-To start a fullscreen PressReader UI start PressReader Intent this way:
-
-```java
-Intent intent = new Intent(MainActivity.this, com.newspaperdirect.sdk.MainActivity.class); 
-startActivity(intent);
-```
-
-For Branded Editions flow use the following instead:
-
-```java
-Intent intent = new Intent(MainActivity.this, com.newspaperdirect.pressreader.android.oem.Main.class); 
-startActivity(intent);
-```
-
-If you need to customize some resources please checkout `pressreader_sdk.xml`.
 
 ## API
 Explore the features of the PRSDK through the [PressReader SDK - API](/docs/API.md)
