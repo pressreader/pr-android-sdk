@@ -35,8 +35,6 @@ class ServerErrorText(val description: String)
 ## Initialization
 
 OEM SDK:
-Call ```PressReader.init```  in your Application.
-
 ```kotlin
 class GAppEx : MultiDexApplication() {
     override fun onCreate() {
