@@ -34,6 +34,7 @@ class ServerErrorText(val description: String)
 
 ## Initialization
 
+OEM SDK:
 Call ```PressReader.init```  in your Application.
 
 ```kotlin
@@ -44,6 +45,30 @@ class GAppEx : MultiDexApplication() {
     }
 }
 ```
+
+Reader SDK:
+```kotlin
+public override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.sample_main)
+
+        // Initialization of SDK.
+        val trackerList: MutableList<AnalyticsTracker> = ArrayList()
+        trackerList.add(CustomTracker())
+        PressReader.init(
+            app = application,
+            params = PressReader.Params(trackerList),
+            onReady = {
+                init()
+                addDownloadCallback()
+            },
+            onError = {
+                Timber.e(it)
+            },
+        )
+    }
+```
+
 
 # Observing SDK state
 
