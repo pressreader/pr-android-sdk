@@ -33,12 +33,12 @@ repositories {
 
 ```groovy
 // to integrate reader PressReader SDK
-dependencies { implementation('com.newspaperdirect.pressreader.android:sdk:6.7.0@aar') { transitive = true }}
+dependencies { implementation('com.newspaperdirect.pressreader.android:sdk:7.0.1@aar') { transitive = true }}
 ```
 
 for the Branded Edition flow, add the following in **build.gradle**
 ```groovy
-dependencies { implementation('com.newspaperdirect.pressreader.android:sdk_oem:6.7.0@aar') { transitive = true }}
+dependencies { implementation('com.newspaperdirect.pressreader.android:sdk_oem:7.0.1@aar') { transitive = true }}
 ```
 
 *   copy ```pressreader_sdk.xml``` from the sample into your app
@@ -47,7 +47,7 @@ dependencies { implementation('com.newspaperdirect.pressreader.android:sdk_oem:6
 Explore the features of the PRSDK through the [PressReader SDK - API](/docs/API.md)
 
 ## Configuration
-Explore the ways to configure PRSDK to meet your needs through the [PressReader SDK - Configuration](/docs/Configuration.md)
+Explore the ways to configure PR SDK to meet your needs through the [PressReader SDK - Configuration](/docs/Configuration.md)
 
 # Sample
 
