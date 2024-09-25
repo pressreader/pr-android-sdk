@@ -97,8 +97,6 @@ To configure the home or catalog screen you need to create a folder â€œres/rawâ€
 
 # Dark/Light Theme configuration:
 
-Starting from Android SDK version 6.6.2, both Dark and Light modes are supported by default. The SDK will inherit theme from the parent application to ensure the correct mode is applied.
-
 To enable Theme configuration from the SDK's settings section, override the following configuration field:
 
 `<string name="theme_switching_enabled">true</string>`
@@ -106,20 +104,10 @@ To enable Theme configuration from the SDK's settings section, override the foll
 Note, if this option is enabled, the SDK will operate based on user settings within the SDK and will not consider the parent application's mode.
 
 To force the SDK to use any of the available modes, you can use:
-
-```java
-AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);  - Light Theme 
-AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);  - Dark Theme 
-AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM);  - Match Device
-```
-You can also obtain the current mode settings using:
-```kotlin
-when (resources.configuration.uiMode and Configuration.UI_MODE_NIGHT_MASK) { 
-	Configuration.UI_MODE_NIGHT_YES -> ... 
-	Configuration.UI_MODE_NIGHT_NO -> ... 
-	Configuration.UI_MODE_NIGHT_UNDEFINED -> ... 
-	else -> ... 
-}
+```kotlin 
+instance.setTheme(AppCompatDelegate.MODE_NIGHT_YES) - Light Theme 
+instance.setTheme(AppCompatDelegate.MODE_NIGHT_NO) - Dark Theme
+instance.setTheme(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM) - Match Device
 ```
 
 # New Payment Flow
