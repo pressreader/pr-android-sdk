@@ -245,6 +245,11 @@ data class TrackingIssue(val cid: String, val title: String?, val slug: String?,
 class TrackingArticle(val sourceSlug: String?, val headline: String?, val date: Date?)
 ```
 
+## Open an article by id (Article API)
+```
+PressReader.instance.openArticle("281736980338521")
+```
+
 # Application Permissions
 
 If you don’t need the `com.android.vending.BILLING` permission in your app, i.e. you don’t have Google Play In-app Purchases, you can exclude it adding the following code to the application’s `AndroidManifest.xml` file:
