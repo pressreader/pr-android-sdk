@@ -46,25 +46,51 @@ class GAppEx : MultiDexApplication() {
 
 Reader SDK:
 ```kotlin
-public override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.sample_main)
+class PressReaderSdkApplication : Application() {
 
-        // Initialization of SDK.
+    /**
+     * LiveData field that gets triggered when PressReader initialization is completed.
+     */
+    val pressReaderReadyLiveData: MutableLiveData<PressReader> = MutableLiveData()
+
+    override fun onCreate() {
+        super.onCreate()
+
+        // Initialize PressReader in the Application class.
+        initializePressReader()
+    }
+
+    private fun initializePressReader() {
         val trackerList: MutableList<AnalyticsTracker> = ArrayList()
         trackerList.add(CustomTracker())
+
         PressReader.init(
-            app = application,
+            app = this,
             params = PressReader.Params(trackerList),
             onReady = {
-                init()
-                addDownloadCallback()
+                it.setTheme(AppCompatDelegate.MODE_NIGHT_YES)
+                pressReaderReadyLiveData.postValue(it)
             },
             onError = {
                 Timber.e(it)
             },
         )
     }
+}
+
+class MainActivity : AppCompatActivity() {
+    public override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.sample_main)
+
+        // Subscribe to PressReader initialization from Application class
+        val app = application as PressReaderSdkApplication
+        app.pressReaderReadyLiveData.observe(this) { pressReader ->
+            init()
+            addDownloadCallback()
+        }
+    }
+}
 ```
 
 
