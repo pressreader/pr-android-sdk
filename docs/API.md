@@ -243,7 +243,7 @@ fun getItem(
         bookId: String,
 ): BookSdkItem
 ```
-Where class BookSdItem provised open and delete methods and access to BookDownloader class.
+Where BookSdkItem class provides open and delete methods and access to BookDownloader class.
 # Article API
 There is a method to open single article view by its ID without downloading whole publication.
 ```
