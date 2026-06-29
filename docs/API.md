@@ -223,7 +223,7 @@ Downloaded {
 }
 ```
 # Books API
-All Books API is incapsulated inside BooksCatalog class which inside PressReader intance. 
+All Books API is incapsulated inside BooksCatalog class which can be accessed via PressReader intance. 
 Method to get downloaded books on a devices:
 ```
 fun getDownloadedItems(activity: Activity): List<BookSdkItem>
