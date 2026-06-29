@@ -221,6 +221,7 @@ Downloaded {
   fun removeCallback(callback: Runnable)
   fun removeAllCallbacks()
 }
+```
 # Books API
 All Books API is incapsulated inside BooksCatalog class which inside PressReader intance. 
 Method to get downloaded books on a devices:
