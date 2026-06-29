@@ -221,13 +221,33 @@ Downloaded {
   fun removeCallback(callback: Runnable)
   fun removeAllCallbacks()
 }
+# Books API
+All Books API is incapsulated inside BooksCatalog class which inside PressReader intance. 
+Method to get downloaded books on a devices:
 ```
+fun getDownloadedItems(activity: Activity): List<BookSdkItem>
+```
+Method to delete a single downloaded books from a device:
+```
+fun delete(item: BookSdkItem)
+```
+Method to delete all downloaded books from a device:
+```
+fun deleteAll(activity: Activity)
+```
+In order to interact with a book entity and download it, open it, access its downloading state or progress, this method can be used.
+```
+fun getItem(
+        activity: Activity,
+        bookId: String,
+): BookSdkItem
+```
+Where class BookSdItem provised open and delete methods and access to BookDownloader class.
 # Article API
 There is a method to open single article view by its ID without downloading whole publication.
 ```
 fun openArticle(id: String)
 ```
-
 # Puzzles API
 There is API to open puzzle game by its ID. If something went wrong during executionof openPuzzle() method, it with return Result.failure(Exception). If everything puzzleId is correct and authorized via jwt user is allowed to have access to Puzzle games, a view with puzzle is instantly opened and the method returns Result.Success()
 ```
