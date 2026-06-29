@@ -90,6 +90,7 @@ to
 | `vote_enabled` | Enable/disable voting functionality for an article |
 | `hyphenation_disabled` | Enable/disable hyphenation for article details |
 | `reader_external_links_enable` | Enable/disable external links navigation and rendering for Article Details and Replica | true |
+| `book_external_navigation_enabled` | Enable/disable external links navigation inside eBook reader | true |
 
 # Home JSON Configuration
 
