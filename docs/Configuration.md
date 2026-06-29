@@ -94,7 +94,7 @@ to
 
 # Home JSON Configuration
 
-To configure the home or catalog screen you need to create a folder “res/raw” and add a json file home_config.json (for home) or pubhub_config.json(for catalog).
+To configure the home or catalog screen you need to create a folder “res/raw” and add a json file home_config.json (for home) or pubhub_config_full_sdk.json(for catalog).
 
 # Dark/Light Theme configuration:
 
